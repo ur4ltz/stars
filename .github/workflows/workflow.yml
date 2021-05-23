@@ -3,7 +3,7 @@ name: 'Stars update by stargazed'
 on:
   schedule:
     -
-      cron: '35 * * * *'
+      cron: '0 */1 * * *'
 jobs:
   build:
     name: 'Stars update'
