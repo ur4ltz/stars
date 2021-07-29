@@ -180,7 +180,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [new](https://github.com/VadimChernopazov/new) |  | VadimChernopazov | 1 |
-| 2 |  [luajit2](https://github.com/openresty/luajit2) | OpenResty&#39;s Branch of LuaJIT 2 | openresty | 679 |
+| 2 |  [luajit2](https://github.com/openresty/luajit2) | OpenResty&#39;s Branch of LuaJIT 2 | openresty | 680 |
 | 3 |  [esp8266-frankenstein](https://github.com/nekromant/esp8266-frankenstein) | Alternative firmware for ESP8266 modules | nekromant | 306 |
 | 4 |  [transmission-i2p](https://github.com/l-n-s/transmission-i2p) | Anonymous torrent client Transmission-I2P [UNMAINTAINED] | l-n-s | 33 |
 | 5 |  [suckless](https://github.com/sminez/suckless) | my fork of various suckless utilities | sminez | 1 |
@@ -193,9 +193,9 @@
 | 12 |  [skynet](https://github.com/cloudwu/skynet) | A lightweight online game framework | cloudwu | 10433 |
 | 13 |  [ltask](https://github.com/cloudwu/ltask) |  | cloudwu | 119 |
 | 14 |  [imgui_club](https://github.com/ocornut/imgui_club) | Nice things to use along dear imgui | ocornut | 520 |
-| 15 |  [glfw](https://github.com/glfw/glfw) | A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input | glfw | 7894 |
+| 15 |  [glfw](https://github.com/glfw/glfw) | A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input | glfw | 7895 |
 | 16 |  [tree-sitter-lua](https://github.com/nvim-treesitter/tree-sitter-lua) | Lua grammar for tree-sitter. | nvim-treesitter | 9 |
-| 17 |  [fragattacks](https://github.com/vanhoefm/fragattacks) |  | vanhoefm | 1012 |
+| 17 |  [fragattacks](https://github.com/vanhoefm/fragattacks) |  | vanhoefm | 1013 |
 | 18 |  [ravi-libuv-luv](https://github.com/dibyendumajumdar/ravi-libuv-luv) | Bare libuv bindings for lua | dibyendumajumdar | 2 |
 | 19 |  [ravi-luaossl](https://github.com/dibyendumajumdar/ravi-luaossl) | Most comprehensive OpenSSL module in the Lua universe. | dibyendumajumdar | 1 |
 | 20 |  [tree-sitter-query](https://github.com/nvim-treesitter/tree-sitter-query) | A Tree-sitter parser for tree-sitter queries. | nvim-treesitter | 9 |
@@ -205,9 +205,9 @@
 | 24 |  [dwm](https://github.com/FredeEB/dwm) | My dwm config | FredeEB | 1 |
 | 25 |  [telescope-fzf-native.nvim](https://github.com/nvim-telescope/telescope-fzf-native.nvim) | FZF sorter for telescope written in c | nvim-telescope | 126 |
 | 26 |  [c-lisp](https://github.com/Rigellute/c-lisp) | Building my own lisp using the C programming language | Rigellute | 2 |
-| 27 |  [lora_gateway](https://github.com/Lora-net/lora_gateway) | Driver/HAL to build a gateway using a concentrator board based on Semtech SX1301 multi-channel modem and SX1257/SX1255 RF transceivers. | Lora-net | 802 |
+| 27 |  [lora_gateway](https://github.com/Lora-net/lora_gateway) | Driver/HAL to build a gateway using a concentrator board based on Semtech SX1301 multi-channel modem and SX1257/SX1255 RF transceivers. | Lora-net | 803 |
 | 28 |  [WiFi_Kit_series](https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series) | Arduino source codes and toolchain for WiFi_Kit_series made by HelTecAutomation. | Heltec-Aaron-Lee | 504 |
-| 29 |  [emacsql](https://github.com/skeeto/emacsql) | A high-level Emacs Lisp RDBMS front-end | skeeto | 355 |
+| 29 |  [emacsql](https://github.com/skeeto/emacsql) | A high-level Emacs Lisp RDBMS front-end | skeeto | 356 |
 | 30 |  [my_qmk_keymaps](https://github.com/rstacruz/my_qmk_keymaps) | Keymaps for keyboards | rstacruz | 10 |
 | 31 |  [rofi-blocks](https://github.com/OmarCastro/rofi-blocks) | A Rofi modi that allows controlling rofi content throug communication with an external program | OmarCastro | 63 |
 | 32 |  [magma](https://github.com/eudoxia0/magma) | Extending C with cmacro | eudoxia0 | 281 |
@@ -230,11 +230,11 @@
 | 49 |  [custard](https://github.com/comfies/custard) | custard window manager | comfies | 146 |
 | 50 |  [lua_matrix](https://github.com/euclidianAce/lua_matrix) | A matrix library for lua written in C | euclidianAce | 2 |
 | 51 |  [ltreesitter](https://github.com/euclidianAce/ltreesitter) | Standalone tree sitter bindings for the Lua language | euclidianAce | 26 |
-| 52 |  [xmake](https://github.com/xmake-io/xmake) | 🔥 A cross-platform build utility based on Lua | xmake-io | 3743 |
-| 53 |  [htop](https://github.com/htop-dev/htop) | htop - an interactive process viewer | htop-dev | 2588 |
+| 52 |  [xmake](https://github.com/xmake-io/xmake) | 🔥 A cross-platform build utility based on Lua | xmake-io | 3742 |
+| 53 |  [htop](https://github.com/htop-dev/htop) | htop - an interactive process viewer | htop-dev | 2589 |
 | 54 |  [pygame](https://github.com/pygame/pygame) | pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL. | pygame | 3636 |
-| 55 |  [HandBrake](https://github.com/HandBrake/HandBrake) | HandBrake&#39;s main development repository | HandBrake | 8161 |
-| 56 |  [git](https://github.com/git/git) | Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements. | git | 38785 |
+| 55 |  [HandBrake](https://github.com/HandBrake/HandBrake) | HandBrake&#39;s main development repository | HandBrake | 8163 |
+| 56 |  [git](https://github.com/git/git) | Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements. | git | 38787 |
 | 57 |  [libi86](https://github.com/tkchia/libi86) | Attempt to reimplement non-standard C library facilities (e.g. &amp;lt;conio.h&amp;gt;) used in MS-DOS programs, for IA-16 GCC ― mirror of https://gitlab.com/tkchia/libi86 • Ubuntu packages for cross-compilation at https://launchpad.net/~tkchia/+archive/ubuntu/build-ia16/ • DJGPP/MS-DOS binaries at https://github.com/tkchia/libi86/releases | tkchia | 16 |
 | 58 |  [jdupes](https://github.com/jbruchon/jdupes) | A powerful duplicate file finder and an enhanced fork of &#39;fdupes&#39;. | jbruchon | 879 |
 | 59 |  [avrburn](https://github.com/felias-fogg/avrburn) | AVR programmer on Gamebuino Meta | felias-fogg | 2 |
@@ -254,7 +254,7 @@
 | 73 |  [crkbd](https://github.com/manna-harbour/crkbd) | Crkbd Keymap by Manna Harbour (Extras).  This keymap includes crkbd-specific hardware feature support.  This repository provides additional content outside QMK. | manna-harbour | 110 |
 | 74 |  [i3lock-color](https://github.com/Raymo111/i3lock-color) | The world&#39;s most popular non-default computer lockscreen. | Raymo111 | 679 |
 | 75 |  [janet](https://github.com/janet-lang/janet) | A dynamic language and bytecode vm | janet-lang | 1884 |
-| 76 |  [linenoise](https://github.com/antirez/linenoise) | A small self-contained alternative to readline and libedit | antirez | 2777 |
+| 76 |  [linenoise](https://github.com/antirez/linenoise) | A small self-contained alternative to readline and libedit | antirez | 2778 |
 | 77 |  [grim](https://github.com/emersion/grim) | Grab images from a Wayland compositor | emersion | 610 |
 | 78 |  [slurp](https://github.com/emersion/slurp) | Select a region in a Wayland compositor | emersion | 414 |
 | 79 |  [tree-sitter-graphql](https://github.com/bkegley/tree-sitter-graphql) | Treesitter grammar for GraphQL | bkegley | 7 |
@@ -268,17 +268,17 @@
 | 87 |  [fdpp](https://github.com/dosemu2/fdpp) | FreeDOS plus-plus, 64bit DOS | dosemu2 | 78 |
 | 88 |  [dosemu2](https://github.com/dosemu2/dosemu2) | Run DOS programs under linux: | dosemu2 | 270 |
 | 89 |  [lsqlite](https://github.com/maxdoom-com/lsqlite) | lua sqlite module | maxdoom-com | 6 |
-| 90 |  [freetuxtv](https://github.com/freetuxtv/freetuxtv) | FreetuxTV Internet television and radio player | freetuxtv | 49 |
+| 90 |  [freetuxtv](https://github.com/freetuxtv/freetuxtv) | FreetuxTV Internet television and radio player | freetuxtv | 50 |
 | 91 |  [lisp](https://github.com/jubnzv/lisp) | Tiny lisp interpreter | jubnzv | 1 |
 | 92 |  [mpc](https://github.com/orangeduck/mpc) | A Parser Combinator library for C | orangeduck | 2150 |
-| 93 |  [tvheadend](https://github.com/tvheadend/tvheadend) | Tvheadend is a TV streaming server for Linux supporting DVB-S, DVB-S2, DVB-C, DVB-T, ATSC, IPTV,SAT&amp;gt;IP and other formats through the unix pipe as input sources. | tvheadend | 1966 |
+| 93 |  [tvheadend](https://github.com/tvheadend/tvheadend) | Tvheadend is a TV streaming server for Linux supporting DVB-S, DVB-S2, DVB-C, DVB-T, ATSC, IPTV,SAT&amp;gt;IP and other formats through the unix pipe as input sources. | tvheadend | 1967 |
 | 94 |  [awesome-nginx](https://github.com/agile6v/awesome-nginx) | A curated list of awesome Nginx distributions, 3rd party modules, Active developers, etc. :octocat: | agile6v | 841 |
 | 95 |  [ngx-fancyindex](https://github.com/aperezdc/ngx-fancyindex) | Fancy indexes module for the Nginx web server | aperezdc | 551 |
 | 96 |  [mipos](https://github.com/eantcal/mipos) | Multum In Parvo Operating System is a cooperative multitasking RTOS designed for single-chip micro-controllers with severely limited RAM (e.g. less than 256 bytes) and ROM. | eantcal | 7 |
 | 97 |  [Hamlib](https://github.com/Hamlib/Hamlib) | Ham radio control library for rigs, rotators, tuners, and amplifiers | Hamlib | 238 |
 | 98 |  [hexedit](https://github.com/pixel/hexedit) | View and edit files in hexadecimal or in ASCII | pixel | 45 |
 | 99 |  [vim-ergo42](https://github.com/akiyosi/vim-ergo42) | Ergo42 keymap for vim | akiyosi | 1 |
-| 100 |  [dwmblocks](https://github.com/LukeSmithxyz/dwmblocks) | My status bar: my build of the modular dwmblocks | LukeSmithxyz | 226 |
+| 100 |  [dwmblocks](https://github.com/LukeSmithxyz/dwmblocks) | My status bar: my build of the modular dwmblocks | LukeSmithxyz | 227 |
 | 101 |  [dwm](https://github.com/LukeSmithxyz/dwm) | Luke&#39;s build of dwm | LukeSmithxyz | 439 |
 | 102 |  [hummingbird](https://github.com/Sweets/hummingbird) | Hummingbird init system for Linux based operating systems. | Sweets | 194 |
 | 103 |  [prism](https://github.com/Sweets/prism) | prism window manager | Sweets | 25 |
@@ -307,13 +307,13 @@
 | 126 |  [launcher](https://github.com/portacle/launcher) | Source files for the Portacle launcher application. | portacle | 3 |
 | 127 |  [emacs-libvterm](https://github.com/akermu/emacs-libvterm) | Emacs libvterm integration | akermu | 1031 |
 | 128 |  [mega](https://github.com/jpittis/mega) | Extending Antirez&#39;s Kilo text editor. | jpittis | 3 |
-| 129 |  [sds](https://github.com/antirez/sds) | Simple Dynamic Strings library for C | antirez | 3592 |
+| 129 |  [sds](https://github.com/antirez/sds) | Simple Dynamic Strings library for C | antirez | 3593 |
 | 130 |  [load81](https://github.com/antirez/load81) | SDL based Lua programming environment for kids similar to Codea | antirez | 516 |
 | 131 |  [lua-cmsgpack](https://github.com/antirez/lua-cmsgpack) | A self contained Lua MessagePack C implementation. | antirez | 313 |
-| 132 |  [kilo](https://github.com/antirez/kilo) | A text editor in less than 1000 LOC with syntax highlight and search. | antirez | 5176 |
+| 132 |  [kilo](https://github.com/antirez/kilo) | A text editor in less than 1000 LOC with syntax highlight and search. | antirez | 5177 |
 | 133 |  [kpie](https://github.com/skx/kpie) | Simple devilspie-like program for window manipulation, with Lua. | skx | 69 |
-| 134 |  [zstd](https://github.com/facebook/zstd) | Zstandard - Fast real-time compression algorithm | facebook | 15197 |
-| 135 |  [scrcpy](https://github.com/Genymobile/scrcpy) | Display and control your Android device | Genymobile | 52413 |
+| 134 |  [zstd](https://github.com/facebook/zstd) | Zstandard - Fast real-time compression algorithm | facebook | 15203 |
+| 135 |  [scrcpy](https://github.com/Genymobile/scrcpy) | Display and control your Android device | Genymobile | 52436 |
 | 136 |  [emacs-sqlite3](https://github.com/syohex/emacs-sqlite3) | sqlite3 binding of Emacs Lisp | syohex | 32 |
 | 137 |  [emacs-modules](https://github.com/jkitchin/emacs-modules) | Dynamic modules for emacs | jkitchin | 58 |
 | 138 |  [mruby-lua](https://github.com/dyama/mruby-lua) | mruby-lua calls Lua script engine from mruby. | dyama | 9 |
@@ -325,14 +325,14 @@
 | 144 |  [luautf8](https://github.com/starwing/luautf8) | a utf-8 support module for Lua and LuaJIT. | starwing | 292 |
 | 145 |  [uuid4](https://github.com/rxi/uuid4) | A tiny C library for generating uuid4 strings | rxi | 134 |
 | 146 |  [wyebadblock](https://github.com/jun7/wyebadblock) | An adblock extension for wyeb, also webkit2gtk browsers. | jun7 | 53 |
-| 147 |  [torch7](https://github.com/torch/torch7) | http://torch.ch | torch | 8634 |
+| 147 |  [torch7](https://github.com/torch/torch7) | http://torch.ch | torch | 8633 |
 | 148 |  [luajit-rocks](https://github.com/torch/luajit-rocks) | LuaJIT and luarocks in one location | torch | 142 |
 | 149 |  [st](https://github.com/Mr-Jack82/st) | My build of the suckless simple terminal (st) | Mr-Jack82 | 1 |
 | 150 |  [calx](https://github.com/shdown/calx) | bc-like programming language | shdown | 6 |
 | 151 |  [tiramisu](https://github.com/Sweets/tiramisu) | Desktop notifications, the UNIX way | Sweets | 459 |
 | 152 |  [dotfiles](https://github.com/phelipetls/dotfiles) | My configuration files for Linux | phelipetls | 10 |
 | 153 |  [xkbmon](https://github.com/xkbmon/xkbmon) | A versatile keyboard layout monitor for X11 | xkbmon | 17 |
-| 154 |  [xob](https://github.com/florentc/xob) | A lightweight overlay volume (or anything) bar for the X Window System. | florentc | 312 |
+| 154 |  [xob](https://github.com/florentc/xob) | A lightweight overlay volume (or anything) bar for the X Window System. | florentc | 313 |
 | 155 |  [ls-icons](https://github.com/sebastiencs/ls-icons) | ls command with files icons | sebastiencs | 158 |
 | 156 |  [coreutils](https://github.com/coreutils/coreutils) | upstream mirror | coreutils | 2328 |
 | 157 |  [i3-radius](https://github.com/terroo/i3-radius) | 🔲 — Rounded i3-gaps | terroo | 36 |
@@ -340,20 +340,20 @@
 | 159 |  [udpxy](https://github.com/pcherenkov/udpxy) | lightweight network-traffic relay daemon | pcherenkov | 113 |
 | 160 |  [tcsh](https://github.com/tcsh-org/tcsh) | This is a read-only mirror of the tcsh code repository. | tcsh-org | 122 |
 | 161 |  [mpv-mpris](https://github.com/hoyon/mpv-mpris) | MPRIS plugin for mpv | hoyon | 293 |
-| 162 |  [scrot](https://github.com/resurrecting-open-source-projects/scrot) | SCReenshOT - command line screen capture utility | resurrecting-open-source-projects | 199 |
-| 163 |  [lightdm](https://github.com/canonical/lightdm) | Display Manager | canonical | 396 |
+| 162 |  [scrot](https://github.com/resurrecting-open-source-projects/scrot) | SCReenshOT - command line screen capture utility | resurrecting-open-source-projects | 200 |
+| 163 |  [lightdm](https://github.com/canonical/lightdm) | Display Manager | canonical | 397 |
 | 164 |  [tide](https://github.com/salman-abedin/tide) | Minimal Transmission CLI client | salman-abedin | 42 |
-| 165 |  [darktable](https://github.com/darktable-org/darktable) | darktable is an open source photography workflow application and raw developer | darktable-org | 5688 |
+| 165 |  [darktable](https://github.com/darktable-org/darktable) | darktable is an open source photography workflow application and raw developer | darktable-org | 5691 |
 | 166 |  [myMPD](https://github.com/jcorporation/myMPD) | myMPD is a standalone and mobile friendly web mpd client with a tiny footprint and advanced features. | jcorporation | 143 |
 | 167 |  [xprompt](https://github.com/phillbush/xprompt) | A dmenu rip-off with contextual completion | phillbush | 49 |
 | 168 |  [pmenu](https://github.com/phillbush/pmenu) | A pie-menu in xlib and imlib2. | phillbush | 82 |
 | 169 |  [xclickroot](https://github.com/phillbush/xclickroot) | click on root window and run a command | phillbush | 49 |
 | 170 |  [xmenu](https://github.com/phillbush/xmenu) | a x11 menu utility | phillbush | 165 |
-| 171 |  [wlroots](https://github.com/swaywm/wlroots) | A modular Wayland compositor library | swaywm | 1810 |
-| 172 |  [robotgo](https://github.com/go-vgo/robotgo) | RobotGo, Go Native cross-platform GUI automation  @vcaesar | go-vgo | 6763 |
+| 171 |  [wlroots](https://github.com/swaywm/wlroots) | A modular Wayland compositor library | swaywm | 1811 |
+| 172 |  [robotgo](https://github.com/go-vgo/robotgo) | RobotGo, Go Native cross-platform GUI automation  @vcaesar | go-vgo | 6766 |
 | 173 |  [rofi-emoji](https://github.com/Mange/rofi-emoji) | Emoji selector plugin for Rofi | Mange | 135 |
-| 174 |  [coturn](https://github.com/coturn/coturn) | coturn TURN server project | coturn | 6698 |
-| 175 |  [yad](https://github.com/v1cont/yad) | Yet Another Dialog | v1cont | 252 |
+| 174 |  [coturn](https://github.com/coturn/coturn) | coturn TURN server project | coturn | 6701 |
+| 175 |  [yad](https://github.com/v1cont/yad) | Yet Another Dialog | v1cont | 253 |
 | 176 |  [rofi-top](https://github.com/davatorium/rofi-top) |  | davatorium | 15 |
 | 177 |  [rofi-file-browser](https://github.com/davatorium/rofi-file-browser) |  | davatorium | 5 |
 | 178 |  [dotfiles](https://github.com/shans10/dotfiles) |  | shans10 | 19 |
@@ -367,7 +367,7 @@
 | 186 |  [attiny-tm1637-library](https://github.com/lpodkalicki/attiny-tm1637-library) | TinyAVR - ATtiny13, ATtiny25, ATtiny45, ATtiny85 - library for 7-segment display modules based on TM1637 | lpodkalicki | 25 |
 | 187 |  [xlsw](https://github.com/baskerville/xlsw) | List the X window tree contents | baskerville | 19 |
 | 188 |  [xqp](https://github.com/baskerville/xqp) | X Query pointer | baskerville | 12 |
-| 189 |  [mupdf](https://github.com/ArtifexSoftware/mupdf) | mupdf mirror | ArtifexSoftware | 395 |
+| 189 |  [mupdf](https://github.com/ArtifexSoftware/mupdf) | mupdf mirror | ArtifexSoftware | 397 |
 | 190 |  [xtitle](https://github.com/baskerville/xtitle) | Outputs X window titles | baskerville | 105 |
 | 191 |  [sutils](https://github.com/baskerville/sutils) | Small command-line utilities | baskerville | 39 |
 | 192 |  [xdo](https://github.com/baskerville/xdo) | Small X utility to perform elementary actions on windows | baskerville | 238 |
@@ -386,9 +386,9 @@
 | 205 |  [moonvulkan](https://github.com/stetre/moonvulkan) | Lua bindings for Vulkan | stetre | 27 |
 | 206 |  [moongl](https://github.com/stetre/moongl) | Lua bindings for OpenGL | stetre | 63 |
 | 207 |  [mooncl](https://github.com/stetre/mooncl) | Lua bindings for OpenCL | stetre | 4 |
-| 208 |  [moonnuklear](https://github.com/stetre/moonnuklear) | Lua bindings for Nuklear | stetre | 77 |
+| 208 |  [moonnuklear](https://github.com/stetre/moonnuklear) | Lua bindings for Nuklear | stetre | 78 |
 | 209 |  [love-nuklear](https://github.com/keharriso/love-nuklear) | Lightweight immediate mode GUI for LÖVE games | keharriso | 286 |
-| 210 |  [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) | A single-header ANSI C immediate mode cross-platform GUI library | Immediate-Mode-UI | 4562 |
+| 210 |  [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) | A single-header ANSI C immediate mode cross-platform GUI library | Immediate-Mode-UI | 4563 |
 | 211 |  [lemonblocks](https://github.com/b3nj5m1n/lemonblocks) | A status bar generator for lemonbar, inspired by i3blocks and dwmblocks. | b3nj5m1n | 21 |
 | 212 |  [st](https://github.com/Conni2461/st) | st fork | Conni2461 | 1 |
 | 213 |  [Lua-RTOS-ESP32](https://github.com/whitecatboard/Lua-RTOS-ESP32) | Lua RTOS for ESP32 | whitecatboard | 878 |
@@ -407,7 +407,7 @@
 | 226 |  [meckb_tetris](https://github.com/danamlund/meckb_tetris) | A keyboard that is also a tetris game | danamlund | 8 |
 | 227 |  [keyboard_layout](https://github.com/optozorax/keyboard_layout) | Моя раскладка для Ergodox EZ. | optozorax | 15 |
 | 228 |  [lsh](https://github.com/brenns10/lsh) | Simple shell implementation.  Tutorial here -&amp;gt; | brenns10 | 1001 |
-| 229 |  [db_tutorial](https://github.com/cstack/db_tutorial) | Writing a sqlite clone from scratch in C | cstack | 5670 |
+| 229 |  [db_tutorial](https://github.com/cstack/db_tutorial) | Writing a sqlite clone from scratch in C | cstack | 5697 |
 | 230 |  [ae](https://github.com/sodapopcan/ae) | Terminal text editor (kilo tutorial) | sodapopcan | 1 |
 | 231 |  [nm-applet-cli](https://github.com/paroxayte/nm-applet-cli) | A fork of GNOME&#39;s nm-applet patched to allow controlling the popup menu from CLI interface. | paroxayte | 1 |
 | 232 |  [avcodec](https://github.com/ireader/avcodec) | av encoder/decoder/render/player | ireader | 74 |
@@ -417,10 +417,10 @@
 | 236 |  [ravi-compiler](https://github.com/dibyendumajumdar/ravi-compiler) | Parser and compiler for Ravi and Lua | dibyendumajumdar | 30 |
 | 237 |  [lovedos](https://github.com/rxi/lovedos) | A framework for making 2D DOS games in Lua | rxi | 574 |
 | 238 |  [homeserver](https://github.com/daringjoker/homeserver) | a server application for iot setup between devices in home (covers both phone  and pc). | daringjoker | 1 |
-| 239 |  [radare2](https://github.com/radareorg/radare2) | UNIX-like reverse engineering framework and command-line toolset | radareorg | 14673 |
+| 239 |  [radare2](https://github.com/radareorg/radare2) | UNIX-like reverse engineering framework and command-line toolset | radareorg | 14675 |
 | 240 |  [i8080-core](https://github.com/begoon/i8080-core) | Intel 8080 (KR580VM80A) microprocessor core model | begoon | 44 |
 | 241 |  [RK8266](https://github.com/klad-me/RK8266) | Radio-86RK on ESP8266 emulator | klad-me | 59 |
-| 242 |  [usbboot](https://github.com/raspberrypi/usbboot) | Raspberry Pi USB booting code, moved from tools repository | raspberrypi | 414 |
+| 242 |  [usbboot](https://github.com/raspberrypi/usbboot) | Raspberry Pi USB booting code, moved from tools repository | raspberrypi | 415 |
 | 243 |  [rlua](https://github.com/amethyst/rlua) | High level Lua bindings to Rust | amethyst | 967 |
 | 244 |  [i3blocks-native](https://github.com/zsugabubus/i3blocks-native) | MERGED INTO dotfiles/.config/i3blocks; My i3blocks collection most of them with real-time updates. | zsugabubus | 1 |
 | 245 |  [b6b](https://github.com/dimkr/b6b) | A lightweight, embeddable scripting language | dimkr | 8 |
@@ -435,21 +435,21 @@
 | 254 |  [sandbird](https://github.com/rxi/sandbird) | A tiny embeddable HTTP server written in C89 | rxi | 127 |
 | 255 |  [aq](https://github.com/rxi/aq) | A lightweight framework for creating audio toys | rxi | 179 |
 | 256 |  [cembed](https://github.com/rxi/cembed) | A small utility for embedding files in a C header | rxi | 40 |
-| 257 |  [log.c](https://github.com/rxi/log.c) | A simple logging library implemented in C99 | rxi | 1024 |
+| 257 |  [log.c](https://github.com/rxi/log.c) | A simple logging library implemented in C99 | rxi | 1026 |
 | 258 |  [vec](https://github.com/rxi/vec) | A type-safe dynamic array implementation for C | rxi | 346 |
 | 259 |  [doq](https://github.com/rxi/doq) | A small tool for creating single-file html documents | rxi | 59 |
 | 260 |  [fe](https://github.com/rxi/fe) | A tiny, embeddable language implemented in ANSI C | rxi | 707 |
 | 261 |  [moc](https://github.com/christophgysin/moc) | music on console | christophgysin | 2 |
 | 262 |  [mocp](https://github.com/tomaszg7/mocp) | For current version see: https://gitlab.com/tomaszg/mocp - Unofficial experimental features for Music on Console http://moc.daper.net/ including Opus and mpg123 decoders, see Wiki section | tomaszg7 | 5 |
-| 263 |  [oniguruma](https://github.com/kkos/oniguruma) | regular expression library | kkos | 1561 |
+| 263 |  [oniguruma](https://github.com/kkos/oniguruma) | regular expression library | kkos | 1563 |
 | 264 |  [ltui](https://github.com/tboox/ltui) | 🍖 A cross-platform terminal ui library based on Lua | tboox | 643 |
 | 265 |  [w3m](https://github.com/tats/w3m) | Debian&#39;s w3m: WWW browsable pager | tats | 343 |
 | 266 |  [node9](https://github.com/jvburnes/node9) | A portable hybrid distributed OS based on Inferno, LuaJIT and Libuv | jvburnes | 374 |
 | 267 |  [luaw](https://github.com/raksoras/luaw) | Event driven, non-blocking app server for Lua | raksoras | 122 |
-| 268 |  [mocp](https://github.com/jonsafari/mocp) | Music On Console Player | jonsafari | 193 |
+| 268 |  [mocp](https://github.com/jonsafari/mocp) | Music On Console Player | jonsafari | 194 |
 | 269 |  [Project-WRT](https://github.com/wifimedia/Project-WRT) |  | wifimedia | 2 |
-| 270 |  [nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module) | NGINX-based Media Streaming Server | arut | 11125 |
-| 271 |  [obs-studio](https://github.com/obsproject/obs-studio) | OBS Studio - Free and open source software for live streaming and screen recording | obsproject | 30067 |
+| 270 |  [nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module) | NGINX-based Media Streaming Server | arut | 11128 |
+| 271 |  [obs-studio](https://github.com/obsproject/obs-studio) | OBS Studio - Free and open source software for live streaming and screen recording | obsproject | 30076 |
 | 272 |  [aria](https://github.com/rxi/aria) | A tiny, embeddable lisp-shaped language implemented in C89 | rxi | 136 |
 | 273 |  [dyad](https://github.com/rxi/dyad) | Asynchronous networking for C | rxi | 1260 |
 | 274 |  [microtar](https://github.com/rxi/microtar) | A lightweight tar library written in ANSI C | rxi | 240 |
@@ -463,15 +463,15 @@
 | 282 |  [sowm](https://github.com/dylanaraps/sowm) | An itsy bitsy floating window manager (220~ sloc!). | dylanaraps | 648 |
 | 283 |  [Enigma](https://github.com/andrejlevkovitch/Enigma) |  | andrejlevkovitch | 1 |
 | 284 |  [linux-0.01](https://github.com/zavg/linux-0.01) | Historically first (actually 0.01) release of linux kernel made by Linus Torvalds | zavg | 673 |
-| 285 |  [poco](https://github.com/pocoproject/poco) | The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems. | pocoproject | 5363 |
+| 285 |  [poco](https://github.com/pocoproject/poco) | The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems. | pocoproject | 5364 |
 | 286 |  [nsm](https://github.com/nifty-site-manager/nsm) | Nift - world&#39;s fastest cross-platform open source website generator. | nifty-site-manager | 197 |
-| 287 |  [yabai](https://github.com/koekeishiya/yabai) | A tiling window manager for macOS based on binary space partitioning | koekeishiya | 7465 |
+| 287 |  [yabai](https://github.com/koekeishiya/yabai) | A tiling window manager for macOS based on binary space partitioning | koekeishiya | 7472 |
 | 288 |  [posixovl](https://github.com/Tomas-M/posixovl) | POSIX-overlay filesystem | Tomas-M | 7 |
 | 289 |  [i3lock](https://github.com/i3/i3lock) | improved screen locker | i3 | 662 |
 | 290 |  [epgrab](https://github.com/hiroshiyui/epgrab) | Grab DVB EPG data. | hiroshiyui | 15 |
 | 291 |  [SimplyVGAVideoCard](https://github.com/da-nie/SimplyVGAVideoCard) | Простейшая VGA-видеокарта на Atmega168-20. | da-nie | 7 |
-| 292 |  [vifm](https://github.com/vifm/vifm) | Vifm is a file manager with curses interface, which provides Vi[m]-like environment for managing objects within file systems, extended with some useful ideas from mutt. | vifm | 1628 |
-| 293 |  [webview](https://github.com/webview/webview) | Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and Edge (Windows) | webview | 8640 |
+| 292 |  [vifm](https://github.com/vifm/vifm) | Vifm is a file manager with curses interface, which provides Vi[m]-like environment for managing objects within file systems, extended with some useful ideas from mutt. | vifm | 1629 |
+| 293 |  [webview](https://github.com/webview/webview) | Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and Edge (Windows) | webview | 8643 |
 | 294 |  [doublecmd-plugins](https://github.com/j2969719/doublecmd-plugins) | Additions for Double Commander | j2969719 | 41 |
 | 295 |  [utf8proc](https://github.com/JuliaStrings/utf8proc) | a clean C library for processing UTF-8 Unicode data | JuliaStrings | 689 |
 | 296 |  [lsqlite3-s](https://github.com/shmuz/lsqlite3-s) |  | shmuz | 2 |
@@ -486,7 +486,7 @@
 | 305 |  [cforth](https://github.com/andrewtholt/cforth) | Mitch Bradley&#39;s CForth implementation | andrewtholt | 1 |
 | 306 |  [graspForth](https://github.com/andrewtholt/graspForth) |  | andrewtholt | 2 |
 | 307 |  [zForth](https://github.com/zevv/zForth) | zForth: tiny, embeddable, flexible, compact Forth scripting language for embedded systems | zevv | 228 |
-| 308 |  [nnn](https://github.com/jarun/nnn) | n³ The unorthodox terminal file manager | jarun | 11950 |
+| 308 |  [nnn](https://github.com/jarun/nnn) | n³ The unorthodox terminal file manager | jarun | 11956 |
 | 309 |  [cwm](https://github.com/leahneukirchen/cwm) | portable version of OpenBSD&#39;s cwm(1) window manager | leahneukirchen | 258 |
 | 310 |  [AndroLua](https://github.com/mkottman/AndroLua) | Lua and LuaJava ported to Android | mkottman | 933 |
 | 311 |  [luabuild](https://github.com/stevedonovan/luabuild) | A highly customizable Lua 5.2 build system, allowing for common external modules to be linked in statically, and built-in modules to be excluded | stevedonovan | 74 |
@@ -497,7 +497,7 @@
 | 316 |  [STM32_RTTY](https://github.com/Qyon/STM32_RTTY) | STM32 &amp; SI4032 rtty test | Qyon | 31 |
 | 317 |  [Si5351](https://github.com/NT7S/Si5351) | Library for the Si5351 clock generator IC in the avr-gcc environment | NT7S | 22 |
 | 318 |  [fake-video-detector](https://github.com/ultimate-pms/fake-video-detector) | Automatically detect fake videos in your library based upon a &#39;database&#39; of blacklisted videos | ultimate-pms | 29 |
-| 319 |  [wireshark](https://github.com/wireshark/wireshark) | Read-only mirror of Wireshark&#39;s Git repository at https://gitlab.com/wireshark/wireshark. GitHub won&#39;t let us disable pull requests. ☞ THEY WILL BE IGNORED HERE ☜ Please upload them at GitLab. | wireshark | 3531 |
+| 319 |  [wireshark](https://github.com/wireshark/wireshark) | Read-only mirror of Wireshark&#39;s Git repository at https://gitlab.com/wireshark/wireshark. GitHub won&#39;t let us disable pull requests. ☞ THEY WILL BE IGNORED HERE ☜ Please upload them at GitLab. | wireshark | 3532 |
 | 320 |  [LilyPad_Arduino_USB](https://github.com/sparkfun/LilyPad_Arduino_USB) | Design and firmware files for the LilyPad Arduino USB. | sparkfun | 6 |
 | 321 |  [dangerboy](https://github.com/austinthresher/dangerboy) | Game Boy emulator written in C. Aiming for cycle accurate DMG emulation. | austinthresher | 6 |
 | 322 |  [st-custom](https://github.com/austinthresher/st-custom) |  | austinthresher | 1 |
@@ -513,14 +513,14 @@
 | 332 |  [vavrdisasm](https://github.com/vsergeev/vavrdisasm) | vAVRdisasm is an 8-bit Atmel AVR disassembler. | vsergeev | 68 |
 | 333 |  [c-periphery](https://github.com/vsergeev/c-periphery) | A C library for peripheral I/O (GPIO, LED, PWM, SPI, I2C, MMIO, Serial) in Linux. | vsergeev | 299 |
 | 334 |  [lua-periphery](https://github.com/vsergeev/lua-periphery) | A Lua library for peripheral I/O (GPIO, LED, PWM, SPI, I2C, MMIO, Serial) in Linux. | vsergeev | 134 |
-| 335 |  [rtl_433](https://github.com/merbanan/rtl_433) | Program to decode radio transmissions from devices on the ISM bands (and other frequencies) | merbanan | 3089 |
+| 335 |  [rtl_433](https://github.com/merbanan/rtl_433) | Program to decode radio transmissions from devices on the ISM bands (and other frequencies) | merbanan | 3093 |
 | 336 |  [USBaspLoader](https://github.com/baerwolf/USBaspLoader) | An (V)USB bootloader firmware for AVR-MCUs emulating the popular USBasp for programming itself | baerwolf | 137 |
-| 337 |  [zinit](https://github.com/zdharma/zinit) | Flexible and fast Zsh plugin manager with clean fpath, reports, completion management, Turbo, annexes, services, packages. | zdharma | 2469 |
+| 337 |  [zinit](https://github.com/zdharma/zinit) | Flexible and fast Zsh plugin manager with clean fpath, reports, completion management, Turbo, annexes, services, packages. | zdharma | 2473 |
 | 338 |  [grbl-Mega](https://github.com/gnea/grbl-Mega) | An open source, embedded, high performance g-code-parser and CNC milling controller written in optimized C that will run on an Arduino Mega2560 | gnea | 355 |
-| 339 |  [grbl](https://github.com/gnea/grbl) | An open source, embedded, high performance g-code-parser and CNC milling controller written in optimized C that will run on a straight Arduino | gnea | 2838 |
-| 340 |  [grbl](https://github.com/grbl/grbl) | An open source, embedded, high performance g-code-parser and CNC milling controller written in optimized C that will run on a straight Arduino | grbl | 4242 |
+| 339 |  [grbl](https://github.com/gnea/grbl) | An open source, embedded, high performance g-code-parser and CNC milling controller written in optimized C that will run on a straight Arduino | gnea | 2839 |
+| 340 |  [grbl](https://github.com/grbl/grbl) | An open source, embedded, high performance g-code-parser and CNC milling controller written in optimized C that will run on a straight Arduino | grbl | 4244 |
 | 341 |  [Minimal-SDR](https://github.com/FrankBoesing/Minimal-SDR) | Only one active component (MCP2036) | FrankBoesing | 10 |
-| 342 |  [rlwrap](https://github.com/hanslub42/rlwrap) | A readline wrapper | hanslub42 | 1370 |
+| 342 |  [rlwrap](https://github.com/hanslub42/rlwrap) | A readline wrapper | hanslub42 | 1372 |
 | 343 |  [VSCodeLuaDebug](https://github.com/BeamNG/VSCodeLuaDebug) | Visual Studio Code debugger extension for LuaJIT - under construction | BeamNG | 9 |
 | 344 |  [lua-5.3.4-op_halt](https://github.com/devcat-studio/lua-5.3.4-op_halt) |  | devcat-studio | 4 |
 | 345 |  [lua-5.1.5-op_halt](https://github.com/devcat-studio/lua-5.1.5-op_halt) | Lua 5.1.5 with OP_HALT patch | devcat-studio | 4 |
@@ -532,10 +532,10 @@
 | 351 |  [Baloon1](https://github.com/UB1ACX/Baloon1) | APRS tracker for baloon | UB1ACX | 2 |
 | 352 |  [espeak-ng](https://github.com/espeak-ng/espeak-ng) | eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents. | espeak-ng | 943 |
 | 353 |  [moonjit](https://github.com/moonjit/moonjit) | Just-In-Time Compiler for the Lua Programming language. Fork of LuaJIT to continue development. This project does not have an active maintainer, see https://twitter.com/siddhesh_p/status/1308594269502885889?s=20 for more detail. | moonjit | 496 |
-| 354 |  [exploitdb](https://github.com/offensive-security/exploitdb) | The official Exploit Database repository | offensive-security | 6283 |
-| 355 |  [oni2](https://github.com/onivim/oni2) | Native, lightweight modal code editor | onivim | 6255 |
+| 354 |  [exploitdb](https://github.com/offensive-security/exploitdb) | The official Exploit Database repository | offensive-security | 6285 |
+| 355 |  [oni2](https://github.com/onivim/oni2) | Native, lightweight modal code editor | onivim | 6254 |
 | 356 |  [libz80](https://github.com/ggambetta/libz80) | An emulator of the Z80 processor (C library) | ggambetta | 135 |
-| 357 |  [RC2014](https://github.com/EtchedPixels/RC2014) | An RC2014 Emulator | EtchedPixels | 65 |
+| 357 |  [RC2014](https://github.com/EtchedPixels/RC2014) | An RC2014 Emulator | EtchedPixels | 66 |
 | 358 |  [collapseos](https://github.com/hsoft/collapseos) | Bootstrap post-collapse technology | hsoft | 4181 |
 | 359 |  [DS18B20-Library](https://github.com/alexeyqwerty/DS18B20-Library) | Basic set of functions to work with one sensor of temperature DS18B20 for Atmel microcontrollers | alexeyqwerty | 2 |
 | 360 |  [SPI_Master-Library](https://github.com/alexeyqwerty/SPI_Master-Library) | This library for initialise, send data, receive data from SPI for AVR microcontrollers | alexeyqwerty | 2 |
@@ -543,7 +543,7 @@
 | 362 |  [elvis](https://github.com/mbert/elvis) | The elvis vi-clone (written by Steve Kirkendall) | mbert | 90 |
 | 363 |  [Team-Win-Recovery-Project](https://github.com/TeamWin/Team-Win-Recovery-Project) | Core recovery files for the Team Win Recovery Project (T.W.R.P) - this is not up to date, please see https://github.com/omnirom/android_bootable_recovery/ | TeamWin | 1752 |
 | 364 |  [UsbAsp-flash](https://github.com/nofeletru/UsbAsp-flash) | Альтернативная прошивка  и программа для UsbAsp, CH341a, AVRISP-MK2(LUFA) позволяющая программировать флеш память | nofeletru | 309 |
-| 365 |  [Tinyhttpd](https://github.com/EZLippi/Tinyhttpd) | Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。官网:http://tinyhttpd.sourceforge.net | EZLippi | 7081 |
+| 365 |  [Tinyhttpd](https://github.com/EZLippi/Tinyhttpd) | Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。官网:http://tinyhttpd.sourceforge.net | EZLippi | 7084 |
 | 366 |  [esp_wifi_repeater](https://github.com/martin-ger/esp_wifi_repeater) | A full functional WiFi Repeater (correctly: a WiFi NAT Router) | martin-ger | 3670 |
 | 367 |  [lua-cjson](https://github.com/cloudwu/lua-cjson) | Lua CJSON is a fast JSON encoding/parsing module for Lua | cloudwu | 72 |
 | 368 |  [luamake](https://github.com/actboy168/luamake) |  | actboy168 | 36 |
@@ -551,13 +551,13 @@
 | 370 |  [dump1090](https://github.com/flightaware/dump1090) | Dump1090 is a simple Mode S decoder for RTLSDR devices | flightaware | 541 |
 | 371 |  [mini_httpd](https://github.com/groleo/mini_httpd) |  | groleo | 9 |
 | 372 |  [openvpn](https://github.com/OpenVPN/openvpn) | OpenVPN  is  an open source VPN daemon | OpenVPN | 6102 |
-| 373 |  [phnt](https://github.com/processhacker/phnt) | Native API header files for the Process Hacker project. | processhacker | 332 |
+| 373 |  [phnt](https://github.com/processhacker/phnt) | Native API header files for the Process Hacker project. | processhacker | 333 |
 | 374 |  [plugins-extra](https://github.com/processhacker/plugins-extra) | These are highly unstable, buggy, incomplete plugins that are not included with Process Hacker by default. | processhacker | 226 |
-| 375 |  [processhacker](https://github.com/processhacker/processhacker) | A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. | processhacker | 4929 |
+| 375 |  [processhacker](https://github.com/processhacker/processhacker) | A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. | processhacker | 4935 |
 | 376 |  [geany-plugins](https://github.com/geany/geany-plugins) | The combined Geany Plugins collection | geany | 454 |
-| 377 |  [goaccess](https://github.com/allinurl/goaccess) | GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser. | allinurl | 13501 |
+| 377 |  [goaccess](https://github.com/allinurl/goaccess) | GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser. | allinurl | 13505 |
 | 378 |  [linotify](https://github.com/hoelzro/linotify) | Inotify bindings for Lua | hoelzro | 86 |
-| 379 |  [TIC-80](https://github.com/nesbox/TIC-80) | TIC-80 is a fantasy computer for making, playing and sharing tiny games. | nesbox | 2913 |
+| 379 |  [TIC-80](https://github.com/nesbox/TIC-80) | TIC-80 is a fantasy computer for making, playing and sharing tiny games. | nesbox | 2915 |
 | 380 |  [byzanz](https://github.com/xatgithub/byzanz) |  | xatgithub | 2 |
 | 381 |  [tre](https://github.com/laurikari/tre) | The approximate regex matching library and agrep command line tool. | laurikari | 629 |
 | 382 |  [silentcast](https://github.com/colinkeenan/silentcast) | Create silent mkv screencast and animated gif. | colinkeenan | 502 |
@@ -565,16 +565,16 @@
 | 384 |  [nezd](https://github.com/telser/nezd) | Nezd is a general purpose messaging, notification and menuing program for X11. | telser | 6 |
 | 385 |  [nixio](https://github.com/Neopallium/nixio) | System, Networking and I/O library for Lua.  This is an unoffical fork of NIXO from: http://luci.subsignal.org/ | Neopallium | 53 |
 | 386 |  [rxvt-unicode-24bit](https://github.com/askamiroff/rxvt-unicode-24bit) |  | askamiroff | 3 |
-| 387 |  [tig](https://github.com/jonas/tig) | Text-mode interface for git | jonas | 10176 |
-| 388 |  [linux](https://github.com/torvalds/linux) | Linux kernel source tree | torvalds | 115553 |
+| 387 |  [tig](https://github.com/jonas/tig) | Text-mode interface for git | jonas | 10175 |
+| 388 |  [linux](https://github.com/torvalds/linux) | Linux kernel source tree | torvalds | 115576 |
 | 389 |  [xst](https://github.com/gnotclub/xst) | st fork that uses Xresources and some pretty good patches | gnotclub | 463 |
 | 390 |  [neotags.nvim](https://github.com/c0r73x/neotags.nvim) | Tag highlight in neovim | c0r73x | 127 |
 | 391 |  [lualock](https://github.com/Guff/lualock) | A screenlocker that&#39;s highly configurable in lua | Guff | 10 |
 | 392 |  [lualock](https://github.com/alfredopalhares/lualock) | A screenlocker that&#39;s highly configurable in lua | alfredopalhares | 1 |
 | 393 |  [LPeg](https://github.com/roberto-ieru/LPeg) | Irregularly mirrored copy of the LPeg repo. Please DO NOT send pull requests. | roberto-ieru | 22 |
 | 394 |  [i3status](https://github.com/i3/i3status) | Generates status bar to use with i3bar, dzen2 or xmobar | i3 | 459 |
-| 395 |  [goldendict](https://github.com/goldendict/goldendict) | A feature-rich dictionary lookup program, supporting multiple dictionary formats (StarDict/Babylon/Lingvo/Dictd) and online dictionaries, featuring perfect article rendering with the complete markup, illustrations and other content retained, and allowing you to type in words without any accents or correct case. | goldendict | 3924 |
-| 396 |  [dosbox-x](https://github.com/joncampbell123/dosbox-x) | DOSBox-X fork of the DOSBox project | joncampbell123 | 1250 |
+| 395 |  [goldendict](https://github.com/goldendict/goldendict) | A feature-rich dictionary lookup program, supporting multiple dictionary formats (StarDict/Babylon/Lingvo/Dictd) and online dictionaries, featuring perfect article rendering with the complete markup, illustrations and other content retained, and allowing you to type in words without any accents or correct case. | goldendict | 3925 |
+| 396 |  [dosbox-x](https://github.com/joncampbell123/dosbox-x) | DOSBox-X fork of the DOSBox project | joncampbell123 | 1251 |
 | 397 |  [hardinfo](https://github.com/lpereira/hardinfo) | System profiler and benchmark tool for Linux systems | lpereira | 430 |
 | 398 |  [weighttp](https://github.com/lpereira/weighttp) | weighttp on github for easier collaboration - main repo still on lighttpd.net | lpereira | 9 |
 | 399 |  [weighttp](https://github.com/lighttpd/weighttp) | weighttp on github for easier collaboration - main repo still on lighttpd.net | lighttpd | 320 |
@@ -611,16 +611,16 @@
 | 430 |  [sqlitestudio](https://github.com/pawelsalawa/sqlitestudio) | A free, open source, multi-platform SQLite database manager. | pawelsalawa | 2089 |
 | 431 |  [wren](https://github.com/wren-lang/wren) | The Wren Programming Language. Wren is a small, fast, class-based concurrent scripting language. | wren-lang | 5039 |
 | 432 |  [rxvt-unicode](https://github.com/slve/rxvt-unicode) | git mirror of rxvt-unicode cvs repository | slve | 2 |
-| 433 |  [sxiv](https://github.com/muennich/sxiv) | Simple X Image Viewer | muennich | 1563 |
+| 433 |  [sxiv](https://github.com/muennich/sxiv) | Simple X Image Viewer | muennich | 1565 |
 | 434 |  [bar](https://github.com/krypt-n/bar) | Fork of bar ain&#39;t recursive - A lightweight xcb based bar. This is a hot mess, do not use | krypt-n | 176 |
 | 435 |  [mod_pLua](https://github.com/Humbedooh/mod_pLua) | An Apache HTTP Server module for developing applications using the Lua language | Humbedooh | 9 |
-| 436 |  [i3](https://github.com/i3/i3) | A tiling window manager | i3 | 6449 |
+| 436 |  [i3](https://github.com/i3/i3) | A tiling window manager | i3 | 6450 |
 | 437 |  [i3-easyfocus](https://github.com/cornerman/i3-easyfocus) | Focus and select windows in i3 | cornerman | 147 |
 | 438 |  [j4status-plugins](https://github.com/j4tools/j4status-plugins) | A collection of plugin for j4status | j4tools | 13 |
 | 439 |  [netselect](https://github.com/apenwarr/netselect) | A parallelizing combination of ping/traceroute | apenwarr | 109 |
 | 440 |  [velox](https://github.com/michaelforney/velox) | velox window manager | michaelforney | 313 |
 | 441 |  [spectrwm](https://github.com/conformal/spectrwm) | A small dynamic tiling window manager for X11. | conformal | 969 |
-| 442 |  [aircrack-ng](https://github.com/aircrack-ng/aircrack-ng) | WiFi security auditing tools suite | aircrack-ng | 2426 |
+| 442 |  [aircrack-ng](https://github.com/aircrack-ng/aircrack-ng) | WiFi security auditing tools suite | aircrack-ng | 2427 |
 | 443 |  [bitmeteros](https://github.com/codebox/bitmeteros) | BitMeter OS - a cross-platform bandwidth monitor | codebox | 277 |
 | 444 |  [PDQ_GFX_Libs](https://github.com/andrey-belokon/PDQ_GFX_Libs) | Fork of PDQ_GFX library with packed font support | andrey-belokon | 4 |
 | 445 |  [8515_TTL_tester](https://github.com/EvgeniyRU/8515_TTL_tester) |  | EvgeniyRU | 4 |
@@ -642,27 +642,27 @@
 | 461 |  [transmission](https://github.com/transmission/transmission) | Official Transmission BitTorrent client repository | transmission | 5708 |
 | 462 |  [dvtm](https://github.com/martanne/dvtm) | dvtm brings the concept of tiling window management, popularized by X11-window managers like dwm to the console. As a console window manager it tries to make it easy to work with multiple console based programs. | martanne | 701 |
 | 463 |  [neomutt](https://github.com/neomutt/neomutt) | :envelope: Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.libera.chat | neomutt | 2229 |
-| 464 |  [monsterwm](https://github.com/c00kiemon5ter/monsterwm) | tiny but monstrous tiling window manager | c00kiemon5ter | 294 |
+| 464 |  [monsterwm](https://github.com/c00kiemon5ter/monsterwm) | tiny but monstrous tiling window manager | c00kiemon5ter | 295 |
 | 465 |  [gxkb](https://github.com/zen-tools/gxkb) | :fr::uk::de: X11 keyboard indicator and switcher | zen-tools | 80 |
 | 466 |  [i3ipc-glib](https://github.com/altdesktop/i3ipc-glib) | A C interface library to i3wm | altdesktop | 79 |
 | 467 |  [zx](https://github.com/mstg/zx) | i3 scratchpad manager | mstg | 36 |
-| 468 |  [mpv](https://github.com/mpv-player/mpv) | 🎥 Command line video player | mpv-player | 15539 |
+| 468 |  [mpv](https://github.com/mpv-player/mpv) | 🎥 Command line video player | mpv-player | 15542 |
 | 469 |  [uTox](https://github.com/uTox/uTox) | µTox the lightest and fluffiest Tox client | uTox | 843 |
-| 470 |  [c-toxcore](https://github.com/TokTok/c-toxcore) | The future of online communications. | TokTok | 1535 |
+| 470 |  [c-toxcore](https://github.com/TokTok/c-toxcore) | The future of online communications. | TokTok | 1536 |
 | 471 |  [rxvt-unicode](https://github.com/exg/rxvt-unicode) | git mirror of rxvt-unicode cvs repository | exg | 193 |
 | 472 |  [font-manager](https://github.com/FontManager/font-manager) |  | FontManager | 362 |
-| 473 |  [fzy](https://github.com/jhawthorn/fzy) | :mag: A simple, fast fuzzy finder for the terminal | jhawthorn | 2176 |
+| 473 |  [fzy](https://github.com/jhawthorn/fzy) | :mag: A simple, fast fuzzy finder for the terminal | jhawthorn | 2177 |
 | 474 |  [lxterminal](https://github.com/lxde/lxterminal) | VTE terminal emulator written in GTK | lxde | 99 |
 | 475 |  [mc](https://github.com/MidnightCommander/mc) | Midnight Commander&#39;s repository | MidnightCommander | 1499 |
 | 476 |  [lua-evdev](https://github.com/Tangent128/lua-evdev) | Lua module for reading Linux input events from /dev/input/eventXX nodes | Tangent128 | 29 |
 | 477 |  [luasdl2](https://github.com/Tangent128/luasdl2) | A pure C binding of SDL 2.0 for Lua 5.1, Lua 5.2, and LuaJIT. | Tangent128 | 258 |
 | 478 |  [lighttpd1.4](https://github.com/lighttpd/lighttpd1.4) | lighttpd1.4 on github for easier collaboration - main repo still on lighttpd.net | lighttpd | 394 |
 | 479 |  [lighttpd2](https://github.com/lighttpd/lighttpd2) | lighttpd2 on github for easier collaboration - main repo still on lighttpd.net | lighttpd | 382 |
-| 480 |  [jq](https://github.com/stedolan/jq) | Command-line JSON processor | stedolan | 19852 |
+| 480 |  [jq](https://github.com/stedolan/jq) | Command-line JSON processor | stedolan | 19859 |
 | 481 |  [Ion3](https://github.com/jan0sch/Ion3) | A tiling tabbed window manager designed for keyboard users. This repository is intended to make the last official ion3 release available because Tuomo has abandoned it. | jan0sch | 3 |
 | 482 |  [Nextwm](https://github.com/moetunes/Nextwm) | snapwm is an easy to configure, dynamic, tiling window manager. Built on dminiwm with a desktop switcher, info bar and reloadable rc file. | moetunes | 50 |
 | 483 |  [aprx](https://github.com/PhirePhly/aprx) | A highly configurable APRS I-gate/Digipeater Daemon | PhirePhly | 107 |
-| 484 |  [MicroAPRS](https://github.com/markqvist/MicroAPRS) | APRS fork of MicroModem | markqvist | 187 |
+| 484 |  [MicroAPRS](https://github.com/markqvist/MicroAPRS) | APRS fork of MicroModem | markqvist | 188 |
 | 485 |  [aprs](https://github.com/shawnchain/aprs) | The TinyAPRS firmware | shawnchain | 12 |
 | 486 |  [bertos](https://github.com/develersrl/bertos) | Bertos free RTOS: http://dev.bertos.org | develersrl | 101 |
 | 487 |  [femto](https://github.com/hughbarney/femto) | Femto, an extended version of Atto Emacs with a Tiny Lisp extension language | hughbarney | 21 |
@@ -670,46 +670,46 @@
 | 489 |  [simavr](https://github.com/buserror/simavr) | simavr is a lean, mean and hackable AVR simulator for linux &amp; OSX | buserror | 1190 |
 | 490 |  [uip](https://github.com/adamdunkels/uip) | The historical uIP sources | adamdunkels | 692 |
 | 491 |  [contiki](https://github.com/contiki-os/contiki) | The official git repository for Contiki, the open source OS for the Internet of Things | contiki-os | 3352 |
-| 492 |  [vis](https://github.com/martanne/vis) | A vi-like editor based on Plan 9&#39;s structural regular expressions | martanne | 3629 |
-| 493 |  [mle](https://github.com/adsr/mle) | Flexible terminal-based text editor (C) | adsr | 402 |
+| 492 |  [vis](https://github.com/martanne/vis) | A vi-like editor based on Plan 9&#39;s structural regular expressions | martanne | 3631 |
+| 493 |  [mle](https://github.com/adsr/mle) | Flexible terminal-based text editor (C) | adsr | 403 |
 | 494 |  [eon](https://github.com/tomas/eon) | A light, modern editor for your terminal that _doesn&#39;t_ want to be vim. | tomas | 34 |
 | 495 |  [newlisp](https://github.com/kosh04/newlisp) | newLISP mirror repository (unofficial) | kosh04 | 77 |
-| 496 |  [fvwm](https://github.com/fvwmorg/fvwm) | Official FVWM repository | fvwmorg | 310 |
+| 496 |  [fvwm](https://github.com/fvwmorg/fvwm) | Official FVWM repository | fvwmorg | 311 |
 | 497 |  [xneur-devel](https://github.com/AndrewCrewKuznetsov/xneur-devel) | Xneur main repository | AndrewCrewKuznetsov | 48 |
-| 498 |  [bspwm](https://github.com/baskerville/bspwm) | A tiling window manager based on binary space partitioning | baskerville | 5170 |
+| 498 |  [bspwm](https://github.com/baskerville/bspwm) | A tiling window manager based on binary space partitioning | baskerville | 5171 |
 | 499 |  [rk86-maximite](https://github.com/begoon/rk86-maximite) | Эмулятор компьютера Радио-86РК на компьютере Maximite | begoon | 9 |
 | 500 |  [SmallBASIC](https://github.com/smallbasic/SmallBASIC) | SmallBASIC is a fast and easy to learn BASIC language interpreter ideal for everyday calculations, scripts and prototypes. SmallBASIC includes trigonometric, matrices and algebra functions, a built in IDE, a powerful string library, system, sound, and graphic commands along with structured programming syntax | smallbasic | 88 |
 | 501 |  [luakernel](https://github.com/ers35/luakernel) | Lua + SQLite + musl libc running on x86. | ers35 | 235 |
 | 502 |  [qtl866](https://github.com/wd5gnr/qtl866) | GUI driver for minipro software found at https://github.com/vdudouyt/minipro | wd5gnr | 54 |
 | 503 |  [far2l](https://github.com/elfmz/far2l) | Linux port of FAR v2 | elfmz | 1054 |
-| 504 |  [lufa](https://github.com/abcminiuser/lufa) | LUFA - the Lightweight USB Framework for AVRs. | abcminiuser | 813 |
-| 505 |  [qmk_firmware](https://github.com/qmk/qmk_firmware) | Open-source keyboard firmware for Atmel AVR and Arm USB families | qmk | 10123 |
-| 506 |  [bar](https://github.com/LemonBoy/bar) | A featherweight, lemon-scented, bar based on xcb | LemonBoy | 1322 |
-| 507 |  [wlc](https://github.com/Cloudef/wlc) | High-level Wayland compositor library | Cloudef | 322 |
-| 508 |  [sway](https://github.com/swaywm/sway) | i3-compatible Wayland compositor | swaywm | 9153 |
+| 504 |  [lufa](https://github.com/abcminiuser/lufa) | LUFA - the Lightweight USB Framework for AVRs. | abcminiuser | 814 |
+| 505 |  [qmk_firmware](https://github.com/qmk/qmk_firmware) | Open-source keyboard firmware for Atmel AVR and Arm USB families | qmk | 10127 |
+| 506 |  [bar](https://github.com/LemonBoy/bar) | A featherweight, lemon-scented, bar based on xcb | LemonBoy | 1323 |
+| 507 |  [wlc](https://github.com/Cloudef/wlc) | High-level Wayland compositor library | Cloudef | 321 |
+| 508 |  [sway](https://github.com/swaywm/sway) | i3-compatible Wayland compositor | swaywm | 9156 |
 | 509 |  [geany](https://github.com/geany/geany) | A fast and lightweight IDE | geany | 2050 |
 | 510 |  [lifebar](https://github.com/mattiasnilsen/lifebar) | Transparent workspace bar for i3 window manager. | mattiasnilsen | 1 |
 | 511 |  [lifebar](https://github.com/lynks--/lifebar) | Transparent workspace bar for i3 window manager. | lynks-- | 34 |
 | 512 |  [kbdd](https://github.com/qnikst/kbdd) | keyboard library for per-window keyboard layout | qnikst | 129 |
 | 513 |  [j4status](https://github.com/sardemff7/j4status) | Status line generator | sardemff7 | 44 |
 | 514 |  [libgwater](https://github.com/sardemff7/libgwater) | A collection of GSources | sardemff7 | 13 |
-| 515 |  [openwrt](https://github.com/openwrt/openwrt) | This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org | openwrt | 9145 |
+| 515 |  [openwrt](https://github.com/openwrt/openwrt) | This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org | openwrt | 9148 |
 | 516 |  [dir300b1-sdmod-extroot](https://github.com/Dirry/dir300b1-sdmod-extroot) | Files for extroot dir300b1 sdmod | Dirry | 4 |
 | 517 |  [spacefm](https://github.com/IgnorantGuru/spacefm) | SpaceFM File Manager | IgnorantGuru | 419 |
 | 518 |  [dzen](https://github.com/robm/dzen) | Dzen is a general purpose messaging, notification and menuing program for X11. | robm | 565 |
 | 519 |  [howm](https://github.com/HarveyHunt/howm) | A lightweight, X11 tiling window manager that behaves like vim | HarveyHunt | 622 |
-| 520 |  [i3](https://github.com/Airblader/i3) | i3-gaps – i3 with more features (forked from https://github.com/i3/i3) | Airblader | 5244 |
+| 520 |  [i3](https://github.com/Airblader/i3) | i3-gaps – i3 with more features (forked from https://github.com/i3/i3) | Airblader | 5245 |
 | 521 |  [dunst](https://github.com/dunst-project/dunst) | Lightweight and customizable notification daemon | dunst-project | 2559 |
 | 522 |  [i3blocks](https://github.com/vivien/i3blocks) | A feed generator for text based status bars | vivien | 1915 |
-| 523 |  [rofi](https://github.com/davatorium/rofi) | Rofi: A window switcher, application launcher and dmenu replacement | davatorium | 7675 |
-| 524 |  [check](https://github.com/libcheck/check) | A unit testing framework for C | libcheck | 760 |
+| 523 |  [rofi](https://github.com/davatorium/rofi) | Rofi: A window switcher, application launcher and dmenu replacement | davatorium | 7678 |
+| 524 |  [check](https://github.com/libcheck/check) | A unit testing framework for C | libcheck | 761 |
 | 525 |  [jwm](https://github.com/joewing/jwm) | Joe&#39;s Window Manager | joewing | 353 |
 | 526 |  [skype4pidgin](https://github.com/EionRobb/skype4pidgin) | Skype Plugin for Pidgin, libpurple and more | EionRobb | 632 |
-| 527 |  [tmux](https://github.com/tmux/tmux) | tmux source code | tmux | 21986 |
+| 527 |  [tmux](https://github.com/tmux/tmux) | tmux source code | tmux | 21987 |
 | 528 |  [mruby](https://github.com/mruby/mruby) | Lightweight Ruby | mruby | 4810 |
 | 529 |  [myrulib](https://github.com/lintest/myrulib) | Кроссплатформенная оболочка для электронной библиотеки fb2-файлов | lintest | 100 |
 | 530 |  [thttpd](https://github.com/wlangstroth/thttpd) | Tiny CGI server - unofficial fork | wlangstroth | 37 |
-| 531 |  [libssh2](https://github.com/libssh2/libssh2) | the SSH library | libssh2 | 793 |
+| 531 |  [libssh2](https://github.com/libssh2/libssh2) | the SSH library | libssh2 | 795 |
 | 532 |  [openbox](https://github.com/danakj/openbox) | Openbox Window Manager (OpenboxWM) | danakj | 412 |
 | 533 |  [jimtcl](https://github.com/msteveb/jimtcl) | Official repository of Jim Tcl, an open-source, small footprint implementation of Tcl | msteveb | 310 |
 | 534 |  [autosetup](https://github.com/msteveb/autosetup) | A better, faster autoconf replacement | msteveb | 54 |
@@ -724,34 +724,34 @@
 | 543 |  [lambda-kern](https://github.com/farlepet/lambda-kern) | Hobby operating system created in C | farlepet | 14 |
 | 544 |  [grubutils](https://github.com/chenall/grubutils) | utils for grub4dos | chenall | 60 |
 | 545 |  [grub4dos](https://github.com/chenall/grub4dos) | 外部命令和工具源码:https://github.com/chenall/grubutils 下载: | chenall | 446 |
-| 546 |  [rufus](https://github.com/pbatard/rufus) | The Reliable USB Formatting Utility | pbatard | 15400 |
-| 547 |  [sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) | SumatraPDF reader | sumatrapdfreader | 6822 |
+| 546 |  [rufus](https://github.com/pbatard/rufus) | The Reliable USB Formatting Utility | pbatard | 15403 |
+| 547 |  [sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) | SumatraPDF reader | sumatrapdfreader | 6830 |
 | 548 |  [xkb-switch-win](https://github.com/DeXP/xkb-switch-win) | xkb-switch-lib API port to Win32/Win64 | DeXP | 23 |
 | 549 |  [dfu-programmer](https://github.com/dfu-programmer/dfu-programmer) | dfu-programmer is a Device Firmware Update based USB programmer for Atmel chips with a USB bootloader | dfu-programmer | 319 |
 | 550 |  [curb](https://github.com/taf2/curb) | Ruby bindings for libcurl | taf2 | 1247 |
 | 551 |  [micropython](https://github.com/micropython/micropython) | MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems | micropython | 12801 |
 | 552 |  [edbrowse](https://github.com/CMB/edbrowse) | A command-line editor and web browser. | CMB | 188 |
-| 553 |  [lua](https://github.com/lua/lua) | The Lua repo, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests. Send any issue to the Lua mailing list https://www.lua.org/lua-l.html | lua | 4495 |
-| 554 |  [LuaJIT](https://github.com/LuaJIT/LuaJIT) | Mirror of the LuaJIT git repository | LuaJIT | 2646 |
+| 553 |  [lua](https://github.com/lua/lua) | The Lua repo, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests. Send any issue to the Lua mailing list https://www.lua.org/lua-l.html | lua | 4497 |
+| 554 |  [LuaJIT](https://github.com/LuaJIT/LuaJIT) | Mirror of the LuaJIT git repository | LuaJIT | 2648 |
 | 555 |  [luaossl](https://github.com/wahern/luaossl) | Most comprehensive OpenSSL module in the Lua universe. | wahern | 108 |
 | 556 |  [luxinia1](https://github.com/pixeljetstream/luxinia1) | engine source code for the luxinia game engine | pixeljetstream | 22 |
 | 557 |  [lua-upstream-nginx-module](https://github.com/openresty/lua-upstream-nginx-module) | Nginx C module to expose Lua API to ngx_lua for Nginx upstreams | openresty | 454 |
-| 558 |  [PDCurses](https://github.com/wmcbrine/PDCurses) | PDCurses - a curses library for environments that don&#39;t fit the termcap/terminfo model. | wmcbrine | 666 |
+| 558 |  [PDCurses](https://github.com/wmcbrine/PDCurses) | PDCurses - a curses library for environments that don&#39;t fit the termcap/terminfo model. | wmcbrine | 667 |
 | 559 |  [DocIt](https://github.com/kapilratnani/DocIt) | A plugin for Notepad++, which aids in documentation. It generates documentation templates for functions. Supports C/CPP, Java and PHP | kapilratnani | 10 |
 | 560 |  [JSON-Viewer](https://github.com/kapilratnani/JSON-Viewer) | A JSON viewer plugin for Notepad++. Displays the selected JSON string in a tree view. | kapilratnani | 496 |
 | 561 |  [lua-yajl](https://github.com/brimworks/lua-yajl) | Integrate the yajl JSON library with Lua. | brimworks | 50 |
 | 562 |  [yajl](https://github.com/lloyd/yajl) | A fast streaming JSON parsing library in C. | lloyd | 2015 |
 | 563 |  [pdf-tools](https://github.com/politza/pdf-tools) | Emacs support library for PDF files. | politza | 1481 |
 | 564 |  [binkd](https://github.com/pgul/binkd) |  | pgul | 44 |
-| 565 |  [git](https://github.com/git-for-windows/git) | A fork of Git containing Windows-specific patches. | git-for-windows | 6088 |
-| 566 |  [libevent](https://github.com/libevent/libevent) | Event notification library | libevent | 7722 |
+| 565 |  [git](https://github.com/git-for-windows/git) | A fork of Git containing Windows-specific patches. | git-for-windows | 6089 |
+| 566 |  [libevent](https://github.com/libevent/libevent) | Event notification library | libevent | 7723 |
 | 567 |  [c-websocket](https://github.com/OrionExplorer/c-websocket) | WebSocket protocol implementation for ANSI C (Win32/Linux). | OrionExplorer | 19 |
 | 568 |  [lanes](https://github.com/LuaLanes/lanes) | Lanes is a lightweight, native, lazy evaluating multithreading library for Lua 5.1 to 5.4. | LuaLanes | 340 |
 | 569 |  [proolix](https://github.com/prool/proolix) | Simple hobby POSIX-compatible OS for i8086+ | prool | 14 |
 | 570 |  [zimg](https://github.com/buaazp/zimg) | A lightweight and high performance image storage and processing system. | buaazp | 2624 |
 | 571 |  [ctags](https://github.com/universal-ctags/ctags) | A maintained ctags implementation | universal-ctags | 4509 |
 | 572 |  [libpng](https://github.com/glennrp/libpng) | LIBPNG: Portable Network Graphics support, official libpng repository | glennrp | 726 |
-| 573 |  [gcc](https://github.com/gcc-mirror/gcc) |  | gcc-mirror | 5244 |
+| 573 |  [gcc](https://github.com/gcc-mirror/gcc) |  | gcc-mirror | 5245 |
 | 574 |  [avr-binutils-gdb](https://github.com/embecosm/avr-binutils-gdb) | Fork of the upstream binutils-gdb repository for AVR processors | embecosm | 3 |
 | 575 |  [USBtiny](https://github.com/rgwan/USBtiny) | Yet another software USB-Device stack for AVR | rgwan | 3 |
 | 576 |  [v-usb](https://github.com/rgwan/v-usb) | A Firmware-Only USB implementation for STM8/LGT/AVR/STC-Y5 MCU. | rgwan | 1 |
@@ -764,7 +764,7 @@
 | 583 |  [libusb](https://github.com/libusb/libusb) | A cross-platform library to access USB devices | libusb | 3249 |
 | 584 |  [openresty_windows](https://github.com/moonbingbing/openresty_windows) |  | moonbingbing | 15 |
 | 585 |  [elua](https://github.com/elua/elua) | eLua Project on GitHub | elua | 771 |
-| 586 |  [openresty](https://github.com/openresty/openresty) | High Performance Web Platform Based on Nginx and LuaJIT | openresty | 9693 |
+| 586 |  [openresty](https://github.com/openresty/openresty) | High Performance Web Platform Based on Nginx and LuaJIT | openresty | 9694 |
 | 587 |  [lighttpd-1.5-mingw](https://github.com/mkottman/lighttpd-1.5-mingw) | A set of patches to enable compilation of lighttpd 1.5 (svn://svn.lighttpd.net/lighttpd/trunk/) using MinGW on Windows, with FastCGI support | mkottman | 5 |
 | 588 |  [Lua-cURLv3](https://github.com/Lua-cURL/Lua-cURLv3) | Lua binding to libcurl | Lua-cURL | 203 |
 | 589 |  [lua-ev](https://github.com/brimworks/lua-ev) | Lua integration with libev. | brimworks | 199 |
@@ -777,7 +777,7 @@
 | 596 |  [luvi](https://github.com/luvit/luvi) | A project in-between luv and luvit. | luvit | 230 |
 | 597 |  [lua-apr](https://github.com/zhaozg/lua-apr) | Apache Portable Runtime binding for Lua | zhaozg | 1 |
 | 598 |  [lua-apr](https://github.com/xolox/lua-apr) | Apache Portable Runtime binding for Lua | xolox | 57 |
-| 599 |  [libuv](https://github.com/libuv/libuv) | Cross-platform asynchronous I/O | libuv | 17832 |
+| 599 |  [libuv](https://github.com/libuv/libuv) | Cross-platform asynchronous I/O | libuv | 17833 |
 | 600 |  [lua-lluv](https://github.com/moteus/lua-lluv) | Lua binding to libuv | moteus | 60 |
 | 601 |  [mod_luaex](https://github.com/zhaozg/mod_luaex) | extend mod_lua module in apache2.4 | zhaozg | 5 |
 | 602 |  [lua-enhance](https://github.com/zhaozg/lua-enhance) | Lua Enhance/Extend library | zhaozg | 2 |
@@ -788,15 +788,15 @@
 | 607 |  [win-iconv](https://github.com/coapp-packages/win-iconv) |  | coapp-packages | 2 |
 | 608 |  [Arduino-IRremote](https://github.com/Arduino-IRremote/Arduino-IRremote) | Infrared remote library for Arduino: send and receive infrared signals with multiple protocols | Arduino-IRremote | 3309 |
 | 609 |  [tmk_keyboard](https://github.com/tmk/tmk_keyboard) | Keyboard firmwares for Atmel AVR and Cortex-M | tmk | 3389 |
-| 610 |  [libwebsockets](https://github.com/warmcat/libwebsockets) | canonical libwebsockets.org networking library | warmcat | 3100 |
+| 610 |  [libwebsockets](https://github.com/warmcat/libwebsockets) | canonical libwebsockets.org networking library | warmcat | 3103 |
 | 611 |  [luasec](https://github.com/brunoos/luasec) | LuaSec | brunoos | 282 |
 | 612 |  [srlua](https://github.com/LuaDist/srlua) | A tool for building self-running Lua programs. | LuaDist | 119 |
 | 613 |  [run](https://github.com/DrorHarari/run) | Run a program on Windows without caring about the PATH | DrorHarari | 6 |
 | 614 |  [tidy-html5](https://github.com/htacg/tidy-html5) | The granddaddy of HTML tools, with support for modern standards | htacg | 2319 |
 | 615 |  [attiny](https://github.com/damellis/attiny) | ATtiny microcontroller support for the Arduino IDE | damellis | 633 |
-| 616 |  [libgit2](https://github.com/libgit2/libgit2) | A cross-platform, linkable library implementation of Git that you can use in your application. | libgit2 | 7985 |
+| 616 |  [libgit2](https://github.com/libgit2/libgit2) | A cross-platform, linkable library implementation of Git that you can use in your application. | libgit2 | 7987 |
 | 617 |  [luagit2](https://github.com/libgit2/luagit2) | Lua bindings for libgit2 | libgit2 | 135 |
-| 618 |  [curl](https://github.com/curl/curl) | A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl offers a myriad of powerful features | curl | 21378 |
+| 618 |  [curl](https://github.com/curl/curl) | A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl offers a myriad of powerful features | curl | 21385 |
 | 619 |  [miranda-ng](https://github.com/miranda-ng/miranda-ng) | Miranda NG: Next Generation of Miranda IM | miranda-ng | 349 |
 | 620 |  [termbox](https://github.com/nsf/termbox) | Library for writing text-based user interfaces | nsf | 1808 |
 | 621 |  [ccode](https://github.com/nsf/ccode) | An autocompletion daemon for the C programming language (vim, libclang, omnifunc) | nsf | 23 |
@@ -805,14 +805,14 @@
 | 624 |  [openssl](https://github.com/LuaDist/openssl) | Open Source toolkit implementing the Secure Sockets Layer (SSL v2/v3) and Transport Layer Security (TLS v1) protocols as well as a general purpose cryptography library. | LuaDist | 16 |
 | 625 |  [lua-magnet](https://github.com/deba12/lua-magnet) | A fork of the Lua magnet found at: http://jan.kneschke.de/projects/lua/ by Jan Kneschke | deba12 | 2 |
 | 626 |  [nginx_lua_module](https://github.com/alacner/nginx_lua_module) | You can be very simple to execute lua code for nginx | alacner | 22 |
-| 627 |  [lua-nginx-module](https://github.com/openresty/lua-nginx-module) | Embed the Power of Lua into NGINX HTTP servers | openresty | 9419 |
+| 627 |  [lua-nginx-module](https://github.com/openresty/lua-nginx-module) | Embed the Power of Lua into NGINX HTTP servers | openresty | 9423 |
 | 628 |  [Lua-cURLv2](https://github.com/Lua-cURL/Lua-cURLv2) | Lua-cURL is aiming for a full-fledged libcurl binding (easy/multi/share interface) to the functionality of Lua | Lua-cURL | 56 |
 | 629 |  [msysgit](https://github.com/msysgit/msysgit) | msysGit has been superseded by Git for Windows 2.x | msysgit | 1863 |
 | 630 |  [ansicon](https://github.com/adoxa/ansicon) | Process ANSI escape sequences for Windows console programs. | adoxa | 1030 |
 | 631 |  [clink](https://github.com/mridgers/clink) | Bash&#39;s powerful command line editing in cmd.exe | mridgers | 2836 |
-| 632 |  [zlib](https://github.com/madler/zlib) | A massively spiffy yet delicately unobtrusive compression library. | madler | 3001 |
-| 633 |  [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) | A code-searching tool similar to ack, but faster. | ggreer | 22303 |
-| 634 |  [mongoose](https://github.com/cesanta/mongoose) | Embedded Web Server | cesanta | 7340 |
+| 632 |  [zlib](https://github.com/madler/zlib) | A massively spiffy yet delicately unobtrusive compression library. | madler | 3003 |
+| 633 |  [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) | A code-searching tool similar to ack, but faster. | ggreer | 22304 |
+| 634 |  [mongoose](https://github.com/cesanta/mongoose) | Embedded Web Server | cesanta | 7343 |
 | 635 |  [lunamark-standalone](https://github.com/jgm/lunamark-standalone) | Standalone version of lunamark (compiled with no library dependencies) | jgm | 9 |
 | 636 |  [lunamark](https://github.com/jgm/lunamark) | Lua library for conversion between markup formats | jgm | 151 |
 | 637 |  [lrexlib](https://github.com/rrthomas/lrexlib) | A Lua (5.1 and later) binding of various regex library APIs (POSIX, PCRE, PCRE2, GNU, Oniguruma and TRE) | rrthomas | 122 |
@@ -829,9 +829,9 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [qmk_toolbox](https://github.com/qmk/qmk_toolbox) | A Toolbox companion for QMK Firmware | qmk | 1056 |
-| 2 |  [eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb) | Sample ASP.NET Core 5.0 reference application, powered by Microsoft, demonstrating a layered application architecture with monolithic deployment model. Download the eBook PDF from docs folder. | dotnet-architecture | 6297 |
-| 3 |  [Jackett](https://github.com/Jackett/Jackett) | API Support for your favorite torrent trackers | Jackett | 6131 |
-| 4 |  [LuaDkmDebugger](https://github.com/WheretIB/LuaDkmDebugger) | Visual Studio C++ debugger extensions for Lua | WheretIB | 36 |
+| 2 |  [eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb) | Sample ASP.NET Core 5.0 reference application, powered by Microsoft, demonstrating a layered application architecture with monolithic deployment model. Download the eBook PDF from docs folder. | dotnet-architecture | 6300 |
+| 3 |  [Jackett](https://github.com/Jackett/Jackett) | API Support for your favorite torrent trackers | Jackett | 6134 |
+| 4 |  [LuaDkmDebugger](https://github.com/WheretIB/LuaDkmDebugger) | Visual Studio C++ debugger extensions for Lua | WheretIB | 37 |
 | 5 |  [omnisharp-roslyn](https://github.com/OmniSharp/omnisharp-roslyn) | OmniSharp server (HTTP, STDIO) based on Roslyn workspaces | OmniSharp | 1135 |
 | 6 |  [VSCodeLuaDebug](https://github.com/devcat-studio/VSCodeLuaDebug) | Visual Studio Code debugger extension for Lua 5.1/5.2/5.3 | devcat-studio | 60 |
 | 7 |  [luaide-lite](https://github.com/hsu2017/luaide-lite) | Lua developement and debug tools. | hsu2017 | 89 |
@@ -840,9 +840,9 @@
 | 10 |  [ipfilter](https://github.com/DavidMoore/ipfilter) | Keeps your preferred Bit Torrent client blocklist up to date to support your privacy and security | DavidMoore | 259 |
 | 11 |  [ProcMonDebugOutput](https://github.com/Wintellect/ProcMonDebugOutput) | See your trace statements in Sysinternals Process Monitor | Wintellect | 70 |
 | 12 |  [NppDB](https://github.com/gutkyu/NppDB) | Notepad++ Plugin to connect a database and execute a sql query | gutkyu | 16 |
-| 13 |  [gitextensions](https://github.com/gitextensions/gitextensions) | Git Extensions is a standalone UI tool for managing git repositories. It also integrates with Windows Explorer and Microsoft Visual Studio (2015/2017/2019). | gitextensions | 5749 |
+| 13 |  [gitextensions](https://github.com/gitextensions/gitextensions) | Git Extensions is a standalone UI tool for managing git repositories. It also integrates with Windows Explorer and Microsoft Visual Studio (2015/2017/2019). | gitextensions | 5750 |
 | 14 |  [ColorHighlighter](https://github.com/Monnoroch/ColorHighlighter) | ColorHighlighter - is a plugin for the Sublime text 2 and 3, which underlays selected hexadecimal colorcodes (like &#34;#FFFFFF&#34;, &#34;rgb(255,255,255)&#34;, &#34;white&#34;, etc.) with their real color. Also, plugin adds color picker to easily modify colors. Documentation: https://monnoroch.github.io/ColorHighlighter. | Monnoroch | 1309 |
-| 15 |  [ShareX](https://github.com/ShareX/ShareX) | ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from. | ShareX | 16688 |
+| 15 |  [ShareX](https://github.com/ShareX/ShareX) | ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from. | ShareX | 16694 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -866,13 +866,13 @@
 | 15 |  [grus4](https://github.com/sshspb/grus4) |  | sshspb | 1 |
 | 16 |  [grus](https://github.com/sshspb/grus) | remote gsm termometr | sshspb | 1 |
 | 17 |  [grus2](https://github.com/sshspb/grus2) | SMS thermometer | sshspb | 1 |
-| 18 |  [serenity](https://github.com/SerenityOS/serenity) | The Serenity Operating System 🐞 | SerenityOS | 14185 |
+| 18 |  [serenity](https://github.com/SerenityOS/serenity) | The Serenity Operating System 🐞 | SerenityOS | 14193 |
 | 19 |  [akd](https://github.com/Shatur/akd) | A keyboard userspace daemon :smiling_imp:. | Shatur | 7 |
 | 20 |  [mpv-examples](https://github.com/mpv-player/mpv-examples) | 📚 | mpv-player | 134 |
-| 21 |  [implot](https://github.com/epezent/implot) | Immediate Mode Plotting | epezent | 1723 |
+| 21 |  [implot](https://github.com/epezent/implot) | Immediate Mode Plotting | epezent | 1724 |
 | 22 |  [ImFileDialog](https://github.com/dfranx/ImFileDialog) | A file dialog library for Dear ImGui | dfranx | 230 |
-| 23 |  [imgui](https://github.com/ocornut/imgui) | Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies | ocornut | 30838 |
-| 24 |  [tracy](https://github.com/wolfpld/tracy) | C++ frame profiler | wolfpld | 2523 |
+| 23 |  [imgui](https://github.com/ocornut/imgui) | Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies | ocornut | 30846 |
+| 24 |  [tracy](https://github.com/wolfpld/tracy) | C++ frame profiler | wolfpld | 2524 |
 | 25 |  [clock-n-temp](https://github.com/xFA25E/clock-n-temp) | Simple arduino clock and termometer | xFA25E | 1 |
 | 26 |  [Selene](https://github.com/jeremyong/Selene) | Simple C++11 friendly header-only bindings to Lua | jeremyong | 783 |
 | 27 |  [fcitx5](https://github.com/fcitx/fcitx5) | maybe a new fcitx. | fcitx | 548 |
@@ -884,26 +884,26 @@
 | 33 |  [vlc-bittorrent](https://github.com/johang/vlc-bittorrent) | A bittorrent plugin for VLC. | johang | 210 |
 | 34 |  [btfs](https://github.com/johang/btfs) | A bittorrent filesystem based on FUSE. | johang | 2944 |
 | 35 |  [Hawck](https://github.com/snyball/Hawck) | Key-rebinding daemon for Linux (Wayland/X11/Console) | snyball | 249 |
-| 36 |  [flameshot](https://github.com/flameshot-org/flameshot) | Powerful yet simple to use screenshot software :desktop_computer: :camera_flash: | flameshot-org | 13729 |
+| 36 |  [flameshot](https://github.com/flameshot-org/flameshot) | Powerful yet simple to use screenshot software :desktop_computer: :camera_flash: | flameshot-org | 13737 |
 | 37 |  [lsp-tk-lib](https://github.com/sadko4u/lsp-tk-lib) | Graphical toolkit library used by LSP Plugins | sadko4u | 3 |
-| 38 |  [newsboat](https://github.com/newsboat/newsboat) | An RSS/Atom feed reader for text terminals | newsboat | 1665 |
+| 38 |  [newsboat](https://github.com/newsboat/newsboat) | An RSS/Atom feed reader for text terminals | newsboat | 1666 |
 | 39 |  [zypper](https://github.com/openSUSE/zypper) | World&#39;s most powerful command line package manager | openSUSE | 244 |
-| 40 |  [cli-visualizer](https://github.com/dpayne/cli-visualizer) | CLI based audio visualizer | dpayne | 1515 |
+| 40 |  [cli-visualizer](https://github.com/dpayne/cli-visualizer) | CLI based audio visualizer | dpayne | 1516 |
 | 41 |  [enchant](https://github.com/AbiWord/enchant) | enchant spellchecking library | AbiWord | 233 |
 | 42 |  [thermal_daemon](https://github.com/intel/thermal_daemon) | Thermal daemon for IA | intel | 341 |
 | 43 |  [luaspell](https://github.com/rychly/luaspell) | Lua binding for Hunspell (a mirror repository, see the link). | rychly | 1 |
 | 44 |  [hunspell](https://github.com/hunspell/hunspell) | The most popular spellchecking library. | hunspell | 1270 |
 | 45 |  [tdlight-telegram-bot-api](https://github.com/spontanurlaub/tdlight-telegram-bot-api) | The Telegram Bot API provides an HTTP API for creating Telegram Bots. | spontanurlaub | 2 |
-| 46 |  [td](https://github.com/tdlib/td) | Cross-platform library for building Telegram clients | tdlib | 3708 |
-| 47 |  [mu](https://github.com/djcb/mu) | maildir indexer/searcher + emacs mail client + guile bindings | djcb | 1301 |
-| 48 |  [ugrep](https://github.com/Genivia/ugrep) | 🔍NEW ugrep v3.3: ultra fast grep with interactive query UI and fuzzy search: search file systems, source code, text, binary files, archives (cpio/tar/pax/zip), compressed files (gz/Z/bz2/lzma/xz/lz4/zstd), documents and more. A faster, user-friendly and compatible grep replacement. | Genivia | 764 |
+| 46 |  [td](https://github.com/tdlib/td) | Cross-platform library for building Telegram clients | tdlib | 3712 |
+| 47 |  [mu](https://github.com/djcb/mu) | maildir indexer/searcher + emacs mail client + guile bindings | djcb | 1302 |
+| 48 |  [ugrep](https://github.com/Genivia/ugrep) | 🔍NEW ugrep v3.3: ultra fast grep with interactive query UI and fuzzy search: search file systems, source code, text, binary files, archives (cpio/tar/pax/zip), compressed files (gz/Z/bz2/lzma/xz/lz4/zstd), documents and more. A faster, user-friendly and compatible grep replacement. | Genivia | 765 |
 | 49 |  [qnvim](https://github.com/sassanh/qnvim) | Neovim backend for Qt Creator | sassanh | 86 |
 | 50 |  [RescueAVR](https://github.com/felias-fogg/RescueAVR) |  | felias-fogg | 19 |
 | 51 |  [OneWire](https://github.com/felias-fogg/OneWire) | Modification of original Arduino library to make it runnable under 1MHz | felias-fogg | 6 |
 | 52 |  [TXOnlySerial](https://github.com/felias-fogg/TXOnlySerial) | Transmit-only Software Serial Arduino library | felias-fogg | 3 |
 | 53 |  [SlowSoftWire](https://github.com/felias-fogg/SlowSoftWire) |  | felias-fogg | 18 |
 | 54 |  [xkb-switch](https://github.com/grwlf/xkb-switch) | Switch your X keyboard layouts from the command line | grwlf | 257 |
-| 55 |  [rehex](https://github.com/solemnwarning/rehex) | Reverse Engineers&#39; Hex Editor | solemnwarning | 1711 |
+| 55 |  [rehex](https://github.com/solemnwarning/rehex) | Reverse Engineers&#39; Hex Editor | solemnwarning | 1712 |
 | 56 |  [NanoVFO_3](https://github.com/andrey-belokon/NanoVFO_3) | Si5351 VFO with OLED 1.3 and builtin CW-key | andrey-belokon | 5 |
 | 57 |  [eko](https://github.com/psemiletov/eko) | eko sound editor | psemiletov | 32 |
 | 58 |  [tea-qt](https://github.com/psemiletov/tea-qt) | TEA text editor | psemiletov | 55 |
@@ -911,11 +911,11 @@
 | 60 |  [httpsrv](https://github.com/eantcal/httpsrv) | HttpSrv is a retailed version of a lightweight HTTP server and derives from thttpd provided for for educational purposes. | eantcal | 1 |
 | 61 |  [thttpd](https://github.com/eantcal/thttpd) | TinyHttpServer is a lightweight web server implemented in C++11 | eantcal | 12 |
 | 62 |  [nubasic](https://github.com/eantcal/nubasic) | nuBASIC is an implementation of a BASIC interpreter and IDE for Windows and Linux | eantcal | 29 |
-| 63 |  [LibrePCB](https://github.com/LibrePCB/LibrePCB) | A powerful, innovative and intuitive EDA tool for everyone! | LibrePCB | 1251 |
+| 63 |  [LibrePCB](https://github.com/LibrePCB/LibrePCB) | A powerful, innovative and intuitive EDA tool for everyone! | LibrePCB | 1253 |
 | 64 |  [Ark](https://github.com/ArkScript-lang/Ark) | ArkScript is a small, fast, functional and scripting language for C++ projects | ArkScript-lang | 366 |
 | 65 |  [LRDB](https://github.com/kapecp/LRDB) | Lua Remote DeBugger | kapecp | 1 |
 | 66 |  [GitQlientPlugin](https://github.com/francescmm/GitQlientPlugin) | GitQlientPlugin provides you a plugin to integrate Git in QtCreator full UI oriented | francescmm | 39 |
-| 67 |  [mactype](https://github.com/snowie2000/mactype) | Better font rendering for Windows. | snowie2000 | 6145 |
+| 67 |  [mactype](https://github.com/snowie2000/mactype) | Better font rendering for Windows. | snowie2000 | 6150 |
 | 68 |  [QHexView](https://github.com/Dax89/QHexView) | A versatile Hexadecimal widget for Qt5 | Dax89 | 177 |
 | 69 |  [GitQlient](https://github.com/francescmm/GitQlient) | GitQlient: Multi-platform Git client written with Qt. | francescmm | 609 |
 | 70 |  [I2C-Master-Library](https://github.com/DSSCircuits/I2C-Master-Library) | An alternative library to Arduino&#39;s Wire library | DSSCircuits | 41 |
@@ -936,11 +936,11 @@
 | 85 |  [wmderland](https://github.com/aesophor/wmderland) | 🌳 X11 tiling window manager using space partitioning trees | aesophor | 352 |
 | 86 |  [nmapsi4](https://github.com/nmapsi4/nmapsi4) | NmapSi4 is a complete Qt-based Gui with the design goals to provide a complete nmap interface for Users, in order to management all options of this powerful security net scanner! | nmapsi4 | 15 |
 | 87 |  [iptv_channel_scanner_linux](https://github.com/sdhzdmzzl/iptv_channel_scanner_linux) | scan iptv channel in linux | sdhzdmzzl | 68 |
-| 88 |  [notepadqq](https://github.com/notepadqq/notepadqq) | A simple, general-purpose editor for Linux | notepadqq | 1659 |
-| 89 |  [vnote](https://github.com/vnotex/vnote) | A pleasant note-taking platform. | vnotex | 8279 |
+| 88 |  [notepadqq](https://github.com/notepadqq/notepadqq) | A simple, general-purpose editor for Linux | notepadqq | 1658 |
+| 89 |  [vnote](https://github.com/vnotex/vnote) | A pleasant note-taking platform. | vnotex | 8282 |
 | 90 |  [amsynth](https://github.com/amsynth/amsynth) | Analog Modelling Synthesizer | amsynth | 332 |
 | 91 |  [mpc-qt-origin](https://github.com/cmdrkotori/mpc-qt-origin) | Media Player Classic Qute Theater | cmdrkotori | 63 |
-| 92 |  [qthttpserver](https://github.com/qt-labs/qthttpserver) | Qt HTTP Server | qt-labs | 151 |
+| 92 |  [qthttpserver](https://github.com/qt-labs/qthttpserver) | Qt HTTP Server | qt-labs | 152 |
 | 93 |  [q4wine](https://github.com/brezerk/q4wine) | Q4Wine is a Qt GUI for W.I.N.E. It will help you manage wine prefixes and installed applications. | brezerk | 135 |
 | 94 |  [rofi-calc](https://github.com/davatorium/rofi-calc) |  | davatorium | 6 |
 | 95 |  [rnvim](https://github.com/tricktux/rnvim) | :zap: Fast Multiplatform GUI for neovim | tricktux | 7 |
@@ -953,18 +953,18 @@
 | 102 |  [hexibit](https://github.com/MarkoPaul0/hexibit) | Linux command line tool to analyze hex data. | MarkoPaul0 | 12 |
 | 103 |  [lqt](https://github.com/lqt5/lqt) | Lua Binding for Qt5 | lqt5 | 34 |
 | 104 |  [MD_AD9833](https://github.com/MajicDesigns/MD_AD9833) | Library for using a AD9833 Programmable Waveform Generator hardware by Analog Devices. | MajicDesigns | 21 |
-| 105 |  [defold](https://github.com/defold/defold) | Defold is a completely free to use game engine for development of desktop, mobile and web games. | defold | 1728 |
+| 105 |  [defold](https://github.com/defold/defold) | Defold is a completely free to use game engine for development of desktop, mobile and web games. | defold | 1729 |
 | 106 |  [bad_ducky](https://github.com/mharjac/bad_ducky) | Rubber Ducky compatible clone based on CJMCU BadUSB HW. | mharjac | 222 |
-| 107 |  [cutter](https://github.com/rizinorg/cutter) | Free and Open Source Reverse Engineering Platform powered by rizin | rizinorg | 9517 |
-| 108 |  [Bear](https://github.com/rizsotto/Bear) | Bear is a tool that generates a compilation database for clang tooling. | rizsotto | 2089 |
+| 107 |  [cutter](https://github.com/rizinorg/cutter) | Free and Open Source Reverse Engineering Platform powered by rizin | rizinorg | 9519 |
+| 108 |  [Bear](https://github.com/rizsotto/Bear) | Bear is a tool that generates a compilation database for clang tooling. | rizsotto | 2091 |
 | 109 |  [asteroids](https://github.com/andrejlevkovitch/asteroids) |  | andrejlevkovitch | 2 |
-| 110 |  [maim](https://github.com/naelstrof/maim) | maim (make image) takes screenshots of your desktop. It has options to take only a region, and relies on slop to query for regions. maim is supposed to be an improved scrot. | naelstrof | 1693 |
+| 110 |  [maim](https://github.com/naelstrof/maim) | maim (make image) takes screenshots of your desktop. It has options to take only a region, and relies on slop to query for regions. maim is supposed to be an improved scrot. | naelstrof | 1694 |
 | 111 |  [amoc](https://github.com/hilgenberg/amoc) | moc branch with ratings | hilgenberg | 3 |
-| 112 |  [Magisk](https://github.com/topjohnwu/Magisk) | The Magic Mask for Android | topjohnwu | 19299 |
+| 112 |  [Magisk](https://github.com/topjohnwu/Magisk) | The Magic Mask for Android | topjohnwu | 19307 |
 | 113 |  [torrent](https://github.com/bonaert/torrent) | Clear and simple torrent client written to learn the Bittorrent protocol. | bonaert | 3 |
 | 114 |  [Mini-Bit-torrent](https://github.com/priyendumori/Mini-Bit-torrent) | Peer-to-peer file sharing system implemented using socket programming and multithreading in C++. Peers can upload and download text and multimedia files using custom format for torrent files called .mtorrent file. | priyendumori | 6 |
 | 115 |  [hcproxy](https://github.com/romkatv/hcproxy) | Fast HTTPS and WebSocket proxy | romkatv | 3 |
-| 116 |  [gitstatus](https://github.com/romkatv/gitstatus) | Git status for Bash and Zsh prompt | romkatv | 1117 |
+| 116 |  [gitstatus](https://github.com/romkatv/gitstatus) | Git status for Bash and Zsh prompt | romkatv | 1115 |
 | 117 |  [LjTools](https://github.com/rochus-keller/LjTools) | LuaJIT 2.0 bytecode parser, viewer, assembler and test VM. Lua 5.1 parser, IDE and debugger. | rochus-keller | 184 |
 | 118 |  [ycm.nvim](https://github.com/vheon/ycm.nvim) | ycmd identifier completion for Neovim | vheon | 5 |
 | 119 |  [ledger](https://github.com/ledger/ledger) | Double-entry accounting system with a command-line reporting interface | ledger | 3918 |
@@ -988,19 +988,19 @@
 | 137 |  [cloud_storage](https://github.com/ivanenko/cloud_storage) | Wfx plugin for Total/Double commander for cloud storages | ivanenko | 18 |
 | 138 |  [uv_link_t-binding](https://github.com/indutny/uv_link_t-binding) | WORK IN PROGRESS | indutny | 1 |
 | 139 |  [tree.nvim](https://github.com/zgpio/tree.nvim) | Neovim file-explorer powered by C++ | zgpio | 156 |
-| 140 |  [kakoune](https://github.com/mawww/kakoune) | mawww&#39;s experiment for a better code editor | mawww | 7282 |
+| 140 |  [kakoune](https://github.com/mawww/kakoune) | mawww&#39;s experiment for a better code editor | mawww | 7281 |
 | 141 |  [WsprryPi](https://github.com/threeme3/WsprryPi) | Bareback LF/MF/HF/VHF WSPR transmitter using a Raspberry Pi | threeme3 | 197 |
 | 142 |  [QCX-SSB](https://github.com/threeme3/QCX-SSB) | This is a simple and experimental modification that transforms your QCX into a (class-E driven) SSB transceiver. | threeme3 | 221 |
 | 143 |  [Arduino-VFO-NCO-AD9951](https://github.com/laserlance/Arduino-VFO-NCO-AD9951) | This is an Arduino library for the Analog Devices AD9951 DDS chip. Learn more here: https://www.laserlance.com/projects/arduino-vfo-using-an-ad9951-dds-shield-and-library/ | laserlance | 2 |
 | 144 |  [MorseArduino](https://github.com/etherkit/MorseArduino) | Generate Morse Code for transmission on a digital I/O pin | etherkit | 10 |
 | 145 |  [Arduino_si5351_VFO_Controller_Keyer](https://github.com/prt459/Arduino_si5351_VFO_Controller_Keyer) | A controller for a multi-band homebrew SSB/CW transceiver, targeting Arduino Nano and si5351 PLL. | prt459 | 32 |
-| 146 |  [qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) | [Unofficial] qBittorrent Enhanced, based on qBittorrent | c0re100 | 6329 |
+| 146 |  [qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) | [Unofficial] qBittorrent Enhanced, based on qBittorrent | c0re100 | 6337 |
 | 147 |  [Arduino-AT28C256-EEPROM-Burner](https://github.com/austinthresher/Arduino-AT28C256-EEPROM-Burner) | This is a simple command line EEPROM burner / reader using an atmega328 for the AT28C256 and similar EEPROMs. | austinthresher | 4 |
 | 148 |  [GitBSLR](https://github.com/Alcaro/GitBSLR) | Make Git follow symlinks | Alcaro | 58 |
 | 149 |  [SoftwareWire](https://github.com/Testato/SoftwareWire) | Creates a software I2C/TWI bus on every pins | Testato | 100 |
 | 150 |  [SlowSoftI2CMaster](https://github.com/felias-fogg/SlowSoftI2CMaster) |  | felias-fogg | 37 |
-| 151 |  [LibreCAD](https://github.com/LibreCAD/LibreCAD) | LibreCAD is a cross-platform 2D CAD program written in C++11 using the Qt framework. It can read DXF and DWG files and can write DXF, PDF and SVG files. The user interface is highly customizable, and has dozens of translations. | LibreCAD | 2407 |
-| 152 |  [Notepad3](https://github.com/rizonesoft/Notepad3) | Notepad like text editor based on the Scintilla source code. Notepad3 based on code from Notepad2 and MiniPath on code from metapath. Download Notepad3: | rizonesoft | 1923 |
+| 151 |  [LibreCAD](https://github.com/LibreCAD/LibreCAD) | LibreCAD is a cross-platform 2D CAD program written in C++11 using the Qt framework. It can read DXF and DWG files and can write DXF, PDF and SVG files. The user interface is highly customizable, and has dozens of translations. | LibreCAD | 2408 |
+| 152 |  [Notepad3](https://github.com/rizonesoft/Notepad3) | Notepad like text editor based on the Scintilla source code. Notepad3 based on code from Notepad2 and MiniPath on code from metapath. Download Notepad3: | rizonesoft | 1924 |
 | 153 |  [MenuArduino](https://github.com/etherkit/MenuArduino) | A generic menu system to be used with a display on an Arduino | etherkit | 3 |
 | 154 |  [scmrtos](https://github.com/scmrtos/scmrtos) | scmRTOS embedded operating system | scmrtos | 105 |
 | 155 |  [Adafruit_Si5351_Library](https://github.com/hasepompase/Adafruit_Si5351_Library) | Driver for Adafruit&#39;s Si5351 Clockgen Breakout | hasepompase | 1 |
@@ -1014,7 +1014,7 @@
 | 163 |  [jack2](https://github.com/jackaudio/jack2) | jack2 codebase | jackaudio | 1538 |
 | 164 |  [RTLSDR-Airband](https://github.com/szpajder/RTLSDR-Airband) | Multichannel AM/NFM demodulator | szpajder | 416 |
 | 165 |  [PothosCore](https://github.com/pothosware/PothosCore) | The Pothos data-flow framework | pothosware | 246 |
-| 166 |  [gnuradio](https://github.com/gnuradio/gnuradio) | GNU Radio – the Free and Open Software Radio Ecosystem | gnuradio | 2879 |
+| 166 |  [gnuradio](https://github.com/gnuradio/gnuradio) | GNU Radio – the Free and Open Software Radio Ecosystem | gnuradio | 2880 |
 | 167 |  [volk](https://github.com/gnuradio/volk) | The Vector Optimized Library of Kernels | gnuradio | 319 |
 | 168 |  [SoapySDR](https://github.com/pothosware/SoapySDR) | Vendor and platform neutral SDR support library. | pothosware | 626 |
 | 169 |  [xbmc](https://github.com/xbmc/xbmc) | Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it&#39;s available for Android, BSD, Linux, macOS, iOS and Windows. | xbmc | 12667 |
@@ -1034,7 +1034,7 @@
 | 183 |  [CubicSDR](https://github.com/cjcliffe/CubicSDR) | Cross-Platform Software-Defined Radio Application | cjcliffe | 1373 |
 | 184 |  [tetris](https://github.com/czwinzscher/tetris) | Tetris for the terminal. | czwinzscher | 2 |
 | 185 |  [auracle](https://github.com/falconindy/auracle) | A flexible command line client for Arch Linux&#39;s User Repository | falconindy | 213 |
-| 186 |  [i2pd](https://github.com/PurpleI2P/i2pd) | 🛡 I2P: End-to-End encrypted and anonymous Internet | PurpleI2P | 1669 |
+| 186 |  [i2pd](https://github.com/PurpleI2P/i2pd) | 🛡 I2P: End-to-End encrypted and anonymous Internet | PurpleI2P | 1670 |
 | 187 |  [RTCG](https://github.com/hiasmstudio/RTCG) | Run Time Code Generator for Hiasm projects | hiasmstudio | 6 |
 | 188 |  [hiasm5](https://github.com/hiasmstudio/hiasm5) | HiAsm 5 IDE | hiasmstudio | 23 |
 | 189 |  [MAX6675-library](https://github.com/adafruit/MAX6675-library) | Arduino library for interfacing with MAX6675 thermocouple amplifier | adafruit | 103 |
@@ -1045,7 +1045,7 @@
 | 194 |  [QN8027](https://github.com/dragon-engineer/QN8027) | QN8027 Single-Chip FM RDS Transmitter Arduino Library | dragon-engineer | 11 |
 | 195 |  [cquery](https://github.com/jacobdufault/cquery) | C/C++ language server supporting multi-million line code base, powered by libclang. Emacs, Vim, VSCode, and others with language server protocol support. Cross references, completion, diagnostics, semantic highlighting and more | jacobdufault | 2334 |
 | 196 |  [LiquidCrystal_I2C](https://github.com/johnrickman/LiquidCrystal_I2C) | LiquidCrystal Arduino library for the DFRobot I2C LCD displays | johnrickman | 362 |
-| 197 |  [EmmyLuaDebugger](https://github.com/EmmyLua/EmmyLuaDebugger) | EmmyLua Debugger | EmmyLua | 100 |
+| 197 |  [EmmyLuaDebugger](https://github.com/EmmyLua/EmmyLuaDebugger) | EmmyLua Debugger | EmmyLua | 101 |
 | 198 |  [SoftWire](https://github.com/stevemarple/SoftWire) | Software I2C implementation for Arduino and other Wiring-type environments | stevemarple | 55 |
 | 199 |  [kaguya](https://github.com/satoren/kaguya) | C++ binding to Lua | satoren | 262 |
 | 200 |  [mythtv](https://github.com/MythTV/mythtv) | The official MythTV repository | MythTV | 564 |
@@ -1053,39 +1053,39 @@
 | 202 |  [fritzing-app](https://github.com/fritzing/fritzing-app) | Fritzing desktop application | fritzing | 2578 |
 | 203 |  [GyverLibs](https://github.com/AlexGyver/GyverLibs) | РЕПОЗИТОРИЙ АРХИВИРОВАН. ВСЕ БИБЛИОТЕКИ ТЕПЕРЬ НАХОДЯТСЯ ЗДЕСЬ https://github.com/GyverLibs | AlexGyver | 391 |
 | 204 |  [optiboot](https://github.com/Optiboot/optiboot) | Small and Fast Bootloader for Arduino and other Atmel AVR chips | Optiboot | 836 |
-| 205 |  [PS2Keyboard](https://github.com/PaulStoffregen/PS2Keyboard) | PS/2 Keyboard Library for Arduino | PaulStoffregen | 90 |
+| 205 |  [PS2Keyboard](https://github.com/PaulStoffregen/PS2Keyboard) | PS/2 Keyboard Library for Arduino | PaulStoffregen | 91 |
 | 206 |  [Terminal-J](https://github.com/jpagliaccio/Terminal-J) | An IBM Model M USB Teensy-based Codable Keyboard Adapter with Arduino Source Code | jpagliaccio | 6 |
 | 207 |  [gqrx](https://github.com/csete/gqrx) | Software defined radio receiver powered by GNU Radio and Qt. | csete | 1838 |
-| 208 |  [qBittorrent](https://github.com/qbittorrent/qBittorrent) | qBittorrent BitTorrent client | qbittorrent | 12615 |
+| 208 |  [qBittorrent](https://github.com/qbittorrent/qBittorrent) | qBittorrent BitTorrent client | qbittorrent | 12620 |
 | 209 |  [LEDcube](https://github.com/AlexGyver/LEDcube) | 8x8x8 LED cube on Arduino | AlexGyver | 30 |
 | 210 |  [encfs](https://github.com/vgough/encfs) | EncFS: an Encrypted Filesystem for FUSE. | vgough | 1740 |
-| 211 |  [asmjit](https://github.com/asmjit/asmjit) | Machine code generation for C++ | asmjit | 2753 |
+| 211 |  [asmjit](https://github.com/asmjit/asmjit) | Machine code generation for C++ | asmjit | 2755 |
 | 212 |  [fluxbox](https://github.com/fluxbox/fluxbox) | Fluxbox Window Manager (Mirror) | fluxbox | 216 |
 | 213 |  [herbstluftwm](https://github.com/herbstluftwm/herbstluftwm) | A manual tiling window manager for X11 | herbstluftwm | 712 |
 | 214 |  [URXVTConfig](https://github.com/daedreth/URXVTConfig) | A graphical user interface tool for configuration of the rxvt-unicode terminal emulator. | daedreth | 157 |
 | 215 |  [i3ipcpp](https://github.com/polybar/i3ipcpp) | C++ interface to i3 ipc | polybar | 5 |
 | 216 |  [xpp](https://github.com/jchnkl/xpp) | xpp - A C++11 RAII wrapper for XCB | jchnkl | 15 |
 | 217 |  [ht](https://github.com/sebastianbiallas/ht) | The HT Editor: A file editor/viewer/analyzer for executables. | sebastianbiallas | 332 |
-| 218 |  [ardupilot](https://github.com/ArduPilot/ardupilot) | ArduPlane, ArduCopter, ArduRover, ArduSub source | ArduPilot | 6045 |
-| 219 |  [Gource](https://github.com/acaudwell/Gource) | software version control visualization | acaudwell | 8610 |
+| 218 |  [ardupilot](https://github.com/ArduPilot/ardupilot) | ArduPlane, ArduCopter, ArduRover, ArduSub source | ArduPilot | 6048 |
+| 219 |  [Gource](https://github.com/acaudwell/Gource) | software version control visualization | acaudwell | 8611 |
 | 220 |  [ccls](https://github.com/MaskRay/ccls) | C/C++/ObjC language server supporting cross references, hierarchies, completion and semantic highlighting | MaskRay | 2524 |
-| 221 |  [sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) | Official home of the DB Browser for SQLite (DB4S) project. Previously known as &#34;SQLite Database Browser&#34; and &#34;Database Browser for SQLite&#34;. Website at: | sqlitebrowser | 15177 |
+| 221 |  [sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) | Official home of the DB Browser for SQLite (DB4S) project. Previously known as &#34;SQLite Database Browser&#34; and &#34;Database Browser for SQLite&#34;. Website at: | sqlitebrowser | 15181 |
 | 222 |  [libtorrent](https://github.com/rakshasa/libtorrent) | libTorrent BitTorrent library | rakshasa | 808 |
 | 223 |  [termite](https://github.com/thestinger/termite) | Termite is obsoleted by Alacritty. Termite was a keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support. | thestinger | 2831 |
 | 224 |  [SyntezSi5351](https://github.com/andrey-belokon/SyntezSi5351) | Simple VFO on Si5351 | andrey-belokon | 15 |
 | 225 |  [Syntez_Si5351_Si570](https://github.com/andrey-belokon/Syntez_Si5351_Si570) | Universal VFO with Si5351 or/and Si570 | andrey-belokon | 16 |
 | 226 |  [DDS_VFO](https://github.com/JeffersGlass/DDS_VFO) | Code for the arduino-controlled VFO based on the Si5351 chip | JeffersGlass | 5 |
 | 227 |  [emu80v4](https://github.com/vpyk/emu80v4) | Emu80 emulator v.4 source code | vpyk | 29 |
-| 228 |  [FreeCAD](https://github.com/FreeCAD/FreeCAD) | This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. Issues are managed on our own bug tracker at https://www.freecadweb.org/tracker | FreeCAD | 9627 |
+| 228 |  [FreeCAD](https://github.com/FreeCAD/FreeCAD) | This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. Issues are managed on our own bug tracker at https://www.freecadweb.org/tracker | FreeCAD | 9629 |
 | 229 |  [rtorrent-ps-ch](https://github.com/chros73/rtorrent-ps-ch) | :art: Extended rTorrent distribution with UI enhancements, colorization, and some added features. | chros73 | 61 |
-| 230 |  [zeal](https://github.com/zealdocs/zeal) | Offline documentation browser inspired by Dash | zealdocs | 8911 |
+| 230 |  [zeal](https://github.com/zealdocs/zeal) | Offline documentation browser inspired by Dash | zealdocs | 8912 |
 | 231 |  [libtorrent](https://github.com/arvidn/libtorrent) | an efficient feature complete C++ bittorrent implementation | arvidn | 3300 |
 | 232 |  [ffmpegthumbnailer](https://github.com/dirkvdb/ffmpegthumbnailer) | Lightweight video thumbnailer that can be used by file managers to create thumbnails for video files | dirkvdb | 295 |
 | 233 |  [qMakeTorrent](https://github.com/kz26/qMakeTorrent) | an advanced torrent file creator with batch functionality, powered by libtorrent-rasterbar | kz26 | 29 |
 | 234 |  [torrent-file-editor](https://github.com/torrent-file-editor/torrent-file-editor) | Qt based GUI tool designed to create and edit .torrent files | torrent-file-editor | 429 |
 | 235 |  [j4-dmenu-desktop](https://github.com/enkore/j4-dmenu-desktop) | A fast desktop menu | enkore | 535 |
 | 236 |  [tvguide](https://github.com/rweather/tvguide) | XMLTV Guide Browser | rweather | 2 |
-| 237 |  [qTox](https://github.com/qTox/qTox) | qTox is a chat, voice, video, and file transfer IM client using the encrypted peer-to-peer Tox protocol. | qTox | 3653 |
+| 237 |  [qTox](https://github.com/qTox/qTox) | qTox is a chat, voice, video, and file transfer IM client using the encrypted peer-to-peer Tox protocol. | qTox | 3654 |
 | 238 |  [pcmanfm-qt](https://github.com/lxqt/pcmanfm-qt) | File manager and desktop icon manager (Qt port of PCManFM and libfm) | lxqt | 223 |
 | 239 |  [MEGAsync](https://github.com/meganz/MEGAsync) | Easy automated syncing between your computers and your MEGA Cloud Drive | meganz | 1046 |
 | 240 |  [sdk](https://github.com/meganz/sdk) | MEGA C++ SDK | meganz | 1026 |
@@ -1105,12 +1105,12 @@
 | 254 |  [cppcheck](https://github.com/danmar/cppcheck) | static analysis of C/C++ code | danmar | 3587 |
 | 255 |  [codeblocks-fast-tabswitch](https://github.com/vdudouyt/codeblocks-fast-tabswitch) | Chrome/Firefox-like tab switching | vdudouyt | 1 |
 | 256 |  [rtorrent](https://github.com/rakshasa/rtorrent) | rTorrent BitTorrent client | rakshasa | 3260 |
-| 257 |  [FarManager](https://github.com/FarGroup/FarManager) | File and Archive Manager | FarGroup | 999 |
+| 257 |  [FarManager](https://github.com/FarGroup/FarManager) | File and Archive Manager | FarGroup | 998 |
 | 258 |  [airdcpp-webclient](https://github.com/airdcpp-web/airdcpp-webclient) | Communal peer-to-peer file sharing application for file servers/NAS devices | airdcpp-web | 124 |
 | 259 |  [airdcpp-webapi](https://github.com/airdcpp/airdcpp-webapi) | Websocket/REST JSON API for AirDC++ core | airdcpp | 10 |
 | 260 |  [airdcpp-core](https://github.com/airdcpp/airdcpp-core) | Cross-platform core library for AirDC++ | airdcpp | 10 |
 | 261 |  [airdcpp-windows](https://github.com/airdcpp/airdcpp-windows) |  | airdcpp | 50 |
-| 262 |  [tdesktop](https://github.com/telegramdesktop/tdesktop) | Telegram Desktop messaging app | telegramdesktop | 16077 |
+| 262 |  [tdesktop](https://github.com/telegramdesktop/tdesktop) | Telegram Desktop messaging app | telegramdesktop | 16082 |
 | 263 |  [polybar](https://github.com/polybar/polybar) | A fast and easy-to-use status bar | polybar | 8879 |
 | 264 |  [FBReader](https://github.com/gordeevso/FBReader) | Official FBReader C++ project repository | gordeevso | 3 |
 | 265 |  [psi](https://github.com/psi-im/psi) | XMPP client | psi-im | 343 |
@@ -1118,26 +1118,26 @@
 | 267 |  [RunestoneServer](https://github.com/RunestoneInteractive/RunestoneServer) | Interactive books for computer science | RunestoneInteractive | 517 |
 | 268 |  [FBReader](https://github.com/geometer/FBReader) | Official FBReader C++ project repository | geometer | 491 |
 | 269 |  [tinytinyhttpd](https://github.com/mattn/tinytinyhttpd) | tiny tiny httpd | mattn | 81 |
-| 270 |  [conky](https://github.com/brndnmtthws/conky) | Light-weight system monitor for X. | brndnmtthws | 4800 |
+| 270 |  [conky](https://github.com/brndnmtthws/conky) | Light-weight system monitor for X. | brndnmtthws | 4802 |
 | 271 |  [neovim-qt](https://github.com/equalsraf/neovim-qt) | Neovim client library and GUI, in Qt5. | equalsraf | 1145 |
-| 272 |  [qt-solutions](https://github.com/qtproject/qt-solutions) |  | qtproject | 846 |
+| 272 |  [qt-solutions](https://github.com/qtproject/qt-solutions) |  | qtproject | 847 |
 | 273 |  [far-git-autocomplete](https://github.com/excelsior-oss/far-git-autocomplete) | Git Autocomplete is a Far Manager plugin | excelsior-oss | 18 |
 | 274 |  [nppPluginManager](https://github.com/bruderstein/nppPluginManager) | Notepad++ Plugin Manager | bruderstein | 1615 |
 | 275 |  [rtags](https://github.com/Andersbakken/rtags) | A client/server indexer for c/c++/objc[++] with integration for Emacs based on clang. | Andersbakken | 1703 |
-| 276 |  [simulavr](https://github.com/Traumflug/simulavr) | A fork of SimulAVR (http://www.nongnu.org/simulavr/) for handling contributions. The practical SIMINFO mechanism implemented here wasn&#39;t accepted upstream, but is crucial for Teacup Firmware simulations, so this fork will stay ... and follow upstream. Default branch is &#39;traumflug&#39;, master here matches master on nongnu.org. | Traumflug | 36 |
+| 276 |  [simulavr](https://github.com/Traumflug/simulavr) | A fork of SimulAVR (http://www.nongnu.org/simulavr/) for handling contributions. The practical SIMINFO mechanism implemented here wasn&#39;t accepted upstream, but is crucial for Teacup Firmware simulations, so this fork will stay ... and follow upstream. Default branch is &#39;traumflug&#39;, master here matches master on nongnu.org. | Traumflug | 37 |
 | 277 |  [hunspell](https://github.com/luapower/hunspell) | hunspell Lua+ffi binding | luapower | 5 |
-| 278 |  [innoextract](https://github.com/dscharrer/innoextract) | A tool to unpack installers created by Inno Setup | dscharrer | 454 |
+| 278 |  [innoextract](https://github.com/dscharrer/innoextract) | A tool to unpack installers created by Inno Setup | dscharrer | 455 |
 | 279 |  [unetbootin](https://github.com/unetbootin/unetbootin) | UNetbootin installs Linux/BSD distributions to a partition or USB drive | unetbootin | 1777 |
 | 280 |  [sciter-sdk](https://github.com/c-smile/sciter-sdk) | Sciter is an embeddable HTML/CSS/scripting engine | c-smile | 1615 |
 | 281 |  [evil-programmers](https://github.com/trexinc/evil-programmers) | Misc. Far plugins and tools by evil programmers | trexinc | 46 |
 | 282 |  [lua-rapidjson](https://github.com/xpol/lua-rapidjson) | A JSON module for Lua based on the very fast RapidJSON library. | xpol | 220 |
 | 283 |  [kalibrate-rtl](https://github.com/steve-m/kalibrate-rtl) | fork of http://thre.at/kalibrate/ for use with rtl-sdr devices | steve-m | 364 |
 | 284 |  [sslsniff](https://github.com/moxie0/sslsniff) | A tool for automated MITM attacks on SSL connections. | moxie0 | 480 |
-| 285 |  [notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) | Notepad++ official repository | notepad-plus-plus | 13884 |
+| 285 |  [notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) | Notepad++ official repository | notepad-plus-plus | 13887 |
 | 286 |  [YMSPlugins](https://github.com/yutsis/YMSPlugins) | A series of plugins for FAR Manager | yutsis | 5 |
 | 287 |  [wxPython-Classic](https://github.com/wxWidgets/wxPython-Classic) | This is the repository for &#34;Classic&#34; wxPython. All new development is happening in the Phoenix project at https://github.com/wxWidgets/Phoenix | wxWidgets | 285 |
-| 288 |  [wxWidgets](https://github.com/wxWidgets/wxWidgets) | Cross-Platform GUI Library - Report issues here: https://trac.wxwidgets.org/ | wxWidgets | 3789 |
-| 289 |  [ninja](https://github.com/ninja-build/ninja) | a small build system with a focus on speed | ninja-build | 7084 |
+| 288 |  [wxWidgets](https://github.com/wxWidgets/wxWidgets) | Cross-Platform GUI Library - Report issues here: https://trac.wxwidgets.org/ | wxWidgets | 3791 |
+| 289 |  [ninja](https://github.com/ninja-build/ninja) | a small build system with a focus on speed | ninja-build | 7086 |
 | 290 |  [quiterss](https://github.com/QuiteRSS/quiterss) | Free news feeds reader | QuiteRSS | 715 |
 | 291 |  [libzmq](https://github.com/zeromq/libzmq) | ZeroMQ core engine in C++, implements ZMTP/3.1 | zeromq | 7102 |
 | 292 |  [aJson](https://github.com/interactive-matter/aJson) | aJson is an Arduino library to enable JSON processing with Arduino. It easily enables you to decode, create, manipulate and encode JSON directly from and to data structures. | interactive-matter | 563 |
@@ -1149,25 +1149,25 @@
 | 298 |  [TinyGPSPlus](https://github.com/mikalhart/TinyGPSPlus) | A new, customizable Arduino NMEA parsing library | mikalhart | 689 |
 | 299 |  [i2c_t3](https://github.com/nox771/i2c_t3) | Enhanced I2C library for Teensy 3.x devices | nox771 | 148 |
 | 300 |  [subvim](https://github.com/fatih/subvim) | Vim customized to be like SublimeText | fatih | 1137 |
-| 301 |  [DIE-engine](https://github.com/horsicq/DIE-engine) | DIE engine | horsicq | 804 |
+| 301 |  [DIE-engine](https://github.com/horsicq/DIE-engine) | DIE engine | horsicq | 805 |
 | 302 |  [LeweiTcpClient](https://github.com/lewei50/LeweiTcpClient) | An arduino example（TCP） with  Lewei50 (IOT)  platform for free use . | lewei50 | 11 |
-| 303 |  [aria2](https://github.com/aria2/aria2) | aria2 is a lightweight multi-protocol &amp; multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink. | aria2 | 23337 |
-| 304 |  [nghttp2](https://github.com/nghttp2/nghttp2) | nghttp2 - HTTP/2 C Library and tools | nghttp2 | 3767 |
+| 303 |  [aria2](https://github.com/aria2/aria2) | aria2 is a lightweight multi-protocol &amp; multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink. | aria2 | 23339 |
+| 304 |  [nghttp2](https://github.com/nghttp2/nghttp2) | nghttp2 - HTTP/2 C Library and tools | nghttp2 | 3768 |
 | 305 |  [LiteStep](https://github.com/lsdev/LiteStep) | LiteStep Alternative Shell | lsdev | 87 |
 | 306 |  [EtherCard](https://github.com/njh/EtherCard) | EtherCard is an IPv4 driver for the ENC28J60 chip, compatible with Arduino IDE | njh | 939 |
 | 307 |  [rippled](https://github.com/ripple/rippled) | Decentralized cryptocurrency blockchain daemon implementing the XRP Ledger in C++ | ripple | 3890 |
 | 308 |  [interlua](https://github.com/nsf/interlua) | C++11/Lua bindings generator | nsf | 6 |
 | 309 |  [liteide](https://github.com/visualfc/liteide) | LiteIDE is a simple, open source, cross-platform Go IDE. | visualfc | 6515 |
-| 310 |  [HexRaysCodeXplorer](https://github.com/REhints/HexRaysCodeXplorer) | Hex-Rays Decompiler plugin for better code navigation | REhints | 1637 |
+| 310 |  [HexRaysCodeXplorer](https://github.com/REhints/HexRaysCodeXplorer) | Hex-Rays Decompiler plugin for better code navigation | REhints | 1638 |
 | 311 |  [OllySpelunk](https://github.com/akrutsinger/OllySpelunk) | Code cave finder for OllyDbg v2.01 | akrutsinger | 6 |
 | 312 |  [TrueTemplate](https://github.com/chronoxor/TrueTemplate) | FAR Manager editor plugin for edit and compile source files | chronoxor | 12 |
 | 313 |  [QtWeb](https://github.com/magist3r/QtWeb) | QtWeb Internet Browser | magist3r | 65 |
 | 314 |  [decoda](https://github.com/unknownworlds/decoda) | Decoda Lua IDE and debugger | unknownworlds | 848 |
-| 315 |  [cmder](https://github.com/cmderdev/cmder) | Lovely console emulator package for Windows | cmderdev | 22745 |
-| 316 |  [ConEmu](https://github.com/Maximus5/ConEmu) | Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more | Maximus5 | 7367 |
+| 315 |  [cmder](https://github.com/cmderdev/cmder) | Lovely console emulator package for Windows | cmderdev | 22748 |
+| 316 |  [ConEmu](https://github.com/Maximus5/ConEmu) | Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more | Maximus5 | 7369 |
 | 317 |  [luaspell](https://github.com/mkottman/luaspell) | Lua binding for Hunspell | mkottman | 11 |
 | 318 |  [luaspell](https://github.com/ignacio/luaspell) | Lua binding for Hunspell | ignacio | 1 |
-| 319 |  [notepad2-mod](https://github.com/XhmikosR/notepad2-mod) | LOOKING FOR DEVELOPERS - Notepad2-mod, a Notepad2 fork, a fast and light-weight Notepad-like text editor with syntax highlighting | XhmikosR | 1275 |
+| 319 |  [notepad2-mod](https://github.com/XhmikosR/notepad2-mod) | LOOKING FOR DEVELOPERS - Notepad2-mod, a Notepad2 fork, a fast and light-weight Notepad-like text editor with syntax highlighting | XhmikosR | 1276 |
 | 320 |  [aquamatcontrol](https://github.com/musashimm/aquamatcontrol) | Qt based GUI for aquarium controller | musashimm | 2 |
 
 **[⬆ Back to Index](#-contents)**
@@ -1180,7 +1180,7 @@
 | 3 |  [kicad-doc](https://github.com/KiCad/kicad-doc) | KiCad new documentation repository [moved to https://gitlab.com/kicad] | KiCad | 111 |
 | 4 |  [kicad-footprints](https://github.com/KiCad/kicad-footprints) | Official KiCad Footprint Libraries for Kicad version 5 | KiCad | 533 |
 | 5 |  [kicad-packages3D](https://github.com/KiCad/kicad-packages3D) | Official KiCad 3D model libraries for rendering and MCAD integration | KiCad | 409 |
-| 6 |  [kicad-symbols](https://github.com/KiCad/kicad-symbols) | Official KiCad schematic symbol libraries for Kicad 5 | KiCad | 610 |
+| 6 |  [kicad-symbols](https://github.com/KiCad/kicad-symbols) | Official KiCad schematic symbol libraries for Kicad 5 | KiCad | 611 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -1188,9 +1188,9 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [atom-material-ui](https://github.com/atom-material/atom-material-ui) | A dynamic UI theme for Atom that follows Google&#39;s Material Design Guidelines | atom-material | 800 |
-| 2 |  [dotfiles](https://github.com/siduck76/dotfiles) | dotfiles for my beautiful rices! | siduck76 | 202 |
+| 2 |  [dotfiles](https://github.com/siduck76/dotfiles) | dotfiles for my beautiful rices! | siduck76 | 203 |
 | 3 |  [imgui-docs](https://github.com/PossiblyAShrub/imgui-docs) | Documentation for Dear ImGui | PossiblyAShrub | 11 |
-| 4 |  [dotfiles](https://github.com/simrat39/dotfiles) | dots and dots and more dots | simrat39 | 19 |
+| 4 |  [dotfiles](https://github.com/simrat39/dotfiles) | dots and dots and more dots | simrat39 | 21 |
 | 5 |  [dotfiles](https://github.com/e-cal/dotfiles) | Arch, xmonad, polybar, alacritty, rofi, fish, neovim, useful custom scripts, and more. | e-cal | 1 |
 | 6 |  [dotfiles](https://github.com/elenapan/dotfiles) | There is no place like ~/ | elenapan | 2491 |
 | 7 |  [an-old-hope-syntax-atom](https://github.com/jesseleite/an-old-hope-syntax-atom) | ⚛️ Atom theme inspired by a galaxy far far away... | jesseleite | 81 |
@@ -1206,7 +1206,7 @@
 | 17 |  [markdown-tree](https://github.com/mil/markdown-tree) | A Sinatra script to serve a hierarchy / tree directory of markdown files. Use intended for small sites built in markdown. | mil | 94 |
 | 18 |  [emacs-bootstrap](https://github.com/editor-bootstrap/emacs-bootstrap) | Your on-the-fly Emacs development environment. | editor-bootstrap | 152 |
 | 19 |  [lua.space](https://github.com/Etiene/lua.space) | The Lua Community Blog | Etiene | 85 |
-| 20 |  [vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap) | Vim Bootstrap is a generator that provides a simple method of generating a configuration for vim / neovim. | editor-bootstrap | 1807 |
+| 20 |  [vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap) | Vim Bootstrap is a generator that provides a simple method of generating a configuration for vim / neovim. | editor-bootstrap | 1808 |
 | 21 |  [Space-Gitea](https://github.com/Th3Whit3Wolf/Space-Gitea) | Spacemacs theme for gitea | Th3Whit3Wolf | 36 |
 | 22 |  [gitea-matrix-template](https://github.com/TylerByte666/gitea-matrix-template) | Custom Gitea Theme! Spruce up gitea&#39;s arc-green template, with a matrix inspired background. | TylerByte666 | 23 |
 | 23 |  [dotfiles](https://github.com/innng/dotfiles) | Dotfiles from my Manjaro xfce + bspwm configuration. | innng | 31 |
@@ -1223,7 +1223,7 @@
 | 34 |  [dotfiles](https://github.com/pradyungn/dotfiles) | A collection of my Linux Dotfiles! | pradyungn | 28 |
 | 35 |  [dotfiles](https://github.com/davay/dotfiles) | A collection of dotfiles from my i3 setup | davay | 5 |
 | 36 |  [openbox_themes](https://github.com/XsiSec/openbox_themes) |  | XsiSec | 4 |
-| 37 |  [plex](https://github.com/IBM/plex) | The package of IBM’s typeface, IBM Plex. | IBM | 6636 |
+| 37 |  [plex](https://github.com/IBM/plex) | The package of IBM’s typeface, IBM Plex. | IBM | 6639 |
 | 38 |  [config-files](https://github.com/yousufinternet/config-files) | My shared dot files | yousufinternet | 14 |
 | 39 |  [Redmond97](https://github.com/matthewmx86/Redmond97) | A WIn9x inspired GTK2/GTK3 theme deveoloped for XFCE4 | matthewmx86 | 27 |
 | 40 |  [wing](https://github.com/kbrsh/wing) | :gem: A beautiful CSS framework designed for minimalists. | kbrsh | 1980 |
@@ -1245,13 +1245,13 @@
 | 56 |  [Spacemacs-rocks](https://github.com/emacs-china/Spacemacs-rocks) | Happy Hacking Emacs &amp; Spacemacs (Simplified Chinese) | emacs-china | 1981 |
 | 57 |  [progit2-ru](https://github.com/progit/progit2-ru) |  | progit | 266 |
 | 58 |  [progit2-uk](https://github.com/progit/progit2-uk) | Ukrainian translation | progit | 26 |
-| 59 |  [msys2.github.io](https://github.com/msys2/msys2.github.io) | The MSYS2 homepage | msys2 | 798 |
+| 59 |  [msys2.github.io](https://github.com/msys2/msys2.github.io) | The MSYS2 homepage | msys2 | 800 |
 | 60 |  [Fira](https://github.com/mozilla/Fira) | Mozilla&#39;s new typeface, used in Firefox OS | mozilla | 4657 |
 | 61 |  [source-sans](https://github.com/adobe-fonts/source-sans) | Sans serif font family for user interface environments | adobe-fonts | 2988 |
-| 62 |  [source-serif](https://github.com/adobe-fonts/source-serif) | Typeface for setting text in many sizes, weights, and languages. Designed to complement Source Sans. | adobe-fonts | 1801 |
-| 63 |  [source-code-pro](https://github.com/adobe-fonts/source-code-pro) | Monospaced font family for user interface and coding environments | adobe-fonts | 17412 |
+| 62 |  [source-serif](https://github.com/adobe-fonts/source-serif) | Typeface for setting text in many sizes, weights, and languages. Designed to complement Source Sans. | adobe-fonts | 1802 |
+| 63 |  [source-code-pro](https://github.com/adobe-fonts/source-code-pro) | Monospaced font family for user interface and coding environments | adobe-fonts | 17410 |
 | 64 |  [Docter](https://github.com/alampros/Docter) | Get that restaurant github flavor at home in your editor. | alampros | 137 |
-| 65 |  [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) | Iconic font aggregator, collection, &amp; patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, &amp; more | ryanoasis | 29103 |
+| 65 |  [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) | Iconic font aggregator, collection, &amp; patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, &amp; more | ryanoasis | 29109 |
 | 66 |  [progit2](https://github.com/progit/progit2) | Pro Git 2nd Edition | progit | 4335 |
 | 67 |  [obsidian-color-scheme](https://github.com/gcollic/obsidian-color-scheme) | A dark color scheme for code editors and highlighters | gcollic | 1 |
 | 68 |  [obsidian-color-scheme](https://github.com/mekwall/obsidian-color-scheme) | A dark color scheme for code editors and highlighters | mekwall | 276 |
@@ -1264,8 +1264,8 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [dotfiles](https://github.com/camspiers/dotfiles) | Dotfiles (macOS, stow, brew, yabai, nvim, kitty, tmux) | camspiers | 166 |
 | 2 |  [asciinema-player](https://github.com/asciinema/asciinema-player) | Web player for terminal session recordings ⏩ | asciinema | 1786 |
-| 3 |  [FiraCode](https://github.com/tonsky/FiraCode) | Free monospaced font with programming ligatures | tonsky | 57345 |
-| 4 |  [cider-nrepl](https://github.com/clojure-emacs/cider-nrepl) | A collection of nREPL middleware to enhance Clojure editors with common functionality like definition lookup, code completion, etc. | clojure-emacs | 556 |
+| 3 |  [FiraCode](https://github.com/tonsky/FiraCode) | Free monospaced font with programming ligatures | tonsky | 57354 |
+| 4 |  [cider-nrepl](https://github.com/clojure-emacs/cider-nrepl) | A collection of nREPL middleware to enhance Clojure editors with common functionality like definition lookup, code completion, etc. | clojure-emacs | 557 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -1273,7 +1273,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [atom-vim-mode-plus](https://github.com/t9md/atom-vim-mode-plus) | vim-mode improved | t9md | 1403 |
-| 2 |  [platformio-atom-ide-terminal](https://github.com/platformio/platformio-atom-ide-terminal) | A terminal package for Atom, complete with themes, API and more for PlatformIO IDE | platformio | 615 |
+| 2 |  [platformio-atom-ide-terminal](https://github.com/platformio/platformio-atom-ide-terminal) | A terminal package for Atom, complete with themes, API and more for PlatformIO IDE | platformio | 616 |
 | 3 |  [platformio-atom-ide-debugger](https://github.com/platformio/platformio-atom-ide-debugger) | A debugging front-end for PlatformIO IDE for Atom | platformio | 8 |
 | 4 |  [atom-language-selene](https://github.com/Vexatos/atom-language-selene) | Selene language support in Atom | Vexatos | 1 |
 | 5 |  [language-lua-wow](https://github.com/nebularg/language-lua-wow) | Add syntax highlighting for the World of Warcraft API in Lua files in Atom. | nebularg | 9 |
@@ -1301,7 +1301,7 @@
 | 11 |  [.stumpwm.d](https://github.com/tpine/.stumpwm.d) | My stumpwm configuration files | tpine | 4 |
 | 12 |  [stumpwm-config](https://github.com/alezost/stumpwm-config) | My configuration files for StumpWM | alezost | 46 |
 | 13 |  [stumpwm-init](https://github.com/equwal/stumpwm-init) | I use dwm now. Archived. | equwal | 8 |
-| 14 |  [stumpwm](https://github.com/stumpwm/stumpwm) | The Stump Window Manager | stumpwm | 1512 |
+| 14 |  [stumpwm](https://github.com/stumpwm/stumpwm) | The Stump Window Manager | stumpwm | 1513 |
 | 15 |  [httpd0](https://github.com/eugeneia/httpd0) | A simple HTTP/1.0 server with support for GET and HEAD requests. | eugeneia | 3 |
 | 16 |  [slugelisp](https://github.com/ahungry/slugelisp) | Like sluglisp but for emacs lisp (searching repositories, seeing popularity) | ahungry | 6 |
 | 17 |  [lisp5000](https://github.com/jackpal/lisp5000) | A small dialect of Common Lisp based upon lisp500 | jackpal | 31 |
@@ -1309,8 +1309,8 @@
 | 19 |  [cl-neovim](https://github.com/adolenc/cl-neovim) | Common lisp client for neovim | adolenc | 74 |
 | 20 |  [hunchentoot](https://github.com/edicl/hunchentoot) | Web server written in Common Lisp | edicl | 600 |
 | 21 |  [rulisp](https://github.com/archimag/rulisp) | Russian Common Lisp community site | archimag | 32 |
-| 22 |  [sly](https://github.com/joaotavora/sly) | Sylvester the Cat&#39;s Common Lisp IDE | joaotavora | 827 |
-| 23 |  [slime](https://github.com/slime/slime) | The Superior Lisp Interaction Mode for Emacs | slime | 1473 |
+| 22 |  [sly](https://github.com/joaotavora/sly) | Sylvester the Cat&#39;s Common Lisp IDE | joaotavora | 828 |
+| 23 |  [slime](https://github.com/slime/slime) | The Superior Lisp Interaction Mode for Emacs | slime | 1474 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -1318,7 +1318,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [awesome-crystal](https://github.com/veelenga/awesome-crystal) | :gem: A collection of awesome Crystal libraries, tools, frameworks and software | veelenga | 2823 |
-| 2 |  [crystal](https://github.com/crystal-lang/crystal) | The Crystal Programming Language | crystal-lang | 16634 |
+| 2 |  [crystal](https://github.com/crystal-lang/crystal) | The Crystal Programming Language | crystal-lang | 16632 |
 | 3 |  [crystalline](https://github.com/elbywan/crystalline) | A Language Server Protocol implementation for Crystal. 🔮 | elbywan | 181 |
 | 4 |  [snippets](https://github.com/alexherbo2/snippets) | An editor agnostic command-line tool for managing snippets | alexherbo2 | 5 |
 | 5 |  [password](https://github.com/alexherbo2/password) | A command-line program for managing passwords | alexherbo2 | 6 |
@@ -1331,7 +1331,7 @@
 ## D
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [tilix](https://github.com/gnunn1/tilix) | A tiling terminal emulator for Linux using GTK+ 3 | gnunn1 | 4541 |
+| 1 |  [tilix](https://github.com/gnunn1/tilix) | A tiling terminal emulator for Linux using GTK+ 3 | gnunn1 | 4542 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -1345,7 +1345,7 @@
 ## Dhall
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [dhall-lang](https://github.com/dhall-lang/dhall-lang) | Maintainable configuration files | dhall-lang | 3200 |
+| 1 |  [dhall-lang](https://github.com/dhall-lang/dhall-lang) | Maintainable configuration files | dhall-lang | 3201 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -1448,7 +1448,7 @@
 | 63 |  [emacs.d](https://github.com/rajcspsg/emacs.d) |  | rajcspsg | 2 |
 | 64 |  [habamax-theme](https://github.com/habamax/habamax-theme) | Emacs theme with boring white background color that gets the job done. | habamax | 15 |
 | 65 |  [Master-Emacs-From-Scratch-with-Solid-Procedures](https://github.com/AbstProcDo/Master-Emacs-From-Scratch-with-Solid-Procedures) | Master Emacs | AbstProcDo | 230 |
-| 66 |  [elfeed](https://github.com/skeeto/elfeed) | An Emacs web feeds client | skeeto | 1081 |
+| 66 |  [elfeed](https://github.com/skeeto/elfeed) | An Emacs web feeds client | skeeto | 1082 |
 | 67 |  [emacs.d](https://github.com/undx/emacs.d) | my emacs bare config | undx | 1 |
 | 68 |  [.emacs.d](https://github.com/neckoPecker/.emacs.d) |  | neckoPecker | 1 |
 | 69 |  [transient](https://github.com/magit/transient) | Transient commands | magit | 315 |
@@ -1469,7 +1469,7 @@
 | 84 |  [nlinum-relative](https://github.com/xcodebuild/nlinum-relative) | Emacs relative line number besed on nlinum-mode | xcodebuild | 61 |
 | 85 |  [zig-mode](https://github.com/ziglang/zig-mode) | Zig mode for Emacs | ziglang | 48 |
 | 86 |  [pocket-reader.el](https://github.com/alphapapa/pocket-reader.el) | Emacs client for Pocket reading list (getpocket.com) | alphapapa | 122 |
-| 87 |  [burly.el](https://github.com/alphapapa/burly.el) | Save and restore frames and windows with their buffers in Emacs | alphapapa | 130 |
+| 87 |  [burly.el](https://github.com/alphapapa/burly.el) | Save and restore frames and windows with their buffers in Emacs | alphapapa | 131 |
 | 88 |  [sxhkd-mode](https://github.com/ymarco/sxhkd-mode) | A simple Emacs major mode to edit sxhkd config files | ymarco | 1 |
 | 89 |  [emacs-rime](https://github.com/DogLooksGood/emacs-rime) | RIME ㄓ in Emacs | DogLooksGood | 254 |
 | 90 |  [duo](https://github.com/chimay/duo) | Library of in place list operations in Emacs-Lisp | chimay | 9 |
@@ -1499,7 +1499,7 @@
 | 114 |  [live-completions](https://github.com/oantolin/live-completions) | Live updating of the *Completions* buffer | oantolin | 21 |
 | 115 |  [placeholder](https://github.com/oantolin/placeholder) | Emacs package to treat any buffer as a template with placeholders to fill-in | oantolin | 9 |
 | 116 |  [epithet](https://github.com/oantolin/epithet) | Emacs package to rename buffers with descriptive names | oantolin | 18 |
-| 117 |  [orderless](https://github.com/oantolin/orderless) | Emacs completion style that matches multiple regexps in any order | oantolin | 187 |
+| 117 |  [orderless](https://github.com/oantolin/orderless) | Emacs completion style that matches multiple regexps in any order | oantolin | 188 |
 | 118 |  [auto-activating-snippets](https://github.com/ymarco/auto-activating-snippets) | Snippets for Emacs that expand as you type | ymarco | 47 |
 | 119 |  [highlight-function-calls](https://github.com/alphapapa/highlight-function-calls) | Highlight function/macro calls in Emacs | alphapapa | 18 |
 | 120 |  [matrix-client.el](https://github.com/alphapapa/matrix-client.el) | A Matrix client for Emacs! | alphapapa | 225 |
@@ -1536,26 +1536,26 @@
 | 151 |  [.emacs.d](https://github.com/s-kostyaev/.emacs.d) | my emacs configs | s-kostyaev | 2 |
 | 152 |  [emacs-fish-colors](https://github.com/snyball/emacs-fish-colors) | Set fish colors according to Emacs faces (useful for vterm) | snyball | 1 |
 | 153 |  [loopy](https://github.com/okamsn/loopy) | A looping and iteration macro. | okamsn | 14 |
-| 154 |  [dotcrafter.el](https://github.com/daviwil/dotcrafter.el) | Manage your dotfiles with Emacs! | daviwil | 29 |
+| 154 |  [dotcrafter.el](https://github.com/daviwil/dotcrafter.el) | Manage your dotfiles with Emacs! | daviwil | 30 |
 | 155 |  [diary-manager](https://github.com/raxod502/diary-manager) | 📔 Simple command-line tool and Emacs package for managing diary entries. | raxod502 | 11 |
 | 156 |  [dumbparens](https://github.com/raxod502/dumbparens) | 📯 Minor mode for Emacs that deals with parens pairs and doesn&#39;t try to be smart about it. | raxod502 | 12 |
 | 157 |  [affe](https://github.com/minad/affe) | :monkey: affe.el - Asynchronous Fuzzy Finder for Emacs | minad | 78 |
 | 158 |  [hasklig-mode](https://github.com/minad/hasklig-mode) | hasklig-mode.el - Hasklig ligatures for emacs | minad | 34 |
-| 159 |  [marginalia](https://github.com/minad/marginalia) | :scroll: marginalia.el - Marginalia in the minibuffer | minad | 219 |
+| 159 |  [marginalia](https://github.com/minad/marginalia) | :scroll: marginalia.el - Marginalia in the minibuffer | minad | 222 |
 | 160 |  [emacs-theme](https://github.com/minad/emacs-theme) |  | minad | 2 |
 | 161 |  [corfu](https://github.com/minad/corfu) | :desert_island: corfu.el - Completion Overlay Region FUnction | minad | 113 |
 | 162 |  [bookmark-view](https://github.com/minad/bookmark-view) | bookmark-view.el - Use bookmarks to persist the current view | minad | 10 |
 | 163 |  [goggles](https://github.com/minad/goggles) | goggles.el - Pulse modified region | minad | 41 |
 | 164 |  [recursion-indicator](https://github.com/minad/recursion-indicator) | Recursion indicator for the mode-line | minad | 8 |
 | 165 |  [polyp](https://github.com/minad/polyp) |  | minad | 6 |
-| 166 |  [emacs-config](https://github.com/oantolin/emacs-config) | My personal Emacs configuration | oantolin | 27 |
-| 167 |  [embark](https://github.com/oantolin/embark) | Emacs Mini-Buffer Actions Rooted in Keymaps | oantolin | 215 |
+| 166 |  [emacs-config](https://github.com/oantolin/emacs-config) | My personal Emacs configuration | oantolin | 28 |
+| 167 |  [embark](https://github.com/oantolin/embark) | Emacs Mini-Buffer Actions Rooted in Keymaps | oantolin | 216 |
 | 168 |  [helm-icons](https://github.com/yyoncho/helm-icons) | Integration between helm and treemacs icons | yyoncho | 41 |
 | 169 |  [emacs-mini-modeline](https://github.com/kiennq/emacs-mini-modeline) | Display emacs mode line in minibuffer | kiennq | 124 |
 | 170 |  [dogEmacs](https://github.com/DogLooksGood/dogEmacs) | personal .emacs.d | DogLooksGood | 53 |
 | 171 |  [joker-theme](https://github.com/DogLooksGood/joker-theme) | A minimal theme for emacs. | DogLooksGood | 14 |
-| 172 |  [meow](https://github.com/DogLooksGood/meow) | modular Emacs on wish / 猫态编辑 | DogLooksGood | 225 |
-| 173 |  [org-super-agenda](https://github.com/alphapapa/org-super-agenda) | Supercharge your Org daily/weekly agenda by grouping items | alphapapa | 920 |
+| 172 |  [meow](https://github.com/DogLooksGood/meow) | modular Emacs on wish / 猫态编辑 | DogLooksGood | 226 |
+| 173 |  [org-super-agenda](https://github.com/alphapapa/org-super-agenda) | Supercharge your Org daily/weekly agenda by grouping items | alphapapa | 921 |
 | 174 |  [elegant-agenda-mode](https://github.com/justinbarclay/elegant-agenda-mode) | My only agenda is to be more elegant. | justinbarclay | 54 |
 | 175 |  [.emacs.d](https://github.com/justinbarclay/.emacs.d) |  | justinbarclay | 6 |
 | 176 |  [parinfer-rust-mode](https://github.com/justinbarclay/parinfer-rust-mode) | Simplifying how you write Lisp | justinbarclay | 98 |
@@ -1590,13 +1590,13 @@
 | 205 |  [emacs-reddigg](https://github.com/thanhvg/emacs-reddigg) | Browse reddit in emacs org-mode. | thanhvg | 29 |
 | 206 |  [dotsies](https://github.com/xenodium/dotsies) | Dot files, Emacs config, etc | xenodium | 31 |
 | 207 |  [emacs-config](https://github.com/jsravn/emacs-config) | my emacs configuration | jsravn | 1 |
-| 208 |  [org2web](https://github.com/tumashu/org2web) | A static site generator based on org-mode | tumashu | 88 |
+| 208 |  [org2web](https://github.com/tumashu/org2web) | A static site generator based on org-mode | tumashu | 87 |
 | 209 |  [ivy-posframe](https://github.com/tumashu/ivy-posframe) | ivy-posframe is a ivy extension, which let ivy use posframe to show its candidate menu, ivy-posframe is a **GNU ELPA** package. | tumashu | 341 |
 | 210 |  [posframe](https://github.com/tumashu/posframe) | Pop a posframe (just a child-frame) at point, posframe is a **GNU ELPA** package! | tumashu | 276 |
 | 211 |  [company-posframe](https://github.com/tumashu/company-posframe) |  | tumashu | 89 |
 | 212 |  [icomplete-vertical](https://github.com/oantolin/icomplete-vertical) | Global Emacs minor mode to display icomplete candidates vertically | oantolin | 79 |
 | 213 |  [el-patch](https://github.com/raxod502/el-patch) | ✨ Future-proof your Emacs Lisp customizations! | raxod502 | 197 |
-| 214 |  [apheleia](https://github.com/raxod502/apheleia) | 🌷 Run code formatter on buffer contents without moving point, using RCS patches and dynamic programming. | raxod502 | 128 |
+| 214 |  [apheleia](https://github.com/raxod502/apheleia) | 🌷 Run code formatter on buffer contents without moving point, using RCS patches and dynamic programming. | raxod502 | 129 |
 | 215 |  [go-eldoc](https://github.com/emacsorphanage/go-eldoc) | eldoc for go language | emacsorphanage | 121 |
 | 216 |  [fennel-layer](https://github.com/mitchellw/fennel-layer) | Spacemacs layer for the Fennel programming language (a lisp that compiles to Lua). | mitchellw | 3 |
 | 217 |  [emacs.d](https://github.com/gkmngrgn/emacs.d) | My personal Emacs configuration | gkmngrgn | 4 |
@@ -1613,13 +1613,13 @@
 | 228 |  [emacs-mini-frame](https://github.com/muffinmad/emacs-mini-frame) | Show minibuffer in child frame on read-from-minibuffer | muffinmad | 158 |
 | 229 |  [eziam-theme-emacs](https://github.com/thblt/eziam-theme-emacs) | A mostly grayscale theme for Emacs, inspired by Tao and Leuven. | thblt | 74 |
 | 230 |  [jbeans-emacs](https://github.com/synic/jbeans-emacs) | Jellybeans.vim based theme for emacs | synic | 24 |
-| 231 |  [tao-theme-emacs](https://github.com/11111000000/tao-theme-emacs) | tao-theme - two uncoloured color themes for EMACS | 11111000000 | 295 |
+| 231 |  [tao-theme-emacs](https://github.com/11111000000/tao-theme-emacs) | tao-theme - two uncoloured color themes for EMACS | 11111000000 | 296 |
 | 232 |  [multiple-cursors.el](https://github.com/magnars/multiple-cursors.el) | Multiple cursors for emacs. | magnars | 1879 |
 | 233 |  [emacs-live-preview](https://github.com/lassik/emacs-live-preview) | Live preview by any shell command while editing | lassik | 13 |
 | 234 |  [home](https://github.com/lassik/home) | Home directory with personal configuration files | lassik | 1 |
 | 235 |  [inheritenv](https://github.com/purcell/inheritenv) | Make emacs temp buffers inherit buffer-local environment variables | purcell | 23 |
 | 236 |  [package-lint](https://github.com/purcell/package-lint) | A linting library for elisp package metadata | purcell | 151 |
-| 237 |  [emacs-everywhere](https://github.com/tecosaur/emacs-everywhere) | System-wide popup Emacs windows for quick edits | tecosaur | 199 |
+| 237 |  [emacs-everywhere](https://github.com/tecosaur/emacs-everywhere) | System-wide popup Emacs windows for quick edits | tecosaur | 202 |
 | 238 |  [.emacs.d](https://github.com/semgilo/.emacs.d) | Personal emacs configuration, customized only for myself | semgilo | 1 |
 | 239 |  [dotfiles](https://github.com/olivertaylor/dotfiles) | My command-line setup | olivertaylor | 15 |
 | 240 |  [sublima](https://github.com/Parveshdhull/sublima) | Sublime like scratches for emacs | Parveshdhull | 8 |
@@ -1629,7 +1629,7 @@
 | 244 |  [ellit-org.el](https://github.com/zevlg/ellit-org.el) | Emacs Lisp Literate programming tool | zevlg | 7 |
 | 245 |  [lsp-docker](https://github.com/emacs-lsp/lsp-docker) | Scripts and configurations to leverage lsp-mode in docker environment | emacs-lsp | 137 |
 | 246 |  [emacs-purpose](https://github.com/bmag/emacs-purpose) | Manage Windows and Buffers According to Purposes | bmag | 443 |
-| 247 |  [shell-pop-el](https://github.com/kyagi/shell-pop-el) | shell-pop.el helps you to use shell easily on Emacs. Only one key action to work. | kyagi | 181 |
+| 247 |  [shell-pop-el](https://github.com/kyagi/shell-pop-el) | shell-pop.el helps you to use shell easily on Emacs. Only one key action to work. | kyagi | 182 |
 | 248 |  [friendly-shell](https://github.com/p3r7/friendly-shell) | :shell: More convenient Emacs shell APIs | p3r7 | 22 |
 | 249 |  [emacs.d](https://github.com/p3r7/emacs.d) |  | p3r7 | 3 |
 | 250 |  [buffer-expose](https://github.com/clemera/buffer-expose) | Visual buffer switching in Emacs using a window grid | clemera | 171 |
@@ -1659,8 +1659,8 @@
 | 274 |  [wanderlust](https://github.com/wanderlust/wanderlust) | Wanderlust Development Repository | wanderlust | 356 |
 | 275 |  [trashed](https://github.com/shingo256/trashed) | Viewing/editing system trash can in Emacs | shingo256 | 18 |
 | 276 |  [company-statistics](https://github.com/company-mode/company-statistics) | Sort completion candidates by previous completion choices | company-mode | 87 |
-| 277 |  [prescient.el](https://github.com/raxod502/prescient.el) | ☄️ Simple but effective sorting and filtering for Emacs. | raxod502 | 403 |
-| 278 |  [selectrum](https://github.com/raxod502/selectrum) | 🔔 Better solution for incremental narrowing in Emacs. | raxod502 | 582 |
+| 277 |  [prescient.el](https://github.com/raxod502/prescient.el) | ☄️ Simple but effective sorting and filtering for Emacs. | raxod502 | 404 |
+| 278 |  [selectrum](https://github.com/raxod502/selectrum) | 🔔 Better solution for incremental narrowing in Emacs. | raxod502 | 583 |
 | 279 |  [dotfiles](https://github.com/avatar-lavventura/dotfiles) | dotfiles | avatar-lavventura | 1 |
 | 280 |  [.emacs.d](https://github.com/KaratasFurkan/.emacs.d) | My literate Emacs configuration | KaratasFurkan | 99 |
 | 281 |  [dot_files](https://github.com/syohex/dot_files) | My dot files | syohex | 55 |
@@ -1719,14 +1719,14 @@
 | 334 |  [centimacro](https://github.com/abo-abo/centimacro) | Assign multiple macros as global key bindings in Emacs | abo-abo | 11 |
 | 335 |  [pamparam](https://github.com/abo-abo/pamparam) | Simple and fast flashcards for Emacs | abo-abo | 206 |
 | 336 |  [define-word](https://github.com/abo-abo/define-word) | Display the definition of word at point in Emacs | abo-abo | 130 |
-| 337 |  [org-download](https://github.com/abo-abo/org-download) | Drag and drop images to Emacs org-mode | abo-abo | 691 |
+| 337 |  [org-download](https://github.com/abo-abo/org-download) | Drag and drop images to Emacs org-mode | abo-abo | 693 |
 | 338 |  [lpy](https://github.com/abo-abo/lpy) | Minimal Python IDE for GNU Emacs | abo-abo | 167 |
 | 339 |  [worf](https://github.com/abo-abo/worf) | vi-like bindings for org-mode | abo-abo | 123 |
 | 340 |  [org-fu](https://github.com/abo-abo/org-fu) | My org-capture and org-protocol setup | abo-abo | 34 |
 | 341 |  [vmacs](https://github.com/jixiuf/vmacs) | my .emacs.d | jixiuf | 50 |
 | 342 |  [multi-vterm](https://github.com/suonlight/multi-vterm) | Managing multiple vterm buffers in Emacs | suonlight | 80 |
 | 343 |  [vterm-toggle](https://github.com/jixiuf/vterm-toggle) | toggles between the vterm buffer and whatever buffer you are editing. | jixiuf | 99 |
-| 344 |  [emacs-winum](https://github.com/deb0ch/emacs-winum) | Window numbers for Emacs - Navigate windows and frames using numbers | deb0ch | 111 |
+| 344 |  [emacs-winum](https://github.com/deb0ch/emacs-winum) | Window numbers for Emacs - Navigate windows and frames using numbers | deb0ch | 112 |
 | 345 |  [persp-projectile](https://github.com/bbatsov/persp-projectile) | Projectile integration for perspective.el | bbatsov | 94 |
 | 346 |  [counsel-projectile](https://github.com/ericdanan/counsel-projectile) | Ivy UI for Projectile | ericdanan | 263 |
 | 347 |  [guru-mode](https://github.com/bbatsov/guru-mode) | Learn to use Emacs the way it was meant to be used (the Emacs guru way) | bbatsov | 83 |
@@ -1750,7 +1750,7 @@
 | 365 |  [dot](https://github.com/mjohanning99/dot) | Config file backup | mjohanning99 | 6 |
 | 366 |  [.emacs.d](https://github.com/ZachMassia/.emacs.d) | My Emacs Config. | ZachMassia | 2 |
 | 367 |  [lsp-pyright](https://github.com/emacs-lsp/lsp-pyright) | lsp-mode :heart: pyright | emacs-lsp | 138 |
-| 368 |  [consult](https://github.com/minad/consult) | consult.el - Consulting completing-read | minad | 291 |
+| 368 |  [consult](https://github.com/minad/consult) | consult.el - Consulting completing-read | minad | 294 |
 | 369 |  [poke-line](https://github.com/RyanMillerC/poke-line) | Minor Emacs mode to show buffer position using a Pokémon! | RyanMillerC | 24 |
 | 370 |  [flycheck-package](https://github.com/purcell/flycheck-package) | Flycheck checker for elisp package metadata | purcell | 33 |
 | 371 |  [flycheck-relint](https://github.com/purcell/flycheck-relint) | Flycheck integration for `relint`, which checks regexps in emacs lisp | purcell | 9 |
@@ -1767,10 +1767,10 @@
 | 382 |  [emacs-defaults](https://github.com/rougier/emacs-defaults) | Defaults setting for vanilla emacs | rougier | 12 |
 | 383 |  [emacs-splash](https://github.com/rougier/emacs-splash) | An alternative splash screen for GNU Emacs | rougier | 45 |
 | 384 |  [svg-tag-mode](https://github.com/rougier/svg-tag-mode) | A minor mode for Emacs that replace keywords with nice SVG labels | rougier | 130 |
-| 385 |  [mu4e-dashboard](https://github.com/rougier/mu4e-dashboard) | A dashboard for mu4e (mu for emacs) | rougier | 308 |
-| 386 |  [elegant-emacs](https://github.com/rougier/elegant-emacs) | A very minimal but elegant emacs (I think) | rougier | 1036 |
-| 387 |  [nano-emacs](https://github.com/rougier/nano-emacs) | GNU Emacs / N Λ N O - Emacs made simple | rougier | 1114 |
-| 388 |  [bufler.el](https://github.com/alphapapa/bufler.el) | A butler for your buffers.  Group buffers into workspaces with programmable rules, and easily switch to and manipulate them. | alphapapa | 243 |
+| 385 |  [mu4e-dashboard](https://github.com/rougier/mu4e-dashboard) | A dashboard for mu4e (mu for emacs) | rougier | 309 |
+| 386 |  [elegant-emacs](https://github.com/rougier/elegant-emacs) | A very minimal but elegant emacs (I think) | rougier | 1037 |
+| 387 |  [nano-emacs](https://github.com/rougier/nano-emacs) | GNU Emacs / N Λ N O - Emacs made simple | rougier | 1116 |
+| 388 |  [bufler.el](https://github.com/alphapapa/bufler.el) | A butler for your buffers.  Group buffers into workspaces with programmable rules, and easily switch to and manipulate them. | alphapapa | 244 |
 | 389 |  [emacs-from-scratch](https://github.com/daviwil/emacs-from-scratch) | An example of a fully custom Emacs configuration developed live on YouTube! | daviwil | 609 |
 | 390 |  [snitch-el](https://github.com/mrmekon/snitch-el) | Firewall for emacs. | mrmekon | 53 |
 | 391 |  [ringemacs](https://github.com/66RING/ringemacs) |  | 66RING | 2 |
@@ -1792,10 +1792,10 @@
 | 407 |  [theme-changer](https://github.com/hadronzoo/theme-changer) | Given a location and day/night color themes, select the appropriate theme based on whether it is day or night | hadronzoo | 87 |
 | 408 |  [jetbrains-darcula-emacs-theme](https://github.com/ianyepan/jetbrains-darcula-emacs-theme) | A complete port of the default JetBrains Darcula theme for Emacs | ianyepan | 34 |
 | 409 |  [moe-theme.el](https://github.com/kuanyui/moe-theme.el) | A customizable colorful eye-candy theme for Emacser. Moe, moe, kyun! | kuanyui | 641 |
-| 410 |  [emacs-ng](https://github.com/emacs-ng/emacs-ng) | A new approach to Emacs - Including TypeScript, Threading, Async I/O, and WebRender. | emacs-ng | 818 |
+| 410 |  [emacs-ng](https://github.com/emacs-ng/emacs-ng) | A new approach to Emacs - Including TypeScript, Threading, Async I/O, and WebRender. | emacs-ng | 819 |
 | 411 |  [with-editor](https://github.com/magit/with-editor) | Use the Emacsclient as the $EDITOR of child processes | magit | 104 |
 | 412 |  [evil-surround](https://github.com/emacs-evil/evil-surround) | you will be surrounded (surround.vim for evil, the extensible vi layer) | emacs-evil | 481 |
-| 413 |  [chemacs2](https://github.com/plexus/chemacs2) | Emacs version switcher, improved | plexus | 272 |
+| 413 |  [chemacs2](https://github.com/plexus/chemacs2) | Emacs version switcher, improved | plexus | 273 |
 | 414 |  [evil-multiedit](https://github.com/hlissner/evil-multiedit) | Multiple cursors for evil-mode, based on iedit | hlissner | 215 |
 | 415 |  [helpful](https://github.com/Wilfred/helpful) | A better Emacs *help* buffer | Wilfred | 663 |
 | 416 |  [mode-icons](https://github.com/ryuslash/mode-icons) | Show icons instead of mode names | ryuslash | 139 |
@@ -1810,7 +1810,7 @@
 | 425 |  [emacs.d](https://github.com/zhenglinj/emacs.d) | [Removed] An Emacs configuration (C/C++/Python-mode improved) | zhenglinj | 1 |
 | 426 |  [.emacs.d](https://github.com/shanhaiying/.emacs.d) | Personal Emacs configuration | shanhaiying | 2 |
 | 427 |  [emacs.d](https://github.com/cmack/emacs.d) | My shared emacs configuration | cmack | 6 |
-| 428 |  [yasnippet](https://github.com/joaotavora/yasnippet) | A template system for Emacs | joaotavora | 2309 |
+| 428 |  [yasnippet](https://github.com/joaotavora/yasnippet) | A template system for Emacs | joaotavora | 2310 |
 | 429 |  [coldnew-emacs](https://github.com/coldnew/coldnew-emacs) | coldnew&#39;s emacs config | coldnew | 32 |
 | 430 |  [emacs-leuven](https://github.com/fniessen/emacs-leuven) | Emacs configuration with packages enabled and a more pleasant set of defaults | fniessen | 62 |
 | 431 |  [emacs-humanoid-themes](https://github.com/humanoid-colors/emacs-humanoid-themes) | Light and dark theme with bright colors for Emacs that supports GUI and terminal | humanoid-colors | 41 |
@@ -1850,7 +1850,7 @@
 | 465 |  [page-break-lines](https://github.com/purcell/page-break-lines) | Emacs: display ugly ^L page breaks as tidy horizontal lines | purcell | 162 |
 | 466 |  [all-the-icons-dired](https://github.com/jtbm37/all-the-icons-dired) | Adds dired support to all-the-icons | jtbm37 | 153 |
 | 467 |  [scimax](https://github.com/jkitchin/scimax) | An emacs starterkit for scientists and engineers | jkitchin | 665 |
-| 468 |  [emacs-dashboard](https://github.com/emacs-dashboard/emacs-dashboard) | An extensible emacs dashboard | emacs-dashboard | 762 |
+| 468 |  [emacs-dashboard](https://github.com/emacs-dashboard/emacs-dashboard) | An extensible emacs dashboard | emacs-dashboard | 765 |
 | 469 |  [golden-ratio.el](https://github.com/roman/golden-ratio.el) | Automatic resizing of Emacs windows to the golden ratio | roman | 496 |
 | 470 |  [monokai-emacs](https://github.com/oneKelvinSmith/monokai-emacs) | Monokai for Emacs is a port of the popular TextMate theme Monokai by Wimer Hazenberg. | oneKelvinSmith | 381 |
 | 471 |  [hydra](https://github.com/abo-abo/hydra) | make Emacs bindings that stick around | abo-abo | 1476 |
@@ -1860,7 +1860,7 @@
 | 475 |  [emacs.d](https://github.com/tkancf/emacs.d) | emacs config file | tkancf | 1 |
 | 476 |  [leaf.el](https://github.com/conao3/leaf.el) | Flexible, declarative, and modern init.el package configuration | conao3 | 289 |
 | 477 |  [evil-magit](https://github.com/emacs-evil/evil-magit) | Black magic or evil keys for magit | emacs-evil | 257 |
-| 478 |  [evil](https://github.com/emacs-evil/evil) | The extensible vi layer for Emacs. | emacs-evil | 2067 |
+| 478 |  [evil](https://github.com/emacs-evil/evil) | The extensible vi layer for Emacs. | emacs-evil | 2069 |
 | 479 |  [evil-collection](https://github.com/emacs-evil/evil-collection) | A set of keybindings for evil-mode | emacs-evil | 761 |
 | 480 |  [emacs-solaire-mode](https://github.com/hlissner/emacs-solaire-mode) | If only certain buffers could be so grossly incandescent. | hlissner | 161 |
 | 481 |  [emacs-hide-mode-line](https://github.com/hlissner/emacs-hide-mode-line) | An Emacs plugin that hides (or masks) the current buffer&#39;s mode-line | hlissner | 39 |
@@ -1875,7 +1875,7 @@
 | 490 |  [.emacs.d](https://github.com/abcdlsj/.emacs.d) | My Emacs Config (evil + modeline + spacemacs-theme/doom-theme + ...). | abcdlsj | 1 |
 | 491 |  [rainbow-delimiters](https://github.com/Fanael/rainbow-delimiters) | Emacs rainbow delimiters mode | Fanael | 494 |
 | 492 |  [mood-line](https://github.com/emacsmirror/mood-line) | A minimal mode-line inspired by doom-modeline | emacsmirror | 1 |
-| 493 |  [dotemacs](https://github.com/angrybacon/dotemacs) | My Emacs configuration | angrybacon | 257 |
+| 493 |  [dotemacs](https://github.com/angrybacon/dotemacs) | My Emacs configuration | angrybacon | 258 |
 | 494 |  [literally.el](https://github.com/zarkone/literally.el) | My literate emacs config | zarkone | 7 |
 | 495 |  [emit](https://github.com/IvanMalison/emit) |  | IvanMalison | 3 |
 | 496 |  [term-manager](https://github.com/IvanMalison/term-manager) | Manage ansi-term buffers using projectile | IvanMalison | 27 |
@@ -1891,17 +1891,17 @@
 | 506 |  [doom.d](https://github.com/Ruin0x11/doom.d) |  | Ruin0x11 | 1 |
 | 507 |  [lsp-ui](https://github.com/emacs-lsp/lsp-ui) | UI integrations for lsp-mode | emacs-lsp | 807 |
 | 508 |  [xwwp](https://github.com/BlueFlo0d/xwwp) | Enhance the Emacs xwidget-webkit browser | BlueFlo0d | 194 |
-| 509 |  [emacs](https://github.com/emacs-mirror/emacs) | Mirror of GNU Emacs | emacs-mirror | 3117 |
+| 509 |  [emacs](https://github.com/emacs-mirror/emacs) | Mirror of GNU Emacs | emacs-mirror | 3118 |
 | 510 |  [dotfiles](https://github.com/brooth/dotfiles) |  | brooth | 3 |
 | 511 |  [icons-in-terminal.el](https://github.com/seagle0128/icons-in-terminal.el) | A utility package to propertize Icon Fonts in both GUI and TUI with Emacs. | seagle0128 | 25 |
 | 512 |  [all-the-icons.el](https://github.com/domtronn/all-the-icons.el) | A utility package to collect various Icon Fonts and propertize them within Emacs. | domtronn | 1118 |
-| 513 |  [grip-mode](https://github.com/seagle0128/grip-mode) | Instant Github-flavored Markdown/Org preview using grip | seagle0128 | 182 |
+| 513 |  [grip-mode](https://github.com/seagle0128/grip-mode) | Instant Github-flavored Markdown/Org preview using grip | seagle0128 | 183 |
 | 514 |  [doom-modeline](https://github.com/seagle0128/doom-modeline) | A fancy and fast mode-line inspired by minimalism design. | seagle0128 | 798 |
 | 515 |  [doom-emacs-private-config](https://github.com/dragarok/doom-emacs-private-config) | Doom emacs config | dragarok | 1 |
 | 516 |  [dots](https://github.com/resloved/dots) | 💾 — Dumb &amp; Opinionated Configurations | resloved | 142 |
 | 517 |  [dotfiles](https://github.com/jeetelongname/dotfiles) | Dotfiles | jeetelongname | 5 |
 | 518 |  [lsp-treemacs](https://github.com/emacs-lsp/lsp-treemacs) | lsp-mode :heart: treemacs | emacs-lsp | 225 |
-| 519 |  [chemacs](https://github.com/plexus/chemacs) | Emacs profile switcher | plexus | 602 |
+| 519 |  [chemacs](https://github.com/plexus/chemacs) | Emacs profile switcher | plexus | 603 |
 | 520 |  [emacs-flycheck-moonscript](https://github.com/hlissner/emacs-flycheck-moonscript) | Flycheck support for moonscript-mode | hlissner | 1 |
 | 521 |  [js-doc](https://github.com/mooz/js-doc) | Insert JsDoc style comment easily in Emacs | mooz | 56 |
 | 522 |  [bspwm-ground-config](https://github.com/Username77177/bspwm-ground-config) | Моя конфигурация для Bspwm, Rofi, Polybar и ещё многих других программ | Username77177 | 11 |
@@ -1933,7 +1933,7 @@
 | 548 |  [oh-my-emacs](https://github.com/damon-kwok/oh-my-emacs) | 💙 Oh My Emacs - A Fast and  Powerful Emacs configuration. ✔️ | damon-kwok | 4 |
 | 549 |  [acme-emacs-theme](https://github.com/ianyepan/acme-emacs-theme) | An Emacs theme inspired by Plan 9&#39;s Acme &amp; Sam Editor | ianyepan | 48 |
 | 550 |  [browse-at-remote](https://github.com/rmuslimov/browse-at-remote) | Browse target page on github/bitbucket from emacs buffers | rmuslimov | 166 |
-| 551 |  [spaceline](https://github.com/TheBB/spaceline) | Powerline theme from Spacemacs | TheBB | 478 |
+| 551 |  [spaceline](https://github.com/TheBB/spaceline) | Powerline theme from Spacemacs | TheBB | 479 |
 | 552 |  [.doom.d](https://github.com/sparkcanon/.doom.d) | My doom emacs config | sparkcanon | 1 |
 | 553 |  [dots](https://github.com/blaenk/dots) | my dot files | blaenk | 51 |
 | 554 |  [emacs-racer](https://github.com/racer-rust/emacs-racer) | Racer support for Emacs | racer-rust | 390 |
@@ -1946,7 +1946,7 @@
 | 561 |  [lsp-latex](https://github.com/ROCKTAKEY/lsp-latex) | Emacs lsp-mode client for LaTeX, on texlab. | ROCKTAKEY | 43 |
 | 562 |  [dotemacs.d](https://github.com/shuxiao9058/dotemacs.d) | My personal Emacs configuration | shuxiao9058 | 3 |
 | 563 |  [dotfiles](https://github.com/APZelos/dotfiles) |  | APZelos | 1 |
-| 564 |  [emacs](https://github.com/dracula/emacs) | 🧛🏻‍♂️ Dark theme for Emacs | dracula | 207 |
+| 564 |  [emacs](https://github.com/dracula/emacs) | 🧛🏻‍♂️ Dark theme for Emacs | dracula | 208 |
 | 565 |  [auto-compile](https://github.com/emacscollective/auto-compile) | Automatically compile Emacs Lisp libraries | emacscollective | 123 |
 | 566 |  [emacs.g](https://github.com/emacscollective/emacs.g) | The Emacs Collective | emacscollective | 55 |
 | 567 |  [git-messenger](https://github.com/emacsorphanage/git-messenger) | Emacs Port of git-messenger.vim | emacsorphanage | 138 |
@@ -1954,11 +1954,11 @@
 | 569 |  [dotfiles](https://github.com/czwinzscher/dotfiles) |  | czwinzscher | 3 |
 | 570 |  [emacs.d](https://github.com/phenix3443/emacs.d) | Emacs配置文件 | phenix3443 | 7 |
 | 571 |  [company-box](https://github.com/sebastiencs/company-box) | A company front-end with icons | sebastiencs | 442 |
-| 572 |  [remacs](https://github.com/remacs/remacs) | Rust :heart: Emacs | remacs | 4479 |
+| 572 |  [remacs](https://github.com/remacs/remacs) | Rust :heart: Emacs | remacs | 4478 |
 | 573 |  [flymake-lua](https://github.com/sroccaserra/flymake-lua) | Very small tool I built a long time ago to work with Lua. | sroccaserra | 2 |
 | 574 |  [lsp-lua-emmy](https://github.com/phenix3443/lsp-lua-emmy) | lsp-mode client for EmmyLua-LS-all.jar | phenix3443 | 6 |
 | 575 |  [emacs.d](https://github.com/kmrmt/emacs.d) |  | kmrmt | 1 |
-| 576 |  [dap-mode](https://github.com/emacs-lsp/dap-mode) | Emacs :heart: Debug Adapter Protocol | emacs-lsp | 875 |
+| 576 |  [dap-mode](https://github.com/emacs-lsp/dap-mode) | Emacs :heart: Debug Adapter Protocol | emacs-lsp | 876 |
 | 577 |  [emacs](https://github.com/challenger-deep-theme/emacs) | Emacs Theme | challenger-deep-theme | 132 |
 | 578 |  [radian](https://github.com/raxod502/radian) | 🍉 Dotfiles that marry elegance and practicality. | raxod502 | 326 |
 | 579 |  [flyspell-lazy](https://github.com/rolandwalker/flyspell-lazy) | Improve Emacs flyspell responsiveness using idle timers | rolandwalker | 39 |
@@ -1972,8 +1972,8 @@
 | 587 |  [.emacs.d](https://github.com/asenac/.emacs.d) | My emacs configuration (evil, projectile, helm, rtags, company, flycheck, ycmd...) | asenac | 2 |
 | 588 |  [luamacs](https://github.com/mschuldt/luamacs) | E-Lisp and Lua -- merged! | mschuldt | 6 |
 | 589 |  [minimap](https://github.com/dengste/minimap) | Sidebar showing a &#34;mini-map&#34; of a buffer | dengste | 105 |
-| 590 |  [eglot](https://github.com/joaotavora/eglot) | A client for Language Server Protocol servers | joaotavora | 1170 |
-| 591 |  [straight.el](https://github.com/raxod502/straight.el) | 🍀 Next-generation, purely functional package manager for the Emacs hacker. | raxod502 | 1697 |
+| 590 |  [eglot](https://github.com/joaotavora/eglot) | A client for Language Server Protocol servers | joaotavora | 1171 |
+| 591 |  [straight.el](https://github.com/raxod502/straight.el) | 🍀 Next-generation, purely functional package manager for the Emacs hacker. | raxod502 | 1698 |
 | 592 |  [elisp-bug-hunter](https://github.com/Malabarba/elisp-bug-hunter) | Hunt down errors in elisp files. | Malabarba | 206 |
 | 593 |  [elisp-slime-nav](https://github.com/purcell/elisp-slime-nav) | Slime-style navigation of Emacs Lisp source with M-. &amp; M-, | purcell | 136 |
 | 594 |  [exwm](https://github.com/ch11ng/exwm) | Emacs X Window Manager | ch11ng | 2336 |
@@ -1991,7 +1991,7 @@
 | 606 |  [smart-mode-line](https://github.com/Malabarba/smart-mode-line) | A powerful and beautiful mode-line for Emacs. | Malabarba | 827 |
 | 607 |  [luarocks.el](https://github.com/emacs-pe/luarocks.el) |  | emacs-pe | 6 |
 | 608 |  [dot-emacs](https://github.com/dgutov/dot-emacs) | My .emacs.d directory | dgutov | 6 |
-| 609 |  [emacs-kaolin-themes](https://github.com/ogdenwebb/emacs-kaolin-themes) | Set of eye pleasing themes for GNU Emacs. Supports both GUI and terminal. | ogdenwebb | 459 |
+| 609 |  [emacs-kaolin-themes](https://github.com/ogdenwebb/emacs-kaolin-themes) | Set of eye pleasing themes for GNU Emacs. Supports both GUI and terminal. | ogdenwebb | 458 |
 | 610 |  [emacs-live](https://github.com/overtone/emacs-live) | M-x start-hacking | overtone | 1436 |
 | 611 |  [emacs.d](https://github.com/neeasade/emacs.d) | forest | neeasade | 28 |
 | 612 |  [spacemacs-private](https://github.com/blindFS/spacemacs-private) | Private layer configurations for spacemacs | blindFS | 7 |
@@ -2003,18 +2003,18 @@
 | 618 |  [emacs-theme-gruvbox](https://github.com/greduan/emacs-theme-gruvbox) | Gruvbox is a retro groove color scheme for Emacs. Port of the Vim version. | greduan | 416 |
 | 619 |  [srcery-emacs](https://github.com/srcery-colors/srcery-emacs) | Dark colorscheme for Emacs/Spacemacs. GUI and terminal support | srcery-colors | 107 |
 | 620 |  [dotfiles](https://github.com/liuchengxu/dotfiles) | :nut_and_bolt: Dotfiles for bash, zsh, tmux, emacs, vim, etc | liuchengxu | 181 |
-| 621 |  [lsp-mode](https://github.com/emacs-lsp/lsp-mode) | Emacs client/library for the Language Server Protocol | emacs-lsp | 3438 |
+| 621 |  [lsp-mode](https://github.com/emacs-lsp/lsp-mode) | Emacs client/library for the Language Server Protocol | emacs-lsp | 3440 |
 | 622 |  [.emacs](https://github.com/avelino/.emacs) | Distro emacs | avelino | 7 |
 | 623 |  [seti-theme](https://github.com/caisah/seti-theme) | Emacs theme inspired by Seti Atom Theme | caisah | 31 |
 | 624 |  [using-emacs](https://github.com/zamansky/using-emacs) |  | zamansky | 390 |
 | 625 |  [emacs.d](https://github.com/a13/emacs.d) |  | a13 | 93 |
-| 626 |  [.emacs.d](https://github.com/seagle0128/.emacs.d) | Centaur Emacs - A Fancy and Fast Emacs Configuration | seagle0128 | 1346 |
-| 627 |  [doom-emacs](https://github.com/hlissner/doom-emacs) | An Emacs framework for the stubborn martian hacker | hlissner | 11533 |
+| 626 |  [.emacs.d](https://github.com/seagle0128/.emacs.d) | Centaur Emacs - A Fancy and Fast Emacs Configuration | seagle0128 | 1347 |
+| 627 |  [doom-emacs](https://github.com/hlissner/doom-emacs) | An Emacs framework for the stubborn martian hacker | hlissner | 11539 |
 | 628 |  [dotfiles](https://github.com/galczo5/dotfiles) |  | galczo5 | 36 |
 | 629 |  [.emacs.d](https://github.com/skeeto/.emacs.d) | My personal .emacs.d | skeeto | 109 |
 | 630 |  [emacs](https://github.com/aspiers/emacs) | Adam&#39;s emacs config | aspiers | 10 |
 | 631 |  [ox-hugo](https://github.com/kaushalmodi/ox-hugo) | A carefully crafted Org exporter back-end for Hugo | kaushalmodi | 615 |
-| 632 |  [emacs.d](https://github.com/redguardtoo/emacs.d) | Fast and robust Emacs setup. | redguardtoo | 1965 |
+| 632 |  [emacs.d](https://github.com/redguardtoo/emacs.d) | Fast and robust Emacs setup. | redguardtoo | 1964 |
 | 633 |  [bratex](https://github.com/sbrisard/bratex) | Emacs package for manipulation of brackets in LaTeX mode | sbrisard | 19 |
 | 634 |  [anzu](https://github.com/emacsorphanage/anzu) | Emacs Port of anzu.vim | emacsorphanage | 356 |
 | 635 |  [yafolding.el](https://github.com/zenozeng/yafolding.el) | Yet another folding extension for Emacs | zenozeng | 124 |
@@ -2029,7 +2029,7 @@
 | 644 |  [fill-column-indicator](https://github.com/alpaker/fill-column-indicator) | An Emacs minor mode that graphically indicates the fill column. | alpaker | 208 |
 | 645 |  [.emacs.d](https://github.com/mswift42/.emacs.d) | My Emacs config | mswift42 | 12 |
 | 646 |  [git-gutter-fringe](https://github.com/emacsorphanage/git-gutter-fringe) | Fringe version of git-gutter.el | emacsorphanage | 139 |
-| 647 |  [markdown-mode](https://github.com/jrblevin/markdown-mode) | Emacs Markdown Mode | jrblevin | 654 |
+| 647 |  [markdown-mode](https://github.com/jrblevin/markdown-mode) | Emacs Markdown Mode | jrblevin | 655 |
 | 648 |  [realgud](https://github.com/realgud/realgud) | The Grand &#34;Cathedral&#34; Debugger rewrite | realgud | 735 |
 | 649 |  [.emacs.d](https://github.com/jimeh/.emacs.d) | My personal Emacs config with any quirks, oddities, bugs, and man-eating errors I live with on a daily basis. | jimeh | 45 |
 | 650 |  [emacs-config](https://github.com/stassats/emacs-config) | Emacs configuration files. | stassats | 9 |
@@ -2058,7 +2058,7 @@
 | 673 |  [moonscript-mode](https://github.com/k2052/moonscript-mode) | An Emacs mode for moonscript | k2052 | 11 |
 | 674 |  [mobdebug-mode](https://github.com/purcell/mobdebug-mode) | MobDebug Mode for Emacs | purcell | 1 |
 | 675 |  [helm-make](https://github.com/abo-abo/helm-make) | Select a Makefile target with helm. | abo-abo | 50 |
-| 676 |  [swiper](https://github.com/abo-abo/swiper) | Ivy - a generic completion frontend for Emacs, Swiper - isearch with an overview, and more. Oh, man! | abo-abo | 1882 |
+| 676 |  [swiper](https://github.com/abo-abo/swiper) | Ivy - a generic completion frontend for Emacs, Swiper - isearch with an overview, and more. Oh, man! | abo-abo | 1883 |
 | 677 |  [ace-link](https://github.com/abo-abo/ace-link) | Quickly follow links in Emacs | abo-abo | 173 |
 | 678 |  [cedet](https://github.com/abo-abo/cedet) | My mirror of CEDET (http://cedet.sourceforge.net/). | abo-abo | 5 |
 | 679 |  [cdnjs.el](https://github.com/yasuyk/cdnjs.el) | A front end for http://cdnjs.com | yasuyk | 19 |
@@ -2075,7 +2075,7 @@
 | 690 |  [emacs-which-key](https://github.com/justbur/emacs-which-key) | Emacs package that displays available keybindings in popup | justbur | 1225 |
 | 691 |  [emacs-color-themes](https://github.com/owainlewis/emacs-color-themes) | A collection of custom themes for Emacs. All the themes are named after famous programmers. | owainlewis | 471 |
 | 692 |  [helm-go-package](https://github.com/yasuyk/helm-go-package) | helm sources for Go programming language&#39;s package | yasuyk | 17 |
-| 693 |  [emacs.d](https://github.com/purcell/emacs.d) | An Emacs configuration bundle with batteries included | purcell | 5947 |
+| 693 |  [emacs.d](https://github.com/purcell/emacs.d) | An Emacs configuration bundle with batteries included | purcell | 5949 |
 | 694 |  [mobdebug-mode](https://github.com/deftsp/mobdebug-mode) | MobDebug Mode for Emacs | deftsp | 2 |
 | 695 |  [PlatformIO-Mode](https://github.com/ZachMassia/PlatformIO-Mode) | PlatformIO Integration for Emacs | ZachMassia | 45 |
 | 696 |  [ido-hacks](https://github.com/scottjad/ido-hacks) | ido-hacks improvements for e24 | scottjad | 56 |
@@ -2092,7 +2092,7 @@
 | 707 |  [magit-gh-pulls](https://github.com/sigma/magit-gh-pulls) | Magit plugin for dealing with GitHub pull requests | sigma | 252 |
 | 708 |  [gist.el](https://github.com/defunkt/gist.el) | Yet another Emacs paste mode, this one for Gist. | defunkt | 527 |
 | 709 |  [emacs.d](https://github.com/jd/emacs.d) | My Emacs configuration files | jd | 14 |
-| 710 |  [magit](https://github.com/magit/magit) | It&#39;s Magit! A Git porcelain inside Emacs. | magit | 5161 |
+| 710 |  [magit](https://github.com/magit/magit) | It&#39;s Magit! A Git porcelain inside Emacs. | magit | 5164 |
 | 711 |  [powerline](https://github.com/Dewdrops/powerline) | emacs powerline with better support for Evil | Dewdrops | 46 |
 | 712 |  [airline-themes](https://github.com/AnthonyDiGirolamo/airline-themes) | vim-airline themes https://github.com/vim-airline/vim-airline-themes for emacs powerline https://github.com/milkypostman/powerline | AnthonyDiGirolamo | 117 |
 | 713 |  [powerline](https://github.com/milkypostman/powerline) | emacs powerline | milkypostman | 740 |
@@ -2110,12 +2110,12 @@
 | 725 |  [go-errcheck.el](https://github.com/dominikh/go-errcheck.el) |  | dominikh | 39 |
 | 726 |  [package-filter](https://github.com/milkypostman/package-filter) | Add filtering functionality to Emacs package.el. | milkypostman | 6 |
 | 727 |  [spacemacs](https://github.com/syl20bnr/spacemacs) | A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it&#39;s Emacs *and* Vim! | syl20bnr | 21617 |
-| 728 |  [flycheck](https://github.com/flycheck/flycheck) | On the fly syntax checking for GNU Emacs | flycheck | 2105 |
+| 728 |  [flycheck](https://github.com/flycheck/flycheck) | On the fly syntax checking for GNU Emacs | flycheck | 2106 |
 | 729 |  [muse](https://github.com/alexott/muse) | Emacs MUSE | alexott | 48 |
 | 730 |  [xcscope.el](https://github.com/dkogan/xcscope.el) | cscope interface for (X)Emacs | dkogan | 104 |
 | 731 |  [expand-region.el](https://github.com/magnars/expand-region.el) | Emacs extension to increase selected region by semantic units. | magnars | 1086 |
 | 732 |  [highlight-symbol.el](https://github.com/nschum/highlight-symbol.el) | Emacs: automatic and manual symbol highlighting | nschum | 255 |
-| 733 |  [window-numbering.el](https://github.com/nschum/window-numbering.el) | Emacs: Numbered window shortcuts | nschum | 150 |
+| 733 |  [window-numbering.el](https://github.com/nschum/window-numbering.el) | Emacs: Numbered window shortcuts | nschum | 151 |
 | 734 |  [helm-etags-plus](https://github.com/jixiuf/helm-etags-plus) | etags   interface for Helm on Emacs | jixiuf | 48 |
 | 735 |  [emacs-config-win](https://github.com/MilkLong/emacs-config-win) |  | MilkLong | 1 |
 | 736 |  [ggtags](https://github.com/leoliu/ggtags) | Emacs frontend to GNU Global source code tagging system. | leoliu | 529 |
@@ -2125,9 +2125,9 @@
 | 740 |  [emacs](https://github.com/superbobry/emacs) | My Emacs config | superbobry | 8 |
 | 741 |  [markdown-mode](https://github.com/defunkt/markdown-mode) | Emacs Markdown mode | defunkt | 148 |
 | 742 |  [emacs-neotree](https://github.com/bbatsov/emacs-neotree) | A emacs tree plugin like NerdTree for Vim. | bbatsov | 2 |
-| 743 |  [cider](https://github.com/clojure-emacs/cider) | The Clojure Interactive Development Environment that Rocks for Emacs | clojure-emacs | 3166 |
+| 743 |  [cider](https://github.com/clojure-emacs/cider) | The Clojure Interactive Development Environment that Rocks for Emacs | clojure-emacs | 3167 |
 | 744 |  [ac-slime](https://github.com/purcell/ac-slime) | Emacs auto-complete plugin for Slime symbols | purcell | 111 |
-| 745 |  [company-mode](https://github.com/company-mode/company-mode) | Modular in-buffer completion framework for Emacs | company-mode | 1774 |
+| 745 |  [company-mode](https://github.com/company-mode/company-mode) | Modular in-buffer completion framework for Emacs | company-mode | 1775 |
 | 746 |  [zerodark-theme](https://github.com/NicolasPetton/zerodark-theme) | A dark, medium-contrast theme for Emacs | NicolasPetton | 253 |
 | 747 |  [emacs](https://github.com/niflheim-theme/emacs) | A Niflheim theme for Emacs | niflheim-theme | 14 |
 | 748 |  [emacs-ipython-notebook](https://github.com/tkf/emacs-ipython-notebook) | IPython notebook client in Emacs | tkf | 541 |
@@ -2137,20 +2137,20 @@
 | 752 |  [emacs-neotree](https://github.com/jaypei/emacs-neotree) | A emacs tree plugin like NerdTree for Vim. | jaypei | 1397 |
 | 753 |  [dotemacs](https://github.com/xeno-by/dotemacs) | My personal Emacs configuration | xeno-by | 6 |
 | 754 |  [zenburn-emacs](https://github.com/bbatsov/zenburn-emacs) | The Zenburn colour theme ported to Emacs | bbatsov | 845 |
-| 755 |  [auto-complete](https://github.com/auto-complete/auto-complete) | Emacs auto-complete package | auto-complete | 1603 |
+| 755 |  [auto-complete](https://github.com/auto-complete/auto-complete) | Emacs auto-complete package | auto-complete | 1604 |
 | 756 |  [smart-tab](https://github.com/genehack/smart-tab) | MIGRATED TO https://git.genehack.net/genehack/smart-tab - An intelligent tab completion function for Emacs | genehack | 72 |
 | 757 |  [emacs](https://github.com/sroccaserra/emacs) | My emacs related code | sroccaserra | 11 |
 | 758 |  [lua-mode](https://github.com/immerrr/lua-mode) | Emacs major mode for editing Lua | immerrr | 263 |
 | 759 |  [emacs-configs](https://github.com/alexott/emacs-configs) | My personal Emacs configuration | alexott | 252 |
 | 760 |  [minitest-emacs](https://github.com/arthurnn/minitest-emacs) | A minitest mode for emacs | arthurnn | 42 |
 | 761 |  [projectile](https://github.com/bbatsov/projectile) | Project Interaction Library for Emacs | bbatsov | 3353 |
-| 762 |  [prelude](https://github.com/bbatsov/prelude) | Prelude is an enhanced Emacs 25.1+ distribution that should make your experience with Emacs both more pleasant and more powerful. | bbatsov | 4663 |
+| 762 |  [prelude](https://github.com/bbatsov/prelude) | Prelude is an enhanced Emacs 25.1+ distribution that should make your experience with Emacs both more pleasant and more powerful. | bbatsov | 4662 |
 | 763 |  [better-defaults](https://github.com/technomancy/better-defaults) | A small number of better defaults for Emacs | technomancy | 868 |
 | 764 |  [el-get](https://github.com/dimitri/el-get) | Manage the external elisp bits and pieces upon which you depend! | dimitri | 1564 |
 | 765 |  [egit](https://github.com/jimhourihan/egit) | Emacs git history interface | jimhourihan | 18 |
 | 766 |  [gitsum](https://github.com/leahneukirchen/gitsum) | basic darcsum feelalike for Git | leahneukirchen | 65 |
 | 767 |  [git-emacs](https://github.com/tsgates/git-emacs) | Yet another git mode on emacs for newbies | tsgates | 190 |
-| 768 |  [melpa](https://github.com/melpa/melpa) | Recipes and build machinery for the biggest Emacs package repo | melpa | 2227 |
+| 768 |  [melpa](https://github.com/melpa/melpa) | Recipes and build machinery for the biggest Emacs package repo | melpa | 2228 |
 | 769 |  [elmarmalade](https://github.com/nicferrier/elmarmalade) | emacs-lisp version of the marmalade package repository | nicferrier | 109 |
 | 770 |  [dotfiles](https://github.com/Relrin/dotfiles) | My dotfiles (vim/conky/etc.) | Relrin | 72 |
 
@@ -2170,7 +2170,7 @@
 ## F#
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [fvim](https://github.com/yatli/fvim) | Cross platform Neovim front-end UI, built with F# + Avalonia | yatli | 688 |
+| 1 |  [fvim](https://github.com/yatli/fvim) | Cross platform Neovim front-end UI, built with F# + Avalonia | yatli | 689 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -2233,14 +2233,14 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [goscope](https://github.com/averageflow/goscope) | Watch incoming requests, outgoing responses and logs from your Go Gin Gonic application. | averageflow | 40 |
 | 2 |  [snapd](https://github.com/snapcore/snapd) | The snapd and snap tools enable systems to work with .snap files. | snapcore | 1542 |
-| 3 |  [yq](https://github.com/mikefarah/yq) | yq is a portable command-line YAML processor | mikefarah | 4002 |
+| 3 |  [yq](https://github.com/mikefarah/yq) | yq is a portable command-line YAML processor | mikefarah | 4004 |
 | 4 |  [hexokinase](https://github.com/RRethy/hexokinase) | Fast text scraper to find and convert colours (hex, rgb, rgb, hsl, web colours, custom patterns, etc.) into hex values | RRethy | 12 |
 | 5 |  [i3-vim-nav](https://github.com/termhn/i3-vim-nav) | Seamlessly navigate i3 windows and vim splits | termhn | 101 |
 | 6 |  [zathuraconf](https://github.com/gennaro-tedesco/zathuraconf) | Change zathura colour schemes | gennaro-tedesco | 21 |
 | 7 |  [boilit](https://github.com/gennaro-tedesco/boilit) | create boilerplate structure for neovim plugins | gennaro-tedesco | 18 |
 | 8 |  [stargazer](https://github.com/gennaro-tedesco/stargazer) | github stats from the command line | gennaro-tedesco | 29 |
-| 9 |  [go-ipfs](https://github.com/ipfs/go-ipfs) | IPFS implementation in Go | ipfs | 11729 |
-| 10 |  [chezmoi](https://github.com/twpayne/chezmoi) | Manage your dotfiles across multiple diverse machines, securely. | twpayne | 4078 |
+| 9 |  [go-ipfs](https://github.com/ipfs/go-ipfs) | IPFS implementation in Go | ipfs | 11732 |
+| 10 |  [chezmoi](https://github.com/twpayne/chezmoi) | Manage your dotfiles across multiple diverse machines, securely. | twpayne | 4081 |
 | 11 |  [torpar](https://github.com/varbhat/torpar) | TUI Client for Torrent Paradise | varbhat | 175 |
 | 12 |  [gbt](https://github.com/jtyr/gbt) | Highly configurable prompt builder for Bash, ZSH and PowerShell written in Go. | jtyr | 480 |
 | 13 |  [neoconf](https://github.com/abenz1267/neoconf) | Cli-Tool to handle Neovim configuration. | abenz1267 | 6 |
@@ -2249,7 +2249,7 @@
 | 16 |  [chirpstack-gateway-bridge](https://github.com/brocaar/chirpstack-gateway-bridge) | ChirpStack Gateway Bridge abstracts Packet Forwarder protocols into Protobuf or JSON over MQTT. | brocaar | 334 |
 | 17 |  [dotty](https://github.com/mohkale/dotty) | A delightfully lispy dotfile manager :house: | mohkale | 1 |
 | 18 |  [lspmeta.nvim](https://github.com/glepnir/lspmeta.nvim) |  | glepnir | 11 |
-| 19 |  [noti](https://github.com/variadico/noti) | Monitor a process and trigger a notification. | variadico | 3658 |
+| 19 |  [noti](https://github.com/variadico/noti) | Monitor a process and trigger a notification. | variadico | 3659 |
 | 20 |  [go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) | A simple and complete feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️ | thomaspoignant | 346 |
 | 21 |  [calendarheatmap](https://github.com/nikolaydubina/calendarheatmap) | Calendar heatmap inspired by GitHub contribution activity | nikolaydubina | 311 |
 | 22 |  [ghorg](https://github.com/gabrie30/ghorg) | Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more | gabrie30 | 465 |
@@ -2257,36 +2257,36 @@
 | 24 |  [docker-gen](https://github.com/nginx-proxy/docker-gen) | Generate files from docker container meta-data | nginx-proxy | 3853 |
 | 25 |  [users](https://github.com/chayward1/users) | User accounts and persistent sessions for peons | chayward1 | 1 |
 | 26 |  [lsm](https://github.com/johejo/lsm) | Language Server Manager | johejo | 12 |
-| 27 |  [go-tools](https://github.com/dominikh/go-tools) | Staticcheck - The advanced Go linter | dominikh | 4030 |
+| 27 |  [go-tools](https://github.com/dominikh/go-tools) | Staticcheck - The advanced Go linter | dominikh | 4031 |
 | 28 |  [gocode](https://github.com/stamblerre/gocode) | An autocompletion daemon for the Go programming language | stamblerre | 398 |
 | 29 |  [gocode](https://github.com/mdempsky/gocode) | An autocompletion daemon for the Go programming language | mdempsky | 888 |
 | 30 |  [govisual](https://github.com/liguangsheng/govisual) | Visualize golang project dependencies. | liguangsheng | 2 |
 | 31 |  [go-viz](https://github.com/liguangsheng/go-viz) |  | liguangsheng | 1 |
 | 32 |  [echo-server](https://github.com/jmalloc/echo-server) | An HTTP and WebSocket &#34;echo&#34; server for testing proxies and HTTP clients. | jmalloc | 64 |
-| 33 |  [gogs](https://github.com/gogs/gogs) | Gogs is a painless self-hosted Git service | gogs | 37403 |
+| 33 |  [gogs](https://github.com/gogs/gogs) | Gogs is a painless self-hosted Git service | gogs | 37408 |
 | 34 |  [md2vim](https://github.com/FooSoft/md2vim) | Tool for automatically converting markdown to vimdoc format | FooSoft | 45 |
-| 35 |  [yggdrasil-go](https://github.com/yggdrasil-network/yggdrasil-go) | An experiment in scalable routing as an encrypted IPv6 overlay network | yggdrasil-network | 1607 |
-| 36 |  [cli](https://github.com/urfave/cli) | A simple, fast, and fun package for building command line apps in Go | urfave | 16209 |
+| 35 |  [yggdrasil-go](https://github.com/yggdrasil-network/yggdrasil-go) | An experiment in scalable routing as an encrypted IPv6 overlay network | yggdrasil-network | 1608 |
+| 36 |  [cli](https://github.com/urfave/cli) | A simple, fast, and fun package for building command line apps in Go | urfave | 16216 |
 | 37 |  [godm](https://github.com/halkn/godm) | godm is dotfiles manager written by golang. | halkn | 1 |
 | 38 |  [privtracker](https://github.com/meehow/privtracker) | Private BitTorrent tracker generator | meehow | 56 |
 | 39 |  [alacpretty](https://github.com/solidiquis/alacpretty) | Alacritty is a cross-platform GPU-accelerated terminal emulator. Make it pretty without having to edit your yaml file 🌈 | solidiquis | 120 |
-| 40 |  [glow](https://github.com/charmbracelet/glow) | Render markdown on the CLI, with pizzazz! 💅🏻 | charmbracelet | 6891 |
-| 41 |  [antidot](https://github.com/doron-cohen/antidot) | Cleans up your $HOME from those pesky dotfiles | doron-cohen | 95 |
+| 40 |  [glow](https://github.com/charmbracelet/glow) | Render markdown on the CLI, with pizzazz! 💅🏻 | charmbracelet | 6894 |
+| 41 |  [antidot](https://github.com/doron-cohen/antidot) | Cleans up your $HOME from those pesky dotfiles | doron-cohen | 96 |
 | 42 |  [jarvim](https://github.com/glepnir/jarvim) | Generate a module vim configruation like a VIM PRO | glepnir | 105 |
 | 43 |  [color](https://github.com/fatih/color) | Color package for Go (golang) | fatih | 4490 |
 | 44 |  [widgets_playground](https://github.com/therecipe/widgets_playground) | Showcase example for https://github.com/therecipe/qt | therecipe | 49 |
 | 45 |  [matterbridge](https://github.com/42wim/matterbridge) | bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!) | 42wim | 4093 |
-| 46 |  [kong](https://github.com/alecthomas/kong) | Kong is a command-line parser for Go | alecthomas | 589 |
+| 46 |  [kong](https://github.com/alecthomas/kong) | Kong is a command-line parser for Go | alecthomas | 591 |
 | 47 |  [lazynpm](https://github.com/jesseduffield/lazynpm) | terminal UI for npm | jesseduffield | 308 |
-| 48 |  [lazydocker](https://github.com/jesseduffield/lazydocker) | The lazier way to manage everything docker | jesseduffield | 18053 |
+| 48 |  [lazydocker](https://github.com/jesseduffield/lazydocker) | The lazier way to manage everything docker | jesseduffield | 18055 |
 | 49 |  [m3ufilter](https://github.com/hoshsadiq/m3ufilter) | ABANDONED - A tool that allows to filter specific items from an m3u filter designed for IPTV. | hoshsadiq | 45 |
 | 50 |  [capacitor](https://github.com/norcalli/capacitor) | Simple capacitor code calculator on the command line written in Go and Python. | norcalli | 2 |
-| 51 |  [jid](https://github.com/simeji/jid) | json incremental digger | simeji | 5954 |
+| 51 |  [jid](https://github.com/simeji/jid) | json incremental digger | simeji | 5953 |
 | 52 |  [resh](https://github.com/curusarn/resh) | Rich Enhanced Shell History - Contextual shell history for zsh and bash | curusarn | 332 |
 | 53 |  [rofi-snippet](https://github.com/tkancf/rofi-snippet) | Text expander for linux to be integrated with rofi | tkancf | 5 |
 | 54 |  [go-cairo](https://github.com/ungerik/go-cairo) | Go binding for the cairo graphics library | ungerik | 110 |
 | 55 |  [glot-code-runner](https://github.com/prasmussen/glot-code-runner) | Code runner | prasmussen | 115 |
-| 56 |  [gitea](https://github.com/go-gitea/gitea) | Git with a cup of tea, painless self-hosted git service | go-gitea | 25541 |
+| 56 |  [gitea](https://github.com/go-gitea/gitea) | Git with a cup of tea, painless self-hosted git service | go-gitea | 25549 |
 | 57 |  [go-reddit](https://github.com/vartanbeno/go-reddit) | Go library for accessing the Reddit API. | vartanbeno | 194 |
 | 58 |  [lab](https://github.com/zaquestion/lab) | Lab wraps Git or Hub, making it simple to clone, fork, and interact with repositories on GitLab | zaquestion | 940 |
 | 59 |  [i3ipc](https://github.com/seletskiy/i3ipc) | Go library for communicating with the i3 window manager | seletskiy | 1 |
@@ -2297,15 +2297,15 @@
 | 64 |  [melonbar](https://github.com/onodera-punpun/melonbar) | A hackable bar/panel for X written in Go. | onodera-punpun | 104 |
 | 65 |  [mos](https://github.com/mongoose-os/mos) | The Mongoose OS Command Line Tool - https://mongoose-os.com/docs/mongoose-os/quickstart/setup.md | mongoose-os | 30 |
 | 66 |  [code2img](https://github.com/skanehira/code2img) | generating images of source code | skanehira | 57 |
-| 67 |  [chroma](https://github.com/alecthomas/chroma) | A general purpose syntax highlighter in pure Go | alecthomas | 2875 |
+| 67 |  [chroma](https://github.com/alecthomas/chroma) | A general purpose syntax highlighter in pure Go | alecthomas | 2874 |
 | 68 |  [LetsGO](https://github.com/kudoabhijeet/LetsGO) | Go is an open-source programming language designed for building simple, fast, and reliable software. This repository contains the basics of Go. | kudoabhijeet | 7 |
 | 69 |  [playerbm](https://github.com/altdesktop/playerbm) | 📚 🎧 Bookmark CLI for media players to resume where you left off in audiobooks and podcasts | altdesktop | 19 |
-| 70 |  [direnv](https://github.com/direnv/direnv) | unclutter your .profile | direnv | 7696 |
+| 70 |  [direnv](https://github.com/direnv/direnv) | unclutter your .profile | direnv | 7703 |
 | 71 |  [leges](https://github.com/siadat/leges) | Attribute-based access control (Go pkg + http service) | siadat | 7 |
 | 72 |  [sh](https://github.com/mvdan/sh) | A shell parser, formatter, and interpreter with bash support; includes shfmt | mvdan | 3884 |
 | 73 |  [gotop](https://github.com/cjbassi/gotop) | A terminal based graphical activity monitor inspired by gtop and vtop | cjbassi | 7086 |
 | 74 |  [go-at](https://github.com/windwp/go-at) | cli tool for automatic task | windwp | 1 |
-| 75 |  [gocui](https://github.com/jroimartin/gocui) | Minimalist Go package aimed at creating Console User Interfaces. | jroimartin | 7278 |
+| 75 |  [gocui](https://github.com/jroimartin/gocui) | Minimalist Go package aimed at creating Console User Interfaces. | jroimartin | 7277 |
 | 76 |  [asmfmt](https://github.com/klauspost/asmfmt) | Go Assembler Formatter | klauspost | 193 |
 | 77 |  [bcd](https://github.com/bytesizedhosting/bcd) | The Bytesized Connect Daemon - https://bytesized-hosting.com/connect | bytesizedhosting | 49 |
 | 78 |  [rtorrentrpc](https://github.com/mpl/rtorrentrpc) | Send commands to rtorrent through its scgi/xml-rpc interface. | mpl | 4 |
@@ -2324,21 +2324,21 @@
 | 91 |  [lsm-go](https://github.com/h-michael/lsm-go) | Lanuguage server installation manager | h-michael | 4 |
 | 92 |  [wttr-cli](https://github.com/czwinzscher/wttr-cli) | A cli program that prints the current temperature (and nothing else) from wttr.in | czwinzscher | 1 |
 | 93 |  [lenv](https://github.com/mah0x211/lenv) | Lua Version Manager | mah0x211 | 29 |
-| 94 |  [lazygit](https://github.com/jesseduffield/lazygit) | simple terminal UI for git commands | jesseduffield | 20558 |
+| 94 |  [lazygit](https://github.com/jesseduffield/lazygit) | simple terminal UI for git commands | jesseduffield | 20563 |
 | 95 |  [barista](https://github.com/soumya92/barista) | An i3status alternative in golang | soumya92 | 222 |
 | 96 |  [i3-github-bot](https://github.com/i3/i3-github-bot) | logs.i3wm.org and @i3bot on GitHub | i3 | 7 |
 | 97 |  [go-i3](https://github.com/i3/go-i3) | Package i3 provides a convenient interface to the i3 window manager | i3 | 93 |
 | 98 |  [xteve-project](https://github.com/iamguboss/xteve-project) |  | iamguboss | 1 |
 | 99 |  [ytdl](https://github.com/rylio/ytdl) | YouTube download library and CLI written in Go | rylio | 831 |
 | 100 |  [go-get-youtube](https://github.com/knadh/go-get-youtube) | A tiny Go library + client for downloading Youtube videos. The library is capable of fetching Youtube video metadata, in addition to downloading videos. | knadh | 126 |
-| 101 |  [youtube](https://github.com/kkdai/youtube) | Download Youtube Video in Golang | kkdai | 1750 |
-| 102 |  [alda](https://github.com/alda-lang/alda) | A music programming language for musicians. :notes: | alda-lang | 4082 |
+| 101 |  [youtube](https://github.com/kkdai/youtube) | Download Youtube Video in Golang | kkdai | 1753 |
+| 102 |  [alda](https://github.com/alda-lang/alda) | A music programming language for musicians. :notes: | alda-lang | 4084 |
 | 103 |  [go-torrent](https://github.com/matei-oltean/go-torrent) | Command line torrent client written in Go | matei-oltean | 5 |
 | 104 |  [xTeVe](https://github.com/xteve-project/xTeVe) | M3U Proxy for Plex DVR and Emby Live TV | xteve-project | 522 |
-| 105 |  [lf](https://github.com/gokcehan/lf) | Terminal file manager | gokcehan | 3358 |
-| 106 |  [knowledge](https://github.com/nikitavoloboev/knowledge) | Everything I know | nikitavoloboev | 2632 |
+| 105 |  [lf](https://github.com/gokcehan/lf) | Terminal file manager | gokcehan | 3360 |
+| 106 |  [knowledge](https://github.com/nikitavoloboev/knowledge) | Everything I know | nikitavoloboev | 2635 |
 | 107 |  [go-tetris](https://github.com/MichaelS11/go-tetris) | Golang Tetris for console window with optional AI | MichaelS11 | 58 |
-| 108 |  [termshark](https://github.com/gcla/termshark) | A terminal UI for tshark, inspired by Wireshark | gcla | 6522 |
+| 108 |  [termshark](https://github.com/gcla/termshark) | A terminal UI for tshark, inspired by Wireshark | gcla | 6524 |
 | 109 |  [gowid](https://github.com/gcla/gowid) | Compositional widgets for terminal user interfaces, written in Go, inspired by urwid. | gcla | 563 |
 | 110 |  [tcell](https://github.com/gdamore/tcell) | Tcell is an alternate terminal package, similar in some ways to termbox, but better in others. | gdamore | 2888 |
 | 111 |  [qBittorrent-EE-API](https://github.com/c0re100/qBittorrent-EE-API) | A example program for qBittorrent Enhanced Edition API | c0re100 | 29 |
@@ -2347,10 +2347,10 @@
 | 114 |  [dotbro](https://github.com/hypnoglow/dotbro) | Dotbro - simple yet effective dotfiles manager. | hypnoglow | 20 |
 | 115 |  [gogh](https://github.com/kyoh86/gogh) | GO GitHub project manager | kyoh86 | 24 |
 | 116 |  [hummingbird](https://github.com/flatinum97/hummingbird) | Tiny HTTP server written in Go | flatinum97 | 1 |
-| 117 |  [remark42](https://github.com/umputun/remark42) | comment engine | umputun | 2992 |
+| 117 |  [remark42](https://github.com/umputun/remark42) | comment engine | umputun | 2991 |
 | 118 |  [verifier](https://github.com/storozhukBM/verifier) | Package verifier provides simple defensive programing primitives. | storozhukBM | 265 |
 | 119 |  [safestd](https://github.com/go-safe/safestd) | WIP | go-safe | 1 |
-| 120 |  [cli](https://github.com/cli/cli) | GitHub’s official command line tool | cli | 24170 |
+| 120 |  [cli](https://github.com/cli/cli) | GitHub’s official command line tool | cli | 24176 |
 | 121 |  [gobump](https://github.com/x-motemen/gobump) | Bumps up Go program version | x-motemen | 82 |
 | 122 |  [arduino-cli](https://github.com/arduino/arduino-cli) | Arduino command line tool | arduino | 2975 |
 | 123 |  [go-rtorrent](https://github.com/steino/go-rtorrent) | rTorrent XMLRPC Bindings for Go | steino | 1 |
@@ -2360,7 +2360,7 @@
 | 127 |  [go-rtorrent](https://github.com/liuxu623/go-rtorrent) | rTorrent XMLRPC Bindings for Go | liuxu623 | 1 |
 | 128 |  [go-rtorrent](https://github.com/mrobinsn/go-rtorrent) | rTorrent XMLRPC Bindings for Go | mrobinsn | 32 |
 | 129 |  [govim](https://github.com/govim/govim) | govim is a Go development plugin for Vim8, written in Go | govim | 705 |
-| 130 |  [sourcegraph](https://github.com/sourcegraph/sourcegraph) | Universal code search (self-hosted) | sourcegraph | 4929 |
+| 130 |  [sourcegraph](https://github.com/sourcegraph/sourcegraph) | Universal code search (self-hosted) | sourcegraph | 4930 |
 | 131 |  [lsp-adapter](https://github.com/sourcegraph/lsp-adapter) | lsp-adapter provides a proxy which adapts Sourcegraph LSP requests to vanilla LSP requests | sourcegraph | 30 |
 | 132 |  [yandex-disk-simulator](https://github.com/slytomcat/yandex-disk-simulator) | yandex-disk utility simulator for integration tests (Linux) | slytomcat | 2 |
 | 133 |  [yd-qgo](https://github.com/slytomcat/yd-qgo) | Qt version of system tray indicator for Yandex.Disk CLI daemon (linux) | slytomcat | 7 |
@@ -2368,76 +2368,76 @@
 | 135 |  [yd-go](https://github.com/slytomcat/yd-go) | GTK+ version of panel indicator for Yandex-disk CLI daemon (linux) | slytomcat | 12 |
 | 136 |  [go-llvm](https://github.com/tinygo-org/go-llvm) | Go bindings to a system-installed LLVM. Used as part of TinyGo. | tinygo-org | 55 |
 | 137 |  [drivers](https://github.com/tinygo-org/drivers) | TinyGo drivers for sensors, displays, and other devices that use I2C, SPI, GPIO, ADC, and UART interfaces. | tinygo-org | 282 |
-| 138 |  [tinygo](https://github.com/tinygo-org/tinygo) | Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM. | tinygo-org | 8343 |
-| 139 |  [goneovim](https://github.com/akiyosi/goneovim) | Neovim GUI written in Golang, using a Golang qt backend | akiyosi | 1191 |
+| 138 |  [tinygo](https://github.com/tinygo-org/tinygo) | Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM. | tinygo-org | 8345 |
+| 139 |  [goneovim](https://github.com/akiyosi/goneovim) | Neovim GUI written in Golang, using a Golang qt backend | akiyosi | 1192 |
 | 140 |  [qt](https://github.com/therecipe/qt) | Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly | therecipe | 8656 |
 | 141 |  [github-search-cli](https://github.com/sniperkit/github-search-cli) | &#39;ghs&#39; is a command-line utility for searching Github repository . | sniperkit | 1 |
-| 142 |  [bleve](https://github.com/blevesearch/bleve) | A modern text indexing library for go | blevesearch | 7657 |
+| 142 |  [bleve](https://github.com/blevesearch/bleve) | A modern text indexing library for go | blevesearch | 7658 |
 | 143 |  [pms](https://github.com/ambientsound/pms) | Practical Music Search is an interactive Vim-like console client for the Music Player Daemon. | ambientsound | 194 |
-| 144 |  [rclone](https://github.com/rclone/rclone) | &#34;rsync for cloud storage&#34; - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files | rclone | 28122 |
+| 144 |  [rclone](https://github.com/rclone/rclone) | &#34;rsync for cloud storage&#34; - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files | rclone | 28127 |
 | 145 |  [yagostatus](https://github.com/burik666/yagostatus) | Yet Another i3status replacement written in Go | burik666 | 65 |
 | 146 |  [i3cat](https://github.com/vincent-petithory/i3cat) | A simple program to combine multiple i3bar JSON inputs into one to forward to i3bar. | vincent-petithory | 32 |
 | 147 |  [go-zim](https://github.com/tim-st/go-zim) | Pure Go reader for the ZIM file format | tim-st | 18 |
 | 148 |  [bingo](https://github.com/saibing/bingo) | Bingo is a Go language server that speaks Language Server Protocol. | saibing | 507 |
-| 149 |  [go-langserver](https://github.com/sourcegraph/go-langserver) | Go language server to add Go support to editors and other tools that use the Language Server Protocol (LSP) | sourcegraph | 1110 |
+| 149 |  [go-langserver](https://github.com/sourcegraph/go-langserver) | Go language server to add Go support to editors and other tools that use the Language Server Protocol (LSP) | sourcegraph | 1109 |
 | 150 |  [caddy-cgi](https://github.com/jung-kurt/caddy-cgi) | Common Gateway Interface plugin for the Caddy HTTP server | jung-kurt | 24 |
 | 151 |  [efm-langserver](https://github.com/mattn/efm-langserver) | General purpose Language Server | mattn | 526 |
 | 152 |  [files](https://github.com/mattn/files) | Fast file find | mattn | 84 |
 | 153 |  [wingo](https://github.com/BurntSushi/wingo) | A fully-featured window manager written in Go. | BurntSushi | 885 |
-| 154 |  [cobra](https://github.com/spf13/cobra) | A Commander for modern Go CLI interactions | spf13 | 22546 |
+| 154 |  [cobra](https://github.com/spf13/cobra) | A Commander for modern Go CLI interactions | spf13 | 22553 |
 | 155 |  [zentient](https://github.com/metaleap/zentient) | [2017-2019, maintained, stable; great for Go, meagre for others] multi-language, multi-editor IDE backend (frontends in separate repos) ➜ first iteration: language support for Go (fully) &amp; Haskell (minimally) ➜ front-ends: for the VScode and Textadept editors (in `zentient-vscode` &amp; `zentient-textadept` repos) | metaleap | 3 |
 | 156 |  [gits](https://github.com/rafi/gits) | A Fast CLI Git manager for multiple repositories | rafi | 38 |
-| 157 |  [cheat](https://github.com/cheat/cheat) | cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember. | cheat | 7517 |
+| 157 |  [cheat](https://github.com/cheat/cheat) | cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember. | cheat | 7518 |
 | 158 |  [cheat](https://github.com/dufferzafar/cheat) | Cheatsheets for command line, because, you know, life is too short to read manpages. | dufferzafar | 199 |
 | 159 |  [nvim-go](https://github.com/zchee/nvim-go) | Go development plugin for Neovim written in pure Go | zchee | 238 |
 | 160 |  [go-client](https://github.com/neovim/go-client) | Nvim Go client | neovim | 313 |
 | 161 |  [gojsondiff](https://github.com/yudai/gojsondiff) | Go JSON Diff | yudai | 392 |
-| 162 |  [gotty](https://github.com/yudai/gotty) | Share your terminal as a web application | yudai | 15615 |
+| 162 |  [gotty](https://github.com/yudai/gotty) | Share your terminal as a web application | yudai | 15616 |
 | 163 |  [jackal](https://github.com/ortuman/jackal) | 💬 Instant messaging server for the Extensible Messaging and Presence Protocol (XMPP). | ortuman | 1111 |
-| 164 |  [wego](https://github.com/schachmat/wego) | weather app for the terminal | schachmat | 6767 |
+| 164 |  [wego](https://github.com/schachmat/wego) | weather app for the terminal | schachmat | 6768 |
 | 165 |  [volt](https://github.com/vim-volt/volt) | A meta-level vim package manager | vim-volt | 217 |
 | 166 |  [backend](https://github.com/limetext/backend) | Backend for LimeText | limetext | 507 |
-| 167 |  [gopl.io](https://github.com/adonovan/gopl.io) | Example programs from &#34;The Go Programming Language&#34; | adonovan | 5341 |
+| 167 |  [gopl.io](https://github.com/adonovan/gopl.io) | Example programs from &#34;The Go Programming Language&#34; | adonovan | 5344 |
 | 168 |  [gofrontend](https://github.com/golang/gofrontend) | Go compiler frontend (gccgo) | golang | 565 |
 | 169 |  [s3git](https://github.com/s3git/s3git) | s3git: git for Cloud Storage. Distributed Version Control for Data. Create decentralized and versioned repos that scale infinitely to 100s of millions of files. Clone huge PB-scale repos on your local SSD to make changes, commit and push back. Oh yeah, it dedupes too and offers directory versioning. | s3git | 1307 |
 | 170 |  [blueprint](https://github.com/google/blueprint) |  | google | 334 |
-| 171 |  [minio](https://github.com/minio/minio) | High Performance, Kubernetes Native Object Storage | minio | 28607 |
-| 172 |  [micro](https://github.com/zyedidia/micro) | A modern and intuitive terminal-based text editor | zyedidia | 17337 |
+| 171 |  [minio](https://github.com/minio/minio) | High Performance, Kubernetes Native Object Storage | minio | 28614 |
+| 172 |  [micro](https://github.com/zyedidia/micro) | A modern and intuitive terminal-based text editor | zyedidia | 17338 |
 | 173 |  [xep](https://github.com/golang-cjr/xep) | golang chat bot | golang-cjr | 4 |
 | 174 |  [gocdnjs](https://github.com/yasuyk/gocdnjs) | Command line interface for http://cdnjs.com | yasuyk | 6 |
 | 175 |  [go-sawyer](https://github.com/lostisland/go-sawyer) |  | lostisland | 34 |
 | 176 |  [go-octokit](https://github.com/octokit/go-octokit) | Simple Go wrapper for the GitHub API | octokit | 243 |
 | 177 |  [bwag](https://github.com/codegangsta/bwag) | Source code for the book &#34;Building Web Apps with Go&#34; | codegangsta | 194 |
-| 178 |  [martini](https://github.com/go-martini/martini) | Classy web framework for Go | go-martini | 11280 |
-| 179 |  [glide](https://github.com/Masterminds/glide) | Package Management for Golang | Masterminds | 8114 |
+| 178 |  [martini](https://github.com/go-martini/martini) | Classy web framework for Go | go-martini | 11281 |
+| 179 |  [glide](https://github.com/Masterminds/glide) | Package Management for Golang | Masterminds | 8113 |
 | 180 |  [gof](https://github.com/mattn/gof) |  | mattn | 169 |
 | 181 |  [projects](https://github.com/gocodeclub/projects) | This is where all the official projects, documentation, and tutorials will be hosted for the Go Code Club | gocodeclub | 9 |
-| 182 |  [awesome-go](https://github.com/avelino/awesome-go) | A curated list of awesome Go frameworks, libraries and software | avelino | 66662 |
+| 182 |  [awesome-go](https://github.com/avelino/awesome-go) | A curated list of awesome Go frameworks, libraries and software | avelino | 66682 |
 | 183 |  [gb](https://github.com/constabulary/gb) | gb, the project based build tool for Go | constabulary | 2180 |
-| 184 |  [moby](https://github.com/moby/moby) | Moby Project - a collaborative project for the container ecosystem to assemble container-based systems | moby | 60752 |
-| 185 |  [godep](https://github.com/tools/godep) | dependency tool for go | tools | 5611 |
+| 184 |  [moby](https://github.com/moby/moby) | Moby Project - a collaborative project for the container ecosystem to assemble container-based systems | moby | 60758 |
+| 185 |  [godep](https://github.com/tools/godep) | dependency tool for go | tools | 5612 |
 | 186 |  [godef](https://github.com/rogpeppe/godef) | Print where symbols are defined in Go source code | rogpeppe | 626 |
 | 187 |  [rog-go](https://github.com/rogpeppe/rog-go) | Automatically exported from code.google.com/p/rog-go | rogpeppe | 32 |
 | 188 |  [sift](https://github.com/svent/sift) | A fast and powerful alternative to grep | svent | 1503 |
-| 189 |  [the_platinum_searcher](https://github.com/monochromegane/the_platinum_searcher) | A code search tool similar to ack and the_silver_searcher(ag). It supports multi platforms and multi encodings. | monochromegane | 2710 |
+| 189 |  [the_platinum_searcher](https://github.com/monochromegane/the_platinum_searcher) | A code search tool similar to ack and the_silver_searcher(ag). It supports multi platforms and multi encodings. | monochromegane | 2711 |
 | 190 |  [ghr](https://github.com/tcnksm/ghr) | Upload multiple artifacts to GitHub Release in parallel | tcnksm | 1116 |
-| 191 |  [errcheck](https://github.com/kisielk/errcheck) | errcheck checks that you checked errors. | kisielk | 1709 |
-| 192 |  [lint](https://github.com/golang/lint) | [mirror] This is a linter for Go source code. (deprecated) | golang | 3898 |
+| 191 |  [errcheck](https://github.com/kisielk/errcheck) | errcheck checks that you checked errors. | kisielk | 1710 |
+| 192 |  [lint](https://github.com/golang/lint) | [mirror] This is a linter for Go source code. (deprecated) | golang | 3897 |
 | 193 |  [spark](https://github.com/rif/spark) | Emergency web server | rif | 567 |
-| 194 |  [caddy](https://github.com/caddyserver/caddy) | Fast, multi-platform web server with automatic HTTPS | caddyserver | 34095 |
-| 195 |  [peco](https://github.com/peco/peco) | Simplistic interactive filtering tool | peco | 6460 |
-| 196 |  [git-lfs](https://github.com/git-lfs/git-lfs) | Git extension for versioning large files | git-lfs | 9454 |
-| 197 |  [fzf](https://github.com/junegunn/fzf) | :cherry_blossom: A command-line fuzzy finder | junegunn | 38120 |
+| 194 |  [caddy](https://github.com/caddyserver/caddy) | Fast, multi-platform web server with automatic HTTPS | caddyserver | 34102 |
+| 195 |  [peco](https://github.com/peco/peco) | Simplistic interactive filtering tool | peco | 6461 |
+| 196 |  [git-lfs](https://github.com/git-lfs/git-lfs) | Git extension for versioning large files | git-lfs | 9455 |
+| 197 |  [fzf](https://github.com/junegunn/fzf) | :cherry_blossom: A command-line fuzzy finder | junegunn | 38147 |
 | 198 |  [go-ui](https://github.com/visualfc/go-ui) | golang ui | visualfc | 300 |
 | 199 |  [fossilhub](https://github.com/the-reverend/fossilhub) | use nginx and go to fill in some gaps in the fossil ui | the-reverend | 4 |
 | 200 |  [gotools](https://github.com/visualfc/gotools) | liteide golang tools | visualfc | 98 |
 | 201 |  [gpm](https://github.com/andantonyan/gpm) | Go package manager | andantonyan | 7 |
 | 202 |  [bencode](https://github.com/marksamman/bencode) | Bencode implementation in Go | marksamman | 49 |
 | 203 |  [gom](https://github.com/mattn/gom) | Go Manager - bundle for go | mattn | 1394 |
-| 204 |  [beego](https://github.com/beego/beego) | beego is an open-source, high-performance web framework for the Go programming language. | beego | 26724 |
+| 204 |  [beego](https://github.com/beego/beego) | beego is an open-source, high-performance web framework for the Go programming language. | beego | 26729 |
 | 205 |  [gis](https://github.com/m0t0k1ch1/gis) | a command line GitHub issue list viewer written in Go | m0t0k1ch1 | 9 |
 | 206 |  [ghs](https://github.com/sonatard/ghs) | &#39;ghs&#39; is a command-line utility for searching Github repository . | sonatard | 39 |
-| 207 |  [dns](https://github.com/miekg/dns) | DNS library in Go | miekg | 5681 |
+| 207 |  [dns](https://github.com/miekg/dns) | DNS library in Go | miekg | 5682 |
 | 208 |  [walk](https://github.com/lxn/walk) | A Windows GUI toolkit for the Go Programming Language | lxn | 5565 |
 | 209 |  [codesearch-pre-github](https://github.com/junkblocker/codesearch-pre-github) | Moved to https://github.com/junkblocker/codesearch | junkblocker | 50 |
 | 210 |  [srclib](https://github.com/sourcegraph/srclib) | srclib is a polyglot code analysis library, built for hackability. It consists of language analysis toolchains (currently for Go and Java, with Python, JavaScript, and Ruby in beta) with a common output format, and a CLI tool for running the analysis. | sourcegraph | 942 |
@@ -2446,30 +2446,30 @@
 | 213 |  [appdash](https://github.com/sourcegraph/appdash) | Application tracing system for Go, based on Google&#39;s Dapper. | sourcegraph | 1708 |
 | 214 |  [go-sourcegraph](https://github.com/sourcegraph/go-sourcegraph) |  | sourcegraph | 44 |
 | 215 |  [git2go](https://github.com/libgit2/git2go) | Git to Go; bindings for libgit2. Like McDonald&#39;s but tastier. | libgit2 | 1635 |
-| 216 |  [delve](https://github.com/go-delve/delve) | Delve is a debugger for the Go programming language. | go-delve | 16664 |
-| 217 |  [hugo](https://github.com/gohugoio/hugo) | The world’s fastest framework for building websites. | gohugoio | 53157 |
+| 216 |  [delve](https://github.com/go-delve/delve) | Delve is a debugger for the Go programming language. | go-delve | 16660 |
+| 217 |  [hugo](https://github.com/gohugoio/hugo) | The world’s fastest framework for building websites. | gohugoio | 53179 |
 | 218 |  [microcosm](https://github.com/microcosm-cc/microcosm) | Go based API and core business logic for the Microcosm community CMS. | microcosm-cc | 60 |
-| 219 |  [bluemonday](https://github.com/microcosm-cc/bluemonday) | bluemonday: a fast golang HTML sanitizer (inspired by the OWASP Java HTML Sanitizer) to scrub user generated content of XSS | microcosm-cc | 1997 |
-| 220 |  [blackfriday](https://github.com/russross/blackfriday) | Blackfriday: a markdown processor for Go | russross | 4762 |
-| 221 |  [hub](https://github.com/github/hub) | A command-line tool that makes git easier to use with GitHub. | github | 21059 |
+| 219 |  [bluemonday](https://github.com/microcosm-cc/bluemonday) | bluemonday: a fast golang HTML sanitizer (inspired by the OWASP Java HTML Sanitizer) to scrub user generated content of XSS | microcosm-cc | 1998 |
+| 220 |  [blackfriday](https://github.com/russross/blackfriday) | Blackfriday: a markdown processor for Go | russross | 4761 |
+| 221 |  [hub](https://github.com/github/hub) | A command-line tool that makes git easier to use with GitHub. | github | 21061 |
 | 222 |  [blend](https://github.com/ziahamza/blend) | A scalable graph database for aiding discovery. | ziahamza | 5 |
 | 223 |  [http2](https://github.com/bradfitz/http2) | old repo for HTTP/2 support for Go (see README for new home) | bradfitz | 1710 |
 | 224 |  [go-nghttp2](https://github.com/tatsuhiro-t/go-nghttp2) | HTTP/2 implementation in golang using nghttp2 C library | tatsuhiro-t | 30 |
 | 225 |  [google-api-go-client](https://github.com/googleapis/google-api-go-client) | Auto-generated Google APIs for Go. | googleapis | 2721 |
-| 226 |  [go-github](https://github.com/google/go-github) | Go library for accessing the GitHub API | google | 7636 |
+| 226 |  [go-github](https://github.com/google/go-github) | Go library for accessing the GitHub API | google | 7635 |
 | 227 |  [gospeccy](https://github.com/remogatto/gospeccy) | A ZX Spectrum Emulator written in Go | remogatto | 121 |
 | 228 |  [go-luapatterns](https://github.com/jnwhiteh/go-luapatterns) | A pure Go implementation of Lua pattern matching | jnwhiteh | 19 |
-| 229 |  [termbox-go](https://github.com/nsf/termbox-go) | Pure Go termbox implementation | nsf | 4104 |
+| 229 |  [termbox-go](https://github.com/nsf/termbox-go) | Pure Go termbox implementation | nsf | 4103 |
 | 230 |  [GoSublime](https://github.com/DisposaBoy/GoSublime) | A Golang plugin collection for SublimeText 3, providing code completion and other IDE-like features. | DisposaBoy | 3408 |
 | 231 |  [context2](https://github.com/shish/context2) | Golang flame chart viewer | shish | 69 |
-| 232 |  [ini](https://github.com/go-ini/ini) | Package ini provides INI file read and write functionality in Go. | go-ini | 2549 |
+| 232 |  [ini](https://github.com/go-ini/ini) | Package ini provides INI file read and write functionality in Go. | go-ini | 2550 |
 | 233 |  [review](https://github.com/golang/review) | [mirror] Tool for working with Gerrit code reviews | golang | 128 |
 | 234 |  [negroni](https://github.com/urfave/negroni) | Idiomatic HTTP Middleware for Golang | urfave | 7037 |
 | 235 |  [gotags](https://github.com/jstemmer/gotags) | ctags-compatible tag generator for Go | jstemmer | 803 |
 | 236 |  [tools](https://github.com/golang/tools) | [mirror] Go Tools | golang | 5449 |
-| 237 |  [go](https://github.com/golang/go) | The Go programming language | golang | 88185 |
+| 237 |  [go](https://github.com/golang/go) | The Go programming language | golang | 88212 |
 | 238 |  [libtorgo](https://github.com/nsf/libtorgo) | BitTorrent Go library | nsf | 12 |
-| 239 |  [gocode](https://github.com/nsf/gocode) | An autocompletion daemon for the Go programming language | nsf | 4923 |
+| 239 |  [gocode](https://github.com/nsf/gocode) | An autocompletion daemon for the Go programming language | nsf | 4922 |
 | 240 |  [ghq](https://github.com/x-motemen/ghq) | Remote repository management made easy | x-motemen | 2097 |
 | 241 |  [github-list-starred](https://github.com/motemen/github-list-starred) | List GitHub repositories starred by a user | motemen | 47 |
 
@@ -2509,21 +2509,21 @@
 | 15 |  [rxjs-youtube-course](https://github.com/vladilenm/rxjs-youtube-course) | Full tutorial for RxJS | vladilenm | 32 |
 | 16 |  [Awesome-Polybar](https://github.com/TiagoDanin/Awesome-Polybar) | Curated list of Polybar | TiagoDanin | 215 |
 | 17 |  [base16-i3](https://github.com/khamer/base16-i3) |  | khamer | 105 |
-| 18 |  [iptv-m3u-maker](https://github.com/EvilCult/iptv-m3u-maker) | IPTV 国内+国外 电视台直播源m3u文件, 收集&amp;汇总&amp;本地源脚本 | EvilCult | 1886 |
+| 18 |  [iptv-m3u-maker](https://github.com/EvilCult/iptv-m3u-maker) | IPTV 国内+国外 电视台直播源m3u文件, 收集&amp;汇总&amp;本地源脚本 | EvilCult | 1889 |
 | 19 |  [qBittorrentDarktheme](https://github.com/maboroshin/qBittorrentDarktheme) | qBittorrent Dark theme | maboroshin | 378 |
 | 20 |  [.dotfiles](https://github.com/jasolisdev/.dotfiles) |  | jasolisdev | 40 |
 | 21 |  [hugo-theme-hello-friend](https://github.com/panr/hugo-theme-hello-friend) | Pretty basic theme for Hugo that covers all of the essentials. All you have to do is start typing! | panr | 655 |
 | 22 |  [birman-typography-layouts-for-ubuntu](https://github.com/neochief/birman-typography-layouts-for-ubuntu) | Типографские раскладки Ильи Бирмана для Ubuntu | neochief | 61 |
 | 23 |  [redditbox](https://github.com/ajarmoszuk/redditbox) | View Reddit on SSH or Telnet. | ajarmoszuk | 25 |
 | 24 |  [scite-files](https://github.com/moltenform/scite-files) | Translations and extras for the SciTE code editor --- see the links below for more information! | moltenform | 81 |
-| 25 |  [SI4735](https://github.com/pu2clr/SI4735) | SI473X Library for Arduino | pu2clr | 230 |
+| 25 |  [SI4735](https://github.com/pu2clr/SI4735) | SI473X Library for Arduino | pu2clr | 231 |
 | 26 |  [turing-pi-cluster](https://github.com/geerlingguy/turing-pi-cluster) | Turing Pi cluster configuration for Raspberry Pi Compute Modules | geerlingguy | 274 |
 | 27 |  [programmer-dvorak](https://github.com/denisk20/programmer-dvorak) | Typing tutor for programmer dvorak keyboard layout. | denisk20 | 98 |
 | 28 |  [vim-rnb](https://github.com/romainl/vim-rnb) | RNB, a Vim colorscheme template | romainl | 117 |
-| 29 |  [colour-schemes](https://github.com/daylerees/colour-schemes) | Colour schemes for a variety of editors created by Dayle Rees. | daylerees | 9304 |
+| 29 |  [colour-schemes](https://github.com/daylerees/colour-schemes) | Colour schemes for a variety of editors created by Dayle Rees. | daylerees | 9303 |
 | 30 |  [website](https://github.com/kisslinux/website) | KISS Linux - Website and Documentation | kisslinux | 104 |
 | 31 |  [bittorrent.org](https://github.com/bittorrent/bittorrent.org) |  | bittorrent | 216 |
-| 32 |  [BOLTS](https://github.com/boltsparts/BOLTS) | BOLTS is a open library of technical specifications | boltsparts | 183 |
+| 32 |  [BOLTS](https://github.com/boltsparts/BOLTS) | BOLTS is a open library of technical specifications | boltsparts | 184 |
 | 33 |  [Guna](https://github.com/poucotm/Guna) | 🍁 Most Innovative Theme for Sublime Text 3 | poucotm | 132 |
 | 34 |  [base16-i3status](https://github.com/Eluminae/base16-i3status) |  | Eluminae | 5 |
 | 35 |  [idea-openresty-lua-support](https://github.com/Deadleg/idea-openresty-lua-support) | Idea plugin that adds completion of the openresty Nginx API | Deadleg | 18 |
@@ -2541,8 +2541,8 @@
 | 47 |  [new-website](https://github.com/cdnjs/new-website) | 🖥  cdnjs.com website | cdnjs | 449 |
 | 48 |  [go-tmdb](https://github.com/ryanbradynd05/go-tmdb) | Golang Wrapper for TheMovieDB API | ryanbradynd05 | 74 |
 | 49 |  [gobyexample.ru](https://github.com/region23/gobyexample.ru) | Go в примерах | region23 | 40 |
-| 50 |  [styleguide](https://github.com/google/styleguide) | Style guides for Google-originated open-source projects | google | 28264 |
-| 51 |  [luaforwindows](https://github.com/rjpcomputing/luaforwindows) | Lua for Windows is a &#39;batteries included environment&#39; for the Lua scripting language on Windows. NOTICE: Looking for maintainer. | rjpcomputing | 1877 |
+| 50 |  [styleguide](https://github.com/google/styleguide) | Style guides for Google-originated open-source projects | google | 28273 |
+| 51 |  [luaforwindows](https://github.com/rjpcomputing/luaforwindows) | Lua for Windows is a &#39;batteries included environment&#39; for the Lua scripting language on Windows. NOTICE: Looking for maintainer. | rjpcomputing | 1878 |
 | 52 |  [lisp](https://github.com/ilammy/lisp) | Lisp In Small Pieces на русском языке | ilammy | 184 |
 | 53 |  [vimcasts.org](https://github.com/vimcasts/vimcasts.org) | Source code for vimcasts.org | vimcasts | 29 |
 | 54 |  [base16-textmate](https://github.com/chriskempson/base16-textmate) | Base16 for TextMate &amp; Sublime | chriskempson | 414 |
@@ -2580,14 +2580,14 @@
 | 8 |  [gifcurry](https://github.com/lettier/gifcurry) | 😎 The open-source, Haskell-built video editor for GIF makers. | lettier | 902 |
 | 9 |  [ghc](https://github.com/ghc/ghc) | Mirror of the Glasgow Haskell Compiler. Please submit issues and patches to GHC&#39;s Gitlab instance (https://gitlab.haskell.org/ghc/ghc). First time contributors are encouraged to get started with the newcomers info (https://gitlab.haskell.org/ghc/ghc/wikis/contributing). | ghc | 2550 |
 | 10 |  [dlackware](https://github.com/Dlackware/dlackware) | builder/installer for Projects using a compile-order | Dlackware | 9 |
-| 11 |  [pandoc](https://github.com/jgm/pandoc) | Universal markup converter | jgm | 23074 |
+| 11 |  [pandoc](https://github.com/jgm/pandoc) | Universal markup converter | jgm | 23080 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## Haxe
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [hsluv](https://github.com/hsluv/hsluv) | Human-friendly HSL, reference implementation | hsluv | 991 |
+| 1 |  [hsluv](https://github.com/hsluv/hsluv) | Human-friendly HSL, reference implementation | hsluv | 992 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -2601,15 +2601,15 @@
 ## Java
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [RedReader](https://github.com/QuantumBadger/RedReader) | An unofficial open source Reddit client for Android. | QuantumBadger | 1203 |
+| 1 |  [RedReader](https://github.com/QuantumBadger/RedReader) | An unofficial open source Reddit client for Android. | QuantumBadger | 1204 |
 | 2 |  [android-wifi-connecter](https://github.com/mkch/android-wifi-connecter) | Automatically exported from code.google.com/p/android-wifi-connecter | mkch | 286 |
 | 3 |  [connectbot](https://github.com/connectbot/connectbot) | ConnectBot is the first SSH client for Android. | connectbot | 1680 |
-| 4 |  [ipscan](https://github.com/angryip/ipscan) | Angry IP Scanner - fast and friendly network scanner | angryip | 2397 |
-| 5 |  [languagetool](https://github.com/languagetool-org/languagetool) | Style and Grammar Checker for 25+ Languages | languagetool-org | 5184 |
+| 4 |  [ipscan](https://github.com/angryip/ipscan) | Angry IP Scanner - fast and friendly network scanner | angryip | 2400 |
+| 5 |  [languagetool](https://github.com/languagetool-org/languagetool) | Style and Grammar Checker for 25+ Languages | languagetool-org | 5187 |
 | 6 |  [m3u-Loader-Plugin](https://github.com/greatdeveloping/m3u-Loader-Plugin) |  | greatdeveloping | 11 |
 | 7 |  [qBittorrent-Controller](https://github.com/lgallard/qBittorrent-Controller) | qBittorrent Controller - An Android app for controlling qBittorrent servers | lgallard | 216 |
-| 8 |  [libretorrent](https://github.com/proninyaroslav/libretorrent) | Free and Open Source, full-featured torrent client for Android. Mirrored from https://gitlab.com/proninyaroslav/libretorrent | proninyaroslav | 941 |
-| 9 |  [NewPipe](https://github.com/TeamNewPipe/NewPipe) | A libre lightweight streaming front-end for Android. | TeamNewPipe | 14507 |
+| 8 |  [libretorrent](https://github.com/proninyaroslav/libretorrent) | Free and Open Source, full-featured torrent client for Android. Mirrored from https://gitlab.com/proninyaroslav/libretorrent | proninyaroslav | 942 |
+| 9 |  [NewPipe](https://github.com/TeamNewPipe/NewPipe) | A libre lightweight streaming front-end for Android. | TeamNewPipe | 14511 |
 | 10 |  [Conversations](https://github.com/iNPUTmice/Conversations) | Conversations is an open source XMPP/Jabber client for Android | iNPUTmice | 3869 |
 | 11 |  [viper-edit](https://github.com/maks/viper-edit) | Simple, powerful text and code editor for Android. | maks | 13 |
 | 12 |  [turbo-editor](https://github.com/vmihalachi/turbo-editor) | Simple and powerful File Editor for Android. All is licensed under the GPLv3 license. | vmihalachi | 1154 |
@@ -2617,18 +2617,18 @@
 | 14 |  [TransmissionRemote](https://github.com/y-polek/TransmissionRemote) | Remote control for Transmission BitTorrent client | y-polek | 111 |
 | 15 |  [Morse](https://github.com/Crazy-Marvin/Morse) | Translator for converting text into morse code and vice-versa | Crazy-Marvin | 52 |
 | 16 |  [api-samples](https://github.com/youtube/api-samples) | Code samples for YouTube APIs, including the YouTube Data API, YouTube Analytics API, and YouTube Live Streaming API. The repo contains language-specific directories that contain the samples. | youtube | 3979 |
-| 17 |  [SkyTube](https://github.com/SkyTubeTeam/SkyTube) | An open-source YouTube app for Android. | SkyTubeTeam | 1050 |
+| 17 |  [SkyTube](https://github.com/SkyTubeTeam/SkyTube) | An open-source YouTube app for Android. | SkyTubeTeam | 1051 |
 | 18 |  [github-api](https://github.com/hub4j/github-api) | Java API for GitHub | hub4j | 789 |
 | 19 |  [Etar-Calendar](https://github.com/Etar-Group/Etar-Calendar) | Android open source calendar | Etar-Group | 1135 |
-| 20 |  [an2linuxclient](https://github.com/rootkiwi/an2linuxclient) | Sync Android notifications encrypted to a Linux desktop | rootkiwi | 229 |
-| 21 |  [bazel](https://github.com/bazelbuild/bazel) | a fast, scalable, multi-language and extensible build system | bazelbuild | 17078 |
-| 22 |  [jadx](https://github.com/skylot/jadx) | Dex to Java decompiler | skylot | 26653 |
+| 20 |  [an2linuxclient](https://github.com/rootkiwi/an2linuxclient) | Sync Android notifications encrypted to a Linux desktop | rootkiwi | 228 |
+| 21 |  [bazel](https://github.com/bazelbuild/bazel) | a fast, scalable, multi-language and extensible build system | bazelbuild | 17084 |
+| 22 |  [jadx](https://github.com/skylot/jadx) | Dex to Java decompiler | skylot | 26662 |
 | 23 |  [fossil4idea](https://github.com/sdragnev/fossil4idea) | Fossil SCM (http://www.fossil-scm.org/) plugin for IntelliJ IDEA | sdragnev | 1 |
 | 24 |  [fossil4idea](https://github.com/ProteanCoding/fossil4idea) | Fossil SCM (http://www.fossil-scm.org/) plugin for IntelliJ IDEA | ProteanCoding | 1 |
 | 25 |  [freeguide](https://github.com/andybalaam/freeguide) | FreeGuide TV Guide | andybalaam | 2 |
 | 26 |  [transdroid](https://github.com/erickok/transdroid) | Manage your torrents from your Android device | erickok | 997 |
 | 27 |  [transdroid-search](https://github.com/erickok/transdroid-search) | Cross-app torrent search results provider for Android | erickok | 125 |
-| 28 |  [BiglyBT](https://github.com/BiglySoftware/BiglyBT) | Feature-filled Bittorrent client based on the Azureus open source project | BiglySoftware | 736 |
+| 28 |  [BiglyBT](https://github.com/BiglySoftware/BiglyBT) | Feature-filled Bittorrent client based on the Azureus open source project | BiglySoftware | 737 |
 | 29 |  [mythmote](https://github.com/pot8oe/mythmote) | MythMote is an android based MythTV remote control. Control is obtained through the frontend&#39;s raw text-based TCP socket interface. More infomation regarding the MythTV network remote control protocol can be found here: http://www.mythtv.org/wiki/Frontend_control_socket | pot8oe | 6 |
 | 30 |  [cmus-droid-remote](https://github.com/seriousben/cmus-droid-remote) | Android version of cmus-remote to control your Cmus music player | seriousben | 19 |
 | 31 |  [cmus-android-remote](https://github.com/jatwigg/cmus-android-remote) | An android application for remotely controlling cmus music player. | jatwigg | 11 |
@@ -2637,18 +2637,18 @@
 | 34 |  [XMouse](https://github.com/bradand/XMouse) |  | bradand | 79 |
 | 35 |  [blabber.im](https://github.com/kriztan/blabber.im) | blabber.im basiert auf Conversations und ist ein Open Source XMPP/Jabber Messenger für Android 4.1+ | kriztan | 123 |
 | 36 |  [getback_gps](https://github.com/ruleant/getback_gps) | Open Source Android app for finding your way back to a previously visited location using GPS coordinates. | ruleant | 31 |
-| 37 |  [gpstest](https://github.com/barbeau/gpstest) | The #1 open-source Android GNSS/GPS test program | barbeau | 846 |
+| 37 |  [gpstest](https://github.com/barbeau/gpstest) | The #1 open-source Android GNSS/GPS test program | barbeau | 848 |
 | 38 |  [mucommander](https://github.com/mucommander/mucommander) | A lightweight, cross-platform file manager with a dual-pane interface | mucommander | 548 |
-| 39 |  [studio3](https://github.com/aptana/studio3) | This repository contains the code for core components of Aptana Studio 3. | aptana | 950 |
+| 39 |  [studio3](https://github.com/aptana/studio3) | This repository contains the code for core components of Aptana Studio 3. | aptana | 949 |
 | 40 |  [busybox](https://github.com/meefik/busybox) | BusyBox for Android | meefik | 790 |
 | 41 |  [markor](https://github.com/gsantner/markor) | Text editor - Notes &amp; ToDo (for Android) - Markdown, todo.txt, plaintext, math, .. | gsantner | 1576 |
 | 42 |  [MGit](https://github.com/maks/MGit) | A Git client for Android. | maks | 490 |
-| 43 |  [Android-Terminal-Emulator](https://github.com/jackpal/Android-Terminal-Emulator) | A VT-100 terminal emulator for the Android OS | jackpal | 2587 |
+| 43 |  [Android-Terminal-Emulator](https://github.com/jackpal/Android-Terminal-Emulator) | A VT-100 terminal emulator for the Android OS | jackpal | 2590 |
 | 44 |  [AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) | Android (f/w 2.1+) on screen keyboard for multiple languages (chat https://gitter.im/AnySoftKeyboard) | AnySoftKeyboard | 1849 |
-| 45 |  [hackerskeyboard](https://github.com/klausw/hackerskeyboard) | Hacker&#39;s Keyboard (official) | klausw | 1171 |
+| 45 |  [hackerskeyboard](https://github.com/klausw/hackerskeyboard) | Hacker&#39;s Keyboard (official) | klausw | 1172 |
 | 46 |  [EmmyLua-LanguageServer](https://github.com/EmmyLua/EmmyLua-LanguageServer) |  | EmmyLua | 110 |
 | 47 |  [droidvim](https://github.com/shiftrot/droidvim) | DroidVim is a Vim clone for Android. | shiftrot | 129 |
-| 48 |  [zotfile](https://github.com/jlegewie/zotfile) | Zotero plugin to manage your attachments: automatically rename, move, and attach PDFs (or other files) to Zotero items, sync PDFs from your Zotero library to your (mobile) PDF reader (e.g. an iPad, Android tablet, etc.), and extract PDF annotations. | jlegewie | 1566 |
+| 48 |  [zotfile](https://github.com/jlegewie/zotfile) | Zotero plugin to manage your attachments: automatically rename, move, and attach PDFs (or other files) to Zotero items, sync PDFs from your Zotero library to your (mobile) PDF reader (e.g. an iPad, Android tablet, etc.), and extract PDF annotations. | jlegewie | 1565 |
 | 49 |  [fossil4idea](https://github.com/irengrig/fossil4idea) | Fossil SCM (http://www.fossil-scm.org/) plugin for IntelliJ IDEA | irengrig | 19 |
 | 50 |  [Arduino](https://github.com/arduino/Arduino) | open-source electronics platform | arduino | 11936 |
 
@@ -2662,7 +2662,7 @@
 | 3 |  [hyper-snazzy](https://github.com/sindresorhus/hyper-snazzy) | Elegant Hyper theme with bright colors | sindresorhus | 1281 |
 | 4 |  [vscode-langservers-extracted](https://github.com/hrsh7th/vscode-langservers-extracted) | vscode-langservers bin collection. | hrsh7th | 29 |
 | 5 |  [spell-check](https://github.com/atom/spell-check) | Spell check Atom package | atom | 207 |
-| 6 |  [dictionaries](https://github.com/wooorm/dictionaries) | Hunspell dictionaries in UTF-8 | wooorm | 669 |
+| 6 |  [dictionaries](https://github.com/wooorm/dictionaries) | Hunspell dictionaries in UTF-8 | wooorm | 670 |
 | 7 |  [ide-ruby](https://github.com/kwerle/ide-ruby) | Atom package used to integrate https://github.com/kwerle/ruby_language_server with Atom.  Development happens on the develop branch. Production is master. | kwerle | 23 |
 | 8 |  [atom-solargraph](https://github.com/castwide/atom-solargraph) | An Atom package for Solargraph. | castwide | 40 |
 | 9 |  [platformio-atom-ide](https://github.com/platformio/platformio-atom-ide) | PlatformIO IDE for Atom: The next generation integrated development environment for IoT | platformio | 475 |
@@ -2693,7 +2693,7 @@
 | 34 |  [before-after-hook](https://github.com/gr2m/before-after-hook) | wrap methods with before/after hooks | gr2m | 51 |
 | 35 |  [tamper-monkey-scripts-collection](https://github.com/zachhardesty7/tamper-monkey-scripts-collection) | A collection of scripts to improve user experience and make life just a little bit easier on various websites | zachhardesty7 | 5 |
 | 36 |  [moonwalk](https://github.com/abadc0de/moonwalk) | Zero-friction REST APIs for Lua | abadc0de | 4 |
-| 37 |  [awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code) | A collection of awesome resources related to the yearly Advent of Code challenge. | Bogdanp | 1005 |
+| 37 |  [awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code) | A collection of awesome resources related to the yearly Advent of Code challenge. | Bogdanp | 1006 |
 | 38 |  [nntp-server](https://github.com/nodeca/nntp-server) | NNTP server for readers | nodeca | 19 |
 | 39 |  [github-app-example](https://github.com/bkeepers/github-app-example) |  | bkeepers | 60 |
 | 40 |  [kakoune-ink](https://github.com/Delapouite/kakoune-ink) | kakoune color scheme designer | Delapouite | 14 |
@@ -2701,25 +2701,25 @@
 | 42 |  [tree-sitter-teal](https://github.com/euclidianAce/tree-sitter-teal) | A tree sitter grammar for Teal, a typed dialect of Lua | euclidianAce | 22 |
 | 43 |  [vim-markdown-helpfile](https://github.com/mklabs/vim-markdown-helpfile) | A vim plugin and cli tool to generate vim helpfile from markdown | mklabs | 22 |
 | 44 |  [luafmt](https://github.com/appgurueu/luafmt) | A small Lua formatter / pretty printer | appgurueu | 7 |
-| 45 |  [violentmonkey](https://github.com/violentmonkey/violentmonkey) | Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support. | violentmonkey | 2349 |
-| 46 |  [stylus](https://github.com/openstyles/stylus) | Stylus - Userstyles Manager | openstyles | 3422 |
+| 45 |  [violentmonkey](https://github.com/violentmonkey/violentmonkey) | Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support. | violentmonkey | 2351 |
+| 46 |  [stylus](https://github.com/openstyles/stylus) | Stylus - Userstyles Manager | openstyles | 3424 |
 | 47 |  [Polybar-Helpers](https://github.com/TiagoDanin/Polybar-Helpers) | Polybar - Helpers to create plugin/module using NodeJS | TiagoDanin | 6 |
-| 48 |  [prettier](https://github.com/prettier/prettier) | Prettier is an opinionated code formatter. | prettier | 40190 |
+| 48 |  [prettier](https://github.com/prettier/prettier) | Prettier is an opinionated code formatter. | prettier | 40194 |
 | 49 |  [alacritty-themes](https://github.com/rajasegar/alacritty-themes) | :rainbow: :lollipop: Themes :candy: :heart_eyes: for Alacritty: A cross-platform GPU-accelerated Terminal emulator | rajasegar | 166 |
 | 50 |  [pinto](https://github.com/alajmo/pinto) | Create, view and edit vim color themes. | alajmo | 21 |
 | 51 |  [gnome-shell-extension-gsconnect](https://github.com/GSConnect/gnome-shell-extension-gsconnect) | KDE Connect implementation for GNOME | GSConnect | 1958 |
 | 52 |  [nelua-vscode](https://github.com/edubart/nelua-vscode) | Nelua syntax highlighting for Visual Studio Code | edubart | 10 |
-| 53 |  [pdf.js](https://github.com/mozilla/pdf.js) | PDF Reader in JavaScript | mozilla | 35592 |
+| 53 |  [pdf.js](https://github.com/mozilla/pdf.js) | PDF Reader in JavaScript | mozilla | 35605 |
 | 54 |  [mil-edit-2](https://github.com/mil/mil-edit-2) | Simple list editor supporting bold and italic text styling, undo/redo stack. Exports to Markdown. | mil | 1 |
 | 55 |  [mil-edit](https://github.com/mil/mil-edit) | A Simple List Editing Interface which exports to Markdown. Like a WYSIWYG or Markdown Preview Tools. Though, Simpler. | mil | 21 |
 | 56 |  [IPTV-Player](https://github.com/Mravuri96/IPTV-Player) | 📺 Watch 8000+ publicly available IPTV channels within your browser | Mravuri96 | 20 |
-| 57 |  [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) | :zap: Dynamically generated stats for your github readmes | anuraghazra | 27547 |
+| 57 |  [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) | :zap: Dynamically generated stats for your github readmes | anuraghazra | 27578 |
 | 58 |  [iptv-cli](https://github.com/pemre/iptv-cli) | iptv-cli is a command line tool to parse, filter iptv lists (m3u/m3u8 files). | pemre | 1 |
 | 59 |  [npig](https://github.com/dersam/npig) | Packages In Git - package manager for managing git repositories | dersam | 1 |
 | 60 |  [typographic-markdown](https://github.com/denysdovhan/typographic-markdown) | Markdown transformers to make your typography better. | denysdovhan | 9 |
 | 61 |  [bash-handbook](https://github.com/denysdovhan/bash-handbook) | :book: For those who wanna learn Bash | denysdovhan | 4562 |
 | 62 |  [learnyoubash](https://github.com/denysdovhan/learnyoubash) | Learn you how to write your first bash script | denysdovhan | 605 |
-| 63 |  [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) | 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file. | LeCoupa | 21222 |
+| 63 |  [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) | 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file. | LeCoupa | 21225 |
 | 64 |  [emacs-package-dev-handbook](https://github.com/alphapapa/emacs-package-dev-handbook) | An Emacs package development handbook. Built with Emacs, by Emacs package developers, for Emacs package developers. | alphapapa | 712 |
 | 65 |  [sailor_website](https://github.com/sailorproject/sailor_website) | Sailor&#39;s website files | sailorproject | 7 |
 | 66 |  [oceanic-next-color-scheme](https://github.com/voronianski/oceanic-next-color-scheme) | :triangular_ruler: Sublime Text color scheme ready for next generation JavaScript syntax | voronianski | 1915 |
@@ -2738,8 +2738,8 @@
 | 79 |  [vscode-lua-doc](https://github.com/actboy168/vscode-lua-doc) |  | actboy168 | 4 |
 | 80 |  [dotfiles](https://github.com/JJK96/dotfiles) |  | JJK96 | 3 |
 | 81 |  [whitecat-ide](https://github.com/whitecatboard/whitecat-ide) | The Whitecat IDE, to program the ecosystem in Blocks or Lua | whitecatboard | 33 |
-| 82 |  [edex-ui](https://github.com/GitSquared/edex-ui) | A cross-platform, customizable science fiction terminal emulator with advanced monitoring &amp; touchscreen support. | GitSquared | 33215 |
-| 83 |  [octotree](https://github.com/ovity/octotree) | GitHub on steroids | ovity | 21441 |
+| 82 |  [edex-ui](https://github.com/GitSquared/edex-ui) | A cross-platform, customizable science fiction terminal emulator with advanced monitoring &amp; touchscreen support. | GitSquared | 33225 |
+| 83 |  [octotree](https://github.com/ovity/octotree) | GitHub on steroids | ovity | 21442 |
 | 84 |  [gfms](https://github.com/youurayy/gfms) | Github Flavored Markdown Server (GFMS) | youurayy | 241 |
 | 85 |  [vmd](https://github.com/yoshuawuyts/vmd) | :pray: preview markdown files | yoshuawuyts | 1129 |
 | 86 |  [livedown](https://github.com/shime/livedown) | Live Markdown previews for your favorite editor. | shime | 752 |
@@ -2747,23 +2747,23 @@
 | 88 |  [i8080-js](https://github.com/begoon/i8080-js) | Intel 8080 (KR580VM80A) core model in JavaScript | begoon | 36 |
 | 89 |  [rk86-js](https://github.com/begoon/rk86-js) | Эмулятор компьютера Радио-86РК на компьютере на JavaScript | begoon | 16 |
 | 90 |  [github-finder](https://github.com/ChristianChiarulli/github-finder) |  | ChristianChiarulli | 3 |
-| 91 |  [markdown-here](https://github.com/adam-p/markdown-here) | Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending. | adam-p | 52566 |
+| 91 |  [markdown-here](https://github.com/adam-p/markdown-here) | Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending. | adam-p | 52574 |
 | 92 |  [markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) | markdown preview plugin for (neo)vim | iamcco | 2422 |
 | 93 |  [filepizza](https://github.com/kern/filepizza) | :pizza: Peer-to-peer file transfers in your browser | kern | 3516 |
-| 94 |  [KaTeX](https://github.com/KaTeX/KaTeX) | Fast math typesetting for the web. | KaTeX | 14093 |
-| 95 |  [bittorrent-tracker](https://github.com/webtorrent/bittorrent-tracker) | 🌊 Simple, robust, BitTorrent tracker (client &amp; server) implementation | webtorrent | 1245 |
-| 96 |  [webtorrent](https://github.com/webtorrent/webtorrent) | ⚡️ Streaming torrent client for the web | webtorrent | 24072 |
+| 94 |  [KaTeX](https://github.com/KaTeX/KaTeX) | Fast math typesetting for the web. | KaTeX | 14094 |
+| 95 |  [bittorrent-tracker](https://github.com/webtorrent/bittorrent-tracker) | 🌊 Simple, robust, BitTorrent tracker (client &amp; server) implementation | webtorrent | 1246 |
+| 96 |  [webtorrent](https://github.com/webtorrent/webtorrent) | ⚡️ Streaming torrent client for the web | webtorrent | 24076 |
 | 97 |  [rclone-webui-react](https://github.com/rclone/rclone-webui-react) | A full fledged UI for the rclone cloud sync tool | rclone | 625 |
 | 98 |  [pinforgithub](https://github.com/vantezzen/pinforgithub) | 📌 Save repositories on GitHub for later without having to star them | vantezzen | 9 |
 | 99 |  [edit-as-html](https://github.com/belaviyo/edit-as-html) | browser extension to integrate external editor to edit HTML node elements | belaviyo | 17 |
 | 100 |  [npm-name-cli](https://github.com/sindresorhus/npm-name-cli) | Check whether a package or organization name is available on npm | sindresorhus | 257 |
-| 101 |  [npm-check-updates](https://github.com/raineorshine/npm-check-updates) | Find newer versions of package dependencies than what your package.json allows | raineorshine | 6327 |
+| 101 |  [npm-check-updates](https://github.com/raineorshine/npm-check-updates) | Find newer versions of package dependencies than what your package.json allows | raineorshine | 6329 |
 | 102 |  [updates](https://github.com/silverwind/updates) | Flexible npm dependency update tool | silverwind | 67 |
 | 103 |  [qbittorrent-webui-react](https://github.com/despin/qbittorrent-webui-react) | A custom WebUI to qBitTorrent torrent client. Written in JS and React. (Intended) Material Design compliant | despin | 4 |
 | 104 |  [stargazed](https://github.com/abhijithvijayan/stargazed) | 📋 Creating your own Awesome List of GitHub stars! | abhijithvijayan | 365 |
-| 105 |  [monaco-editor](https://github.com/microsoft/monaco-editor) | A browser based code editor | microsoft | 25475 |
+| 105 |  [monaco-editor](https://github.com/microsoft/monaco-editor) | A browser based code editor | microsoft | 25488 |
 | 106 |  [Electorrent](https://github.com/tympanix/Electorrent) | A remote control client for µTorrent, qBittorrent, rTorrent, Transmission, Synology &amp; Deluge | tympanix | 633 |
-| 107 |  [gitbook](https://github.com/GitbookIO/gitbook) | 📝 Modern documentation format and toolchain using Git and Markdown | GitbookIO | 23834 |
+| 107 |  [gitbook](https://github.com/GitbookIO/gitbook) | 📝 Modern documentation format and toolchain using Git and Markdown | GitbookIO | 23835 |
 | 108 |  [gitbook-cli](https://github.com/GitbookIO/gitbook-cli) | GitBook&#39;s command line interface | GitbookIO | 636 |
 | 109 |  [fengari-interop](https://github.com/fengari-lua/fengari-interop) | Fengari &amp;lt;=&amp;gt; JS Interop | fengari-lua | 64 |
 | 110 |  [fengari-loader](https://github.com/fengari-lua/fengari-loader) | Webpack loader for fengari | fengari-lua | 28 |
@@ -2779,7 +2779,7 @@
 | 120 |  [send-to-vlc](https://github.com/belaviyo/send-to-vlc) | A Webextension to send streamble media sources to VLC (VideoLAN) media player | belaviyo | 52 |
 | 121 |  [sran.nvim](https://github.com/iamcco/sran.nvim) | simple request and notification call for (neo)vim | iamcco | 1 |
 | 122 |  [git-p.nvim](https://github.com/iamcco/git-p.nvim) | Git plus for (neo)vim | iamcco | 39 |
-| 123 |  [nord-visual-studio-code](https://github.com/arcticicestudio/nord-visual-studio-code) | An arctic, north-bluish clean and elegant Visual Studio Code theme. | arcticicestudio | 788 |
+| 123 |  [nord-visual-studio-code](https://github.com/arcticicestudio/nord-visual-studio-code) | An arctic, north-bluish clean and elegant Visual Studio Code theme. | arcticicestudio | 789 |
 | 124 |  [rutorrent-hostname](https://github.com/rozhuk-im/rutorrent-hostname) |  | rozhuk-im | 3 |
 | 125 |  [ruTorrent](https://github.com/Micdu70/ruTorrent) | Yet another web front-end for rTorrent | Micdu70 | 2 |
 | 126 |  [rutorrent-hostname](https://github.com/Micdu70/rutorrent-hostname) |  | Micdu70 | 1 |
@@ -2790,46 +2790,46 @@
 | 131 |  [rutorrent-trackerstatus](https://github.com/Micdu70/rutorrent-trackerstatus) | ruTorrent plugin \| Add a &#34;Tracker - Status&#34; column in torrents list | Micdu70 | 6 |
 | 132 |  [rutorrentMobile](https://github.com/Micdu70/rutorrentMobile) | Plugin for ruTorrent to use it with mobile devies (Android, iOS, etc) | Micdu70 | 2 |
 | 133 |  [rutorrent-filemanager-share](https://github.com/nelu/rutorrent-filemanager-share) | File share link plugin | nelu | 3 |
-| 134 |  [rutorrent-filemanager](https://github.com/nelu/rutorrent-filemanager) | Shell file management plugin for ruTorrent webUI | nelu | 14 |
-| 135 |  [flood](https://github.com/Flood-UI/flood) | A web UI for rTorrent, qBittorrent and Transmission with a Node.js backend and React frontend. Migrate to v4: https://github.com/jesec/flood/wiki/Migrate-from-older-versions-of-Flood. | Flood-UI | 1791 |
+| 134 |  [rutorrent-filemanager](https://github.com/nelu/rutorrent-filemanager) | Shell file management plugin for ruTorrent webUI | nelu | 15 |
+| 135 |  [flood](https://github.com/Flood-UI/flood) | A web UI for rTorrent, qBittorrent and Transmission with a Node.js backend and React frontend. Migrate to v4: https://github.com/jesec/flood/wiki/Migrate-from-older-versions-of-Flood. | Flood-UI | 1792 |
 | 136 |  [cinnamon-spices-applets](https://github.com/linuxmint/cinnamon-spices-applets) | Applets for the Cinnamon desktop | linuxmint | 394 |
 | 137 |  [vim-language-server](https://github.com/iamcco/vim-language-server) | VImScript language server, LSP for vim script | iamcco | 312 |
-| 138 |  [lerna](https://github.com/lerna/lerna) | :dragon: A tool for managing JavaScript projects with multiple packages. | lerna | 29222 |
+| 138 |  [lerna](https://github.com/lerna/lerna) | :dragon: A tool for managing JavaScript projects with multiple packages. | lerna | 29233 |
 | 139 |  [xod](https://github.com/xodio/xod) | XOD IDE | xodio | 689 |
-| 140 |  [yarn](https://github.com/yarnpkg/yarn) | The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry | yarnpkg | 39949 |
+| 140 |  [yarn](https://github.com/yarnpkg/yarn) | The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry | yarnpkg | 39952 |
 | 141 |  [hion](https://github.com/hiasmstudio/hion) | HiAsm WEB ide online | hiasmstudio | 11 |
 | 142 |  [platformio-home](https://github.com/platformio/platformio-home) | PlatformIO Home | platformio | 50 |
 | 143 |  [gnome-android-tool](https://github.com/naman14/gnome-android-tool) | Gnome shell extension for adb tools | naman14 | 63 |
-| 144 |  [iptv](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channels from all over the world | iptv-org | 37094 |
+| 144 |  [iptv](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channels from all over the world | iptv-org | 37132 |
 | 145 |  [awesome-vscode](https://github.com/viatsko/awesome-vscode) | 🎨 A curated list of delightful VS Code packages and resources. | viatsko | 19212 |
 | 146 |  [atom-autocomplete-lua](https://github.com/dapetcu21/atom-autocomplete-lua) | Extensible autocomplete+ provider for Lua | dapetcu21 | 35 |
 | 147 |  [atom](https://github.com/file-icons/atom) | Atom file-specific icons for improved visual grepping. | file-icons | 1141 |
 | 148 |  [language-lua-plus](https://github.com/Azganoth/language-lua-plus) | Lua grammar and snippets for Atom. | Azganoth | 6 |
 | 149 |  [vscode-theme-gruvbox](https://github.com/jdinhify/vscode-theme-gruvbox) | Gruvbox theme for vscode based on https://github.com/morhetz/gruvbox | jdinhify | 137 |
-| 150 |  [atom](https://github.com/atom/atom) | :atom: The hackable text editor | atom | 55784 |
+| 150 |  [atom](https://github.com/atom/atom) | :atom: The hackable text editor | atom | 55796 |
 | 151 |  [arduinocontrol](https://github.com/simonthechipmunk/arduinocontrol) | &#34;Arduino Control&#34; Gnome-Shell Extension | simonthechipmunk | 27 |
-| 152 |  [webogram](https://github.com/zhukov/webogram) | Telegram web application, GPL v3 | zhukov | 7388 |
+| 152 |  [webogram](https://github.com/zhukov/webogram) | Telegram web application, GPL v3 | zhukov | 7387 |
 | 153 |  [rutorrent-ratiocolor](https://github.com/Micdu70/rutorrent-ratiocolor) |  | Micdu70 | 3 |
 | 154 |  [wolf3d-browser](https://github.com/id-Software/wolf3d-browser) | WOLF3D Browser Version GPL source release | id-Software | 537 |
 | 155 |  [wolf3d-altright](https://github.com/icculus/wolf3d-altright) | Wolfenstein 3-D: Alt-Right Edition. | icculus | 6 |
 | 156 |  [emacs-theme-gallery](https://github.com/pawelbx/emacs-theme-gallery) | Emacs theme gallery | pawelbx | 77 |
 | 157 |  [markdownlint-cli](https://github.com/igorshubovych/markdownlint-cli) | MarkdownLint Command Line Interface | igorshubovych | 421 |
-| 158 |  [shields](https://github.com/badges/shields) | Concise, consistent, and legible badges in SVG and raster format | badges | 14679 |
-| 159 |  [Iosevka](https://github.com/be5invis/Iosevka) | Versatile typeface for code, from code. | be5invis | 12428 |
+| 158 |  [shields](https://github.com/badges/shields) | Concise, consistent, and legible badges in SVG and raster format | badges | 14683 |
+| 159 |  [Iosevka](https://github.com/be5invis/Iosevka) | Versatile typeface for code, from code. | be5invis | 12435 |
 | 160 |  [rutorrentMobile](https://github.com/xombiemp/rutorrentMobile) | Plugin for ruTorrent to use it with mobile devies (Android, iOS, etc) | xombiemp | 91 |
 | 161 |  [geoip2-rutorrent](https://github.com/Micdu70/geoip2-rutorrent) | New geoip plugin for ruTorrent working with GeoLite2 (MaxMind DB Files) | Micdu70 | 12 |
 | 162 |  [rutorrent-thirdparty-plugins](https://github.com/nelu/rutorrent-thirdparty-plugins) | Plugins for ruTorrent web client, filemanager, fileshare, fileupload, mediastream | nelu | 52 |
 | 163 |  [ForkHub](https://github.com/jonan/ForkHub) | GitHub client for Android based on the abandoned official app | jonan | 2757 |
 | 164 |  [vim-git-wiki](https://github.com/MarcWeber/vim-git-wiki) | collaborative manual effort to create an index about vim tools | MarcWeber | 21 |
-| 165 |  [browsh](https://github.com/browsh-org/browsh) | A fully-modern text-based browser, rendering to TTY and browsers | browsh-org | 13379 |
+| 165 |  [browsh](https://github.com/browsh-org/browsh) | A fully-modern text-based browser, rendering to TTY and browsers | browsh-org | 13380 |
 | 166 |  [sublime-cpp14](https://github.com/fcharlie/sublime-cpp14) | Replacement self-contained C++11 syntax definition for Sublime Text | fcharlie | 3 |
-| 167 |  [learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) | Code documentation written as code! How novel and totally my idea! | adambard | 9076 |
+| 167 |  [learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) | Code documentation written as code! How novel and totally my idea! | adambard | 9078 |
 | 168 |  [ruTorrent](https://github.com/Novik/ruTorrent) | Yet another web front-end for rTorrent | Novik | 1630 |
 | 169 |  [node-vim-debugger](https://github.com/sidorares/node-vim-debugger) | node.js step by step debugging from vim | sidorares | 554 |
 | 170 |  [candy](https://github.com/candy-chat/candy) | JavaScript-based multi-user chat client for XMPP. | candy-chat | 1322 |
 | 171 |  [www.jabber.ru](https://github.com/oxpa/www.jabber.ru) | Jabber.ru website | oxpa | 4 |
-| 172 |  [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) | The iconic SVG, font, and CSS toolkit | FortAwesome | 65863 |
-| 173 |  [stackedit](https://github.com/benweet/stackedit) | In-browser Markdown editor | benweet | 18258 |
+| 172 |  [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) | The iconic SVG, font, and CSS toolkit | FortAwesome | 65864 |
+| 173 |  [stackedit](https://github.com/benweet/stackedit) | In-browser Markdown editor | benweet | 18262 |
 | 174 |  [zaborona_help](https://github.com/zhovner/zaborona_help) | Бесплатный сервис для обхода блокировок сайтов в Украине — https://zaborona.help | zhovner | 238 |
 | 175 |  [asar](https://github.com/electron/asar) | Simple extensive tar-like archive format with indexing | electron | 1787 |
 | 176 |  [jsctags](https://github.com/sergioramos/jsctags) | jsctags generator using tern | sergioramos | 477 |
@@ -2842,16 +2842,16 @@
 | 183 |  [amo-validator-bypass](https://github.com/dstillman/amo-validator-bypass) |  | dstillman | 14 |
 | 184 |  [uMatrix](https://github.com/gorhill/uMatrix) | uMatrix: Point and click matrix to filter net requests according to source, destination and type | gorhill | 4257 |
 | 185 |  [virgo.js](https://github.com/virgo-agent-toolkit/virgo.js) | Library for agents in node.js | virgo-agent-toolkit | 15 |
-| 186 |  [marked](https://github.com/markedjs/marked) | A markdown parser and compiler. Built for speed. | markedjs | 25434 |
+| 186 |  [marked](https://github.com/markedjs/marked) | A markdown parser and compiler. Built for speed. | markedjs | 25440 |
 | 187 |  [userjs-github-asciidoc](https://github.com/powerman/userjs-github-asciidoc) | UserJS for GitHub: fix Asciidoc rendering | powerman | 3 |
-| 188 |  [uBlock](https://github.com/gorhill/uBlock) | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. | gorhill | 25719 |
+| 188 |  [uBlock](https://github.com/gorhill/uBlock) | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. | gorhill | 25723 |
 | 189 |  [vim-recipes](https://github.com/runpaint/vim-recipes) | A cookbook for the Vim text editor. | runpaint | 272 |
 | 190 |  [Galileo](https://github.com/jberger/Galileo) | A Simple Modern Perl CMS | jberger | 165 |
 | 191 |  [luvit.io](https://github.com/luvit/luvit.io) | Source to luvit.io | luvit | 67 |
 | 192 |  [Colorsublime-Themes](https://github.com/Colorsublime/Colorsublime-Themes) | Colorsublime themes collection | Colorsublime | 385 |
-| 193 |  [Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) | Program for determining types of files for Windows, Linux and MacOS. | horsicq | 2452 |
+| 193 |  [Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) | Program for determining types of files for Windows, Linux and MacOS. | horsicq | 2454 |
 | 194 |  [uBlock](https://github.com/uBlock-LLC/uBlock) | uBlock: a fast, lightweight, and lean blocker for Chrome, Firefox, and Safari. | uBlock-LLC | 8031 |
-| 195 |  [webui-aria2](https://github.com/ziahamza/webui-aria2) | The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser. | ziahamza | 8309 |
+| 195 |  [webui-aria2](https://github.com/ziahamza/webui-aria2) | The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser. | ziahamza | 8311 |
 | 196 |  [markdown-js](https://github.com/evilstreak/markdown-js) | A Markdown parser for javascript | evilstreak | 7549 |
 | 197 |  [VkOpt](https://github.com/VkOpt/VkOpt) | VkOpt | VkOpt | 381 |
 | 198 |  [noads-advanced](https://github.com/Gemorroj/noads-advanced) | Advertisement blocking filter for Opera &amp;lt; 15 (Not supporting now) | Gemorroj | 14 |
@@ -2879,8 +2879,8 @@
 | 4 |  [KeePassDX](https://github.com/Kunzisoft/KeePassDX) | :iphone: KeePass implementation for android with material design and deluxe features | Kunzisoft | 1659 |
 | 5 |  [qbittorrent-exporter](https://github.com/fru1tstand/qbittorrent-exporter) | A kotin-based, prometheus exporter for qbittorrent that relies on qbittorrent&#39;s web ui. | fru1tstand | 16 |
 | 6 |  [EmmyLua-Unity](https://github.com/EmmyLua/EmmyLua-Unity) | EmmyLua unity3d plugin | EmmyLua | 24 |
-| 7 |  [IntelliJ-EmmyLua](https://github.com/EmmyLua/IntelliJ-EmmyLua) | Lua IDE/Debugger Plugin for IntelliJ IDEA | EmmyLua | 1371 |
-| 8 |  [WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) | Android application to analyze WiFi signals. | VREMSoftwareDevelopment | 1365 |
+| 7 |  [IntelliJ-EmmyLua](https://github.com/EmmyLua/IntelliJ-EmmyLua) | Lua IDE/Debugger Plugin for IntelliJ IDEA | EmmyLua | 1372 |
+| 8 |  [WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) | Android application to analyze WiFi signals. | VREMSoftwareDevelopment | 1366 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -2920,7 +2920,7 @@
 | 9 |  [console](https://github.com/franko/console) | A console plugin for the lite text editor | franko | 5 |
 | 10 |  [lite-formatters](https://github.com/vincens2005/lite-formatters) | Code formatters for https://github.com/rxi/lite and https://github.com/franko/lite-xl | vincens2005 | 4 |
 | 11 |  [lite-xl-widgets](https://github.com/jgmdev/lite-xl-widgets) | Widgets that can be used on lite-xl. | jgmdev | 3 |
-| 12 |  [lite-xl-lsp](https://github.com/jgmdev/lite-xl-lsp) | LSP Plugin for Lite XL editor | jgmdev | 17 |
+| 12 |  [lite-xl-lsp](https://github.com/jgmdev/lite-xl-lsp) | LSP Plugin for Lite XL editor | jgmdev | 18 |
 | 13 |  [lite-plugins](https://github.com/lite-xl/lite-plugins) | Plugins for the lite text editor | lite-xl | 29 |
 | 14 |  [lite-xl](https://github.com/lite-xl/lite-xl) | A lightweight text editor written in Lua | lite-xl | 425 |
 | 15 |  [nterm.nvim](https://github.com/jlesquembre/nterm.nvim) | neovim plugin to interact with the terminal | jlesquembre | 11 |
@@ -2931,14 +2931,14 @@
 | 20 |  [fzf-lua](https://github.com/ibhagwan/fzf-lua) | Improved fzf.vim written in lua | ibhagwan | 71 |
 | 21 |  [twilight.nvim](https://github.com/folke/twilight.nvim) | 🌅  Twilight is a Lua plugin for Neovim 0.5 that dims inactive portions of the code you&#39;re editing using TreeSitter. | folke | 182 |
 | 22 |  [nvim-tmux-navigation](https://github.com/alexghergh/nvim-tmux-navigation) | Easy Neovim-Tmux navigation, completely written in Lua | alexghergh | 9 |
-| 23 |  [hologram.nvim](https://github.com/edluffy/hologram.nvim) | 👻 A cross platform terminal image viewer for Neovim. Extensible and fast, written in Lua and C. Works on macOS and Linux. | edluffy | 107 |
+| 23 |  [hologram.nvim](https://github.com/edluffy/hologram.nvim) | 👻 A cross platform terminal image viewer for Neovim. Extensible and fast, written in Lua and C. Works on macOS and Linux. | edluffy | 108 |
 | 24 |  [lspcontainers.nvim](https://github.com/lspcontainers/lspcontainers.nvim) | Neovim plugin for lspcontainers. | lspcontainers | 76 |
 | 25 |  [doom-nvim](https://github.com/NTBBloodbath/doom-nvim) | A Neovim configuration for the advanced martian hacker | NTBBloodbath | 197 |
 | 26 |  [eval.nvim](https://github.com/luissimas/eval.nvim) | A simple code evaluator for neovim. | luissimas | 8 |
 | 27 |  [yaml.nvim](https://github.com/cuducos/yaml.nvim) | 🍒 YAML toolkit for Neovim users | cuducos | 45 |
 | 28 |  [cheatsheet.nvim](https://github.com/sudormrfbin/cheatsheet.nvim) | A cheatsheet plugin for neovim with bundled cheatsheets for the editor, multiple vim plugins, nerd-fonts, regex, etc. with a Telescope fuzzy finder interface ! | sudormrfbin | 88 |
 | 29 |  [telescope-asynctasks.nvim](https://github.com/GustavoKatel/telescope-asynctasks.nvim) | Integration for asynctasks with telescope.nvim | GustavoKatel | 11 |
-| 30 |  [github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) | Github theme for Neovim, kitty, iTerm, Konsole, and Alacritty written in Lua | projekt0n | 203 |
+| 30 |  [github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) | Github theme for Neovim, kitty, iTerm, Konsole, and Alacritty written in Lua | projekt0n | 205 |
 | 31 |  [stickybuf.nvim](https://github.com/stevearc/stickybuf.nvim) | Neovim plugin for locking a buffer to a window | stevearc | 8 |
 | 32 |  [Lmod](https://github.com/TACC/Lmod) | Lmod: An Environment Module System based on Lua, Reads TCL Modules, Supports a Software Hierarchy | TACC | 319 |
 | 33 |  [neovim-dotfiles](https://github.com/winston0410/neovim-dotfiles) |  | winston0410 | 3 |
@@ -2948,16 +2948,16 @@
 | 37 |  [droidvim](https://github.com/ronniedroid/droidvim) | My personal neovim configuration. | ronniedroid | 2 |
 | 38 |  [nvim-config](https://github.com/Joakker/nvim-config) | :moon: Neovim configuration written primarily in lua | Joakker | 3 |
 | 39 |  [dotfiles](https://github.com/rockerBOO/dotfiles) | doot files for arch (btw) | rockerBOO | 17 |
-| 40 |  [orgmode.nvim](https://github.com/kristijanhusak/orgmode.nvim) | Orgmode clone written in Lua for Neovim 0.5+. | kristijanhusak | 533 |
+| 40 |  [orgmode.nvim](https://github.com/kristijanhusak/orgmode.nvim) | Orgmode clone written in Lua for Neovim 0.5+. | kristijanhusak | 534 |
 | 41 |  [vis-config](https://github.com/mizlan/vis-config) |  | mizlan | 2 |
 | 42 |  [microscope.nvim](https://github.com/mizlan/microscope.nvim) | Small Telescope-esque picker thing | mizlan | 1 |
 | 43 |  [transient](https://github.com/mizlan/transient) | transient for neovim [wip] | mizlan | 2 |
-| 44 |  [iswap.nvim](https://github.com/mizlan/iswap.nvim) | Interactively select and swap function arguments, list elements, and more. Powered by tree-sitter. | mizlan | 96 |
+| 44 |  [iswap.nvim](https://github.com/mizlan/iswap.nvim) | Interactively select and swap function arguments, list elements, and more. Powered by tree-sitter. | mizlan | 97 |
 | 45 |  [qf_helper.nvim](https://github.com/stevearc/qf_helper.nvim) | A collection of improvements for the quickfix buffer | stevearc | 12 |
 | 46 |  [lvim-helper](https://github.com/lvim-tech/lvim-helper) | LVIM HELPER - Neovim plugin written in Lua. Show your custom help files. | lvim-tech | 3 |
 | 47 |  [flow-coverage.nvim](https://github.com/stevearc/flow-coverage.nvim) | Neovim plugin to display flow type coverage information | stevearc | 2 |
-| 48 |  [aerial.nvim](https://github.com/stevearc/aerial.nvim) | Neovim plugin for a code outline window | stevearc | 105 |
-| 49 |  [snap](https://github.com/camspiers/snap) | A fast finder system for neovim. | camspiers | 308 |
+| 48 |  [aerial.nvim](https://github.com/stevearc/aerial.nvim) | Neovim plugin for a code outline window | stevearc | 106 |
+| 49 |  [snap](https://github.com/camspiers/snap) | A fast finder system for neovim. | camspiers | 309 |
 | 50 |  [init.vim](https://github.com/TaylorBeeston/init.vim) |  | TaylorBeeston | 2 |
 | 51 |  [snazzybuddy.nvim](https://github.com/bbenzikry/snazzybuddy.nvim) | Snazzy color scheme for Neovim using colorbuddy | bbenzikry | 3 |
 | 52 |  [goldsmith.nvim](https://github.com/WhoIsSethDaniel/goldsmith.nvim) | Use Neovim features, such as built-in LSP and tree-sitter, and develop Go code. | WhoIsSethDaniel | 2 |
@@ -2973,8 +2973,8 @@
 | 62 |  [parinfer-lua](https://github.com/oakmac/parinfer-lua) | Parinfer core algorithm in Lua | oakmac | 7 |
 | 63 |  [nvim-parinfer](https://github.com/ggandor/nvim-parinfer) | Fast and light parinfer plugin for Neovim (parinfer-lua wrapped with the Vim plugin from parinfer-rust) (WIP) | ggandor | 4 |
 | 64 |  [lightspeed.nvim](https://github.com/ggandor/lightspeed.nvim) | Next-generation motion plugin with ahead-of-time (two-stage) labeling of targets, pushing on-screen navigation speed close to the physical limits | ggandor | 269 |
-| 65 |  [hop.nvim](https://github.com/phaazon/hop.nvim) | Neovim motions on speed! | phaazon | 537 |
-| 66 |  [LuaSnip](https://github.com/L3MON4D3/LuaSnip) | Snippet Engine for Neovim written in Lua. | L3MON4D3 | 210 |
+| 65 |  [hop.nvim](https://github.com/phaazon/hop.nvim) | Neovim motions on speed! | phaazon | 538 |
+| 66 |  [LuaSnip](https://github.com/L3MON4D3/LuaSnip) | Snippet Engine for Neovim written in Lua. | L3MON4D3 | 211 |
 | 67 |  [limelight.nvim](https://github.com/winston0410/limelight.nvim) |  | winston0410 | 1 |
 | 68 |  [mark-radar.nvim](https://github.com/winston0410/mark-radar.nvim) |  | winston0410 | 29 |
 | 69 |  [tmux.nvim](https://github.com/aserowy/tmux.nvim) | tmux integration for nvim features pane movement and resizing from within nvim. | aserowy | 60 |
@@ -2991,12 +2991,12 @@
 | 80 |  [auto-pandoc.nvim](https://github.com/jghauser/auto-pandoc.nvim) | A neovim plugin leveraging pandoc to help you convert your markdown files. It takes pandoc options from yaml blocks. | jghauser | 3 |
 | 81 |  [kitty-runner.nvim](https://github.com/jghauser/kitty-runner.nvim) | A neovim plugin allowing you to easily send lines from the current buffer to another kitty terminal | jghauser | 4 |
 | 82 |  [NoCLC.nvim](https://github.com/Pocco81/NoCLC.nvim) | 🥕 Simple NeoVim plugin for disabling the cursor-line/column in unused windows/buffers. | Pocco81 | 11 |
-| 83 |  [DAPInstall.nvim](https://github.com/Pocco81/DAPInstall.nvim) | 🦆 A NeoVim plugin for managing several debuggers for Nvim-dap | Pocco81 | 84 |
+| 83 |  [DAPInstall.nvim](https://github.com/Pocco81/DAPInstall.nvim) | 🦆 A NeoVim plugin for managing several debuggers for Nvim-dap | Pocco81 | 85 |
 | 84 |  [dotfiles](https://github.com/RRethy/dotfiles) | My dotfiles: neovim, git, zsh, kitty | RRethy | 8 |
 | 85 |  [JABS.nvim](https://github.com/matbme/JABS.nvim) | Just Another Buffer Switcher for Neovim | matbme | 51 |
 | 86 |  [AbbrevMan.nvim](https://github.com/Pocco81/AbbrevMan.nvim) | 🍍 A NeoVim plugin for managing vim abbreviations. | Pocco81 | 58 |
 | 87 |  [lua-glob](https://github.com/sumneko/lua-glob) |  | sumneko | 4 |
-| 88 |  [commented.nvim](https://github.com/winston0410/commented.nvim) | A commenting plugin written in Lua that actually works. | winston0410 | 35 |
+| 88 |  [commented.nvim](https://github.com/winston0410/commented.nvim) | A commenting plugin written in Lua that actually works. | winston0410 | 36 |
 | 89 |  [grus3](https://github.com/sshspb/grus3) | esp8266 esp-01 ds18b20 sim800l nodemcu | sshspb | 1 |
 | 90 |  [tarantool](https://github.com/tarantool/tarantool) | Get your data in RAM. Get compute close to data. Enjoy the performance. | tarantool | 2668 |
 | 91 |  [cyan-bundler](https://github.com/euclidianAce/cyan-bundler) | A proof-of-concept Teal source bundling tool using cyan | euclidianAce | 1 |
@@ -3018,21 +3018,21 @@
 | 107 |  [null-ls.nvim](https://github.com/jose-elias-alvarez/null-ls.nvim) | Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua. | jose-elias-alvarez | 184 |
 | 108 |  [cmd-parser.nvim](https://github.com/winston0410/cmd-parser.nvim) | A command-line parser for neovim for plugin authors. | winston0410 | 5 |
 | 109 |  [gruvbox-flat.nvim](https://github.com/eddyekofo94/gruvbox-flat.nvim) | Another attempt of a flat Gruvbox theme for Neovim | eddyekofo94 | 104 |
-| 110 |  [onedark.nvim](https://github.com/monsonjeremy/onedark.nvim) | OneDark NeoVim theme written in Lua | monsonjeremy | 41 |
-| 111 |  [onedark.nvim](https://github.com/navarasu/onedark.nvim) | One Dark Theme for Neovim &amp;gt;= 0.5.0 written in lua based on Atom&#39;s One Dark UI Theme. Additionally, it comes with 5 color variant styles | navarasu | 81 |
+| 110 |  [onedark.nvim](https://github.com/monsonjeremy/onedark.nvim) | OneDark NeoVim theme written in Lua | monsonjeremy | 42 |
+| 111 |  [onedark.nvim](https://github.com/navarasu/onedark.nvim) | One Dark Theme for Neovim &amp;gt;= 0.5.0 written in lua based on Atom&#39;s One Dark UI Theme. Additionally, it comes with 5 color variant styles | navarasu | 82 |
 | 112 |  [mpv-translate-shell](https://github.com/alexherbo2/mpv-translate-shell) | Translate Shell integration for mpv | alexherbo2 | 3 |
 | 113 |  [neovim-session-manager](https://github.com/Shatur/neovim-session-manager) | A simple wrapper around :mksession | Shatur | 13 |
 | 114 |  [nvim-lastplace](https://github.com/ethanholz/nvim-lastplace) | A Lua rewrite of vim-lastplace | ethanholz | 33 |
 | 115 |  [vim-concertina](https://github.com/eugen0329/vim-concertina) | Accordion-like windows layout | eugen0329 | 2 |
 | 116 |  [lsp-rooter.nvim](https://github.com/ahmedkhalf/lsp-rooter.nvim) | lsp-rooter.nvim is a neovim plugin written in lua to change the current working directory to the project&#39;s root directory automagically using nvim native lsp. | ahmedkhalf | 77 |
-| 117 |  [defaults.nvim](https://github.com/mjlbach/defaults.nvim) | A small, featureful neovim template | mjlbach | 280 |
+| 117 |  [defaults.nvim](https://github.com/mjlbach/defaults.nvim) | A small, featureful neovim template | mjlbach | 281 |
 | 118 |  [syncX](https://github.com/pkulchenko/syncX) | SyncX is an implementation of a CRDT synchronization algorithm in Lua | pkulchenko | 5 |
 | 119 |  [material_plus.nvim](https://github.com/ray-x/material_plus.nvim) | A combination of 24bit colorschemes: material, moonlight, Dracula (blood), Monokai, Mariana. | ray-x | 6 |
 | 120 |  [lua-EventEmitter](https://github.com/moteus/lua-EventEmitter) | Implement EventEmitter on Lua | moteus | 6 |
 | 121 |  [luacov-coveralls](https://github.com/moteus/luacov-coveralls) | LuaCov reporter for coveralls.io service | moteus | 44 |
 | 122 |  [vscode.nvim](https://github.com/Mofiqul/vscode.nvim) | Neovim/Vim color scheme inspired by Dark+ and Light+ theme in Visual Studio Code | Mofiqul | 41 |
 | 123 |  [telescope-js-package-scripts.nvim](https://github.com/kishikaisei/telescope-js-package-scripts.nvim) | Integration for vimspector with telescope.nvim | kishikaisei | 5 |
-| 124 |  [lua-dev.nvim](https://github.com/folke/lua-dev.nvim) | 💻  Dev setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API. | folke | 145 |
+| 124 |  [lua-dev.nvim](https://github.com/folke/lua-dev.nvim) | 💻  Dev setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API. | folke | 146 |
 | 125 |  [nvim_rest](https://github.com/22mahmoud/nvim_rest) | [WIP] http client plugin for neovim | 22mahmoud | 3 |
 | 126 |  [nvim-lua-annotations](https://github.com/nanotee/nvim-lua-annotations) | Generate EmmyLua annotations for Neovim functions | nanotee | 7 |
 | 127 |  [nvim-lsp-basics](https://github.com/nanotee/nvim-lsp-basics) | Basic wrappers for LSP features | nanotee | 6 |
@@ -3041,7 +3041,7 @@
 | 130 |  [telescope-node-modules.nvim](https://github.com/nvim-telescope/telescope-node-modules.nvim) | An extension that provides its users with node packages under node_modules directory | nvim-telescope | 8 |
 | 131 |  [nebulous.nvim](https://github.com/Yagua/nebulous.nvim) | Minimalist Collection of Colorschemes Written in Lua | Yagua | 45 |
 | 132 |  [neon](https://github.com/rafamadriz/neon) | Customizable coloscheme with dark and light options, vivid colors and easy on the eye. | rafamadriz | 34 |
-| 133 |  [zen-mode.nvim](https://github.com/folke/zen-mode.nvim) | 🧘  Distraction-free coding for Neovim | folke | 196 |
+| 133 |  [zen-mode.nvim](https://github.com/folke/zen-mode.nvim) | 🧘  Distraction-free coding for Neovim | folke | 197 |
 | 134 |  [gruvy.nvim](https://github.com/elianiva/gruvy.nvim) | colours! | elianiva | 15 |
 | 135 |  [nord.nvim](https://github.com/shaunsingh/nord.nvim) | Neovim theme based off of the Nord Color Palette, written in lua with tree sitter support | shaunsingh | 128 |
 | 136 |  [old-dotfiles](https://github.com/winston0410/old-dotfiles) |  | winston0410 | 1 |
@@ -3058,9 +3058,9 @@
 | 147 |  [format.nvim](https://github.com/lukas-reineke/format.nvim) | Neovim lua plugin to format the current buffer with external executables | lukas-reineke | 124 |
 | 148 |  [nvim_lua_config](https://github.com/kuznetsss/nvim_lua_config) | Neovim lua config | kuznetsss | 4 |
 | 149 |  [meadow-nvim](https://github.com/kuznetsss/meadow-nvim) | Dark colorscheme for nvim 0.5+ written in lua | kuznetsss | 5 |
-| 150 |  [NvChad](https://github.com/siduck76/NvChad) | An attempt to make neovim cli as functional as an IDE while being very beautiful and less bloated. | siduck76 | 2782 |
+| 150 |  [NvChad](https://github.com/siduck76/NvChad) | An attempt to make neovim cli as functional as an IDE while being very beautiful and less bloated. | siduck76 | 2790 |
 | 151 |  [lite-plugin-manager](https://github.com/takase1121/lite-plugin-manager) | A little plugin-manager thingy for lite | takase1121 | 8 |
-| 152 |  [nvim](https://github.com/ray-x/nvim) | nvim setup with lazy loading. Fast and asynchronise loading. | ray-x | 14 |
+| 152 |  [nvim](https://github.com/ray-x/nvim) | nvim setup with lazy loading. Fast and asynchronise loading. | ray-x | 15 |
 | 153 |  [moonlight.nvim](https://github.com/shaunsingh/moonlight.nvim) | Port of VSCode&#39;s Moonlight colorscheme for NeoVim written in Lua with built-in support for native LSP, TreeSitter and many more plugins | shaunsingh | 60 |
 | 154 |  [telescope-vim-bookmarks.nvim](https://github.com/tom-anders/telescope-vim-bookmarks.nvim) | Integrates vim-bookmarks into telescope.nvim | tom-anders | 20 |
 | 155 |  [luarocks-build-xmake](https://github.com/xmake-io/luarocks-build-xmake) | A luarocks build module based on xmake | xmake-io | 12 |
@@ -3070,15 +3070,15 @@
 | 159 |  [Scryfall-Image-Downloader](https://github.com/euclidianAce/Scryfall-Image-Downloader) |  | euclidianAce | 1 |
 | 160 |  [luapak](https://github.com/jirutka/luapak) | Easily build a standalone executable for any Lua program | jirutka | 138 |
 | 161 |  [cyan](https://github.com/teal-language/cyan) | The Teal build system and project manager | teal-language | 21 |
-| 162 |  [telescope-bookmarks.nvim](https://github.com/dhruvmanila/telescope-bookmarks.nvim) | A Neovim Telescope extension to open your browser bookmarks right from the editor! | dhruvmanila | 40 |
+| 162 |  [telescope-bookmarks.nvim](https://github.com/dhruvmanila/telescope-bookmarks.nvim) | A Neovim Telescope extension to open your browser bookmarks right from the editor! | dhruvmanila | 41 |
 | 163 |  [go.nvim](https://github.com/npxbr/go.nvim) | Go development plugin for Neovim | npxbr | 8 |
 | 164 |  [lpil53](https://github.com/GavinHigham/lpil53) | A Lua parser for Lua 5.3, written in Lua. (Still in progress) | GavinHigham | 6 |
 | 165 |  [sqlier](https://github.com/ceifa/sqlier) | Yet another gmod database abstraction | ceifa | 15 |
 | 166 |  [crazy-node-movement](https://github.com/theHamsta/crazy-node-movement) | Move along tree-sitter&#39;s syntax tree with Neovim! | theHamsta | 10 |
 | 167 |  [nvim-treesitter-commonlisp](https://github.com/theHamsta/nvim-treesitter-commonlisp) |  | theHamsta | 4 |
 | 168 |  [dotfiles](https://github.com/polarmutex/dotfiles) | my personal dotfiles | polarmutex | 3 |
-| 169 |  [module-template](https://github.com/nvim-treesitter/module-template) | A repository template to create you own nvim-treesitter module ! | nvim-treesitter | 14 |
-| 170 |  [nvim-treesitter-refactor](https://github.com/nvim-treesitter/nvim-treesitter-refactor) | Refactor module for nvim-treesitter | nvim-treesitter | 112 |
+| 169 |  [module-template](https://github.com/nvim-treesitter/module-template) | A repository template to create you own nvim-treesitter module ! | nvim-treesitter | 15 |
+| 170 |  [nvim-treesitter-refactor](https://github.com/nvim-treesitter/nvim-treesitter-refactor) | Refactor module for nvim-treesitter | nvim-treesitter | 113 |
 | 171 |  [terminal.nvim](https://github.com/mortepau/terminal.nvim) | A small plugin meant to simplify the process of using the builtin terminal in Neovim | mortepau | 3 |
 | 172 |  [Mani.nvim](https://github.com/mortepau/Mani.nvim) |  | mortepau | 1 |
 | 173 |  [neovim-config](https://github.com/mortepau/neovim-config) | My personal Neovim config | mortepau | 1 |
@@ -3089,14 +3089,14 @@
 | 178 |  [codicons.nvim](https://github.com/mortepau/codicons.nvim) | A plugin simplifying the task of working with VS Code codicons in Neovim | mortepau | 10 |
 | 179 |  [floating.nvim](https://github.com/fhill2/floating.nvim) | nvim floating window manager | fhill2 | 33 |
 | 180 |  [nvim-treesitter-pairs](https://github.com/theHamsta/nvim-treesitter-pairs) |  | theHamsta | 34 |
-| 181 |  [contextprint.nvim](https://github.com/polarmutex/contextprint.nvim) | neovim plugin to add context aware print debug statements | polarmutex | 36 |
+| 181 |  [contextprint.nvim](https://github.com/polarmutex/contextprint.nvim) | neovim plugin to add context aware print debug statements | polarmutex | 37 |
 | 182 |  [dotfiles](https://github.com/p00f/dotfiles) |  | p00f | 5 |
-| 183 |  [playground](https://github.com/nvim-treesitter/playground) | Treesitter playground integrated into Neovim | nvim-treesitter | 196 |
+| 183 |  [playground](https://github.com/nvim-treesitter/playground) | Treesitter playground integrated into Neovim | nvim-treesitter | 197 |
 | 184 |  [dotfiles](https://github.com/sindrets/dotfiles) |  | sindrets | 5 |
 | 185 |  [diffview.nvim](https://github.com/sindrets/diffview.nvim) | Single tabpage interface for easily cycling through diffs for all modified files for any git rev. | sindrets | 369 |
 | 186 |  [dotfiles](https://github.com/tiagovla/dotfiles) |  | tiagovla | 49 |
-| 187 |  [nvim-jqx](https://github.com/gennaro-tedesco/nvim-jqx) | Populate the quickfix with json entries | gennaro-tedesco | 80 |
-| 188 |  [lua-resty-redis](https://github.com/openresty/lua-resty-redis) | Lua redis client driver for the ngx_lua based on the cosocket API | openresty | 1598 |
+| 187 |  [nvim-jqx](https://github.com/gennaro-tedesco/nvim-jqx) | Populate the quickfix with json entries | gennaro-tedesco | 82 |
+| 188 |  [lua-resty-redis](https://github.com/openresty/lua-resty-redis) | Lua redis client driver for the ngx_lua based on the cosocket API | openresty | 1599 |
 | 189 |  [luvit-server](https://github.com/zhaozg/luvit-server) | This is a fork of https://github.com/creationix/weblit, but event driven. | zhaozg | 1 |
 | 190 |  [luvit-ntp](https://github.com/zhaozg/luvit-ntp) |  | zhaozg | 1 |
 | 191 |  [termwrapper.nvim](https://github.com/oberblastmeister/termwrapper.nvim) | lua wrapper for neovim terminal | oberblastmeister | 13 |
@@ -3109,22 +3109,22 @@
 | 198 |  [dotfiles](https://github.com/rafamadriz/dotfiles) | There&#39;s lots of configurations out there, but this one is mine. | rafamadriz | 38 |
 | 199 |  [dotfiles](https://github.com/martini97/dotfiles) | My dotfiles | martini97 | 2 |
 | 200 |  [neuron-v2.nvim](https://github.com/frandsoh/neuron-v2.nvim) | [WIP] Manage your Zettelkasten and notes with the help of neuron in nvim. | frandsoh | 2 |
-| 201 |  [registers.nvim](https://github.com/tversteeg/registers.nvim) | 📑 NeoVim plugin to preview the contents of the registers | tversteeg | 175 |
+| 201 |  [registers.nvim](https://github.com/tversteeg/registers.nvim) | 📑 NeoVim plugin to preview the contents of the registers | tversteeg | 176 |
 | 202 |  [specs.nvim](https://github.com/edluffy/specs.nvim) | 👓 A fast and lightweight Neovim lua plugin to keep an eye on where your cursor has jumped. | edluffy | 100 |
 | 203 |  [neuron.nvim](https://github.com/oberblastmeister/neuron.nvim) | Make neovim the best note taking application | oberblastmeister | 182 |
 | 204 |  [nvim-deardiary](https://github.com/ishchow/nvim-deardiary) | Journaling plugin for NeoVim | ishchow | 12 |
 | 205 |  [lualine-lsp-progress](https://github.com/arkav/lualine-lsp-progress) | LSP Progress lualine componenet | arkav | 12 |
 | 206 |  [evil-nvim](https://github.com/GustavoPrietoP/evil-nvim) | A neovim configuration for the doom fanboys | GustavoPrietoP | 40 |
 | 207 |  [lsp-colors.nvim](https://github.com/folke/lsp-colors.nvim) | 🌈  Plugin that creates missing LSP diagnostics highlight groups for color schemes that don&#39;t yet support the Neovim 0.5 builtin LSP client. | folke | 137 |
-| 208 |  [which-key.nvim](https://github.com/folke/which-key.nvim) | 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing. | folke | 564 |
-| 209 |  [rust-tools.nvim](https://github.com/simrat39/rust-tools.nvim) | Tools for better development in rust using neovim&#39;s builtin lsp | simrat39 | 263 |
+| 208 |  [which-key.nvim](https://github.com/folke/which-key.nvim) | 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing. | folke | 565 |
+| 209 |  [rust-tools.nvim](https://github.com/simrat39/rust-tools.nvim) | Tools for better development in rust using neovim&#39;s builtin lsp | simrat39 | 271 |
 | 210 |  [nvim-dap-virtual-text](https://github.com/theHamsta/nvim-dap-virtual-text) |  | theHamsta | 102 |
 | 211 |  [symbols-outline.nvim](https://github.com/simrat39/symbols-outline.nvim) | A tree like view for symbols in Neovim using the Language Server Protocol. Supports all your favourite languages. | simrat39 | 277 |
 | 212 |  [LunarVim](https://github.com/gnmearacaun/LunarVim) | A Neovim config made with sane defaults | gnmearacaun | 2 |
 | 213 |  [evim](https://github.com/e-cal/evim) | Neovim meets VS Code. The best of both worlds, in your terminal, ready to code. | e-cal | 49 |
 | 214 |  [dotfiles](https://github.com/smithbm2316/dotfiles) | My personal configuration files, feel free to steal anything you find interesting! | smithbm2316 | 4 |
 | 215 |  [nvim-biscuits](https://github.com/code-biscuits/nvim-biscuits) | A neovim port of Assorted Biscuits. Ends up with more supported languages too. | code-biscuits | 50 |
-| 216 |  [nvim_context_vt](https://github.com/haringsrob/nvim_context_vt) | Virtual text context for neovim treesitter | haringsrob | 60 |
+| 216 |  [nvim_context_vt](https://github.com/haringsrob/nvim_context_vt) | Virtual text context for neovim treesitter | haringsrob | 61 |
 | 217 |  [adoc-pdf-live.nvim](https://github.com/marioortizmanero/adoc-pdf-live.nvim) | Small plugin for vim to preview Asciidoc PDF output | marioortizmanero | 5 |
 | 218 |  [lsp_signature.nvim](https://github.com/ray-x/lsp_signature.nvim) | lsp signature hint when you type | ray-x | 370 |
 | 219 |  [navigator.lua](https://github.com/ray-x/navigator.lua) | Navigate codes like a breeze.  Exploring LSP and 🌲Treesitter symbols a piece of 🍰 | ray-x | 224 |
@@ -3132,16 +3132,16 @@
 | 221 |  [nvim-workbench](https://github.com/marcushwz/nvim-workbench) | A workbench plugin for you to write your thoughts down without leaving the project and the editor. | marcushwz | 46 |
 | 222 |  [hsluv-lua](https://github.com/hsluv/hsluv-lua) | Lua implementation of HSLuv (revision 4) | hsluv | 31 |
 | 223 |  [mc-neovim](https://github.com/marko-cerovac/mc-neovim) | Config files for my neovim setup | marko-cerovac | 2 |
-| 224 |  [material.nvim](https://github.com/marko-cerovac/material.nvim) | :trident: Material colorscheme for NeoVim written in Lua with built-in support for native LSP, TreeSitter and many more plugins | marko-cerovac | 213 |
+| 224 |  [material.nvim](https://github.com/marko-cerovac/material.nvim) | :trident: Material colorscheme for NeoVim written in Lua with built-in support for native LSP, TreeSitter and many more plugins | marko-cerovac | 212 |
 | 225 |  [GroupThor-Old-v1](https://github.com/kamikazechaser/GroupThor-Old-v1) | 🔷 Advanced Anti Spam and Super Group Manager Bot For Telegram | kamikazechaser | 10 |
 | 226 |  [GroupButler](https://github.com/group-butler/GroupButler) | This bot can help you in managing your group with rules, anti-flood, description, custom triggers, and much more! | group-butler | 417 |
 | 227 |  [DBTeamV3](https://github.com/Josepdal/DBTeamV3) | New DBTeamV3 working with new tdcli binary called Telegram-bot | Josepdal | 8 |
 | 228 |  [DBTeamV2](https://github.com/Josepdal/DBTeamV2) | New version available DBTeamV3 -&amp;gt; | Josepdal | 29 |
 | 229 |  [config](https://github.com/faerryn/config) | It&#39;s my dotfiles! | faerryn | 2 |
-| 230 |  [neorg](https://github.com/vhyrro/neorg) | Modernity meets insane extensibility. The future of organizing your life in Neovim. | vhyrro | 1139 |
-| 231 |  [vgit.nvim](https://github.com/tanvirtin/vgit.nvim) | Visual Git Plugin for Neovim | tanvirtin | 98 |
-| 232 |  [tokyonight.nvim](https://github.com/folke/tokyonight.nvim) | 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish. | folke | 520 |
-| 233 |  [trouble.nvim](https://github.com/folke/trouble.nvim) | 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing. | folke | 685 |
+| 230 |  [neorg](https://github.com/vhyrro/neorg) | Modernity meets insane extensibility. The future of organizing your life in Neovim. | vhyrro | 1144 |
+| 231 |  [vgit.nvim](https://github.com/tanvirtin/vgit.nvim) | Visual Git Plugin for Neovim | tanvirtin | 99 |
+| 232 |  [tokyonight.nvim](https://github.com/folke/tokyonight.nvim) | 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish. | folke | 521 |
+| 233 |  [trouble.nvim](https://github.com/folke/trouble.nvim) | 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing. | folke | 688 |
 | 234 |  [nvim-config](https://github.com/ur4ltz/nvim-config) | My neovim config written in Lua (WIP). | ur4ltz | 1 |
 | 235 |  [geany-lua-scripts](https://github.com/DGivney/geany-lua-scripts) | Collection of scripts for improved productivity in Geany | DGivney | 10 |
 | 236 |  [completion-conjure](https://github.com/m00qek/completion-conjure) | Conjure completion source for completion-nvim | m00qek | 6 |
@@ -3159,7 +3159,7 @@
 | 248 |  [session-lens](https://github.com/rmagatti/session-lens) | A session-switcher extension for rmagatti/auto-session using Telescope.nvim | rmagatti | 56 |
 | 249 |  [nvim-tetris](https://github.com/alec-gibson/nvim-tetris) | Bringing emacs&#39; greatest feature to neovim - Tetris! | alec-gibson | 76 |
 | 250 |  [spellsitter.nvim](https://github.com/lewis6991/spellsitter.nvim) | Treesitter powered spellchecker | lewis6991 | 82 |
-| 251 |  [go.nvim](https://github.com/ray-x/go.nvim) | Golang Neovim plugin, based on nvim-lsp, treesitter and Dap | ray-x | 89 |
+| 251 |  [go.nvim](https://github.com/ray-x/go.nvim) | Golang Neovim plugin, based on nvim-lsp, treesitter and Dap | ray-x | 91 |
 | 252 |  [guihua.lua](https://github.com/ray-x/guihua.lua) | A GUI lib for Neovim plugin dev | ray-x | 17 |
 | 253 |  [aurora](https://github.com/ray-x/aurora) | 24-bit dark theme for (Neo)vim. Optimized for treesitter, LSP. | ray-x | 57 |
 | 254 |  [monokai.nvim](https://github.com/tanvirtin/monokai.nvim) | Monokai theme for Neovim written in Lua. | tanvirtin | 52 |
@@ -3169,16 +3169,16 @@
 | 258 |  [onedark.nvim](https://github.com/olimorris/onedark.nvim) | My take on One Dark, in Neovim - based on lush.nvim | olimorris | 12 |
 | 259 |  [dotfiles](https://github.com/rmagatti/dotfiles) | Collection of my dotfiles. Likely unpolished and at times forgotten but always around. :wink: | rmagatti | 6 |
 | 260 |  [alternate-toggler](https://github.com/rmagatti/alternate-toggler) | A very small plugin for toggling alternate &#34;boolean&#34; values. | rmagatti | 15 |
-| 261 |  [auto-session](https://github.com/rmagatti/auto-session) | A small automated session manager for Neovim | rmagatti | 149 |
+| 261 |  [auto-session](https://github.com/rmagatti/auto-session) | A small automated session manager for Neovim | rmagatti | 151 |
 | 262 |  [dotfiles](https://github.com/lxsymington/dotfiles) | Personal dotfiles | lxsymington | 1 |
-| 263 |  [harpoon](https://github.com/ThePrimeagen/harpoon) |  | ThePrimeagen | 170 |
+| 263 |  [harpoon](https://github.com/ThePrimeagen/harpoon) |  | ThePrimeagen | 171 |
 | 264 |  [git-worktree.nvim](https://github.com/ThePrimeagen/git-worktree.nvim) |  | ThePrimeagen | 104 |
 | 265 |  [kosmikoa.nvim](https://github.com/novakne/kosmikoa.nvim) | A dark color scheme for Neovim with support for LSP, Treesitter. mirror of https://git.sr.ht/~novakane/kosmikoa.nvim | novakne | 20 |
 | 266 |  [dotfiles](https://github.com/novakne/dotfiles) | Go here for up to date https://git.sr.ht/~novakane/dotfiles | novakne | 2 |
 | 267 |  [nvim-config](https://github.com/williamboman/nvim-config) | My neovim config files | williamboman | 1 |
 | 268 |  [nvim-lsp-installer](https://github.com/williamboman/nvim-lsp-installer) | Semi-opinionated companion plugin for nvim-lspconfig. It comes with all batteries included, or at least to the extent possible. | williamboman | 31 |
-| 269 |  [nvim-dap-ui](https://github.com/rcarriga/nvim-dap-ui) | A UI for nvim-dap | rcarriga | 190 |
-| 270 |  [one-small-step-for-vimkind](https://github.com/jbyuki/one-small-step-for-vimkind) | Debug adapter for Neovim plugins | jbyuki | 55 |
+| 269 |  [nvim-dap-ui](https://github.com/rcarriga/nvim-dap-ui) | A UI for nvim-dap | rcarriga | 191 |
+| 270 |  [one-small-step-for-vimkind](https://github.com/jbyuki/one-small-step-for-vimkind) | Debug adapter for Neovim plugins | jbyuki | 58 |
 | 271 |  [nvim-treesitter-context](https://github.com/romgrk/nvim-treesitter-context) | Show code context | romgrk | 231 |
 | 272 |  [feline.nvim](https://github.com/famiu/feline.nvim) | A minimal, stylish and customizable statusline for Neovim written in Lua | famiu | 183 |
 | 273 |  [dotfiles](https://github.com/mthnglac/dotfiles) | This is what I use to get things done! | mthnglac | 47 |
@@ -3194,7 +3194,7 @@
 | 283 |  [vimfiles](https://github.com/tamago324/vimfiles) | My vimfiles | tamago324 | 7 |
 | 284 |  [lir.nvim](https://github.com/tamago324/lir.nvim) | 🚪 A simple file explorer | tamago324 | 91 |
 | 285 |  [wind-colors](https://github.com/windwp/wind-colors) | Wind colorscheme for neovim | windwp | 10 |
-| 286 |  [nvim-ts-autotag](https://github.com/windwp/nvim-ts-autotag) | Use treesitter to auto close and auto rename html tag | windwp | 193 |
+| 286 |  [nvim-ts-autotag](https://github.com/windwp/nvim-ts-autotag) | Use treesitter to auto close and auto rename html tag | windwp | 194 |
 | 287 |  [nvim](https://github.com/windwp/nvim) | My Neovim config - windvim | windwp | 13 |
 | 288 |  [nvim-ide](https://github.com/johnsci911/nvim-ide) | VIM on steroids | johnsci911 | 11 |
 | 289 |  [nlsp-settings.nvim](https://github.com/tamago324/nlsp-settings.nvim) | A plugin for setting Neovim LSP with JSON files | tamago324 | 73 |
@@ -3216,20 +3216,20 @@
 | 305 |  [lispdocs.nvim](https://github.com/tami5/lispdocs.nvim) | View community usage examples/notes from within your editor. | tami5 | 20 |
 | 306 |  [prodoc.nvim](https://github.com/glepnir/prodoc.nvim) | a neovim comment and  annotation plugin using coroutine | glepnir | 35 |
 | 307 |  [smartinput.nvim](https://github.com/glepnir/smartinput.nvim) |  | glepnir | 14 |
-| 308 |  [nvim-ts-context-commentstring](https://github.com/JoosepAlviste/nvim-ts-context-commentstring) | Neovim treesitter plugin for setting the commentstring based on the cursor location in a file. | JoosepAlviste | 197 |
+| 308 |  [nvim-ts-context-commentstring](https://github.com/JoosepAlviste/nvim-ts-context-commentstring) | Neovim treesitter plugin for setting the commentstring based on the cursor location in a file. | JoosepAlviste | 198 |
 | 309 |  [nvim-revJ.lua](https://github.com/AckslD/nvim-revJ.lua) | Nvim-plugin for doing the opposite of join-line (J) of arguments written in lua. | AckslD | 54 |
 | 310 |  [nvim-whichkey-setup.lua](https://github.com/AckslD/nvim-whichkey-setup.lua) | Nvim-plugin what wraps vim-which-key to simplify setup in lua | AckslD | 44 |
 | 311 |  [green_light.nvim](https://github.com/tjdevries/green_light.nvim) | GO GO GO GO | tjdevries | 14 |
 | 312 |  [telescope-hacks.nvim](https://github.com/tjdevries/telescope-hacks.nvim) | Personal hacks. Not necessarily meant for others consumption, but you can look at them. | tjdevries | 8 |
 | 313 |  [lush-light-dark-example](https://github.com/rktjmp/lush-light-dark-example) |  | rktjmp | 1 |
 | 314 |  [lush-template](https://github.com/rktjmp/lush-template) | Starter template for https://git.io/lush.nvim | rktjmp | 7 |
-| 315 |  [melange](https://github.com/savq/melange) | 🗡️ Warm color scheme for Neovim and beyond | savq | 85 |
+| 315 |  [melange](https://github.com/savq/melange) | 🗡️ Warm color scheme for Neovim and beyond | savq | 86 |
 | 316 |  [dotfiles](https://github.com/savq/dotfiles) | Mere dotfiles | savq | 12 |
 | 317 |  [conjure-julia](https://github.com/savq/conjure-julia) |  | savq | 5 |
-| 318 |  [paq-nvim](https://github.com/savq/paq-nvim) | 🌚  Neovim package manager | savq | 265 |
+| 318 |  [paq-nvim](https://github.com/savq/paq-nvim) | 🌚  Neovim package manager | savq | 267 |
 | 319 |  [mackup](https://github.com/yamatsum/mackup) |  | yamatsum | 1 |
 | 320 |  [nvim-cursorline](https://github.com/yamatsum/nvim-cursorline) | A plugin for neovim that highlights cursor words and lines | yamatsum | 73 |
-| 321 |  [nvim-nonicons](https://github.com/yamatsum/nvim-nonicons) | Icon set using nonicons for neovim plugins and settings | yamatsum | 133 |
+| 321 |  [nvim-nonicons](https://github.com/yamatsum/nvim-nonicons) | Icon set using nonicons for neovim plugins and settings | yamatsum | 134 |
 | 322 |  [dotfiles](https://github.com/kabouzeid/dotfiles) |  | kabouzeid | 13 |
 | 323 |  [nvim-lspinstall](https://github.com/kabouzeid/nvim-lspinstall) | Provides the missing :LspInstall for nvim-lspconfig | kabouzeid | 364 |
 | 324 |  [neovim-lua-plugin-boilerplate](https://github.com/s1n7ax/neovim-lua-plugin-boilerplate) | Starter template for creating Neovim Lua plugins | s1n7ax | 11 |
@@ -3257,13 +3257,13 @@
 | 346 |  [nautilus.nvim](https://github.com/pwntester/nautilus.nvim) | A nice and cobaltish neovim theme | pwntester | 8 |
 | 347 |  [nvim-pluginman](https://github.com/terrortylor/nvim-pluginman) | A simple plugin manager for NeoVim | terrortylor | 4 |
 | 348 |  [neovim-environment](https://github.com/terrortylor/neovim-environment) | My neovim environment | terrortylor | 7 |
-| 349 |  [nvim-comment](https://github.com/terrortylor/nvim-comment) | A comment toggler for Neovim, written in Lua | terrortylor | 102 |
+| 349 |  [nvim-comment](https://github.com/terrortylor/nvim-comment) | A comment toggler for Neovim, written in Lua | terrortylor | 103 |
 | 350 |  [lspkind-nvim](https://github.com/onsails/lspkind-nvim) | vscode-like pictograms for neovim lsp completion items | onsails | 202 |
 | 351 |  [flutter-tools.nvim](https://github.com/akinsho/flutter-tools.nvim) | Tools to help create flutter apps in neovim using the native lsp | akinsho | 121 |
 | 352 |  [nvim-metals](https://github.com/scalameta/nvim-metals) | A Metals plugin for Nvim | scalameta | 99 |
 | 353 |  [lualogging](https://github.com/lunarmodules/lualogging) | A simple API to use logging features in Lua | lunarmodules | 13 |
 | 354 |  [lua-scriptum](https://github.com/charlesmallah/lua-scriptum) | Documentation generation with Lua | charlesmallah | 4 |
-| 355 |  [sg.nvim](https://github.com/tjdevries/sg.nvim) | Some ideas that I&#39;m playing around with for sourcegraph | tjdevries | 46 |
+| 355 |  [sg.nvim](https://github.com/tjdevries/sg.nvim) | Some ideas that I&#39;m playing around with for sourcegraph | tjdevries | 47 |
 | 356 |  [LPeg-Parsers](https://github.com/spc476/LPeg-Parsers) | Parsing common data formats via LPeg | spc476 | 50 |
 | 357 |  [GLV-1.12556](https://github.com/spc476/GLV-1.12556) | The First Gemini Protocol Server | spc476 | 29 |
 | 358 |  [luahub](https://github.com/perky/luahub) | A wrapper library to access the GitHub API from Lua | perky | 2 |
@@ -3279,7 +3279,7 @@
 | 368 |  [pflua](https://github.com/Igalia/pflua) | Packet filtering in Lua | Igalia | 313 |
 | 369 |  [nvim-autospace](https://github.com/windwp/nvim-autospace) |  | windwp | 5 |
 | 370 |  [nvim-projectconfig](https://github.com/windwp/nvim-projectconfig) | neovim projectconfig | windwp | 27 |
-| 371 |  [nvim-lint](https://github.com/mfussenegger/nvim-lint) | An asynchronous linter plugin for Neovim (&amp;gt;= 0.5) complementary to the built-in Language Server Protocol support. | mfussenegger | 130 |
+| 371 |  [nvim-lint](https://github.com/mfussenegger/nvim-lint) | An asynchronous linter plugin for Neovim (&amp;gt;= 0.5) complementary to the built-in Language Server Protocol support. | mfussenegger | 131 |
 | 372 |  [lua-basic-oauth2](https://github.com/vincasmiliunas/lua-basic-oauth2) | This library does simple comminication with OAuth2 services. | vincasmiliunas | 3 |
 | 373 |  [luajson](https://github.com/harningt/luajson) | JSON parser/encoder for Lua Parses JSON using LPEG for speed and flexibility. Depending on parser/encoder options, various values are preserved as best as possible. | harningt | 235 |
 | 374 |  [3d](https://github.com/p3r7/3d) | 🧊 Pure Lua 3D lib for Norns | p3r7 | 3 |
@@ -3287,13 +3287,13 @@
 | 376 |  [textadept](https://github.com/orbitalquark/textadept) | Textadept is a fast, minimalist, and remarkably extensible cross-platform text editor for programmers. | orbitalquark | 157 |
 | 377 |  [micro-nord-tc-colors](https://github.com/KiranWells/micro-nord-tc-colors) | A nord colorscheme port for the Micro editor | KiranWells | 10 |
 | 378 |  [micro-aspell-plugin](https://github.com/priner/micro-aspell-plugin) | Spellchecker plugin for Micro editor | priner | 5 |
-| 379 |  [LuaPanda](https://github.com/Tencent/LuaPanda) | lua debug and code tools for VS Code | Tencent | 812 |
+| 379 |  [LuaPanda](https://github.com/Tencent/LuaPanda) | lua debug and code tools for VS Code | Tencent | 815 |
 | 380 |  [dotfiles](https://github.com/creativenull/dotfiles) | My dotfiles | creativenull | 11 |
 | 381 |  [simple-wiki.nvim](https://github.com/rafcamlet/simple-wiki.nvim) | Simple note system via linking markdown files in wiki style | rafcamlet | 11 |
 | 382 |  [vis-spellcheck](https://github.com/fischerling/vis-spellcheck) | Spellcheck plugin for the vis editor | fischerling | 14 |
 | 383 |  [OCEmu](https://github.com/zenith391/OCEmu) | OpenComputers Emulator in Lua | zenith391 | 16 |
 | 384 |  [game-of-life-lua](https://github.com/latentflip/game-of-life-lua) | Game of life in lua | latentflip | 3 |
-| 385 |  [kommentary](https://github.com/b3nj5m1n/kommentary) | Neovim commenting plugin, written in lua. | b3nj5m1n | 333 |
+| 385 |  [kommentary](https://github.com/b3nj5m1n/kommentary) | Neovim commenting plugin, written in lua. | b3nj5m1n | 337 |
 | 386 |  [lsp_installer](https://github.com/adelarsq/lsp_installer) |  | adelarsq | 1 |
 | 387 |  [nvim-lspupdate](https://github.com/alexaandru/nvim-lspupdate) | Updates installed LSP servers, automatically | alexaandru | 44 |
 | 388 |  [astronauta.nvim](https://github.com/tjdevries/astronauta.nvim) | You now feel at home traveling to the moon | tjdevries | 93 |
@@ -3336,7 +3336,7 @@
 | 425 |  [doodots](https://github.com/doopath/doodots) | My dotfiles | doopath | 6 |
 | 426 |  [lualine.nvim](https://github.com/hoob3rt/lualine.nvim) | A blazing fast and easy to configure neovim statusline plugin written in pure lua. | hoob3rt | 510 |
 | 427 |  [nix-dotfiles](https://github.com/mjlbach/nix-dotfiles) | My personal nix and nixos configuration | mjlbach | 100 |
-| 428 |  [LuaParser](https://github.com/sumneko/LuaParser) | Customized Lua parser for [lua-language-server](https://github.com/sumneko/lua-language-server). | sumneko | 35 |
+| 428 |  [LuaParser](https://github.com/sumneko/LuaParser) | Customized Lua parser for [lua-language-server](https://github.com/sumneko/lua-language-server). | sumneko | 36 |
 | 429 |  [nvim-old](https://github.com/ur4ltz/nvim-old) | My neovim config writed in Lua (WIP). | ur4ltz | 2 |
 | 430 |  [lua-telemetry-server](https://github.com/sumneko/lua-telemetry-server) |  | sumneko | 2 |
 | 431 |  [co2](https://github.com/bartbes/co2) | co2 is an extended replacement for the lua coroutine library | bartbes | 6 |
@@ -3346,13 +3346,13 @@
 | 435 |  [dns](https://github.com/luadns/dns) | Example DNS repository | luadns | 32 |
 | 436 |  [lua-resty-auto-ssl](https://github.com/auto-ssl/lua-resty-auto-ssl) | On the fly (and free) SSL registration and renewal inside OpenResty/nginx with Let&#39;s Encrypt. | auto-ssl | 1741 |
 | 437 |  [replacer.nvim](https://github.com/gabrielpoca/replacer.nvim) | It makes a quickfix list editable in both content and file path. | gabrielpoca | 42 |
-| 438 |  [conjure](https://github.com/Olical/conjure) | Interactive evaluation for Neovim (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile) | Olical | 678 |
+| 438 |  [conjure](https://github.com/Olical/conjure) | Interactive evaluation for Neovim (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile) | Olical | 680 |
 | 439 |  [daedalus.nvim](https://github.com/hkupty/daedalus.nvim) | In order to call great APIs, we need great API clients. | hkupty | 27 |
 | 440 |  [classifier.nvim](https://github.com/hkupty/classifier.nvim) | Filetype to/from extension mapping | hkupty | 3 |
 | 441 |  [pointer.nvim](https://github.com/hkupty/pointer.nvim) | Quickly share the reference to a point in your file | hkupty | 18 |
 | 442 |  [dotfiles](https://github.com/huyvohcmc/dotfiles) | backup of my personal dotfiles | huyvohcmc | 100 |
-| 443 |  [dotfiles](https://github.com/elianiva/dotfiles) | ツ | elianiva | 111 |
-| 444 |  [nordbuddy](https://github.com/maaslalani/nordbuddy) | Nord colorscheme for neovim | maaslalani | 34 |
+| 443 |  [dotfiles](https://github.com/elianiva/dotfiles) | ツ | elianiva | 112 |
+| 444 |  [nordbuddy](https://github.com/maaslalani/nordbuddy) | Nord colorscheme for neovim | maaslalani | 35 |
 | 445 |  [nvim-finder](https://github.com/RishabhRD/nvim-finder) | A highly extensible fuzzy finder neovim extension based on popfix fuzzy engine. | RishabhRD | 12 |
 | 446 |  [nvim-blamer.lua](https://github.com/ttys3/nvim-blamer.lua) | neovim git blamer | ttys3 | 37 |
 | 447 |  [dotfiles](https://github.com/kevinhwang91/dotfiles) | This is my personal ArchLinux dotfiles. | kevinhwang91 | 13 |
@@ -3360,33 +3360,33 @@
 | 449 |  [luafmt](https://github.com/CurtisFenner/luafmt) | A code formatter for Lua | CurtisFenner | 18 |
 | 450 |  [animations](https://github.com/liquidev/animations) | Animations for my YouTube channel, using pan | liquidev | 1 |
 | 451 |  [telescope-packer.nvim](https://github.com/nvim-telescope/telescope-packer.nvim) | A Telescope extension that provides extra functionality for Packer.nvim | nvim-telescope | 48 |
-| 452 |  [telescope-project.nvim](https://github.com/nvim-telescope/telescope-project.nvim) |  | nvim-telescope | 134 |
-| 453 |  [telescope-github.nvim](https://github.com/nvim-telescope/telescope-github.nvim) | Integration with github cli | nvim-telescope | 71 |
+| 452 |  [telescope-project.nvim](https://github.com/nvim-telescope/telescope-project.nvim) |  | nvim-telescope | 135 |
+| 453 |  [telescope-github.nvim](https://github.com/nvim-telescope/telescope-github.nvim) | Integration with github cli | nvim-telescope | 72 |
 | 454 |  [telescope-symbols.nvim](https://github.com/nvim-telescope/telescope-symbols.nvim) |  | nvim-telescope | 39 |
-| 455 |  [lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim) | neovim lsp plugin | glepnir | 778 |
+| 455 |  [lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim) | neovim lsp plugin | glepnir | 779 |
 | 456 |  [git-blame.nvim](https://github.com/f-person/git-blame.nvim) | Git Blame plugin for Neovim written in Lua | f-person | 186 |
 | 457 |  [dotfiles](https://github.com/22mahmoud/dotfiles) |  | 22mahmoud | 8 |
 | 458 |  [nvim](https://github.com/22mahmoud/nvim) |  | 22mahmoud | 26 |
 | 459 |  [yanil](https://github.com/Xuyuanp/yanil) | Yet Another Nerdtree In Lua | Xuyuanp | 56 |
 | 460 |  [scrollbar.nvim](https://github.com/Xuyuanp/scrollbar.nvim) | scrollbar for neovim | Xuyuanp | 163 |
 | 461 |  [fzf-lsp.nvim](https://github.com/gfanto/fzf-lsp.nvim) | Enable the power of fzf fuzzy search for the neovim built in lsp | gfanto | 81 |
-| 462 |  [lintplus](https://github.com/liquidev/lintplus) | An improved linting plugin for the lite text editor. | liquidev | 21 |
+| 462 |  [lintplus](https://github.com/liquidev/lintplus) | An improved linting plugin for the lite text editor. | liquidev | 22 |
 | 463 |  [ntangle-lsp.nvim](https://github.com/jbyuki/ntangle-lsp.nvim) | Integration with LSP in ntangle.nvim | jbyuki | 8 |
 | 464 |  [talua](https://github.com/azoyan/talua) | Techincal Analysis Lua library | azoyan | 3 |
 | 465 |  [shiplog](https://github.com/giann/shiplog) | ⚓ A very simple journal keeping cli tool | giann | 9 |
 | 466 |  [sirocco](https://github.com/giann/sirocco) | 🦜 A collection of interactive command line prompts for Lua | giann | 76 |
 | 467 |  [codeql.nvim](https://github.com/pwntester/codeql.nvim) | CodeQL plugin for Neovim | pwntester | 42 |
-| 468 |  [octo.nvim](https://github.com/pwntester/octo.nvim) | Edit and review GitHub issues and pull requests from the comfort of your favorite editor | pwntester | 403 |
+| 468 |  [octo.nvim](https://github.com/pwntester/octo.nvim) | Edit and review GitHub issues and pull requests from the comfort of your favorite editor | pwntester | 404 |
 | 469 |  [love-debugger](https://github.com/slembcke/love-debugger) | A wrapper for debugger.lua for the Löve game engine. | slembcke | 7 |
 | 470 |  [pr.nvim](https://github.com/lukas-reineke/pr.nvim) |  | lukas-reineke | 23 |
-| 471 |  [indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim) | Indent guides  for Neovim | lukas-reineke | 524 |
+| 471 |  [indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim) | Indent guides  for Neovim | lukas-reineke | 526 |
 | 472 |  [nvim-lspfuzzy](https://github.com/ojroques/nvim-lspfuzzy) | A Neovim plugin to make the LSP client use FZF | ojroques | 191 |
 | 473 |  [dotfiles](https://github.com/zdenekkostal/dotfiles) |  | zdenekkostal | 4 |
 | 474 |  [dot](https://github.com/lucastrvsn/dot) | ⚙  all my config files | lucastrvsn | 25 |
 | 475 |  [nvim](https://github.com/datwaft/nvim) | datwaft&#39;s neovim configuration using Fennel | datwaft | 39 |
 | 476 |  [bubbly.nvim](https://github.com/datwaft/bubbly.nvim) | Bubbly statusline for neovim | datwaft | 144 |
 | 477 |  [FTerm.nvim](https://github.com/numToStr/FTerm.nvim) | :fire: No-nonsense floating terminal plugin for neovim :fire: | numToStr | 186 |
-| 478 |  [the-glorious-dotfiles](https://github.com/manilarome/the-glorious-dotfiles) | A glorified personal dot files | manilarome | 1687 |
+| 478 |  [the-glorious-dotfiles](https://github.com/manilarome/the-glorious-dotfiles) | A glorified personal dot files | manilarome | 1688 |
 | 479 |  [bookmarks-nvim](https://github.com/66RING/bookmarks-nvim) | Interactive mark and jump action in neovim. | 66RING | 9 |
 | 480 |  [mpv-waifu2x](https://github.com/jonniek/mpv-waifu2x) | Mpv script to take screenshot and convert images with waifu2x | jonniek | 16 |
 | 481 |  [unseen-playlistmaker](https://github.com/jonniek/unseen-playlistmaker) | Playlistcreation tool for mpv. | jonniek | 6 |
@@ -3402,7 +3402,7 @@
 | 491 |  [Moses](https://github.com/Yonaba/Moses) | Utility library for functional programming  in Lua | Yonaba | 548 |
 | 492 |  [compe-conjure](https://github.com/tami5/compe-conjure) | compe-nvim source for conjure | tami5 | 16 |
 | 493 |  [dotfiles](https://github.com/kavotaman/dotfiles) |  | kavotaman | 1 |
-| 494 |  [lush.nvim](https://github.com/rktjmp/lush.nvim) | Define Neovim themes as a DSL in lua, with real-time feedback. | rktjmp | 398 |
+| 494 |  [lush.nvim](https://github.com/rktjmp/lush.nvim) | Define Neovim themes as a DSL in lua, with real-time feedback. | rktjmp | 401 |
 | 495 |  [dotfiles](https://github.com/bkegley/dotfiles) |  | bkegley | 12 |
 | 496 |  [treesitter-context.nvim](https://github.com/vigoux/treesitter-context.nvim) | A context.vim clone powered by treesitter. | vigoux | 20 |
 | 497 |  [architext.nvim](https://github.com/vigoux/architext.nvim) | :rocket: Structural editing powered by treesitter | vigoux | 65 |
@@ -3416,31 +3416,31 @@
 | 505 |  [nvim-fzy](https://github.com/mfussenegger/nvim-fzy) | Like fzf.vim but for fzy and neovim with Lua API | mfussenegger | 17 |
 | 506 |  [nvim-dap-python](https://github.com/mfussenegger/nvim-dap-python) | An extension for nvim-dap, providing default configurations for python and methods to debug individual test methods or classes. | mfussenegger | 34 |
 | 507 |  [nvim-jdtls](https://github.com/mfussenegger/nvim-jdtls) | Extensions for the built-in LSP support in Neovim for eclipse.jdt.ls | mfussenegger | 135 |
-| 508 |  [nvim-dap](https://github.com/mfussenegger/nvim-dap) | Debug Adapter Protocol client implementation for Neovim (&amp;gt;= 0.5) | mfussenegger | 645 |
+| 508 |  [nvim-dap](https://github.com/mfussenegger/nvim-dap) | Debug Adapter Protocol client implementation for Neovim (&amp;gt;= 0.5) | mfussenegger | 646 |
 | 509 |  [formatter.nvim](https://github.com/mhartington/formatter.nvim) |  | mhartington | 269 |
 | 510 |  [bfredl.github.io](https://github.com/bfredl/bfredl.github.io) | public docs and dotfiles | bfredl | 9 |
-| 511 |  [barbar.nvim](https://github.com/romgrk/barbar.nvim) | A neovim tabline plugin. | romgrk | 572 |
-| 512 |  [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) | Find, Filter, Preview, Pick. All lua, all the time. | nvim-telescope | 2859 |
+| 511 |  [barbar.nvim](https://github.com/romgrk/barbar.nvim) | A neovim tabline plugin. | romgrk | 573 |
+| 512 |  [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) | Find, Filter, Preview, Pick. All lua, all the time. | nvim-telescope | 2861 |
 | 513 |  [telescope-vimspector.nvim](https://github.com/nvim-telescope/telescope-vimspector.nvim) | Integration for vimspector with telescope.nvim | nvim-telescope | 22 |
-| 514 |  [telescope-dap.nvim](https://github.com/nvim-telescope/telescope-dap.nvim) | Integration for nvim-dap with telescope.nvim | nvim-telescope | 46 |
+| 514 |  [telescope-dap.nvim](https://github.com/nvim-telescope/telescope-dap.nvim) | Integration for nvim-dap with telescope.nvim | nvim-telescope | 47 |
 | 515 |  [neoline.vim](https://github.com/adelarsq/neoline.vim) | Status Line for Neovim focused on beauty and performance ✅ | adelarsq | 102 |
 | 516 |  [nvim-ale-diagnostic](https://github.com/nathunsmitty/nvim-ale-diagnostic) | Display Neovim LSP diagnostics in ALE. | nathunsmitty | 33 |
 | 517 |  [dependency-assist.nvim](https://github.com/akinsho/dependency-assist.nvim) | A neovim plugin to help find/search for dependency information/versions | akinsho | 38 |
 | 518 |  [dotfiles](https://github.com/akinsho/dotfiles) | 🏡 dotfiles | akinsho | 96 |
 | 519 |  [nvim-toggleterm.lua](https://github.com/akinsho/nvim-toggleterm.lua) | A neovim lua plugin to help easily manage multiple terminal windows | akinsho | 306 |
 | 520 |  [weather.nvim](https://github.com/npxbr/weather.nvim) | A simple weather plugin in your Neovim | npxbr | 15 |
-| 521 |  [glow.nvim](https://github.com/npxbr/glow.nvim) | A markdown preview directly in your neovim. | npxbr | 181 |
-| 522 |  [gruvbox.nvim](https://github.com/npxbr/gruvbox.nvim) | Lua port of the most famous vim colorscheme | npxbr | 171 |
+| 521 |  [glow.nvim](https://github.com/npxbr/glow.nvim) | A markdown preview directly in your neovim. | npxbr | 182 |
+| 522 |  [gruvbox.nvim](https://github.com/npxbr/gruvbox.nvim) | Lua port of the most famous vim colorscheme | npxbr | 170 |
 | 523 |  [favi](https://github.com/kuator/favi) | Simple bookmarking plugin for your favourite files and directories | kuator | 12 |
 | 524 |  [neofs](https://github.com/TimUntersberger/neofs) | A file manager for neovim | TimUntersberger | 26 |
 | 525 |  [neovim.config](https://github.com/TimUntersberger/neovim.config) | My Neovim config | TimUntersberger | 5 |
 | 526 |  [dotfiles](https://github.com/lewis6991/dotfiles) | My personal vimrc file | lewis6991 | 4 |
-| 527 |  [gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) | Git signs written in pure lua | lewis6991 | 571 |
+| 527 |  [gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) | Git signs written in pure lua | lewis6991 | 572 |
 | 528 |  [nvim-local-fennel](https://github.com/Olical/nvim-local-fennel) | Execute local Fennel Lisp files in Neovim upon startup | Olical | 31 |
 | 529 |  [nvim-ts-rainbow](https://github.com/p00f/nvim-ts-rainbow) | 🌈 Rainbow parentheses for neovim using tree-sitter 🌈 | p00f | 248 |
 | 530 |  [algebra.nvim](https://github.com/jbyuki/algebra.nvim) | basic computer algebra system for Nvim | jbyuki | 5 |
 | 531 |  [ntangle.nvim](https://github.com/jbyuki/ntangle.nvim) | literate programming for neovim | jbyuki | 17 |
-| 532 |  [instant.nvim](https://github.com/jbyuki/instant.nvim) | collaborative editing in Neovim using built-in capabilities | jbyuki | 320 |
+| 532 |  [instant.nvim](https://github.com/jbyuki/instant.nvim) | collaborative editing in Neovim using built-in capabilities | jbyuki | 321 |
 | 533 |  [space-nvim](https://github.com/Th3Whit3Wolf/space-nvim) |  | Th3Whit3Wolf | 10 |
 | 534 |  [spacebuddy](https://github.com/Th3Whit3Wolf/spacebuddy) | A spacemacs inspired dark and light theme | Th3Whit3Wolf | 11 |
 | 535 |  [Dusk-til-Dawn.nvim](https://github.com/Th3Whit3Wolf/Dusk-til-Dawn.nvim) | Automatically change colorscheme based on time | Th3Whit3Wolf | 11 |
@@ -3452,12 +3452,12 @@
 | 541 |  [nelua-lang](https://github.com/edubart/nelua-lang) | Minimal, efficient, statically-typed and meta-programmable systems programming language heavily inspired by Lua, which compiles to C and native code. | edubart | 586 |
 | 542 |  [nvim](https://github.com/glepnir/nvim) | neovim configuration written in lua | glepnir | 287 |
 | 543 |  [zephyr-nvim](https://github.com/glepnir/zephyr-nvim) | A dark neovim colorscheme written in lua | glepnir | 146 |
-| 544 |  [galaxyline.nvim](https://github.com/glepnir/galaxyline.nvim) | neovim statusline plugin written in lua | glepnir | 573 |
+| 544 |  [galaxyline.nvim](https://github.com/glepnir/galaxyline.nvim) | neovim statusline plugin written in lua | glepnir | 575 |
 | 545 |  [nvim](https://github.com/budswa/nvim) |  | budswa | 9 |
 | 546 |  [vimpeccable-lua-vimrc-advanced-example](https://github.com/svermeulen/vimpeccable-lua-vimrc-advanced-example) |  | svermeulen | 4 |
 | 547 |  [vimpeccable-lua-vimrc-example](https://github.com/svermeulen/vimpeccable-lua-vimrc-example) |  | svermeulen | 4 |
 | 548 |  [vimwiki.nvim](https://github.com/chipsenkbeil/vimwiki.nvim) | Neovim plugin that offers enhanced and alternative functionality for the vimwiki language. | chipsenkbeil | 5 |
-| 549 |  [neogit](https://github.com/TimUntersberger/neogit) | magit for neovim | TimUntersberger | 700 |
+| 549 |  [neogit](https://github.com/TimUntersberger/neogit) | magit for neovim | TimUntersberger | 702 |
 | 550 |  [nvim-bufferline.lua](https://github.com/akinsho/nvim-bufferline.lua) | A snazzy bufferline for Neovim | akinsho | 417 |
 | 551 |  [folding-nvim](https://github.com/pierreglaser/folding-nvim) |  | pierreglaser | 19 |
 | 552 |  [lua-stream](https://github.com/norcalli/lua-stream) | A Lua module inspired by Monix for processing elements in a Stream using reactive style and coroutines. | norcalli | 2 |
@@ -3514,7 +3514,7 @@
 | 603 |  [nlua.nvim](https://github.com/tjdevries/nlua.nvim) | Lua Development for Neovim | tjdevries | 167 |
 | 604 |  [lsp_extensions.nvim](https://github.com/nvim-lua/lsp_extensions.nvim) | Repo to hold a bunch of info &amp; extension callbacks for built-in LSP. Use at your own risk :wink: | nvim-lua | 146 |
 | 605 |  [fennel-nvim](https://github.com/jaawerth/fennel-nvim) | running fennel-lang natively in neovim | jaawerth | 55 |
-| 606 |  [vimpeccable](https://github.com/svermeulen/vimpeccable) | Neovim plugin that allows you to easily map keys directly to lua code inside your init.lua | svermeulen | 254 |
+| 606 |  [vimpeccable](https://github.com/svermeulen/vimpeccable) | Neovim plugin that allows you to easily map keys directly to lua code inside your init.lua | svermeulen | 255 |
 | 607 |  [plugin-lua](https://github.com/prettier/plugin-lua) | Prettier Lua Plugin (WIP) | prettier | 58 |
 | 608 |  [mpv-menu](https://github.com/jonniek/mpv-menu) | A simple 0-dependency mpv menu to launch commands from | jonniek | 15 |
 | 609 |  [redflat](https://github.com/worron/redflat) | Extension module for Awesome WM | worron | 48 |
@@ -3529,7 +3529,7 @@
 | 618 |  [dotfiles](https://github.com/BrodieRobertson/dotfiles) | Various configuration files for programs that I use | BrodieRobertson | 266 |
 | 619 |  [lua-async-await](https://github.com/ms-jpq/lua-async-await) | Async Await in 90 lines of code. | ms-jpq | 95 |
 | 620 |  [awesome-wm-slidebar](https://github.com/mut-ex/awesome-wm-slidebar) | an easy to use, configurable, multi-purpose, animated widget bar written in Lua for Awesome WM | mut-ex | 13 |
-| 621 |  [nmap](https://github.com/nmap/nmap) | Nmap - the Network Mapper. Github mirror of official SVN repository. | nmap | 5362 |
+| 621 |  [nmap](https://github.com/nmap/nmap) | Nmap - the Network Mapper. Github mirror of official SVN repository. | nmap | 5363 |
 | 622 |  [hydra.nse](https://github.com/lelybar/hydra.nse) | NSE-script for brute force open ports | lelybar | 22 |
 | 623 |  [awesome-config](https://github.com/gagbo/awesome-config) | The huge mess that is my awesome configuration | gagbo | 1 |
 | 624 |  [lua-scripts](https://github.com/darktable-org/lua-scripts) |  | darktable-org | 110 |
@@ -3548,12 +3548,12 @@
 | 637 |  [titan](https://github.com/skbolton/titan) | My attempt at making dotfiles super portable | skbolton | 122 |
 | 638 |  [MPV_lazy_osc](https://github.com/hooke007/MPV_lazy_osc) | It is modified from &#34;mpv_thumbnail_script&#34; | hooke007 | 3 |
 | 639 |  [mpv-i3-floating-centered](https://github.com/mdnghtman/mpv-i3-floating-centered) | Show mpv window in the center of the display when it is in floating mode (i3wm) | mdnghtman | 2 |
-| 640 |  [plenary.nvim](https://github.com/nvim-lua/plenary.nvim) | plenary: full; complete; entire; absolute; unqualified. All the lua functions I don&#39;t want to write twice. | nvim-lua | 349 |
+| 640 |  [plenary.nvim](https://github.com/nvim-lua/plenary.nvim) | plenary: full; complete; entire; absolute; unqualified. All the lua functions I don&#39;t want to write twice. | nvim-lua | 350 |
 | 641 |  [nvim-tabmode](https://github.com/Iron-E/nvim-tabmode) | A rewrite of Iron-E/vim-tabmode using Iron-E/nvim-libmodal | Iron-E | 6 |
 | 642 |  [nvim-libmodal](https://github.com/Iron-E/nvim-libmodal) | Create new &#34;modes&#34; for Neovim! | Iron-E | 49 |
 | 643 |  [nvim-highlite](https://github.com/Iron-E/nvim-highlite) | A colorscheme template that is &#34;lite&#34; on logic for the developer. | Iron-E | 84 |
 | 644 |  [dotfiles](https://github.com/mkflaher2/dotfiles) | dotfiles for LCARS theme | mkflaher2 | 5 |
-| 645 |  [awedots](https://github.com/JavaCafe01/awedots) | My desktop configuration files | JavaCafe01 | 433 |
+| 645 |  [awedots](https://github.com/JavaCafe01/awedots) | My desktop configuration files | JavaCafe01 | 432 |
 | 646 |  [luamoulds](https://github.com/stetre/luamoulds) | A C-like typedef for Lua | stetre | 3 |
 | 647 |  [lunasdl](https://github.com/stetre/lunasdl) | SDL-oriented concurrency in Lua | stetre | 2 |
 | 648 |  [moonsc](https://github.com/stetre/moonsc) | Harel Statecharts in Lua | stetre | 4 |
@@ -3570,10 +3570,10 @@
 | 659 |  [cartographer.nvim](https://github.com/hkupty/cartographer.nvim) | Simplify project navigation within neovim. | hkupty | 18 |
 | 660 |  [iron.nvim](https://github.com/hkupty/iron.nvim) | Interactive Repl Over Neovim | hkupty | 299 |
 | 661 |  [croissant](https://github.com/giann/croissant) | 🥐 A Lua REPL and debugger | giann | 298 |
-| 662 |  [neovim-cmake](https://github.com/Shatur/neovim-cmake) | CMake integration for Neovim | Shatur | 16 |
+| 662 |  [neovim-cmake](https://github.com/Shatur/neovim-cmake) | CMake integration for Neovim | Shatur | 17 |
 | 663 |  [neovim-config](https://github.com/Shatur/neovim-config) | My Neovim configuration | Shatur | 7 |
 | 664 |  [dots](https://github.com/miffi/dots) | My dotfiles | miffi | 6 |
-| 665 |  [nvim-compe](https://github.com/hrsh7th/nvim-compe) | Auto completion Lua plugin for nvim | hrsh7th | 1195 |
+| 665 |  [nvim-compe](https://github.com/hrsh7th/nvim-compe) | Auto completion Lua plugin for nvim | hrsh7th | 1196 |
 | 666 |  [completion-buffers](https://github.com/steelsojka/completion-buffers) | A buffer completion source for completion-nvim | steelsojka | 58 |
 | 667 |  [awesome-streamerrc](https://github.com/awesome-streamers/awesome-streamerrc) | Dotfiles for various streamers on Twitch. | awesome-streamers | 975 |
 | 668 |  [radical](https://github.com/Elv13/radical) | An extensible menu subsystem for Awesome WM | Elv13 | 178 |
@@ -3590,7 +3590,7 @@
 | 679 |  [nvim](https://github.com/kuator/nvim) | There are many neovim configurations, but this one is mine... | kuator | 28 |
 | 680 |  [nvim-web-devicons](https://github.com/kyazdani42/nvim-web-devicons) | lua `fork` of vim-web-devicons for neovim | kyazdani42 | 201 |
 | 681 |  [mpv-playlistmanager](https://github.com/jonniek/mpv-playlistmanager) | Mpv lua script to create and manage playlists | jonniek | 189 |
-| 682 |  [packer.nvim](https://github.com/wbthomason/packer.nvim) | A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config | wbthomason | 1064 |
+| 682 |  [packer.nvim](https://github.com/wbthomason/packer.nvim) | A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config | wbthomason | 1066 |
 | 683 |  [pdf-scribe.nvim](https://github.com/wbthomason/pdf-scribe.nvim) | Neovim plugin for importing annotations and metadata from PDFs | wbthomason | 15 |
 | 684 |  [lsp-status.nvim](https://github.com/nvim-lua/lsp-status.nvim) | Utility functions for getting diagnostic status and progress messages from LSP servers, for use in the Neovim statusline | nvim-lua | 301 |
 | 685 |  [dotfiles](https://github.com/tom-on-the-internet/dotfiles) | My dotfiles | tom-on-the-internet | 5 |
@@ -3600,7 +3600,7 @@
 | 689 |  [array.lua](https://github.com/EvandroLG/array.lua) | A small library with useful methods to handle Lua&#39;s table when it&#39;s working like an Array | EvandroLG | 49 |
 | 690 |  [LSP-Examples](https://github.com/RealTimeLogic/LSP-Examples) | Lua and LSP examples, including IoT/Cloud connectivity | RealTimeLogic | 9 |
 | 691 |  [photon](https://github.com/jmars/photon) | A lightweight app boilerplate written in Lua and C | jmars | 5 |
-| 692 |  [LunarVim](https://github.com/ChristianChiarulli/LunarVim) | An IDE layer for Neovim with sane defaults. Completely free and community driven. | ChristianChiarulli | 4374 |
+| 692 |  [LunarVim](https://github.com/ChristianChiarulli/LunarVim) | An IDE layer for Neovim with sane defaults. Completely free and community driven. | ChristianChiarulli | 4375 |
 | 693 |  [lite](https://github.com/ur4ltz/lite) | A lightweight text editor written in Lua | ur4ltz | 1 |
 | 694 |  [nvim-lsp-smag](https://github.com/weilbith/nvim-lsp-smag) | Seamless integration of language server locations into NeoVim | weilbith | 51 |
 | 695 |  [nvim-lsp-bacomp](https://github.com/weilbith/nvim-lsp-bacomp) | A NeoVim plugin for using language server capabilites with backward compatibility in mind | weilbith | 11 |
@@ -3637,9 +3637,9 @@
 | 726 |  [classic](https://github.com/rxi/classic) | Tiny class module for Lua | rxi | 534 |
 | 727 |  [coil](https://github.com/rxi/coil) | A tiny cooperative threading module for Lua | rxi | 46 |
 | 728 |  [log.lua](https://github.com/rxi/log.lua) | A tiny logging module for Lua | rxi | 219 |
-| 729 |  [json.lua](https://github.com/rxi/json.lua) | A lightweight JSON library for Lua | rxi | 1077 |
+| 729 |  [json.lua](https://github.com/rxi/json.lua) | A lightweight JSON library for Lua | rxi | 1079 |
 | 730 |  [lite-plugins](https://github.com/rxi/lite-plugins) | Plugins for the lite text editor | rxi | 281 |
-| 731 |  [lite](https://github.com/rxi/lite) | A lightweight text editor written in Lua | rxi | 5846 |
+| 731 |  [lite](https://github.com/rxi/lite) | A lightweight text editor written in Lua | rxi | 5847 |
 | 732 |  [weblit](https://github.com/creationix/weblit) | A web framework for luvit 2.0 and lit | creationix | 83 |
 | 733 |  [serpent](https://github.com/pkulchenko/serpent) | Lua serializer and pretty printer. | pkulchenko | 408 |
 | 734 |  [widgets](https://github.com/rokf/widgets) | Widgets for the awesome window manager (https://awesomewm.org) | rokf | 1 |
@@ -3678,7 +3678,7 @@
 | 767 |  [LuaNode](https://github.com/ignacio/LuaNode) | Asynchronous I/O for Lua | ignacio | 411 |
 | 768 |  [LuaMacro](https://github.com/stevedonovan/LuaMacro) | An extended Lua macro preprocessor | stevedonovan | 123 |
 | 769 |  [Microlight](https://github.com/stevedonovan/Microlight) | A little library of useful Lua functions, intended as the &#39;light&#39; version of Penlight | stevedonovan | 143 |
-| 770 |  [completion-nvim](https://github.com/nvim-lua/completion-nvim) | A async completion framework aims to provide completion to neovim&#39;s built in LSP written in Lua | nvim-lua | 910 |
+| 770 |  [completion-nvim](https://github.com/nvim-lua/completion-nvim) | A async completion framework aims to provide completion to neovim&#39;s built in LSP written in Lua | nvim-lua | 911 |
 | 771 |  [lsp-ext.nvim](https://github.com/h-michael/lsp-ext.nvim) | utility, autocmd and callback functions for nvim built-in lsp | h-michael | 10 |
 | 772 |  [diagnostic-nvim](https://github.com/nvim-lua/diagnostic-nvim) | A wrapper for neovim built in LSP diagnosis config | nvim-lua | 231 |
 | 773 |  [libp2p-dissector](https://github.com/mikevoronov/libp2p-dissector) | Project for ETHBerlin hackaton bounty: https://github.com/ethberlinzwei/Bounties/issues/20 | mikevoronov | 12 |
@@ -3688,11 +3688,11 @@
 | 777 |  [vis-surround](https://github.com/lutobler/vis-surround) | Vis plugin to easily modify surrounding quotes or brackets | lutobler | 7 |
 | 778 |  [vis-commentary](https://github.com/lutobler/vis-commentary) | Vis plugin for easy block commenting | lutobler | 13 |
 | 779 |  [vis-modelines](https://github.com/lutobler/vis-modelines) | Vis plugin that tries to read standard Vim modelines with an LPEG parser | lutobler | 5 |
-| 780 |  [config_manager](https://github.com/tjdevries/config_manager) | My configuration files and tools | tjdevries | 262 |
+| 780 |  [config_manager](https://github.com/tjdevries/config_manager) | My configuration files and tools | tjdevries | 263 |
 | 781 |  [dotfiles](https://github.com/haorenW1025/dotfiles) | My dot files with neovim setting | haorenW1025 | 25 |
 | 782 |  [aniseed](https://github.com/Olical/aniseed) | Neovim configuration and plugins in Fennel (Lisp compiled to Lua) | Olical | 300 |
 | 783 |  [highlight.lua](https://github.com/nvim-treesitter/highlight.lua) | a neovim syntax highlighter using treesitter | nvim-treesitter | 65 |
-| 784 |  [nvim-tree.lua](https://github.com/kyazdani42/nvim-tree.lua) | A file explorer tree for neovim written in lua | kyazdani42 | 869 |
+| 784 |  [nvim-tree.lua](https://github.com/kyazdani42/nvim-tree.lua) | A file explorer tree for neovim written in lua | kyazdani42 | 871 |
 | 785 |  [lua-xmlrpc](https://github.com/steino/lua-xmlrpc) | Lua XML-RPC is a Lua package to access and provide XML-RPC services | steino | 2 |
 | 786 |  [Bunraku](https://github.com/ningyou/Bunraku) | Backend for Ningyou | ningyou | 1 |
 | 787 |  [Main](https://github.com/ningyou/Main) | The main ningyou project. | ningyou | 1 |
@@ -3700,7 +3700,7 @@
 | 789 |  [luaradio](https://github.com/vsergeev/luaradio) | A lightweight, embeddable software-defined radio framework built on LuaJIT | vsergeev | 520 |
 | 790 |  [lua-client](https://github.com/timeyyy/lua-client) | Lua client for Neovim | timeyyy | 2 |
 | 791 |  [nvimux](https://github.com/hkupty/nvimux) | Neovim as a TMUX replacement | hkupty | 319 |
-| 792 |  [kong](https://github.com/Kong/kong) | 🦍 The Cloud-Native API Gateway | Kong | 29748 |
+| 792 |  [kong](https://github.com/Kong/kong) | 🦍 The Cloud-Native API Gateway | Kong | 29750 |
 | 793 |  [Nginx-Lua-Anti-DDoS](https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS) | A Anti-DDoS script to protect Nginx web servers using Lua with a HTML Javascript based authentication puzzle inspired by Cloudflare I am under attack mode an Anti-DDoS authentication page protect yourself from every attack type All Layer 7 Attacks Mitigating Historic Attacks DoS DoS Implications DDoS All Brute Force Attacks Zero day exploits Social Engineering Rainbow Tables Password Cracking Tools Password Lists Dictionary Attacks Time Delay Any Hosting Provider Any CMS or Custom Website Unlimited Attempt Frequency Search Attacks HTTP Basic Authentication HTTP Digest Authentication HTML Form Based Authentication Mask Attacks Rule-Based Search Attacks Combinator Attacks Botnet Attacks Unauthorized IPs IP Whitelisting Bruter THC Hydra John the Ripper Brutus Ophcrack unauthorized logins Injection Broken Authentication and Session Management Sensitive Data Exposure XML External Entities (XXE) Broken Access Control Security Misconfiguration Cross-Site Scripting (XSS) Insecure Deserialization Using Components with Known Vulnerabilities Insufficient Logging &amp; Monitoring Drupal WordPress Joomla Flash Magento PHP Plone WHMCS Atlassian Products malicious traffic Adult video script avs KVS Kernel Video Sharing Clip Bucket Tube sites Content Management Systems Social networks scripts backends proxy proxies PHP Python Porn sites xxx adult gaming networks servers sites forums vbulletin phpbb mybb smf simple machines forum xenforo web hosting video streaming buffering ldap upstream downstream download upload rtmp vod video over dl hls dash hds mss livestream drm mp4 mp3 swf css js html php python sex m3u zip rar archive compressed mitigation code source sourcecode chan 4chan 4chan.org 8chan.net 8ch 8ch.net infinite chan 8kun 8kun.net anonymous anon tor services .onion torproject.org nginx.org nginx.com openresty.org darknet dark net deepweb deep web darkweb dark web mirror vpn reddit reddit.com adobe flash hackthissite.org dreamhack hack hacked hacking hacker hackers hackerz hackz hacks code coding script scripting scripter source leaks leaked leaking cve vulnerability great firewall china america japan russia .gov government http1 http2 http3 quic q3 litespeedtech litespeed apache torrents torrent torrenting webtorrent bittorrent bitorrent bit-torrent cyberlocker cyberlockers cyber locker cyberbunker warez keygen key generator free irc internet relay chat peer-to-peer p2p cryptocurrency crypto bitcoin miner browser xmr monero coinhive coin hive coin-hive litecoin ethereum cpu cycles popads pop-ads advert advertisement networks banner ads protect ovh blazingfast.io amazon steampowered valve store.steampowered.com steamcommunity thepiratebay lulzsec antisec xhamster pornhub porn.com pornhub.com xhamster.com xvideos xvdideos.com xnxx xnxx.com popads popcash cpm ppc | C0nw0nk | 353 |
 | 794 |  [lua-xmlrpc](https://github.com/CiaranG/lua-xmlrpc) | Lua XML-RPC is a Lua package to access and provide XML-RPC services | CiaranG | 2 |
 | 795 |  [keyboard](https://github.com/jasonrudolph/keyboard) | ⌨ Toward a more useful keyboard | jasonrudolph | 1485 |
@@ -3708,11 +3708,11 @@
 | 797 |  [nvim-base16.lua](https://github.com/norcalli/nvim-base16.lua) | Programmatic lua library for setting base16 themes in Neovim. | norcalli | 30 |
 | 798 |  [nvim-popterm.lua](https://github.com/norcalli/nvim-popterm.lua) |  | norcalli | 6 |
 | 799 |  [nvim-snippets.lua](https://github.com/norcalli/nvim-snippets.lua) |  | norcalli | 11 |
-| 800 |  [nvim_utils](https://github.com/norcalli/nvim_utils) |  | norcalli | 76 |
+| 800 |  [nvim_utils](https://github.com/norcalli/nvim_utils) |  | norcalli | 77 |
 | 801 |  [nvim.lua](https://github.com/norcalli/nvim.lua) | nvim.lua is a lua module which provides an object which contains shortcut/magic methods that are very useful for mappings. | norcalli | 38 |
-| 802 |  [nvim-colorizer.lua](https://github.com/norcalli/nvim-colorizer.lua) | The fastest Neovim colorizer. | norcalli | 805 |
+| 802 |  [nvim-colorizer.lua](https://github.com/norcalli/nvim-colorizer.lua) | The fastest Neovim colorizer. | norcalli | 806 |
 | 803 |  [luacheck](https://github.com/luarocks/luacheck) | A tool for linting and static analysis of Lua code. | luarocks | 74 |
-| 804 |  [nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) | Quickstart configurations for the Nvim LSP client | neovim | 2328 |
+| 804 |  [nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) | Quickstart configurations for the Nvim LSP client | neovim | 2331 |
 | 805 |  [deoplete-lsp](https://github.com/deoplete-plugins/deoplete-lsp) | LSP Completion source for deoplete | deoplete-plugins | 197 |
 | 806 |  [nvim-terminal.lua](https://github.com/norcalli/nvim-terminal.lua) | A high performance filetype mode for Neovim which leverages conceal and highlights your buffer with the correct color codes. | norcalli | 49 |
 | 807 |  [zbstudio-graphicscodepack](https://github.com/pixeljetstream/zbstudio-graphicscodepack) | A package for ZeroBraneStudio to aid graphics programming in Lua (OpenGL, Vulkan etc.) | pixeljetstream | 17 |
@@ -3720,7 +3720,7 @@
 | 809 |  [VSCode-EmmyLua](https://github.com/EmmyLua/VSCode-EmmyLua) | Lua IDE/Debugger Plugin for VSCode | EmmyLua | 445 |
 | 810 |  [harb-lapis](https://github.com/starius/harb-lapis) | dot diagrams for apache, nginx and lapis | starius | 2 |
 | 811 |  [moonscript-opencomputers](https://github.com/evgkul/moonscript-opencomputers) | Just a port of moonscript for opencomputers | evgkul | 6 |
-| 812 |  [dotfiles](https://github.com/szorfein/dotfiles) | Dotfiles for unix, managed by GNU stow. | szorfein | 634 |
+| 812 |  [dotfiles](https://github.com/szorfein/dotfiles) | Dotfiles for unix, managed by GNU stow. | szorfein | 635 |
 | 813 |  [lua-lluv-pegasus](https://github.com/moteus/lua-lluv-pegasus) | Simple server based on pegasus.lua library | moteus | 7 |
 | 814 |  [esp-remote](https://github.com/devplayer0/esp-remote) | Spotify remote on an ESP8266 with OLED display | devplayer0 | 2 |
 | 815 |  [lua-xmlrpc](https://github.com/devplayer0/lua-xmlrpc) | Lua XML-RPC is a Lua package to access and provide XML-RPC services | devplayer0 | 1 |
@@ -3729,12 +3729,12 @@
 | 818 |  [subsonic-lua](https://github.com/wolandmaster/subsonic-lua) | Subsonic server implemented in lua | wolandmaster | 1 |
 | 819 |  [mcp](https://github.com/wolandmaster/mcp) | music copy | wolandmaster | 1 |
 | 820 |  [lua-xmlrpc](https://github.com/timn/lua-xmlrpc) | Lua XML-RPC is a Lua package to access and provide XML-RPC services | timn | 29 |
-| 821 |  [nvim-luadev](https://github.com/bfredl/nvim-luadev) | REPL/debug console for nvim lua plugins | bfredl | 82 |
+| 821 |  [nvim-luadev](https://github.com/bfredl/nvim-luadev) | REPL/debug console for nvim lua plugins | bfredl | 83 |
 | 822 |  [nvim-gdb](https://github.com/sakhnik/nvim-gdb) | Neovim thin wrapper for GDB, LLDB, PDB/PDB++ and BashDB | sakhnik | 392 |
 | 823 |  [lua-client](https://github.com/neovim/lua-client) | Nvim Lua client | neovim | 70 |
 | 824 |  [material-awesome](https://github.com/material-shell/material-awesome) | Material and Mouse driven config for AwesomeWM 4.3 | material-shell | 611 |
-| 825 |  [awesome-wm-widgets](https://github.com/streetturtle/awesome-wm-widgets) | Widgets for Awesome Window Manager | streetturtle | 1055 |
-| 826 |  [.dotfiles](https://github.com/alfunx/.dotfiles) | There&#39;s no place like ~ ! | alfunx | 279 |
+| 825 |  [awesome-wm-widgets](https://github.com/streetturtle/awesome-wm-widgets) | Widgets for Awesome Window Manager | streetturtle | 1056 |
+| 826 |  [.dotfiles](https://github.com/alfunx/.dotfiles) | There&#39;s no place like ~ ! | alfunx | 280 |
 | 827 |  [tyrannical](https://github.com/Elv13/tyrannical) | Dynamic tagging configuration system for awesomeWM | Elv13 | 179 |
 | 828 |  [lgi](https://github.com/psychon/lgi) | Dynamic Lua binding to GObject libraries using GObject-Introspection | psychon | 2 |
 | 829 |  [nvimrc](https://github.com/liubang/nvimrc) | neovim configuration. :cherry_blossom: | liubang | 21 |
@@ -3759,11 +3759,11 @@
 | 848 |  [moonmint](https://github.com/bakpakin/moonmint) | A Web Framework for Lua | bakpakin | 40 |
 | 849 |  [lua-aws](https://github.com/umegaya/lua-aws) | pure-lua implementation of aws REST APIs | umegaya | 115 |
 | 850 |  [Luapress](https://github.com/Fizzadar/Luapress) | :newspaper: Static site/blog generator written in Lua. | Fizzadar | 180 |
-| 851 |  [ntopng](https://github.com/ntop/ntopng) | Web-based Traffic and Security Network Traffic Monitoring | ntop | 4066 |
+| 851 |  [ntopng](https://github.com/ntop/ntopng) | Web-based Traffic and Security Network Traffic Monitoring | ntop | 4068 |
 | 852 |  [nvim-miniyank](https://github.com/bfredl/nvim-miniyank) | killring-alike plugin for neovim and vim 8 with no default mappings | bfredl | 192 |
 | 853 |  [nvim-moonmaker](https://github.com/svermeulen/nvim-moonmaker) | Moonscript plugin support for neovim | svermeulen | 40 |
 | 854 |  [.textadept](https://github.com/maks/.textadept) |  | maks | 1 |
-| 855 |  [luadec](https://github.com/viruscamp/luadec) | Lua Decompiler for lua 5.1 , 5.2 and 5.3 | viruscamp | 712 |
+| 855 |  [luadec](https://github.com/viruscamp/luadec) | Lua Decompiler for lua 5.1 , 5.2 and 5.3 | viruscamp | 713 |
 | 856 |  [ludent](https://github.com/lipp/ludent) | A primitive Lua indenter / formatter / beautfier | lipp | 19 |
 | 857 |  [z.lua](https://github.com/skywind3000/z.lua) | :zap: A new cd command that helps you navigate faster by learning your habits. | skywind3000 | 2053 |
 | 858 |  [zentient-textadept](https://github.com/metaleap/zentient-textadept) | [2018, in progress] `zentient` frontend (in Lua) for foicica.com/textadept editor | metaleap | 1 |
@@ -3799,7 +3799,7 @@
 | 888 |  [mpv-scripts](https://github.com/jonniek/mpv-scripts) | A collection of mpv scripts | jonniek | 81 |
 | 889 |  [dotfiles-old](https://github.com/nixlad/dotfiles-old) | No longer in use or maintained | nixlad | 32 |
 | 890 |  [sputnik](https://github.com/yuri/sputnik) | An Extensible Wiki/CMS in Lua | yuri | 72 |
-| 891 |  [conky-draw](https://github.com/fisadev/conky-draw) | Easily create beautiful conky graphs and draws | fisadev | 120 |
+| 891 |  [conky-draw](https://github.com/fisadev/conky-draw) | Easily create beautiful conky graphs and draws | fisadev | 121 |
 | 892 |  [debugger.lua](https://github.com/slembcke/debugger.lua) | A dependency free, embeddable debugger for Lua in a single file (.lua or .c) | slembcke | 466 |
 | 893 |  [awesome-wm-config](https://github.com/pw4ever/awesome-wm-config) | awesome window manager config with persistent dynamic tagging | pw4ever | 210 |
 | 894 |  [awesome-config](https://github.com/worron/awesome-config) | Awesome WM config | worron | 644 |
@@ -3809,7 +3809,7 @@
 | 898 |  [.dotfiles](https://github.com/gccpacman/.dotfiles) | Python开发vim配置(兼容windows) | gccpacman | 6 |
 | 899 |  [awesome-calendar_widget](https://github.com/stefano-m/awesome-calendar_widget) | A calendar widget for the Awesome Window Manager | stefano-m | 2 |
 | 900 |  [lua-repl](https://github.com/hoelzro/lua-repl) | A Lua REPL implemented in Lua for embedding in other programs | hoelzro | 132 |
-| 901 |  [sile](https://github.com/sile-typesetter/sile) | Simon’s Improved Layout Engine | sile-typesetter | 1064 |
+| 901 |  [sile](https://github.com/sile-typesetter/sile) | Simon’s Improved Layout Engine | sile-typesetter | 1065 |
 | 902 |  [zbs-vim](https://github.com/paul-reilly/zbs-vim) | zbs-vim adds a useful subset of Vim editing to ZeroBrane Studio and the ability to open a currently edited file in an instance of Vim | paul-reilly | 7 |
 | 903 |  [awesome-themes](https://github.com/serialoverflow/awesome-themes) | themes for the current version of awesome-wm | serialoverflow | 173 |
 | 904 |  [pomodoro-awesome](https://github.com/francois2metz/pomodoro-awesome) | Pomodoro widget for the awesome WM | francois2metz | 25 |
@@ -3822,12 +3822,12 @@
 | 911 |  [obvious](https://github.com/hoelzro/obvious) | Widget library for the awesome window manager | hoelzro | 51 |
 | 912 |  [lain](https://github.com/lcpz/lain) | Awesome WM complements | lcpz | 774 |
 | 913 |  [awesome-www](https://github.com/awesomeWM/awesome-www) | Website of AwesomeWM | awesomeWM | 34 |
-| 914 |  [awesome](https://github.com/awesomeWM/awesome) | awesome window manager | awesomeWM | 4054 |
+| 914 |  [awesome](https://github.com/awesomeWM/awesome) | awesome window manager | awesomeWM | 4055 |
 | 915 |  [go-plugin](https://github.com/micro-editor/go-plugin) | Auto gofmt/goimports and gorename | micro-editor | 29 |
 | 916 |  [comment-plugin](https://github.com/micro-editor/comment-plugin) | Auto commenting/uncommenting | micro-editor | 9 |
 | 917 |  [Hildim.script](https://github.com/mwoz/Hildim.script) |  | mwoz | 2 |
 | 918 |  [LuaSoar](https://github.com/peter4431/LuaSoar) | A lua debugger | peter4431 | 52 |
-| 919 |  [MobDebug](https://github.com/pkulchenko/MobDebug) | Remote debugger for Lua. | pkulchenko | 679 |
+| 919 |  [MobDebug](https://github.com/pkulchenko/MobDebug) | Remote debugger for Lua. | pkulchenko | 680 |
 | 920 |  [LuaJIT-test-cleanup](https://github.com/LuaJIT/LuaJIT-test-cleanup) | Cleanup Workspace for LuaJIT tests | LuaJIT | 41 |
 | 921 |  [LuaTwit](https://github.com/wolfiestyle/LuaTwit) | Lua library for accessing the Twitter REST and Streaming API v1.1 | wolfiestyle | 26 |
 | 922 |  [oauth_light](https://github.com/wolfiestyle/oauth_light) | Minimal implementation of OAuth 1.0 in Lua. | wolfiestyle | 1 |
@@ -3852,7 +3852,7 @@
 | 941 |  [go-qt5](https://github.com/salviati/go-qt5) | qt5 bindings for go | salviati | 417 |
 | 942 |  [premake-4.x](https://github.com/premake/premake-4.x) | Premake 4 | premake | 71 |
 | 943 |  [pegasus.lua](https://github.com/EvandroLG/pegasus.lua) | :rocket: Pegasus.lua is an http server to work with web applications written in Lua language. | EvandroLG | 287 |
-| 944 |  [koreader](https://github.com/koreader/koreader) | An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices | koreader | 8786 |
+| 944 |  [koreader](https://github.com/koreader/koreader) | An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices | koreader | 8788 |
 | 945 |  [luaghetti](https://github.com/atercattus/luaghetti) | Spaghetti html+lua code templater inside nginx | atercattus | 20 |
 | 946 |  [estrela](https://github.com/atercattus/estrela) | Lua web framework for nginx | atercattus | 17 |
 | 947 |  [lua-llthreads2](https://github.com/moteus/lua-llthreads2) | `llthreads` library rewritten without `LuaNativeObjects` code generator | moteus | 66 |
@@ -3870,7 +3870,7 @@
 | 959 |  [base16-textadept](https://github.com/rgieseke/base16-textadept) | Base16 themes for the Textadept editor | rgieseke | 53 |
 | 960 |  [lua-github](https://github.com/lusis/lua-github) | Lua wrapper for talking to the github api | lusis | 20 |
 | 961 |  [busted](https://github.com/Olivine-Labs/busted) | Elegant Lua unit testing. | Olivine-Labs | 1017 |
-| 962 |  [luarocks](https://github.com/luarocks/luarocks) | LuaRocks is the package manager for the Lua programming language. | luarocks | 2199 |
+| 962 |  [luarocks](https://github.com/luarocks/luarocks) | LuaRocks is the package manager for the Lua programming language. | luarocks | 2200 |
 | 963 |  [luacheck](https://github.com/mpeterv/luacheck) | A tool for linting and static analysis of Lua code. | mpeterv | 1439 |
 | 964 |  [puremagic](https://github.com/wbond/puremagic) | A pure lua module for detecting the mime type of a file based on the contents - inspired by libmagic | wbond | 23 |
 | 965 |  [FormatLua](https://github.com/denglf/FormatLua) | Formatting lua to a more readable form by using Lua Development Tools library. | denglf | 34 |
@@ -3915,7 +3915,7 @@
 | 3 |  [resty-test](https://github.com/Tieske/resty-test) | A setup to quickly test OpenResty Lua code | Tieske | 4 |
 | 4 |  [flags](https://github.com/gosquared/flags) | GoSquared&#39;s flag icon set | gosquared | 428 |
 | 5 |  [jklp](https://github.com/brow/jklp) | A 36-key ergonomic keyboard | brow | 62 |
-| 6 |  [crkbd](https://github.com/foostan/crkbd) | Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys. | foostan | 1727 |
+| 6 |  [crkbd](https://github.com/foostan/crkbd) | Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys. | foostan | 1728 |
 | 7 |  [epkgs](https://github.com/emacsmirror/epkgs) | The Emacsmirror | emacsmirror | 7 |
 | 8 |  [fennel-tic80-game](https://github.com/stefandevai/fennel-tic80-game) | Boilerplate code for a TIC-80 game using Fennel lisp. | stefandevai | 8 |
 | 9 |  [keyboard-layout](https://github.com/tonyaldon/keyboard-layout) | keyboard-layout pools all the needed files to set up my custom XKB keyboard layout (takbl) on Linux Ubuntu. | tonyaldon | 4 |
@@ -3933,7 +3933,7 @@
 ## Markdown
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [tldr](https://github.com/tldr-pages/tldr) | 📚 Collaborative cheatsheets for console commands | tldr-pages | 33763 |
+| 1 |  [tldr](https://github.com/tldr-pages/tldr) | 📚 Collaborative cheatsheets for console commands | tldr-pages | 33771 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -3972,7 +3972,7 @@
 | 2 |  [nim-macros](https://github.com/David-Kunz/nim-macros) | How to create some simple macros in Nim using pattern matching | David-Kunz | 2 |
 | 3 |  [nim-noise](https://github.com/jangko/nim-noise) | Nim implementation of linenoise command line editor | jangko | 35 |
 | 4 |  [nimlsp](https://github.com/PMunch/nimlsp) | Language Server Protocol implementation for Nim | PMunch | 209 |
-| 5 |  [Nim](https://github.com/nim-lang/Nim) | Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority). | nim-lang | 11574 |
+| 5 |  [Nim](https://github.com/nim-lang/Nim) | Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority). | nim-lang | 11576 |
 | 6 |  [nimLUA](https://github.com/jangko/nimLUA) | glue code generator to bind Nim and Lua together using Nim&#39;s powerful macro | jangko | 71 |
 | 7 |  [nimLUA](https://github.com/zacharycarter/nimLUA) | glue code generator to bind Nim and Lua together using Nim&#39;s powerful macro | zacharycarter | 1 |
 
@@ -3984,7 +3984,7 @@
 | 1 |  [dots](https://github.com/aserowy/dots) | dotfiles | aserowy | 2 |
 | 2 |  [dotfiles](https://github.com/chayward1/dotfiles) | I showed you my source code, pls respond | chayward1 | 15 |
 | 3 |  [home-manager](https://github.com/nix-community/home-manager) | Manage a user environment using Nix  [maintainer=@rycee] | nix-community | 2113 |
-| 4 |  [dotfiles](https://github.com/hlissner/dotfiles) | And I say hey, what&#39;s going on? | hlissner | 490 |
+| 4 |  [dotfiles](https://github.com/hlissner/dotfiles) | And I say hey, what&#39;s going on? | hlissner | 491 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -3992,7 +3992,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [dylan-kiss](https://github.com/dylanaraps/dylan-kiss) | Dylan&#39;s KISS repository | dylanaraps | 12 |
-| 2 |  [hammerspoon](https://github.com/Hammerspoon/hammerspoon) | Staggeringly powerful macOS desktop automation with Lua | Hammerspoon | 8050 |
+| 2 |  [hammerspoon](https://github.com/Hammerspoon/hammerspoon) | Staggeringly powerful macOS desktop automation with Lua | Hammerspoon | 8051 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -4010,7 +4010,7 @@
 | 2 |  [minimax8085](https://github.com/skiselev/minimax8085) | Simple Intel 8085 based Single Board Computer (SBC) | skiselev | 4 |
 | 3 |  [zeta_sbc](https://github.com/skiselev/zeta_sbc) | Zeta SBC is an Zilog Z80 based single board computer. It is inspired by Ampro Little Board Z80 and N8VEM project. Zeta SBC is software compatible with RomWBW Firmware | skiselev | 7 |
 | 4 |  [NopSCADlib](https://github.com/nophead/NopSCADlib) | Library of parts modelled in OpenSCAD and a framework for making projects | nophead | 586 |
-| 5 |  [dotSCAD](https://github.com/JustinSDK/dotSCAD) | Reduce the burden of mathematics when playing OpenSCAD | JustinSDK | 378 |
+| 5 |  [dotSCAD](https://github.com/JustinSDK/dotSCAD) | Reduce the burden of mathematics when playing OpenSCAD | JustinSDK | 379 |
 | 6 |  [BOSL](https://github.com/revarbat/BOSL) | The Belfry OpenScad Library - A library of tools, shapes, and helpers to make OpenScad easier to use. | revarbat | 277 |
 | 7 |  [Metamaquina2](https://github.com/Metamaquina/Metamaquina2) | Metamaquina 2 - fully parametric 3D printer | Metamaquina | 85 |
 
@@ -4026,7 +4026,7 @@
 ## Others
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [fuckfuckadblock](https://github.com/bogachenko/fuckfuckadblock) | Filters for blocking pop-ups and anti-adblock bypass. | bogachenko | 388 |
+| 1 |  [fuckfuckadblock](https://github.com/bogachenko/fuckfuckadblock) | Filters for blocking pop-ups and anti-adblock bypass. | bogachenko | 389 |
 | 2 |  [idiomatic-vimrc](https://github.com/romainl/idiomatic-vimrc) | Guidelines for sculpting your very own ~/.vimrc. | romainl | 855 |
 | 3 |  [Nightbow](https://github.com/2KAbhishek/Nightbow) | Black VS Code theme with bright colors 🌃🌈 | 2KAbhishek | 4 |
 | 4 |  [doc-susemanager](https://github.com/SUSE/doc-susemanager) | SUSE Manager documentation - Deprecated - docs have migrated to the Uyuni-project | SUSE | 23 |
@@ -4040,7 +4040,7 @@
 | 12 |  [LSPizza](https://github.com/Pocco81/LSPizza) | A tool for facilitating the process of managing language servers. | Pocco81 | 1 |
 | 13 |  [ranger-kak](https://github.com/Vurich/ranger-kak) | Replacement Ranger integration after it was removed from Kakoune&#39;s default bundle | Vurich | 1 |
 | 14 |  [zig-kak](https://github.com/Vurich/zig-kak) | Kakoune syntax highlighting for Zig | Vurich | 12 |
-| 15 |  [debug-adapter-protocol](https://github.com/microsoft/debug-adapter-protocol) | Defines a common protocol for debug adapters. | microsoft | 623 |
+| 15 |  [debug-adapter-protocol](https://github.com/microsoft/debug-adapter-protocol) | Defines a common protocol for debug adapters. | microsoft | 624 |
 | 16 |  [awesome-stars](https://github.com/abhijithvijayan/awesome-stars) | A curated list of my GitHub stars by stargazed | abhijithvijayan | 54 |
 | 17 |  [rails.kak](https://github.com/alexherbo2/rails.kak) | Ruby on Rails support for Kakoune | alexherbo2 | 2 |
 | 18 |  [alacritty.kak](https://github.com/alexherbo2/alacritty.kak) | Alacritty integration for Kakoune | alexherbo2 | 4 |
@@ -4068,8 +4068,8 @@
 | 40 |  [awesome-luvit](https://github.com/luvit/awesome-luvit) | A curated list of awesome Luvit frameworks, libraries and software | luvit | 16 |
 | 41 |  [vsnip-snippets](https://github.com/prabirshrestha/vsnip-snippets) | My snippets for https://github.com/hrsh7th/vim-vsnip | prabirshrestha | 2 |
 | 42 |  [docs](https://github.com/ido-nvim/docs) | The official documentation for the core of Ido | ido-nvim | 4 |
-| 43 |  [ipfs](https://github.com/ipfs/ipfs) | Peer-to-peer hypermedia protocol | ipfs | 19606 |
-| 44 |  [tokyo-night-vscode-theme](https://github.com/enkia/tokyo-night-vscode-theme) | A clean, dark Visual Studio Code theme that celebrates the lights of Downtown Tokyo at night. | enkia | 288 |
+| 43 |  [ipfs](https://github.com/ipfs/ipfs) | Peer-to-peer hypermedia protocol | ipfs | 19612 |
+| 44 |  [tokyo-night-vscode-theme](https://github.com/enkia/tokyo-night-vscode-theme) | A clean, dark Visual Studio Code theme that celebrates the lights of Downtown Tokyo at night. | enkia | 291 |
 | 45 |  [enki-theme](https://github.com/enkia/enki-theme) | Enki Theme - A dark theme for Sublime Text | enkia | 68 |
 | 46 |  [IntelliJIDEA-Delightful](https://github.com/Pocco81/IntelliJIDEA-Delightful) | A charming and dazzling IntelliJ IDEA configuration! | Pocco81 | 3 |
 | 47 |  [TelegramBotsList](https://github.com/DanySpin97/TelegramBotsList) | A list of all Telegram bots source hosted on github. | DanySpin97 | 193 |
@@ -4110,14 +4110,14 @@
 | 82 |  [iosevka-emacs](https://github.com/jsravn/iosevka-emacs) | iosevka fonts modified to support emacs ligatures | jsravn | 6 |
 | 83 |  [yasnippet-go](https://github.com/dominikh/yasnippet-go) |  | dominikh | 44 |
 | 84 |  [newsbeuter-colors-neonwolf](https://github.com/h3xx/newsbeuter-colors-neonwolf) | Newsbeuter news reader color scheme based on badwolf | h3xx | 3 |
-| 85 |  [GoBooks](https://github.com/dariubs/GoBooks) | List of Golang books | dariubs | 9726 |
+| 85 |  [GoBooks](https://github.com/dariubs/GoBooks) | List of Golang books | dariubs | 9731 |
 | 86 |  [ravi-vscode-debugger](https://github.com/dibyendumajumdar/ravi-vscode-debugger) | VSCode Debug Adapter for Ravi / Lua 5.3 | dibyendumajumdar | 10 |
 | 87 |  [awesome-elisp](https://github.com/p3r7/awesome-elisp) | A curated list of emacs-lisp development resources | p3r7 | 267 |
 | 88 |  [awesome-bugs](https://github.com/adelarsq/awesome-bugs) | Awesome Bugs 🐛 | adelarsq | 2 |
 | 89 |  [tldrlfs](https://github.com/comfies/tldrlfs) | Too Long; Didn&#39;t Read Linux From Scratch | comfies | 148 |
 | 90 |  [awesome-teal](https://github.com/teal-language/awesome-teal) | A curated list of Teal-related projects! | teal-language | 30 |
 | 91 |  [list-of-dotfiles](https://github.com/jsatk/list-of-dotfiles) | A collection links to other folks dotfiles. | jsatk | 19 |
-| 92 |  [awesome-split-keyboards](https://github.com/diimdeep/awesome-split-keyboards) | A collection of ergonomic split keyboards ⌨ | diimdeep | 2520 |
+| 92 |  [awesome-split-keyboards](https://github.com/diimdeep/awesome-split-keyboards) | A collection of ergonomic split keyboards ⌨ | diimdeep | 2521 |
 | 93 |  [awesome-keyboard](https://github.com/Delapouite/awesome-keyboard) | A curated list of awesome resources about configuring and building keyboards | Delapouite | 28 |
 | 94 |  [halmak](https://github.com/MadRabbit/halmak) | The final version of the AI designed keyboard layout | MadRabbit | 408 |
 | 95 |  [kakoune-user-modes](https://github.com/Delapouite/kakoune-user-modes) | A collection of handy user modes for kakoune | Delapouite | 10 |
@@ -4129,7 +4129,7 @@
 | 101 |  [comic-shanns](https://github.com/shannpersand/comic-shanns) | a classy font | shannpersand | 430 |
 | 102 |  [freedns](https://github.com/wavedocs/freedns) | List of free DNS | wavedocs | 128 |
 | 103 |  [nvim-lua-guide-ru](https://github.com/kuator/nvim-lua-guide-ru) | A guide to using Lua in Neovim | kuator | 16 |
-| 104 |  [kilo-tutorial](https://github.com/snaptoken/kilo-tutorial) | build your own text editor | snaptoken | 519 |
+| 104 |  [kilo-tutorial](https://github.com/snaptoken/kilo-tutorial) | build your own text editor | snaptoken | 520 |
 | 105 |  [50-git-questions](https://github.com/rougier/50-git-questions) | 50 Frequently Asked question about Git &amp; GitHub | rougier | 42 |
 | 106 |  [.dots](https://github.com/Th3Whit3Wolf/.dots) | My personal dotfiles | Th3Whit3Wolf | 1 |
 | 107 |  [awesome-tmux](https://github.com/rothgar/awesome-tmux) | A list of awesome resources for tmux | rothgar | 3980 |
@@ -4138,7 +4138,7 @@
 | 110 |  [lua-style-guide](https://github.com/hslua/lua-style-guide) | Lua style guide | hslua | 4 |
 | 111 |  [SofleKeyboard](https://github.com/josefadamcik/SofleKeyboard) | A split keyboard based on Lily58, Crkbd and Helix keyboards | josefadamcik | 548 |
 | 112 |  [lean.kak](https://github.com/enricozb/lean.kak) | Minimal Lean syntax highlighting, intermediate evaluation, and LaTeX completions | enricozb | 1 |
-| 113 |  [micro_8088](https://github.com/skiselev/micro_8088) | Micro 8088 - IBM XT Compatible Processor Board based on Faraday FE2010 chipset | skiselev | 152 |
+| 113 |  [micro_8088](https://github.com/skiselev/micro_8088) | Micro 8088 - IBM XT Compatible Processor Board based on Faraday FE2010 chipset | skiselev | 153 |
 | 114 |  [marks.nvim](https://github.com/nvim-lua/marks.nvim) | Marks related utilties | nvim-lua | 11 |
 | 115 |  [cursors.kak](https://github.com/enricozb/cursors.kak) | Sublime-like multiple cursors behavior for kakoune | enricozb | 2 |
 | 116 |  [tabs.kak](https://github.com/enricozb/tabs.kak) | Kakoune buffers as tabs in the status line. | enricozb | 7 |
@@ -4150,7 +4150,7 @@
 | 122 |  [tig-colors-neonwolf](https://github.com/h3xx/tig-colors-neonwolf) | Tig color scheme based on badwolf | h3xx | 25 |
 | 123 |  [Sublime-BetterLua](https://github.com/Xuerian/Sublime-BetterLua) | Enhanced syntax definition for Lua | Xuerian | 2 |
 | 124 |  [mmjoy_en](https://github.com/MMjoy/mmjoy_en) | MMJoy project english wiki | MMjoy | 138 |
-| 125 |  [nrfmicro](https://github.com/joric/nrfmicro) | Pro Micro-compatible Bluetooth 5.2 board with Li-Po charger and USB-C (nRF52840-based) | joric | 551 |
+| 125 |  [nrfmicro](https://github.com/joric/nrfmicro) | Pro Micro-compatible Bluetooth 5.2 board with Li-Po charger and USB-C (nRF52840-based) | joric | 552 |
 | 126 |  [Ergo42](https://github.com/Biacco42/Ergo42) | 7x4 ortho linear split keyboard - The Answer to the Ultimate Question of Life, the Universe, and at least Keyboards | Biacco42 | 163 |
 | 127 |  [goneovim-markdown-preview](https://github.com/akiyosi/goneovim-markdown-preview) |  | akiyosi | 2 |
 | 128 |  [awesome-terminals](https://github.com/cdleon/awesome-terminals) | Terminal Emulators | cdleon | 130 |
@@ -4160,7 +4160,7 @@
 | 132 |  [vero](https://github.com/thornjad/vero) | Read-only mirror of Vero for zsh | thornjad | 3 |
 | 133 |  [docker-zsh-theme](https://github.com/dpdornseifer/docker-zsh-theme) | Zsh theme (based on the Bureau theme) that shows the DOCKER_HOST configuration in a terminal session. | dpdornseifer | 8 |
 | 134 |  [suckless-patches](https://github.com/mil/suckless-patches) | Miles&#39; patches for suckless software | mil | 2 |
-| 135 |  [Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) | 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵 | imDazui | 4449 |
+| 135 |  [Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) | 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵 | imDazui | 4459 |
 | 136 |  [Imp](https://github.com/igormp/Imp) | Imp theme for zsh | igormp | 20 |
 | 137 |  [rafiki-zsh](https://github.com/akabiru/rafiki-zsh) | 👀👻 A zsh friend to watch over you. | akabiru | 50 |
 | 138 |  [staples](https://github.com/dersam/staples) | custom zsh theme based on bureau | dersam | 3 |
@@ -4173,7 +4173,7 @@
 | 145 |  [ukrainian-typographic-keyboard](https://github.com/denysdovhan/ukrainian-typographic-keyboard) | Combined Ukrainian keyboard layout with typographic symbols | denysdovhan | 42 |
 | 146 |  [classyTouch_oh-my-zsh](https://github.com/yarisgutierrez/classyTouch_oh-my-zsh) | Custom oh-my-zsh theme inspired by a bash prompt of the same name. | yarisgutierrez | 49 |
 | 147 |  [oh-my-zsh-node-theme](https://github.com/skuridin/oh-my-zsh-node-theme) | Node.js theme for ZSH users | skuridin | 63 |
-| 148 |  [elisp-guide](https://github.com/chrisdone/elisp-guide) | A quick guide to Emacs Lisp programming | chrisdone | 1169 |
+| 148 |  [elisp-guide](https://github.com/chrisdone/elisp-guide) | A quick guide to Emacs Lisp programming | chrisdone | 1170 |
 | 149 |  [design](https://github.com/sailorproject/design) | Documents and discussions about the design of Sailor | sailorproject | 1 |
 | 150 |  [luatakeme](https://github.com/Etiene/luatakeme) | List of Lua packages that are open source and need maintenance | Etiene | 19 |
 | 151 |  [git-colors-neonwolf](https://github.com/h3xx/git-colors-neonwolf) | Git color scheme based on badwolf | h3xx | 4 |
@@ -4184,7 +4184,7 @@
 | 156 |  [ultimate-dark-neo](https://github.com/rubjo/ultimate-dark-neo) | Sublime Text 3 theme + scheme, inspired by Spacegray + Mariana | rubjo | 6 |
 | 157 |  [ultimate-dark](https://github.com/rubjo/ultimate-dark) | The ultimate dark colour scheme for code | rubjo | 13 |
 | 158 |  [wishlist](https://github.com/nvim-lua/wishlist) | A public catalogue of Lua plugins Neovim users would like to see exist | nvim-lua | 121 |
-| 159 |  [awesome-neovim](https://github.com/rockerBOO/awesome-neovim) | Collections of awesome neovim plugins. | rockerBOO | 1450 |
+| 159 |  [awesome-neovim](https://github.com/rockerBOO/awesome-neovim) | Collections of awesome neovim plugins. | rockerBOO | 1455 |
 | 160 |  [Emacs](https://github.com/gitgutter/Emacs) | Emacs port of GitGutter which is Sublime Text Plugin | gitgutter | 1 |
 | 161 |  [Emacs-Plus](https://github.com/gitgutter/Emacs-Plus) |  | gitgutter | 2 |
 | 162 |  [AnotherStorm](https://github.com/MairwunNx/AnotherStorm) | 😍 A cool dark theme for Telegram Desktop | MairwunNx | 17 |
@@ -4193,22 +4193,22 @@
 | 165 |  [kak-rainbow](https://github.com/Bodhizafa/kak-rainbow) | Cursor-centered rainbow highlighter for kakoune | Bodhizafa | 10 |
 | 166 |  [slim](https://github.com/swordhui/slim) | SLiM (Simple Login Manager) is a graphical login manager for X11 and DRM | swordhui | 1 |
 | 167 |  [releases](https://github.com/the-via/releases) |  | the-via | 467 |
-| 168 |  [Lily58](https://github.com/kata0510/Lily58) | 6×4+4keys column-staggered split keyboard. | kata0510 | 603 |
+| 168 |  [Lily58](https://github.com/kata0510/Lily58) | 6×4+4keys column-staggered split keyboard. | kata0510 | 605 |
 | 169 |  [build_guides](https://github.com/keyhive/build_guides) | Build guides for all of the boards | keyhive | 85 |
 | 170 |  [tender-xresources](https://github.com/pebeto/tender-xresources) | xresources color specification inspired by the tender.vim color scheme | pebeto | 3 |
 | 171 |  [tender-alacritty](https://github.com/huyvohcmc/tender-alacritty) | An Alacritty color scheme inspired by the tender.vim color scheme. | huyvohcmc | 34 |
 | 172 |  [bitmap-font-collections](https://github.com/addy-dclxvi/bitmap-font-collections) | Custom bitmap fonts, based on M+, Tewi, Lemon, and Siji | addy-dclxvi | 78 |
 | 173 |  [openbox-theme-collections](https://github.com/addy-dclxvi/openbox-theme-collections) | My Openbox Theme Collections | addy-dclxvi | 742 |
-| 174 |  [nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) | A guide to using Lua in Neovim | nanotee | 1472 |
+| 174 |  [nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) | A guide to using Lua in Neovim | nanotee | 1474 |
 | 175 |  [iterm2-gruvbox](https://github.com/herrbischoff/iterm2-gruvbox) | Gruvbox color scheme for iTerm 2. | herrbischoff | 105 |
-| 176 |  [regolith-desktop](https://github.com/regolith-linux/regolith-desktop) | Meta package for the Regolith Desktop Environment | regolith-linux | 986 |
+| 176 |  [regolith-desktop](https://github.com/regolith-linux/regolith-desktop) | Meta package for the Regolith Desktop Environment | regolith-linux | 987 |
 | 177 |  [regolith-i3-gaps-config](https://github.com/regolith-linux/regolith-i3-gaps-config) | Regolith configuration for i3-gaps. | regolith-linux | 22 |
 | 178 |  [awesome-vim](https://github.com/matteocrippa/awesome-vim) | A collaborative list of awesome vim resources. Feel free to contribute! | matteocrippa | 154 |
 | 179 |  [omz-brunty](https://github.com/Brunty/omz-brunty) | Custom oh-my-zsh prompt theme that was adapted from my bash prompt I used to use. | Brunty | 4 |
 | 180 |  [gitstatus-zsh-theme](https://github.com/kimyvgy/gitstatus-zsh-theme) |  | kimyvgy | 5 |
 | 181 |  [bj-unicom-iptv](https://github.com/wuwentao/bj-unicom-iptv) | 北京联通IPTV播放列表  Beijing Unicom IPTV playlist | wuwentao | 173 |
 | 182 |  [daivasmara.zsh-theme](https://github.com/Daivasmara/daivasmara.zsh-theme) | Chill zsh-theme, personal take on smt | Daivasmara | 30 |
-| 183 |  [awesome-iptv](https://github.com/iptv-org/awesome-iptv) | A curated list of resources related to IPTV | iptv-org | 2079 |
+| 183 |  [awesome-iptv](https://github.com/iptv-org/awesome-iptv) | A curated list of resources related to IPTV | iptv-org | 2083 |
 | 184 |  [Windows-7](https://github.com/B00merang-Artwork/Windows-7) | The original Win2-7 icon theme adjusted to work with GTK 3.18 + | B00merang-Artwork | 16 |
 | 185 |  [Windows-10](https://github.com/B00merang-Artwork/Windows-10) | The Windows 10 Icon theme repository | B00merang-Artwork | 102 |
 | 186 |  [Windows-XP](https://github.com/B00merang-Artwork/Windows-XP) | Remake of classic YlmfOS theme with some mods for icons to scale right | B00merang-Artwork | 54 |
@@ -4261,16 +4261,16 @@
 | 233 |  [awesome-package-manager](https://github.com/damon-kwok/awesome-package-manager) | ☘Awesome package manager resources :hibiscus: | damon-kwok | 58 |
 | 234 |  [dotfim](https://github.com/Timoses/dotfim) | DotfiM - A Dotfile Manager | Timoses | 3 |
 | 235 |  [awesome-p2p](https://github.com/CodelyTV/awesome-p2p) | A curated list of awesome P2P learning tutorials and resources | CodelyTV | 21 |
-| 236 |  [android](https://github.com/LineageOS/android) |  | LineageOS | 2371 |
+| 236 |  [android](https://github.com/LineageOS/android) |  | LineageOS | 2373 |
 | 237 |  [android](https://github.com/CyanogenMod/android) | Misc Android stuff | CyanogenMod | 1571 |
-| 238 |  [awesome-micro-npm-packages](https://github.com/parro-it/awesome-micro-npm-packages) | A curated list of small, focused npm packages. | parro-it | 4051 |
-| 239 |  [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) | :zap: Delightful Node.js packages and resources | sindresorhus | 41887 |
+| 238 |  [awesome-micro-npm-packages](https://github.com/parro-it/awesome-micro-npm-packages) | A curated list of small, focused npm packages. | parro-it | 4050 |
+| 239 |  [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) | :zap: Delightful Node.js packages and resources | sindresorhus | 41894 |
 | 240 |  [vifm_devicons](https://github.com/cirala/vifm_devicons) | File and directory icons for Vifm (vi file manager) | cirala | 52 |
 | 241 |  [callbag](https://github.com/callbag/callbag) | 👜 A standard for JS callbacks that enables lightweight observables and iterables | callbag | 1430 |
 | 242 |  [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) | 🖥 📊 🕹 🛠 A curated list of command line apps | agarrharr | 7800 |
 | 243 |  [kakoune-buffer-switcher](https://github.com/occivink/kakoune-buffer-switcher) | Navigate between open buffers | occivink | 11 |
 | 244 |  [kakoune-wiki](https://github.com/TeddyDD/kakoune-wiki) | Personal wiki plugin for Kakoune | TeddyDD | 39 |
-| 245 |  [TrackersListCollection](https://github.com/XIU2/TrackersListCollection) | 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！ | XIU2 | 8011 |
+| 245 |  [TrackersListCollection](https://github.com/XIU2/TrackersListCollection) | 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！ | XIU2 | 8016 |
 | 246 |  [emacs.d](https://github.com/shuxiao9058/emacs.d) | My emacs.d | shuxiao9058 | 1 |
 | 247 |  [base16-gruvbox.kak](https://github.com/andreyorst/base16-gruvbox.kak) | Base16 Gruvbox Dark Soft variant colorscheme for Kakoune | andreyorst | 5 |
 | 248 |  [tagbar.kak](https://github.com/andreyorst/tagbar.kak) | Tag viewer for Kakoune | andreyorst | 17 |
@@ -4287,20 +4287,20 @@
 | 259 |  [alacritty](https://github.com/challenger-deep-theme/alacritty) | Alacritty Theme | challenger-deep-theme | 34 |
 | 260 |  [i3-Polybar-showdesktop-module](https://github.com/SofianeHamlaoui/i3-Polybar-showdesktop-module) | :recycle: A Polybar ShowDesktop module (like the Windows one) | SofianeHamlaoui | 3 |
 | 261 |  [awesome-ida](https://github.com/xrkk/awesome-ida) | moved to: https://github.com/alphaSeclab/awesome-reverse-engineering | xrkk | 645 |
-| 262 |  [alacritty-theme](https://github.com/eendroroy/alacritty-theme) | Collection of Alacritty color schemes | eendroroy | 878 |
+| 262 |  [alacritty-theme](https://github.com/eendroroy/alacritty-theme) | Collection of Alacritty color schemes | eendroroy | 879 |
 | 263 |  [scmrtos-sample-projects](https://github.com/scmrtos/scmrtos-sample-projects) |  | scmrtos | 9 |
 | 264 |  [arduino-pro-ide](https://github.com/arduino/arduino-pro-ide) | The Arduino IDE for advanced users and developers. Experimental alpha version. | arduino | 911 |
 | 265 |  [ruswasmnotes](https://github.com/widgetii/ruswasmnotes) | My notes about Webassembly technology in Russian | widgetii | 1 |
 | 266 |  [rusopsnotes](https://github.com/widgetii/rusopsnotes) | My notes about ops in Russian | widgetii | 3 |
-| 267 |  [awesome-bazel](https://github.com/jin/awesome-bazel) | A curated list of Bazel rules, tooling and resources. | jin | 707 |
+| 267 |  [awesome-bazel](https://github.com/jin/awesome-bazel) | A curated list of Bazel rules, tooling and resources. | jin | 708 |
 | 268 |  [sublime_merge](https://github.com/sublimehq/sublime_merge) | Issue tracker for Sublime Merge | sublimehq | 201 |
 | 269 |  [github-list-starred](https://github.com/ur4ltz/github-list-starred) | List GitHub repositories starred by a user | ur4ltz | 1 |
-| 270 |  [telegram-list](https://github.com/goq/telegram-list) | List of telegram groups, channels &amp; bots // Список интересных групп, каналов и ботов телеграма // Список чатов для программистов | goq | 3164 |
+| 270 |  [telegram-list](https://github.com/goq/telegram-list) | List of telegram groups, channels &amp; bots // Список интересных групп, каналов и ботов телеграма // Список чатов для программистов | goq | 3165 |
 | 271 |  [how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) | Below are some simple methods for exiting vim. | hakluke | 5197 |
-| 272 |  [sdmaid-public](https://github.com/d4rken/sdmaid-public) | SD Maid is an Android app that helps you manage files and apps. | d4rken | 654 |
-| 273 |  [awesome-vim](https://github.com/akrawchyk/awesome-vim) | The Vim plugin shortlist | akrawchyk | 1323 |
+| 272 |  [sdmaid-public](https://github.com/d4rken/sdmaid-public) | SD Maid is an Android app that helps you manage files and apps. | d4rken | 655 |
+| 273 |  [awesome-vim](https://github.com/akrawchyk/awesome-vim) | The Vim plugin shortlist | akrawchyk | 1322 |
 | 274 |  [nord-jetbrains](https://github.com/arcticicestudio/nord-jetbrains) | An arctic, north-bluish clean and elegant JetBrains IDE UI and editor color theme. | arcticicestudio | 306 |
-| 275 |  [nord-xresources](https://github.com/arcticicestudio/nord-xresources) | An arctic, north-bluish clean and elegant Xresources color theme. | arcticicestudio | 231 |
+| 275 |  [nord-xresources](https://github.com/arcticicestudio/nord-xresources) | An arctic, north-bluish clean and elegant Xresources color theme. | arcticicestudio | 232 |
 | 276 |  [nord-terminator](https://github.com/arcticicestudio/nord-terminator) | An arctic, north-bluish clean and elegant Terminator color theme. | arcticicestudio | 78 |
 | 277 |  [nord-dircolors](https://github.com/arcticicestudio/nord-dircolors) | An arctic, north-bluish clean and elegant dircolors theme. | arcticicestudio | 361 |
 | 278 |  [nord-sublime-text](https://github.com/arcticicestudio/nord-sublime-text) | An arctic, north-bluish clean and elegant Sublime Text theme. | arcticicestudio | 116 |
@@ -4316,7 +4316,7 @@
 | 288 |  [vscode-dark-molokai-theme](https://github.com/nonylene/vscode-dark-molokai-theme) | Dark x Molokai x Monokai theme for VSCode | nonylene | 14 |
 | 289 |  [nodejs-extension-pack](https://github.com/waderyan/nodejs-extension-pack) |  | waderyan | 6 |
 | 290 |  [vscode-ninja-syntax](https://github.com/melak47/vscode-ninja-syntax) | Syntax highlighting for ninja build files | melak47 | 3 |
-| 291 |  [awesome-shell](https://github.com/alebcay/awesome-shell) | A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php. | alebcay | 21825 |
+| 291 |  [awesome-shell](https://github.com/alebcay/awesome-shell) | A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php. | alebcay | 21830 |
 | 292 |  [language-lua](https://github.com/FireZenk/language-lua) | Lua language support in Atom | FireZenk | 64 |
 | 293 |  [cookbook.fish](https://github.com/jorgebucaran/cookbook.fish) | Tips and recipes for Fish, from shell to plate. 🍣 | jorgebucaran | 1439 |
 | 294 |  [server](https://github.com/owncloud-docker/server) | Docker image for ownCloud community edition | owncloud-docker | 389 |
@@ -4324,7 +4324,7 @@
 | 296 |  [dotfiles](https://github.com/eirenicon/dotfiles) | bspwm, polybar, tint2 and sundry other dotfiles, expertly borrowed and modified from those developed by really smart people... | eirenicon | 10 |
 | 297 |  [yeahconsole](https://github.com/rduplain/yeahconsole) | YeahConsole turns an xterm into a gamelike console (forked). | rduplain | 29 |
 | 298 |  [xdxf_makedict](https://github.com/soshial/xdxf_makedict) | XDXF — a dictionary format, that stores word definitions that are free from representation | soshial | 181 |
-| 299 |  [oracle-java](https://github.com/frekele/oracle-java) | Oracle Java Binaries | frekele | 1517 |
+| 299 |  [oracle-java](https://github.com/frekele/oracle-java) | Oracle Java Binaries | frekele | 1518 |
 | 300 |  [wolf3d](https://github.com/id-Software/wolf3d) | The original open source release of Wolfenstein 3D | id-Software | 1583 |
 | 301 |  [xresources](https://github.com/challenger-deep-theme/xresources) | Challenger Deep Theme for Xresources such as xterm, (u)rxvt, and other X11 applications | challenger-deep-theme | 9 |
 | 302 |  [monokai-pro-sublime-text](https://github.com/Monokai/monokai-pro-sublime-text) | Monokai Pro: beautiful functionality for professional developers | Monokai | 170 |
@@ -4332,21 +4332,21 @@
 | 304 |  [GitInPractice](https://github.com/MikeMcQuaid/GitInPractice) | 📖 An opinionated intermediate/advanced Git book | MikeMcQuaid | 822 |
 | 305 |  [proggyfonts](https://github.com/bluescan/proggyfonts) | Monospaced fonts for programming. | bluescan | 290 |
 | 306 |  [def-guide-to-sqlite](https://github.com/Apress/def-guide-to-sqlite) | Source code for &#39;The Definitive Guide to SQLite&#39; by Mike Owens | Apress | 9 |
-| 307 |  [awsm.fish](https://github.com/jorgebucaran/awsm.fish) | A curation of prompts, plugins &amp; other resources for Fish. 🐚 | jorgebucaran | 2477 |
-| 308 |  [evil-guide](https://github.com/noctuid/evil-guide) | Draft of a guide for using emacs with evil | noctuid | 887 |
+| 307 |  [awsm.fish](https://github.com/jorgebucaran/awsm.fish) | A curation of prompts, plugins &amp; other resources for Fish. 🐚 | jorgebucaran | 2476 |
+| 308 |  [evil-guide](https://github.com/noctuid/evil-guide) | Draft of a guide for using emacs with evil | noctuid | 888 |
 | 309 |  [fisa-tmux-config](https://github.com/fisadev/fisa-tmux-config) | My personal tmux configuration | fisadev | 1 |
 | 310 |  [DotFiles](https://github.com/wsdjeg/DotFiles) | My dotfiles for Archlinux and Windows | wsdjeg | 1417 |
-| 311 |  [trackerslist](https://github.com/ngosang/trackerslist) | Updated list of public BitTorrent trackers | ngosang | 29849 |
+| 311 |  [trackerslist](https://github.com/ngosang/trackerslist) | Updated list of public BitTorrent trackers | ngosang | 29858 |
 | 312 |  [wifi-cracking](https://github.com/brannondorsey/wifi-cracking) | Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat | brannondorsey | 9315 |
 | 313 |  [contents](https://github.com/martin-eden/contents) | Links to repositories | martin-eden | 5 |
 | 314 |  [beaglebone-black](https://github.com/beagleboard/beaglebone-black) | Design and Document files for the BeagleBone Black from BeagleBoard.org | beagleboard | 295 |
-| 315 |  [.tmux](https://github.com/gpakosz/.tmux) | 🇫🇷 Oh my tmux! My self-contained, pretty &amp; versatile tmux configuration made with ❤️ | gpakosz | 14601 |
-| 316 |  [emacs.dz](https://github.com/caisah/emacs.dz) | Awesome emacs config files | caisah | 915 |
+| 315 |  [.tmux](https://github.com/gpakosz/.tmux) | 🇫🇷 Oh my tmux! My self-contained, pretty &amp; versatile tmux configuration made with ❤️ | gpakosz | 14603 |
+| 316 |  [emacs.dz](https://github.com/caisah/emacs.dz) | Awesome emacs config files | caisah | 916 |
 | 317 |  [FreeCAD-addons](https://github.com/FreeCAD/FreeCAD-addons) | A convenient gathering of useful and well-developed FreeCAD plugins made by the community. | FreeCAD | 392 |
 | 318 |  [vim8-jspack](https://github.com/stan-kondrat/vim8-jspack) | Vim 8 Javascript development  package 🚀 | stan-kondrat | 3 |
 | 319 |  [vifm-colors](https://github.com/vifm/vifm-colors) | Various colorschemes for vifm file explorer. | vifm | 147 |
 | 320 |  [sublime-bookmarks](https://github.com/dreikanter/sublime-bookmarks) | Sublime Text essential plugins and resources | dreikanter | 908 |
-| 321 |  [awesome-ruby](https://github.com/markets/awesome-ruby) | :gem: A collection of awesome Ruby libraries, tools, frameworks and software | markets | 11659 |
+| 321 |  [awesome-ruby](https://github.com/markets/awesome-ruby) | :gem: A collection of awesome Ruby libraries, tools, frameworks and software | markets | 11658 |
 | 322 |  [Hack-SpaceVim](https://github.com/Gabirel/Hack-SpaceVim) | 🚀 Tell you how to hack SpaceVim. Be useful. Try Discussions! | Gabirel | 362 |
 | 323 |  [monokai-plusplus](https://github.com/dcasella/monokai-plusplus) | A modern Monokai theme for Sublime Text 3 and Visual Studio Code | dcasella | 26 |
 | 324 |  [russian-sublime-cheatsheet](https://github.com/drakulavich/russian-sublime-cheatsheet) | PDF-шпаргалка по клавиатурным сочетаниям Sublime Text | drakulavich | 11 |
@@ -4378,7 +4378,7 @@
 | 350 |  [sublime-markdown-extended](https://github.com/jonschlinkert/sublime-markdown-extended) | Top 100 Sublime Text plugin! Markdown syntax highlighter for Sublime Text, with extended support for GFM fenced code blocks, with language-specific syntax highlighting. YAML Front Matter. Works with ST2/ST3. Goes great with Assemble. | jonschlinkert | 651 |
 | 351 |  [sublime](https://github.com/JaredCubilla/sublime) | A collection of some of the best Sublime Text packages, themes, and goodies. | JaredCubilla | 1036 |
 | 352 |  [node-v0.x-archive](https://github.com/nodejs/node-v0.x-archive) | Moved to https://github.com/nodejs/node | nodejs | 34861 |
-| 353 |  [awesome-emacs](https://github.com/emacs-tw/awesome-emacs) | A community driven list of useful Emacs packages, libraries and others. | emacs-tw | 6510 |
+| 353 |  [awesome-emacs](https://github.com/emacs-tw/awesome-emacs) | A community driven list of useful Emacs packages, libraries and others. | emacs-tw | 6511 |
 | 354 |  [onlisp](https://github.com/rigidus/onlisp) | Paul Graham, “On Lisp&#34; - translation into russian | rigidus | 67 |
 | 355 |  [emacs-lisp-style-guide](https://github.com/bbatsov/emacs-lisp-style-guide) | A community-driven Emacs Lisp style guide | bbatsov | 901 |
 | 356 |  [emacs-starter-kit](https://github.com/technomancy/emacs-starter-kit) | Because the Emacs defaults are not so great sometimes. | technomancy | 2892 |
@@ -4387,10 +4387,10 @@
 | 359 |  [awesome-lua](https://github.com/LewisJEllis/awesome-lua) | A curated list of quality Lua packages and resources. | LewisJEllis | 2722 |
 | 360 |  [vim-system-escape](https://github.com/airblade/vim-system-escape) | Aims to become the definitive reference for escaping commands for system() | airblade | 22 |
 | 361 |  [plain-wedding-fossil-theme](https://github.com/peterk/plain-wedding-fossil-theme) | A simple UI theme for the Fossil SCM | peterk | 5 |
-| 362 |  [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | :books: Freely available programming books | EbookFoundation | 197584 |
+| 362 |  [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | :books: Freely available programming books | EbookFoundation | 197618 |
 | 363 |  [scite](https://github.com/julyzergcn/scite) |  | julyzergcn | 2 |
 | 364 |  [Grandson-of-Obsidian](https://github.com/jfromaniello/Grandson-of-Obsidian) | Textmate theme inspired in Obsidian | jfromaniello | 40 |
-| 365 |  [msgpack](https://github.com/msgpack/msgpack) | MessagePack is an extremely efficient object serialization library. It&#39;s like JSON, but very fast and small. | msgpack | 5651 |
+| 365 |  [msgpack](https://github.com/msgpack/msgpack) | MessagePack is an extremely efficient object serialization library. It&#39;s like JSON, but very fast and small. | msgpack | 5652 |
 | 366 |  [Placeholders](https://github.com/mrmartineau/Placeholders) | Placeholder HTML &amp; content (lorem ipsum) package for Sublime Text 2 | mrmartineau | 144 |
 | 367 |  [sublime-text-icon](https://github.com/YabataDesign/sublime-text-icon) | A replacement icon for Sublime Text 2 and Sublime Text 3 | YabataDesign | 154 |
 | 368 |  [Seti_ST3](https://github.com/ctf0/Seti_ST3) | Seti_UI Port for ST3. | ctf0 | 768 |
@@ -4399,7 +4399,7 @@
 | 371 |  [sublime-monokai-extended](https://github.com/jonschlinkert/sublime-monokai-extended) | Extends Monokai from Soda with additional syntax highlighting for Markdown, LESS, HTML, Handlebars and more. | jonschlinkert | 510 |
 | 372 |  [lime](https://github.com/limetext/lime) | Open source API-compatible alternative to the text editor Sublime Text | limetext | 15276 |
 | 373 |  [ConEmu-Icons](https://github.com/Maximus5/ConEmu-Icons) | Rebranding ConEmu icon | Maximus5 | 9 |
-| 374 |  [base16](https://github.com/chriskempson/base16) | An architecture for building themes | chriskempson | 8074 |
+| 374 |  [base16](https://github.com/chriskempson/base16) | An architecture for building themes | chriskempson | 8075 |
 | 375 |  [consolas-powerline-vim](https://github.com/eugeneching/consolas-powerline-vim) | Fixed Consolas font for use with Vim Powerline. Font has all variants: regular, bold, italic, bold-italic. | eugeneching | 222 |
 | 376 |  [powerline-consolas](https://github.com/nicolalamacchia/powerline-consolas) | Patched version of the font Consolas for Powerline | nicolalamacchia | 64 |
 | 377 |  [luafaq](https://github.com/stevedonovan/luafaq) | Unofficial Lua FAQ | stevedonovan | 14 |
@@ -4411,11 +4411,11 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [.dotfiles](https://github.com/alex-popov-tech/.dotfiles) | 💻 My settings for macOS, kitty, zsh, nvim, tmux, and more 🛠 | alex-popov-tech | 28 |
-| 2 |  [figlet-fonts](https://github.com/xero/figlet-fonts) | my collection of figlet / toilet ascii art fonts | xero | 439 |
+| 2 |  [figlet-fonts](https://github.com/xero/figlet-fonts) | my collection of figlet / toilet ascii art fonts | xero | 440 |
 | 3 |  [rutorrent-filemanager-media](https://github.com/nelu/rutorrent-filemanager-media) | Media features for filemanager plugin | nelu | 4 |
 | 4 |  [docker-rutorrent](https://github.com/linuxserver/docker-rutorrent) | DEPRECATED | linuxserver | 154 |
 | 5 |  [batflat](https://github.com/sruupl/batflat) | Lightweight, fast and easy CMS for free. Bootstrap ready.  https://batflat.org | sruupl | 106 |
-| 6 |  [php7](https://github.com/igorsimdyanov/php7) | Примеры к книге &#34;PHP 7. Котеров Д., Симдянов И.&#34; | igorsimdyanov | 264 |
+| 6 |  [php7](https://github.com/igorsimdyanov/php7) | Примеры к книге &#34;PHP 7. Котеров Д., Симдянов И.&#34; | igorsimdyanov | 265 |
 | 7 |  [php-language-server](https://github.com/felixfbecker/php-language-server) | PHP Implementation of the VS Code Language Server Protocol 🆚↔🖥 | felixfbecker | 1040 |
 | 8 |  [WikkaWiki](https://github.com/bakoontz/WikkaWiki) | This version (1.4.2) marks the end-of-life for WikkaWiki (see README.md for details). | bakoontz | 42 |
 | 9 |  [TCConfig](https://github.com/pozitronik/TCConfig) | My Total Commander configuration | pozitronik | 3 |
@@ -4430,10 +4430,10 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [pascal-language-server](https://github.com/arjanadriaanse/pascal-language-server) | LSP server implementation for Pascal | arjanadriaanse | 29 |
-| 2 |  [doublecmd](https://github.com/doublecmd/doublecmd) | Double Commander is a free cross platform open source file manager with two panels side by side. | doublecmd | 391 |
+| 2 |  [doublecmd](https://github.com/doublecmd/doublecmd) | Double Commander is a free cross platform open source file manager with two panels side by side. | doublecmd | 392 |
 | 3 |  [MyHomeLib](https://github.com/OleksiyPenkov/MyHomeLib) | MyHomeLib — компьютерная программа для управления домашней библиотекой электронных книг. MyHomeLib может использоваться не только для каталогизации коллекции файлов с электронными книгами, но и как клиент для работы с библиотекой Либрусек и другими библиотеками на движке Либрусек (Флибуста и другими подобными). | OleksiyPenkov | 58 |
-| 4 |  [cheat-engine](https://github.com/cheat-engine/cheat-engine) | Cheat Engine. A development environment focused on modding | cheat-engine | 6176 |
-| 5 |  [fpcupdeluxe](https://github.com/LongDirtyAnimAlf/fpcupdeluxe) | A GUI based installer for FPC and Lazarus | LongDirtyAnimAlf | 240 |
+| 4 |  [cheat-engine](https://github.com/cheat-engine/cheat-engine) | Cheat Engine. A development environment focused on modding | cheat-engine | 6181 |
+| 5 |  [fpcupdeluxe](https://github.com/LongDirtyAnimAlf/fpcupdeluxe) | A GUI based installer for FPC and Lazarus | LongDirtyAnimAlf | 241 |
 | 6 |  [CloudMailRu](https://github.com/pozitronik/CloudMailRu) | Total Commander plugin for cloud.mail.ru service | pozitronik | 321 |
 | 7 |  [EControl_AlekId](https://github.com/Alexey-T/EControl_AlekId) | Syntax parser from EControl SDK for Lazarus, version from @AlekId with threads -- NOT READY | Alexey-T | 13 |
 | 8 |  [Reiniero-fpcup](https://github.com/LongDirtyAnimAlf/Reiniero-fpcup) | fpcup (and fpclazup) are installers for FPC (and Lazarus). | LongDirtyAnimAlf | 47 |
@@ -4462,16 +4462,16 @@
 | 11 |  [i3-starterpack](https://github.com/addy-dclxvi/i3-starterpack) | A simple guide (and example of configuration) to install i3 &amp; its and essentials packages, then make them look eye candy. | addy-dclxvi | 1068 |
 | 12 |  [kaktree](https://github.com/andreyorst/kaktree) | File explorer side panel for Kakoune | andreyorst | 31 |
 | 13 |  [rcm](https://github.com/thoughtbot/rcm) | rc file (dotfile) management | thoughtbot | 2617 |
-| 14 |  [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) | Good-lookin&#39; diffs. Actually… nah… The best-lookin&#39; diffs. :tada: | so-fancy | 14528 |
+| 14 |  [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) | Good-lookin&#39; diffs. Actually… nah… The best-lookin&#39; diffs. :tada: | so-fancy | 14532 |
 | 15 |  [dotfiles](https://github.com/dhruvasagar/dotfiles) | The single dot that has it all. | dhruvasagar | 45 |
 | 16 |  [.dots](https://github.com/metakirby5/.dots) | :computer: All of my dotfiles. | metakirby5 | 73 |
 | 17 |  [langmap.kak](https://github.com/andreyorst/langmap.kak) | Kakoune plugin to toggle between keyboard layouts in insert mode | andreyorst | 4 |
-| 18 |  [trizen](https://github.com/trizen/trizen) | Lightweight AUR Package Manager | trizen | 706 |
+| 18 |  [trizen](https://github.com/trizen/trizen) | Lightweight AUR Package Manager | trizen | 707 |
 | 19 |  [Monitorix](https://github.com/mikaku/Monitorix) | Monitorix is a free, open source, lightweight system monitoring tool. | mikaku | 839 |
 | 20 |  [dotfiles](https://github.com/beanaroo/dotfiles) | My personal desktop configuration | beanaroo | 24 |
 | 21 |  [AWStats](https://github.com/eldy/AWStats) | AWStats Log Analyzer project (official sources) | eldy | 248 |
 | 22 |  [urxvt-font-size](https://github.com/majutsushi/urxvt-font-size) | Change the urxvt font size on the fly | majutsushi | 423 |
-| 23 |  [urxvt-resize-font](https://github.com/simmel/urxvt-resize-font) | URxvt Perl extension for resizing the font | simmel | 175 |
+| 23 |  [urxvt-resize-font](https://github.com/simmel/urxvt-resize-font) | URxvt Perl extension for resizing the font | simmel | 176 |
 | 24 |  [dot_debian](https://github.com/electro7/dot_debian) | Config files for linux (debian based) | electro7 | 477 |
 | 25 |  [urxvt-perls](https://github.com/muennich/urxvt-perls) | Perl extensions for the rxvt-unicode terminal emulator | muennich | 738 |
 | 26 |  [dotfiles](https://github.com/techgaun/dotfiles) | :sparkles: dotfiles :wrench: | techgaun | 9 |
@@ -4479,7 +4479,7 @@
 | 28 |  [lm-sensors](https://github.com/lm-sensors/lm-sensors) | lm-sensors repository | lm-sensors | 541 |
 | 29 |  [DejaVuSansCode](https://github.com/SSNikolaevich/DejaVuSansCode) | Monospaced font with programming ligatures based on DejaVu Sans Mono | SSNikolaevich | 426 |
 | 30 |  [specifications](https://github.com/SPORE/specifications) | SPORE specifications | SPORE | 108 |
-| 31 |  [nginx-tutorials](https://github.com/openresty/nginx-tutorials) | Nginx Tutorials | openresty | 2642 |
+| 31 |  [nginx-tutorials](https://github.com/openresty/nginx-tutorials) | Nginx Tutorials | openresty | 2645 |
 | 32 |  [dejavu-fonts](https://github.com/dejavu-fonts/dejavu-fonts) |  | dejavu-fonts | 481 |
 | 33 |  [Amon2-Lite](https://github.com/tokuhirom/Amon2-Lite) |  | tokuhirom | 11 |
 | 34 |  [perl-tags](https://github.com/osfameron/perl-tags) |  | osfameron | 13 |
@@ -4514,20 +4514,20 @@
 | 5 |  [pylsp-mypy](https://github.com/Richardk2n/pylsp-mypy) | Mypy plugin for the Python LSP Server. | Richardk2n | 16 |
 | 6 |  [pyls-isort](https://github.com/paradoxxxzero/pyls-isort) | Isort plugin for python-language-server | paradoxxxzero | 41 |
 | 7 |  [cmake-language-server](https://github.com/regen100/cmake-language-server) | CMake LSP Implementation | regen100 | 101 |
-| 8 |  [python-lsp-server](https://github.com/python-lsp/python-lsp-server) | Fork of the python-language-server project, maintained by the Spyder IDE team and the community | python-lsp | 189 |
+| 8 |  [python-lsp-server](https://github.com/python-lsp/python-lsp-server) | Fork of the python-language-server project, maintained by the Spyder IDE team and the community | python-lsp | 190 |
 | 9 |  [sphinx.nvim](https://github.com/stsewd/sphinx.nvim) | Sphinx integrations for Neovim | stsewd | 39 |
 | 10 |  [i3-tools](https://github.com/miseran/i3-tools) | Some of my personal tools for the i3 window manager. | miseran | 29 |
 | 11 |  [tabs_are_windows](https://github.com/miseran/tabs_are_windows) |  | miseran | 3 |
 | 12 |  [vim-vsnip-snippets](https://github.com/stevearc/vim-vsnip-snippets) | A collection of vscode snippets for vim | stevearc | 4 |
 | 13 |  [SnipConverter](https://github.com/Chatyusha/SnipConverter) |  | Chatyusha | 1 |
-| 14 |  [dictionaries](https://github.com/LibreOffice/dictionaries) |  | LibreOffice | 260 |
-| 15 |  [jedi-vim](https://github.com/davidhalter/jedi-vim) | Using the jedi autocompletion library for VIM. | davidhalter | 4824 |
-| 16 |  [jupyter-nvim](https://github.com/ahmedkhalf/jupyter-nvim) | Jupyter notebook client in neovim | ahmedkhalf | 38 |
+| 14 |  [dictionaries](https://github.com/LibreOffice/dictionaries) |  | LibreOffice | 261 |
+| 15 |  [jedi-vim](https://github.com/davidhalter/jedi-vim) | Using the jedi autocompletion library for VIM. | davidhalter | 4822 |
+| 16 |  [jupyter-nvim](https://github.com/ahmedkhalf/jupyter-nvim) | Jupyter notebook client in neovim | ahmedkhalf | 39 |
 | 17 |  [Dotfiles](https://github.com/tuga3d/Dotfiles) |  | tuga3d | 1 |
 | 18 |  [semver](https://github.com/python-poetry/semver) | A semantic versioning library for Python | python-poetry | 34 |
 | 19 |  [poetry-core](https://github.com/python-poetry/poetry-core) | Poetry PEP 517 Build Backend &amp; Core Utilities | python-poetry | 122 |
 | 20 |  [poetry-export-plugin](https://github.com/python-poetry/poetry-export-plugin) | Poetry plugin to export the dependencies to various formats | python-poetry | 15 |
-| 21 |  [poetry](https://github.com/python-poetry/poetry) | Python dependency management and packaging made easy. | python-poetry | 15798 |
+| 21 |  [poetry](https://github.com/python-poetry/poetry) | Python dependency management and packaging made easy. | python-poetry | 15801 |
 | 22 |  [editorconfig-sublime](https://github.com/sindresorhus/editorconfig-sublime) | Sublime Text plugin for EditorConfig - Helps developers maintain consistent coding styles between different editors | sindresorhus | 1750 |
 | 23 |  [ColorHighlight](https://github.com/Kronuz/ColorHighlight) | 🎨 Lightweight Color Highlight colorizer for Sublime Text | Kronuz | 84 |
 | 24 |  [lsp_utils](https://github.com/sublimelsp/lsp_utils) | Module with LSP-related utilities for Sublime Text | sublimelsp | 7 |
@@ -4537,7 +4537,7 @@
 | 28 |  [sublime_debugger-plugin](https://github.com/blurstudio/sublime_debugger-plugin) | A template that can be used to make debug adapters compatible with the Debugger plugin in Sublime Text 3 and 4 | blurstudio | 3 |
 | 29 |  [vim-ultest](https://github.com/rcarriga/vim-ultest) | The ultimate testing plugin for (Neo)Vim | rcarriga | 146 |
 | 30 |  [antennas_ufmg](https://github.com/tiagovla/antennas_ufmg) |  | tiagovla | 1 |
-| 31 |  [nwg-panel](https://github.com/nwg-piotr/nwg-panel) | GTK3-based panel for sway window manager | nwg-piotr | 124 |
+| 31 |  [nwg-panel](https://github.com/nwg-piotr/nwg-panel) | GTK3-based panel for sway window manager | nwg-piotr | 125 |
 | 32 |  [autotiling](https://github.com/nwg-piotr/autotiling) | Script for sway and i3 to automatically switch the horizontal / vertical window split orientation | nwg-piotr | 302 |
 | 33 |  [dotfiles](https://github.com/ray-x/dotfiles) |  | ray-x | 16 |
 | 34 |  [Cozette](https://github.com/slavfox/Cozette) | A bitmap programming font optimized for coziness 💜 | slavfox | 1192 |
@@ -4545,8 +4545,8 @@
 | 36 |  [dotfiles](https://github.com/ecosse3/dotfiles) | Dotfiles for my i3 Arch setup &amp; neovim | ecosse3 | 14 |
 | 37 |  [nvim-ipy](https://github.com/bfredl/nvim-ipy) | IPython/Jupyter plugin for Neovim | bfredl | 308 |
 | 38 |  [polybar-browsermediacontrol](https://github.com/haideralipunjabi/polybar-browsermediacontrol) | Browser Media Control module for Polybar | haideralipunjabi | 28 |
-| 39 |  [black](https://github.com/psf/black) | The uncompromising Python code formatter | psf | 21799 |
-| 40 |  [dotfiles](https://github.com/mohkale/dotfiles) | :house: is where the :heart: is :tada: | mohkale | 6 |
+| 39 |  [black](https://github.com/psf/black) | The uncompromising Python code formatter | psf | 21809 |
+| 40 |  [dotfiles](https://github.com/mohkale/dotfiles) | :house: is where the :heart: is :tada: | mohkale | 7 |
 | 41 |  [dotfiles](https://github.com/spitlo/dotfiles) | For safekeeping | spitlo | 2 |
 | 42 |  [weechat-vimode](https://github.com/GermainZ/weechat-vimode) | A WeeChat script that adds vi-like modes, commands and keybindings. | GermainZ | 236 |
 | 43 |  [kitty-weechat-hints](https://github.com/GermainZ/kitty-weechat-hints) | Kitty URL kitten for URLs in WeeChat that tries to take into account line wraps (without having to enter raw mode). | GermainZ | 12 |
@@ -4564,7 +4564,7 @@
 | 55 |  [lastship-common](https://github.com/lastship/lastship-common) | German Team | lastship | 3 |
 | 56 |  [pympv](https://github.com/marcan/pympv) |  | marcan | 11 |
 | 57 |  [python-mpv](https://github.com/jaseg/python-mpv) | Python interface to the awesome mpv media player | jaseg | 278 |
-| 58 |  [calibre](https://github.com/kovidgoyal/calibre) | The official source code repository for the calibre ebook manager | kovidgoyal | 10360 |
+| 58 |  [calibre](https://github.com/kovidgoyal/calibre) | The official source code repository for the calibre ebook manager | kovidgoyal | 10362 |
 | 59 |  [huertatipografica-scripts](https://github.com/huertatipografica/huertatipografica-scripts) | Font production scripts for Glyphs | huertatipografica | 22 |
 | 60 |  [dots](https://github.com/NNBnh/dots) | 📂 Đotfiles that SuperB | NNBnh | 19 |
 | 61 |  [orgmode](https://github.com/danielmagnussons/orgmode) | orgmode is for keeping notes, maintaining TODO lists, planning projects, and authoring documents with a fast and effective plain-text system. | danielmagnussons | 748 |
@@ -4574,15 +4574,15 @@
 | 65 |  [university-setup](https://github.com/gillescastel/university-setup) | My note taking setup scripts. | gillescastel | 182 |
 | 66 |  [inkscape-shortcut-manager](https://github.com/gillescastel/inkscape-shortcut-manager) | Inkscape shorcut manager | gillescastel | 221 |
 | 67 |  [inkscape-figures](https://github.com/gillescastel/inkscape-figures) | Inkscape figure manager | gillescastel | 320 |
-| 68 |  [yadm](https://github.com/TheLocehiliosan/yadm) | Yet Another Dotfiles Manager | TheLocehiliosan | 2637 |
+| 68 |  [yadm](https://github.com/TheLocehiliosan/yadm) | Yet Another Dotfiles Manager | TheLocehiliosan | 2641 |
 | 69 |  [dotfiles](https://github.com/akatrevorjay/dotfiles) | Opinionated garbage for your terminal. Gotta get that yolo swag. | akatrevorjay | 32 |
 | 70 |  [i3smartfocus](https://github.com/deadc0de6/i3smartfocus) | i3wm smart focus | deadc0de6 | 1 |
 | 71 |  [maildirwatch](https://github.com/mkcms/maildirwatch) | Watch Maildir for new email and display notifications | mkcms | 3 |
 | 72 |  [obs-service-format_spec_file](https://github.com/openSUSE/obs-service-format_spec_file) | An OBS source service: reformats a spec file to SUSE standard | openSUSE | 8 |
-| 73 |  [cheat.sh](https://github.com/chubin/cheat.sh) | the only cheat sheet you need | chubin | 26513 |
+| 73 |  [cheat.sh](https://github.com/chubin/cheat.sh) | the only cheat sheet you need | chubin | 26515 |
 | 74 |  [vim-tools](https://github.com/micbou/vim-tools) | Python scripts that make it easier (for me) to publish Vim plug-ins | micbou | 5 |
 | 75 |  [vim-tools](https://github.com/xolox/vim-tools) | Python scripts that make it easier (for me) to publish Vim plug-ins | xolox | 37 |
-| 76 |  [certbot](https://github.com/certbot/certbot) | Certbot is EFF&#39;s tool to obtain certs from Let&#39;s Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol. | certbot | 28145 |
+| 76 |  [certbot](https://github.com/certbot/certbot) | Certbot is EFF&#39;s tool to obtain certs from Let&#39;s Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol. | certbot | 28149 |
 | 77 |  [tetrys](https://github.com/FooSoft/tetrys) | Simple Tetris clone written in Python. | FooSoft | 4 |
 | 78 |  [Ligaturizer](https://github.com/ToxicFrog/Ligaturizer) | Programming Fonts with Ligatures added (&amp; a script to add them to other fonts) | ToxicFrog | 1637 |
 | 79 |  [rnvimr](https://github.com/kevinhwang91/rnvimr) | Make Ranger running in a floating window to communicate with Neovim via RPC | kevinhwang91 | 329 |
@@ -4592,7 +4592,7 @@
 | 83 |  [i3-workspace-switch](https://github.com/languitar/i3-workspace-switch) | Utility to allow switching i3 workspace by their position on the output. (aka numbers for unnumbered workspaces). | languitar | 5 |
 | 84 |  [kiwi](https://github.com/OSInside/kiwi) | KIWI - Appliance Builder Next Generation | OSInside | 159 |
 | 85 |  [vim-float-terminal](https://github.com/ZhiyuanLck/vim-float-terminal) | Simple vim terminal in popup window with a termline. | ZhiyuanLck | 21 |
-| 86 |  [helix](https://github.com/MakotoKurauchi/helix) | A compact split ortholinear keyboard. | MakotoKurauchi | 560 |
+| 86 |  [helix](https://github.com/MakotoKurauchi/helix) | A compact split ortholinear keyboard. | MakotoKurauchi | 561 |
 | 87 |  [beets](https://github.com/beetbox/beets) | music library manager and MusicBrainz tagger | beetbox | 10285 |
 | 88 |  [kitty-themes](https://github.com/dexpota/kitty-themes) | A collection of themes for kitty terminal 😻 | dexpota | 1036 |
 | 89 |  [i3-simple-weather](https://github.com/bru74lw1z4rd/i3-simple-weather) | Python script for i3bar/polybar and other bars that supports python scripts. | bru74lw1z4rd | 11 |
@@ -4605,7 +4605,7 @@
 | 96 |  [i3-alternating-layout](https://github.com/olemartinorg/i3-alternating-layout) | Scripts to open new windows in i3wm using alternating layouts (splith/splitv) for each new window | olemartinorg | 220 |
 | 97 |  [i3-instant-layout](https://github.com/TyberiusPrime/i3-instant-layout) |  | TyberiusPrime | 21 |
 | 98 |  [vimiv-qt](https://github.com/karlch/vimiv-qt) | An image viewer with vim-like keybindings | karlch | 91 |
-| 99 |  [cascadia-code](https://github.com/microsoft/cascadia-code) | This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal. | microsoft | 17359 |
+| 99 |  [cascadia-code](https://github.com/microsoft/cascadia-code) | This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal. | microsoft | 17371 |
 | 100 |  [zulip-terminal](https://github.com/zulip/zulip-terminal) | The official terminal client for Zulip | zulip | 301 |
 | 101 |  [defx-git](https://github.com/kristijanhusak/defx-git) | Git status implementation for https://github.com/Shougo/defx.nvim | kristijanhusak | 70 |
 | 102 |  [libertinus](https://github.com/alerque/libertinus) | The Libertinus font family | alerque | 563 |
@@ -4620,15 +4620,15 @@
 | 111 |  [i3ColourChanger](https://github.com/PMunch/i3ColourChanger) |  | PMunch | 24 |
 | 112 |  [literata](https://github.com/googlefonts/literata) | A contemporary serif typeface family for long-form reading | googlefonts | 132 |
 | 113 |  [semshi](https://github.com/numirias/semshi) | 🌈 Semantic Highlighting for Python in Neovim | numirias | 823 |
-| 114 |  [icdiff](https://github.com/jeffkaufman/icdiff) | improved colored diff | jeffkaufman | 3831 |
-| 115 |  [autorandr](https://github.com/phillipberndt/autorandr) | Auto-detect the connected display hardware and load the appropriate X11 setup using xrandr | phillipberndt | 1415 |
+| 114 |  [icdiff](https://github.com/jeffkaufman/icdiff) | improved colored diff | jeffkaufman | 3832 |
+| 115 |  [autorandr](https://github.com/phillipberndt/autorandr) | Auto-detect the connected display hardware and load the appropriate X11 setup using xrandr | phillipberndt | 1416 |
 | 116 |  [bar-protonmail](https://github.com/crabvk/bar-protonmail) | A Waybar/Polybar module for ProtonMail | crabvk | 9 |
 | 117 |  [polybar-gmail](https://github.com/crabvk/polybar-gmail) | A Polybar module to show unread messages from Gmail | crabvk | 57 |
 | 118 |  [polybar-notifihub](https://github.com/meelkor/polybar-notifihub) |  | meelkor | 1 |
 | 119 |  [polybar-i3-windows](https://github.com/meelkor/polybar-i3-windows) |  | meelkor | 26 |
 | 120 |  [ACYLS](https://github.com/worron/ACYLS) | Any Color You Like Simple icon pack | worron | 116 |
 | 121 |  [config](https://github.com/qguv/config) | My configuration file setup. | qguv | 3 |
-| 122 |  [oomox](https://github.com/themix-project/oomox) | Graphical application for generating different color variations of a  Materia and Oomox themes (GTK2, GTK3 and others), Archdroid, Gnome-Colors, Numix, Papirus, Suru++ icons, and terminal palette. | themix-project | 1498 |
+| 122 |  [oomox](https://github.com/themix-project/oomox) | Graphical application for generating different color variations of a  Materia and Oomox themes (GTK2, GTK3 and others), Archdroid, Gnome-Colors, Numix, Papirus, Suru++ icons, and terminal palette. | themix-project | 1499 |
 | 123 |  [i3-workscreen](https://github.com/fogine/i3-workscreen) | In i3wm compatible manner - dynamically re-configures your (multi)-monitor setup on the fly when you hotplug/unplug display cabel(s) | fogine | 31 |
 | 124 |  [toggl_polybar](https://github.com/mmskv/toggl_polybar) | Simple toggl widget for polybar/i3bar, similar to official for macOS | mmskv | 2 |
 | 125 |  [snipe](https://github.com/1ts-org/snipe) | curses based roost, irccloud &amp; zulip client  (a snipe is a kind of bird) | 1ts-org | 18 |
@@ -4646,11 +4646,11 @@
 | 137 |  [chadtree](https://github.com/ms-jpq/chadtree) | File manager for Neovim. Better than NERDTree. | ms-jpq | 733 |
 | 138 |  [ttrv](https://github.com/tildeclub/ttrv) | Tilde Terminal Reddit Viewer | tildeclub | 225 |
 | 139 |  [pygripcontrol](https://github.com/fanout/pygripcontrol) | Python GRIP library | fanout | 29 |
-| 140 |  [tmuxp](https://github.com/tmux-python/tmuxp) | :computer: tmux session manager. built on libtmux | tmux-python | 3139 |
+| 140 |  [tmuxp](https://github.com/tmux-python/tmuxp) | :computer: tmux session manager. built on libtmux | tmux-python | 3140 |
 | 141 |  [fzf.aws](https://github.com/kazhala/fzf.aws) | :cyclone: Using fuzzy finder to perform AWS operations on the command line | kazhala | 61 |
 | 142 |  [dotfiles](https://github.com/umute97/dotfiles) | Some dotfiles I wanna sync | umute97 | 2 |
 | 143 |  [wifite2mod](https://github.com/nuncan/wifite2mod) | Rolling Release Branch for community PR&#39;s @Credits to derv82 &amp; the community | nuncan | 37 |
-| 144 |  [wifite2](https://github.com/derv82/wifite2) | Rewrite of the popular wireless network auditor, &#34;wifite&#34; | derv82 | 3156 |
+| 144 |  [wifite2](https://github.com/derv82/wifite2) | Rewrite of the popular wireless network auditor, &#34;wifite&#34; | derv82 | 3157 |
 | 145 |  [i3ipc-python](https://github.com/altdesktop/i3ipc-python) | 🐍 An improved Python library to control i3wm and sway. | altdesktop | 660 |
 | 146 |  [tmuxdir.nvim](https://github.com/viniarck/tmuxdir.nvim) | :open_file_folder: :zap: tmux session workspace plugin for nvim | viniarck | 20 |
 | 147 |  [iptvtools](https://github.com/huxuan/iptvtools) | A set of scripts that help to better IPTV experience. | huxuan | 64 |
@@ -4661,10 +4661,10 @@
 | 152 |  [magpie](https://github.com/salman-abedin/magpie) | Dotfiles of my minimal Unix system geared for media, programming &amp; writing | salman-abedin | 29 |
 | 153 |  [VimHelpBot](https://github.com/heraldofsolace/VimHelpBot) | VimHelpBot is a bot that replies to r/vim and r/neovim comments with link to Vim Help page | heraldofsolace | 28 |
 | 154 |  [polybar-spotify](https://github.com/Jvanrhijn/polybar-spotify) | 🎶 Spotify artist and song module for Polybar | Jvanrhijn | 377 |
-| 155 |  [tg](https://github.com/paul-nameless/tg) | terminal telegram client that really works | paul-nameless | 361 |
-| 156 |  [streamlink](https://github.com/streamlink/streamlink) | Streamlink is a CLI utility which pipes video streams from various services into a video player | streamlink | 6432 |
-| 157 |  [gallery-dl](https://github.com/mikf/gallery-dl) | Command-line program to download image galleries and collections from several image hosting sites | mikf | 3559 |
-| 158 |  [jupyter](https://github.com/jupyter/jupyter) | Jupyter metapackage for installation, docs and chat | jupyter | 12556 |
+| 155 |  [tg](https://github.com/paul-nameless/tg) | terminal telegram client that really works | paul-nameless | 362 |
+| 156 |  [streamlink](https://github.com/streamlink/streamlink) | Streamlink is a CLI utility which pipes video streams from various services into a video player | streamlink | 6433 |
+| 157 |  [gallery-dl](https://github.com/mikf/gallery-dl) | Command-line program to download image galleries and collections from several image hosting sites | mikf | 3561 |
+| 158 |  [jupyter](https://github.com/jupyter/jupyter) | Jupyter metapackage for installation, docs and chat | jupyter | 12558 |
 | 159 |  [splash](https://github.com/scrapinghub/splash) | Lightweight, scriptable browser as a service with an HTTP API | scrapinghub | 3385 |
 | 160 |  [i3-master-stack](https://github.com/windwp/i3-master-stack) | I3wm master and stack layout | windwp | 27 |
 | 161 |  [mkttf](https://github.com/Tblue/mkttf) | Scripts to generate TTF files from BDF source files | Tblue | 45 |
@@ -4673,7 +4673,7 @@
 | 164 |  [rofi-tools](https://github.com/okraits/rofi-tools) | Tools for and with rofi (https://github.com/DaveDavenport/rofi) | okraits | 100 |
 | 165 |  [rofimoji](https://github.com/fdw/rofimoji) | An emoji and character picker for rofi 😁 | fdw | 407 |
 | 166 |  [dnf](https://github.com/rpm-software-management/dnf) | Package manager based on libdnf and libsolv. Replaces YUM. | rpm-software-management | 882 |
-| 167 |  [qtile](https://github.com/qtile/qtile) | :cookie: A full-featured, hackable tiling window manager written and configured in Python | qtile | 2631 |
+| 167 |  [qtile](https://github.com/qtile/qtile) | :cookie: A full-featured, hackable tiling window manager written and configured in Python | qtile | 2632 |
 | 168 |  [polybar-spotify-controls](https://github.com/dietervanhoof/polybar-spotify-controls) |  | dietervanhoof | 83 |
 | 169 |  [FastProgrammingEnvironment](https://github.com/Username77177/FastProgrammingEnvironment) | Скрипт для быстрого снабжения программиста удобной для него средой, без потери времени | Username77177 | 1 |
 | 170 |  [QBittorrentBot](https://github.com/ch3p4ll3/QBittorrentBot) | This bot can control qbittorrent easily from Telegram! You can add magnet or torrent files, have a list of active downloads, delete, pause and restart downloads. | ch3p4ll3 | 12 |
@@ -4683,7 +4683,7 @@
 | 174 |  [monitorrent](https://github.com/werwolfby/monitorrent) | Automatic torrents downloader | werwolfby | 394 |
 | 175 |  [editorconfig-gedit](https://github.com/editorconfig/editorconfig-gedit) | EditorConfig plugin for Gedit | editorconfig | 49 |
 | 176 |  [searx-checker](https://github.com/searx/searx-checker) | check the engines of any running searx instances | searx | 16 |
-| 177 |  [searx](https://github.com/searx/searx) | Privacy-respecting metasearch engine | searx | 9192 |
+| 177 |  [searx](https://github.com/searx/searx) | Privacy-respecting metasearch engine | searx | 9194 |
 | 178 |  [whitecat-console](https://github.com/whitecatboard/whitecat-console) | A command line tool for send and receive files to Lua RTOS compatible boards without an IDE | whitecatboard | 6 |
 | 179 |  [import-todoist.nvim](https://github.com/wbthomason/import-todoist.nvim) | A simple importer of completed Todoist tasks into Neovim | wbthomason | 3 |
 | 180 |  [mac_dotfiles](https://github.com/ctarx/mac_dotfiles) | My macOS dotfiles | ctarx | 1 |
@@ -4708,7 +4708,7 @@
 | 199 |  [AVR-Flash](https://github.com/daringjoker/AVR-Flash) | A short and simple script to automate the process of  compilation and flash the program into AVR microcontroller. | daringjoker | 1 |
 | 200 |  [Assembly-refrence](https://github.com/daringjoker/Assembly-refrence) | A plugin for Cutter that show the information about the assembly instruction currently selected .. only for x86 and x64 | daringjoker | 14 |
 | 201 |  [utils](https://github.com/vimwiki/utils) | Various useful stuff for Vimwiki | vimwiki | 30 |
-| 202 |  [ansible](https://github.com/ansible/ansible) | Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. | ansible | 49194 |
+| 202 |  [ansible](https://github.com/ansible/ansible) | Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. | ansible | 49205 |
 | 203 |  [TabBar](https://github.com/triplus/TabBar) | TabBar widget for FreeCAD | triplus | 5 |
 | 204 |  [Draft-dxf-importer](https://github.com/yorikvanhavre/Draft-dxf-importer) | Libraries to enable dxf support in FreeCAD | yorikvanhavre | 46 |
 | 205 |  [CADExchanger](https://github.com/yorikvanhavre/CADExchanger) | A FreeCAD addon that uses CAD Exchanger to allow import and export of additional CAD file formats | yorikvanhavre | 30 |
@@ -4721,66 +4721,66 @@
 | 212 |  [gedit-jshint](https://github.com/Meseira/gedit-jshint) | JSHint plugin for Gedit | Meseira | 4 |
 | 213 |  [gedit-shellcheck](https://github.com/lwindolf/gedit-shellcheck) | Gedit3 plugin for linting shell scripts using ShellCheck | lwindolf | 4 |
 | 214 |  [gedit-plugininstaller](https://github.com/lwindolf/gedit-plugininstaller) | Gedit 3 plugin to make discovering and installing plugins much more easy | lwindolf | 18 |
-| 215 |  [multibootusb](https://github.com/mbusb/multibootusb) | Create multiboot live Linux on a USB disk... | mbusb | 1091 |
-| 216 |  [pyfiglet](https://github.com/pwaller/pyfiglet) | An implementation of figlet written in Python | pwaller | 858 |
-| 217 |  [WifiPassword-Stealer](https://github.com/aydinnyunus/WifiPassword-Stealer) | Get All Registered Wifi Passwords from Target Computer. | aydinnyunus | 121 |
-| 218 |  [emacs-application-framework](https://github.com/manateelazycat/emacs-application-framework) | Emacs application framework | manateelazycat | 1623 |
+| 215 |  [multibootusb](https://github.com/mbusb/multibootusb) | Create multiboot live Linux on a USB disk... | mbusb | 1092 |
+| 216 |  [pyfiglet](https://github.com/pwaller/pyfiglet) | An implementation of figlet written in Python | pwaller | 859 |
+| 217 |  [WifiPassword-Stealer](https://github.com/aydinnyunus/WifiPassword-Stealer) | Get All Registered Wifi Passwords from Target Computer. | aydinnyunus | 122 |
+| 218 |  [emacs-application-framework](https://github.com/manateelazycat/emacs-application-framework) | Emacs application framework | manateelazycat | 1624 |
 | 219 |  [FileManager](https://github.com/math2001/FileManager) | ⚡️ A Sublime Text 3 package to help with file (duplicate, move, create...) ⚡️ | math2001 | 84 |
-| 220 |  [atbswp](https://github.com/RMPR/atbswp) | A minimalist macro recorder | RMPR | 419 |
+| 220 |  [atbswp](https://github.com/RMPR/atbswp) | A minimalist macro recorder | RMPR | 420 |
 | 221 |  [moc-notify](https://github.com/sumpygump/moc-notify) | Notifications (libnotify) for moc (mocp) | sumpygump | 2 |
 | 222 |  [mocp-scrobbler](https://github.com/fluxid/mocp-scrobbler) | Last.fm scrobbler for MOC audio player, written in Python (version 3). | fluxid | 45 |
 | 223 |  [nvim-lsp-denite](https://github.com/weilbith/nvim-lsp-denite) | Aditional denite.nvim sources by the Language Server Protocol | weilbith | 7 |
 | 224 |  [opml_convert_RSS](https://github.com/gavinlyonsrepo/opml_convert_RSS) | Command line python utility, Converts the opml(Xml) or JSON file of a youtube user subscriptions provided by youtube, into a text file which can added to RSS reader setup file, like newsboat for example. Thus converting your youtube subscriptions, into a group of tagged RSS feeds. | gavinlyonsrepo | 7 |
-| 225 |  [yapf](https://github.com/google/yapf) | A formatter for Python files | google | 11923 |
+| 225 |  [yapf](https://github.com/google/yapf) | A formatter for Python files | google | 11921 |
 | 226 |  [rtremote](https://github.com/Trogious/rtremote) | rtorrent &amp;lt;- rtremote &amp;lt;- rtorrent remote | Trogious | 9 |
 | 227 |  [nvim-palette](https://github.com/teto/nvim-palette) | Easy access to nvim options | teto | 26 |
 | 228 |  [SearchPlay](https://github.com/link1-n/SearchPlay) | Searches the streaming websites and torrent trackers for a particular title. | link1-n | 14 |
-| 229 |  [exaile](https://github.com/exaile/exaile) | :notes: Cross-platform music player | exaile | 289 |
+| 229 |  [exaile](https://github.com/exaile/exaile) | :notes: Cross-platform music player | exaile | 290 |
 | 230 |  [aerojump.nvim](https://github.com/ripxorip/aerojump.nvim) | Aerojump is a fuzzy-match searcher/jumper for Neovim with the goal of quick keyboard navigation | ripxorip | 187 |
 | 231 |  [vim-codelf](https://github.com/voldikss/vim-codelf) | (Neo)Vim plugin for searching variable names | voldikss | 51 |
 | 232 |  [dotty](https://github.com/mvrozanti/dotty) | 💼 Sync your [dot]files, manage new OS installations and check differences in versions with ease | mvrozanti | 5 |
 | 233 |  [home](https://github.com/teto/home) | Configurations | teto | 18 |
 | 234 |  [sublime-lua-format](https://github.com/Koihik/sublime-lua-format) |  | Koihik | 4 |
 | 235 |  [LuaFormat](https://github.com/floydawong/LuaFormat) | Lua Format Plugin For Sublime Text | floydawong | 27 |
-| 236 |  [pywal](https://github.com/dylanaraps/pywal) | 🎨 Generate and change color-schemes on the fly. | dylanaraps | 5447 |
+| 236 |  [pywal](https://github.com/dylanaraps/pywal) | 🎨 Generate and change color-schemes on the fly. | dylanaraps | 5448 |
 | 237 |  [3D_Printing_Tools](https://github.com/mark1791/3D_Printing_Tools) | FreeCAD Workbench for working on imported Meshes | mark1791 | 16 |
 | 238 |  [ssh-menu](https://github.com/acrisci/ssh-menu) | A curses-based menu for organizing and remembering ssh logins | acrisci | 6 |
 | 239 |  [i3-sticky](https://github.com/Airblader/i3-sticky) | Sticky tiling windows for i3 | Airblader | 32 |
 | 240 |  [webmacs](https://github.com/parkouss/webmacs) | webmacs - keyboard driven (emacs key bindings) browser, https://webmacs.readthedocs.io/en/latest/ | parkouss | 146 |
 | 241 |  [python-qutescript](https://github.com/hiway/python-qutescript) | Painless userscripts for qutebrowser. | hiway | 58 |
 | 242 |  [base16-qutebrowser](https://github.com/theova/base16-qutebrowser) | base16 themes for qutebrowser | theova | 67 |
-| 243 |  [qutebrowser](https://github.com/qutebrowser/qutebrowser) | A keyboard-driven, vim-like browser based on PyQt5. | qutebrowser | 7018 |
+| 243 |  [qutebrowser](https://github.com/qutebrowser/qutebrowser) | A keyboard-driven, vim-like browser based on PyQt5. | qutebrowser | 7020 |
 | 244 |  [grip](https://github.com/joeyespo/grip) | Preview GitHub README.md files locally before committing them. | joeyespo | 5265 |
-| 245 |  [qbt-theme](https://github.com/jagannatharjun/qbt-theme) | collection of themes for qbittorrent | jagannatharjun | 996 |
+| 245 |  [qbt-theme](https://github.com/jagannatharjun/qbt-theme) | collection of themes for qbittorrent | jagannatharjun | 997 |
 | 246 |  [svn2github](https://github.com/gabrys/svn2github) | Mirror your SVN repositories to GitHub | gabrys | 67 |
-| 247 |  [hosts](https://github.com/StevenBlack/hosts) | 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories. | StevenBlack | 18388 |
+| 247 |  [hosts](https://github.com/StevenBlack/hosts) | 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories. | StevenBlack | 18390 |
 | 248 |  [syncplay](https://github.com/Syncplay/syncplay) | Client/server to synchronize media playback on mpv/VLC/MPC-HC/MPC-BE on many computers | Syncplay | 1100 |
 | 249 |  [alacritty-colorscheme](https://github.com/toggle-corp/alacritty-colorscheme) | Change colorscheme of alacritty with ease. | toggle-corp | 213 |
 | 250 |  [osc](https://github.com/openSUSE/osc) | The Command Line Interface to work with an Open Build Service | openSUSE | 115 |
 | 251 |  [platform-native](https://github.com/platformio/platform-native) | Native: development platform for PlatformIO | platformio | 7 |
-| 252 |  [SickChill](https://github.com/SickChill/SickChill) | Less rage, more chill. | SickChill | 2118 |
-| 253 |  [toml](https://github.com/toml-lang/toml) | Tom&#39;s Obvious, Minimal Language | toml-lang | 15617 |
-| 254 |  [inter](https://github.com/rsms/inter) | The Inter font family | rsms | 12764 |
+| 252 |  [SickChill](https://github.com/SickChill/SickChill) | Less rage, more chill. | SickChill | 2119 |
+| 253 |  [toml](https://github.com/toml-lang/toml) | Tom&#39;s Obvious, Minimal Language | toml-lang | 15616 |
+| 254 |  [inter](https://github.com/rsms/inter) | The Inter font family | rsms | 12766 |
 | 255 |  [vmux](https://github.com/jceb/vmux) | vim/neovim session handler within tmux | jceb | 62 |
 | 256 |  [qBit-plugins](https://github.com/MadeOfMagicAndWires/qBit-plugins) | Search plugins for qBittorrent | MadeOfMagicAndWires | 29 |
 | 257 |  [qbittorrent-api](https://github.com/rmartin16/qbittorrent-api) | Python client implementation for qBittorrent&#39;s Web API | rmartin16 | 102 |
-| 258 |  [qBittorrent-RuTracker-plugin](https://github.com/nbusseneau/qBittorrent-RuTracker-plugin) | qBittorrent search engine plugin for rutracker.org. | nbusseneau | 101 |
+| 258 |  [qBittorrent-RuTracker-plugin](https://github.com/nbusseneau/qBittorrent-RuTracker-plugin) | qBittorrent search engine plugin for rutracker.org. | nbusseneau | 102 |
 | 259 |  [http-server](https://github.com/veggiedefender/http-server) | A minimal HTTP server implemented from scratch using Python sockets and threads | veggiedefender | 9 |
 | 260 |  [dotfiles](https://github.com/megalithic/dotfiles) | dotfilery, configuration, environment settings, automation, etc. | megalithic | 30 |
 | 261 |  [luna-proto](https://github.com/austinthresher/luna-proto) | Prototyping ideas for text editing | austinthresher | 1 |
 | 262 |  [rsh](https://github.com/mzfr/rsh) | generate reverse shell from CLI for linux and Windows. | mzfr | 234 |
-| 263 |  [snoop](https://github.com/snooppr/snoop) | Snoop — инструмент разведки на основе открытых данных (OSINT world) | snooppr | 1044 |
+| 263 |  [snoop](https://github.com/snooppr/snoop) | Snoop — инструмент разведки на основе открытых данных (OSINT world) | snooppr | 1049 |
 | 264 |  [neomake-platformio](https://github.com/barafael/neomake-platformio) | Simple tool allowing Neomake to properly lint when you&#39;re using PlatformIO. | barafael | 1 |
 | 265 |  [FreeCAD-macros](https://github.com/FreeCAD/FreeCAD-macros) | A repository for the FreeCAD macros from | FreeCAD | 67 |
 | 266 |  [freecad.gears](https://github.com/looooo/freecad.gears) | a gear module for freecad | looooo | 143 |
 | 267 |  [platform-intel_mcs51](https://github.com/platformio/platform-intel_mcs51) | Intel MCS-51 (8051): development platform for PlatformIO | platformio | 22 |
 | 268 |  [deluge-xbmc-plugin](https://github.com/kharts/deluge-xbmc-plugin) | Kodi/XBMC plugin for Deluge control | kharts | 3 |
-| 269 |  [PyGithub](https://github.com/PyGithub/PyGithub) | Typed interactions with the GitHub API v3 | PyGithub | 4536 |
+| 269 |  [PyGithub](https://github.com/PyGithub/PyGithub) | Typed interactions with the GitHub API v3 | PyGithub | 4538 |
 | 270 |  [uritemplate](https://github.com/python-hyper/uritemplate) | URI template parsing per RFC6570 | python-hyper | 192 |
-| 271 |  [requests](https://github.com/psf/requests) | A simple, yet elegant HTTP library. | psf | 45727 |
+| 271 |  [requests](https://github.com/psf/requests) | A simple, yet elegant HTTP library. | psf | 45729 |
 | 272 |  [qBt_SE](https://github.com/imDMG/qBt_SE) | qBittorrent search engine plugins | imDMG | 25 |
 | 273 |  [kickoff-player](https://github.com/jonian/kickoff-player) | GTK3 player with MPV, VLC and GStreamer backends, for streaming Ace Streams | jonian | 37 |
-| 274 |  [an2linuxserver](https://github.com/rootkiwi/an2linuxserver) | Sync Android notifications encrypted to a Linux desktop | rootkiwi | 337 |
+| 274 |  [an2linuxserver](https://github.com/rootkiwi/an2linuxserver) | Sync Android notifications encrypted to a Linux desktop | rootkiwi | 336 |
 | 275 |  [AFileIcon](https://github.com/SublimeText/AFileIcon) | Sublime Text File-Specific Icons for Improved Visual Grepping | SublimeText | 161 |
 | 276 |  [kicad-3d-models-in-freecad](https://github.com/easyw/kicad-3d-models-in-freecad) | kicad 3d models in freecad | easyw | 107 |
 | 277 |  [tdw](https://github.com/tdw1980/tdw) |  | tdw1980 | 29 |
@@ -4802,12 +4802,12 @@
 | 293 |  [XBMC-rTorrent-Plugin](https://github.com/djcode/XBMC-rTorrent-Plugin) | A XBMC plugin to view and control a rTorrent client. | djcode | 11 |
 | 294 |  [context.elementum](https://github.com/elgatito/context.elementum) |  | elgatito | 7 |
 | 295 |  [script.elementum.burst](https://github.com/elgatito/script.elementum.burst) | Development of this addon has been stopped! | elgatito | 65 |
-| 296 |  [plugin.video.elementum](https://github.com/elgatito/plugin.video.elementum) | Elementum add-on for Kodi. Development of this addon has been stopped! | elgatito | 349 |
+| 296 |  [plugin.video.elementum](https://github.com/elgatito/plugin.video.elementum) | Elementum add-on for Kodi. Development of this addon has been stopped! | elgatito | 350 |
 | 297 |  [neovimiscellany](https://github.com/siphiuel/neovimiscellany) |  | siphiuel | 1 |
 | 298 |  [weechat-xmpp](https://github.com/sleduc/weechat-xmpp) | A fork of the jabber plugin for weechat | sleduc | 20 |
 | 299 |  [deluge](https://github.com/deluge-torrent/deluge) | Deluge BitTorrent client - Git mirror, PRs only | deluge-torrent | 1053 |
 | 300 |  [dotbot-pacaur](https://github.com/ajlende/dotbot-pacaur) | dotbot pacaur plugin | ajlende | 3 |
-| 301 |  [picard](https://github.com/metabrainz/picard) | MusicBrainz Picard audio file tagger | metabrainz | 2489 |
+| 301 |  [picard](https://github.com/metabrainz/picard) | MusicBrainz Picard audio file tagger | metabrainz | 2487 |
 | 302 |  [vim-orgmode](https://github.com/jceb/vim-orgmode) | UNMAINTAINED looking for maintainers! Text outlining and task management for Vim based on Emacs&#39; Org-Mode | jceb | 2790 |
 | 303 |  [yandex-disk-indicator](https://github.com/slytomcat/yandex-disk-indicator) | Panel indicator (GUI) for YandexDisk CLI client for Linux | slytomcat | 181 |
 | 304 |  [fail2ban](https://github.com/fail2ban/fail2ban) | Daemon to ban hosts that cause multiple authentication errors | fail2ban | 6247 |
@@ -4819,42 +4819,42 @@
 | 310 |  [AsyncDelay](https://github.com/stevemarple/AsyncDelay) | A simple abstraction for implementing delays and timeouts in Arduino sketches. | stevemarple | 37 |
 | 311 |  [vsc-lua](https://github.com/keyring/vsc-lua) | vscode lua ext | keyring | 24 |
 | 312 |  [LSP](https://github.com/sublimelsp/LSP) | Client implementation of the Language Server Protocol for Sublime Text | sublimelsp | 1149 |
-| 313 |  [defx.nvim](https://github.com/Shougo/defx.nvim) | :file_folder: The dark powered file explorer implementation | Shougo | 980 |
+| 313 |  [defx.nvim](https://github.com/Shougo/defx.nvim) | :file_folder: The dark powered file explorer implementation | Shougo | 981 |
 | 314 |  [blockcheck](https://github.com/ValdikSS/blockcheck) | Russian ISP blocking type checker NOTE: NOT WORKING CURRENTLY. ВНИМАНИЕ: НЕ РАБОТАЕТ НА ТЕКУЩИЙ МОМЕНТ | ValdikSS | 1228 |
-| 315 |  [LeaderF](https://github.com/Yggdroot/LeaderF) | An efficient fuzzy finder that helps to locate files, buffers, mrus, gtags, etc. on the fly for both vim and neovim. | Yggdroot | 1625 |
+| 315 |  [LeaderF](https://github.com/Yggdroot/LeaderF) | An efficient fuzzy finder that helps to locate files, buffers, mrus, gtags, etc. on the fly for both vim and neovim. | Yggdroot | 1626 |
 | 316 |  [My_config_files](https://github.com/Haron-Prime/My_config_files) | My configs backups | Haron-Prime | 27 |
 | 317 |  [rofi-tmux](https://github.com/viniarck/rofi-tmux) | :heavy_check_mark: rft (rofi-tmux). Quickly switches tmux sessions, windows and tmuxinator projects | viniarck | 20 |
 | 318 |  [24bit-color](https://github.com/bitcrazed/24bit-color) | Selection of Bash/*NIX scripts for generating 24-bit color tests | bitcrazed | 34 |
 | 319 |  [ncm2-tmux](https://github.com/ncm2/ncm2-tmux) | completion with words from other tmux panes | ncm2 | 7 |
 | 320 |  [deoplete-clang2](https://github.com/tweekmonster/deoplete-clang2) |  | tweekmonster | 91 |
 | 321 |  [lldb.nvim](https://github.com/dbgx/lldb.nvim) | Debugger integration with a focus on ease-of-use. | dbgx | 253 |
-| 322 |  [httpie](https://github.com/httpie/httpie) | As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins &amp; more. https://twitter.com/httpie | httpie | 51501 |
-| 323 |  [pyphoon](https://github.com/chubin/pyphoon) | :waning_gibbous_moon:  ASCII Art Phase of the Moon (Python version) | chubin | 880 |
+| 322 |  [httpie](https://github.com/httpie/httpie) | As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins &amp; more. https://twitter.com/httpie | httpie | 51508 |
+| 323 |  [pyphoon](https://github.com/chubin/pyphoon) | :waning_gibbous_moon:  ASCII Art Phase of the Moon (Python version) | chubin | 881 |
 | 324 |  [buku](https://github.com/jarun/buku) | :bookmark: Personal mini-web in text | jarun | 4614 |
 | 325 |  [marcador](https://github.com/joajfreitas/marcador) | minimal bookmark manager with rofi front end. | joajfreitas | 18 |
 | 326 |  [github3.py](https://github.com/sigmavirus24/github3.py) | Hi, I&#39;m a library for interacting with GItHub&#39;s REST API in a convenient and ergonomic way. I work on Python 3.6+. | sigmavirus24 | 1054 |
 | 327 |  [fossilpy](https://github.com/gumblex/fossilpy) | Simple python library for reading Fossil repositories | gumblex | 5 |
 | 328 |  [dotfiles](https://github.com/trinaldi/dotfiles) | My dotfiles. For VIM use the plugins and VimAwesome for reference. | trinaldi | 4 |
-| 329 |  [gitlint](https://github.com/jorisroovers/gitlint) | Linting for your git commit messages | jorisroovers | 437 |
-| 330 |  [monoid](https://github.com/larsenwork/monoid) | Customisable coding font with alternates, ligatures and contextual positioning. Crazy crisp at 12px/9pt. http://larsenwork.com/monoid/ | larsenwork | 7090 |
+| 329 |  [gitlint](https://github.com/jorisroovers/gitlint) | Linting for your git commit messages | jorisroovers | 438 |
+| 330 |  [monoid](https://github.com/larsenwork/monoid) | Customisable coding font with alternates, ligatures and contextual positioning. Crazy crisp at 12px/9pt. http://larsenwork.com/monoid/ | larsenwork | 7089 |
 | 331 |  [config-files](https://github.com/sharkdp/config-files) | A set of configuration files for vim, zsh, i3, ... | sharkdp | 18 |
 | 332 |  [thesaurus_query.vim](https://github.com/Ron89/thesaurus_query.vim) | Multi-language Thesaurus Query and Replacement plugin for Vim/NeoVim | Ron89 | 178 |
-| 333 |  [asciinema](https://github.com/asciinema/asciinema) | Terminal session recorder 📹 | asciinema | 9412 |
+| 333 |  [asciinema](https://github.com/asciinema/asciinema) | Terminal session recorder 📹 | asciinema | 9413 |
 | 334 |  [obkey](https://github.com/stevenhoneyman/obkey) | ObKey - Openbox Key Editor (PyGObject version) | stevenhoneyman | 10 |
 | 335 |  [obkey](https://github.com/nsf/obkey) | ObKey - Openbox Key Editor | nsf | 69 |
 | 336 |  [SublimeLinter-luacheck](https://github.com/SublimeLinter/SublimeLinter-luacheck) | SublimeLinter 3 plugin for lua, using luacheck | SublimeLinter | 22 |
-| 337 |  [vint](https://github.com/Vimjas/vint) | Fast and Highly Extensible Vim script Language Lint implemented in Python. | Vimjas | 616 |
-| 338 |  [neovim-remote](https://github.com/mhinz/neovim-remote) | :ok_hand: Support for --remote and friends. | mhinz | 1028 |
-| 339 |  [completor.vim](https://github.com/maralla/completor.vim) | Async completion framework made ease. | maralla | 1166 |
+| 337 |  [vint](https://github.com/Vimjas/vint) | Fast and Highly Extensible Vim script Language Lint implemented in Python. | Vimjas | 615 |
+| 338 |  [neovim-remote](https://github.com/mhinz/neovim-remote) | :ok_hand: Support for --remote and friends. | mhinz | 1030 |
+| 339 |  [completor.vim](https://github.com/maralla/completor.vim) | Async completion framework made ease. | maralla | 1165 |
 | 340 |  [python-language-server](https://github.com/palantir/python-language-server) | An implementation of the Language Server Protocol for Python | palantir | 2355 |
 | 341 |  [ncm2-aspell](https://github.com/fgrsnau/ncm2-aspell) | ncm2 source that completes words from aspell dictionary | fgrsnau | 4 |
 | 342 |  [ncm2-otherbuf](https://github.com/fgrsnau/ncm2-otherbuf) | ncm2 plugin for completing words in other buffers | fgrsnau | 20 |
 | 343 |  [CodeBlocks-Arduino](https://github.com/provideyourown/CodeBlocks-Arduino) | Addons to Code::Blocks to support Arduinos and ATtinys | provideyourown | 87 |
 | 344 |  [flask_weather](https://github.com/M0nica/flask_weather) | ☀️  ☔️ Flask app to auto-detect local weather based off of user&#39;s IP address. | M0nica | 75 |
-| 345 |  [ncm2](https://github.com/ncm2/ncm2) | :heart: Slim, Fast and Hackable Completion Framework for Neovim | ncm2 | 1237 |
+| 345 |  [ncm2](https://github.com/ncm2/ncm2) | :heart: Slim, Fast and Hackable Completion Framework for Neovim | ncm2 | 1236 |
 | 346 |  [inkscapeCircuitSymbols](https://github.com/fsmMLK/inkscapeCircuitSymbols) | Inkscape extension to assist creating circuit symbols. | fsmMLK | 109 |
 | 347 |  [knob-scale-generator](https://github.com/leechwort/knob-scale-generator) | Inkscape extension for generation of knob scales | leechwort | 62 |
-| 348 |  [wttr.in](https://github.com/chubin/wttr.in) | :partly_sunny: The right way to check the weather | chubin | 15012 |
+| 348 |  [wttr.in](https://github.com/chubin/wttr.in) | :partly_sunny: The right way to check the weather | chubin | 15014 |
 | 349 |  [airspyone_firmware](https://github.com/airspy/airspyone_firmware) | AirSpy Firmware | airspy | 107 |
 | 350 |  [i3pystatus](https://github.com/enkore/i3pystatus) | A complete replacement for i3status | enkore | 420 |
 | 351 |  [vim-plugins-profile](https://github.com/hyiltiz/vim-plugins-profile) | :clock4: Profile Vim&#39;s plugins, generate awesome statistics and optimize (n)vim startup time | hyiltiz | 532 |
@@ -4862,7 +4862,7 @@
 | 353 |  [dotbot](https://github.com/anishathalye/dotbot) | A tool that bootstraps your dotfiles ⚡️ | anishathalye | 4414 |
 | 354 |  [firefox_decrypt](https://github.com/unode/firefox_decrypt) | Firefox Decrypt is a tool to extract passwords from Mozilla (Firefox™, Waterfox™, Thunderbird®, SeaMonkey®) profiles | unode | 840 |
 | 355 |  [i3-py](https://github.com/ziberna/i3-py) | Python based tools for i3 users and developers | ziberna | 302 |
-| 356 |  [fantasque-sans](https://github.com/belluzj/fantasque-sans) | A font family with a great monospaced variant for programmers. | belluzj | 5616 |
+| 356 |  [fantasque-sans](https://github.com/belluzj/fantasque-sans) | A font family with a great monospaced variant for programmers. | belluzj | 5617 |
 | 357 |  [dottorrent-gui](https://github.com/kz26/dottorrent-gui) | An advanced GUI torrent file creator with batch functionality, powered by PyQt and dottorrent | kz26 | 193 |
 | 358 |  [dottorrent-cli](https://github.com/kz26/dottorrent-cli) | Command-line tool for creating .torrent files, powered by dottorrent | kz26 | 20 |
 | 359 |  [dottorrent](https://github.com/kz26/dottorrent) | High-level Python 3 library for creating .torrent files | kz26 | 56 |
@@ -4870,10 +4870,10 @@
 | 361 |  [spman](https://github.com/MyRequiem/spman) | Slackware package manager https://slackbuilds.org/repository/14.2/system/spman/ | MyRequiem | 1 |
 | 362 |  [i3blocks-config](https://github.com/Nixpower/i3blocks-config) | i3blockies! | Nixpower | 4 |
 | 363 |  [rtorrent-docs](https://github.com/rtorrent-community/rtorrent-docs) | “rTorrent Handbook” community project | rtorrent-community | 36 |
-| 364 |  [youtube-dl](https://github.com/ytdl-org/youtube-dl) | Command-line program to download videos from YouTube.com and other video sites | ytdl-org | 98127 |
+| 364 |  [youtube-dl](https://github.com/ytdl-org/youtube-dl) | Command-line program to download videos from YouTube.com and other video sites | ytdl-org | 98131 |
 | 365 |  [tv_grab_tv.mail.ru](https://github.com/vlmaksime/tv_grab_tv.mail.ru) |  | vlmaksime | 5 |
 | 366 |  [bitboard](https://github.com/michrob/bitboard) | A decentralized anonymous image board built on top of Bitmessage. | michrob | 17 |
-| 367 |  [PyBitmessage](https://github.com/Bitmessage/PyBitmessage) | Reference client for Bitmessage: a P2P encrypted decentralised communication protocol: | Bitmessage | 2615 |
+| 367 |  [PyBitmessage](https://github.com/Bitmessage/PyBitmessage) | Reference client for Bitmessage: a P2P encrypted decentralised communication protocol: | Bitmessage | 2614 |
 | 368 |  [percol](https://github.com/mooz/percol) | adds flavor of interactive filtering to the traditional pipe concept of UNIX shell | mooz | 3047 |
 | 369 |  [ConkyLuaMakerGUIv2](https://github.com/Daguhh/ConkyLuaMakerGUIv2) | An interactive GUI to generate lua conky | Daguhh | 16 |
 | 370 |  [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) | Modular visual interface for GDB in Python | cyrus-and | 7538 |
@@ -4881,36 +4881,36 @@
 | 372 |  [NeoVintageous](https://github.com/NeoVintageous/NeoVintageous) | Vim emulation layer for Sublime Text. | NeoVintageous | 436 |
 | 373 |  [SublimeDebugger](https://github.com/matiasmorant/SublimeDebugger) | Graphical Debugger for Sublime Text | matiasmorant | 54 |
 | 374 |  [neo-rtags](https://github.com/marxin/neo-rtags) | Rtags client for neovim | marxin | 12 |
-| 375 |  [mkdocs](https://github.com/mkdocs/mkdocs) | Project documentation with Markdown. | mkdocs | 12540 |
-| 376 |  [kitty](https://github.com/kovidgoyal/kitty) | Cross-platform, fast, feature-rich, GPU based terminal | kovidgoyal | 11851 |
+| 375 |  [mkdocs](https://github.com/mkdocs/mkdocs) | Project documentation with Markdown. | mkdocs | 12544 |
+| 376 |  [kitty](https://github.com/kovidgoyal/kitty) | Cross-platform, fast, feature-rich, GPU based terminal | kovidgoyal | 11856 |
 | 377 |  [negi3wm](https://github.com/neg-serg/negi3wm) | Brings a lot of UX features from notion/ion3 and more to i3. Probably the most sophisticated example of i3ipc usage ever created | neg-serg | 23 |
 | 378 |  [pyrobase](https://github.com/pyroscope/pyrobase) | :package: General Python Helpers and Utilities | pyroscope | 13 |
 | 379 |  [pyrocore](https://github.com/pyroscope/pyrocore) | :wrench: A collection of tools for the BitTorrent protocol and especially the rTorrent client | pyroscope | 260 |
 | 380 |  [GitSavvy](https://github.com/timbrel/GitSavvy) | Full git and GitHub integration with Sublime Text 3. | timbrel | 1840 |
 | 381 |  [SublimeHyperClick](https://github.com/aziz/SublimeHyperClick) | Quickly and easily jump between your files. The missing part of Go to definition functionality in Sublime. | aziz | 203 |
 | 382 |  [PlainNotes](https://github.com/aziz/PlainNotes) | Simple and pleasant note taking for SublimeText | aziz | 275 |
-| 383 |  [material-theme](https://github.com/equinusocio/material-theme) | Material Theme, the most epic theme for Sublime Text 3 by Mattia Astorino | equinusocio | 11087 |
-| 384 |  [deoplete.nvim](https://github.com/Shougo/deoplete.nvim) | :stars: Dark powered asynchronous completion framework for neovim/Vim8 | Shougo | 5624 |
+| 383 |  [material-theme](https://github.com/equinusocio/material-theme) | Material Theme, the most epic theme for Sublime Text 3 by Mattia Astorino | equinusocio | 11086 |
+| 384 |  [deoplete.nvim](https://github.com/Shougo/deoplete.nvim) | :stars: Dark powered asynchronous completion framework for neovim/Vim8 | Shougo | 5622 |
 | 385 |  [SublimeLinter-contrib-gometalinter](https://github.com/alecthomas/SublimeLinter-contrib-gometalinter) | SublimeLinter plugin for gometalinter | alecthomas | 49 |
 | 386 |  [vim-awesome](https://github.com/vim-awesome/vim-awesome) | Awesome Vim plugins from across the universe | vim-awesome | 1817 |
 | 387 |  [SubDebug](https://github.com/AbbeyGames/SubDebug) | A debugging plugin for Sublime that communicates with MobDebug (https://github.com/pkulchenko/MobDebug). | AbbeyGames | 28 |
 | 388 |  [EasyClangComplete](https://github.com/niosus/EasyClangComplete) | :boom: Robust C/C++ code completion for Sublime Text 3 | niosus | 543 |
 | 389 |  [SublimeGDB](https://github.com/quarnster/SublimeGDB) | GDB integration with Sublime Text 2 | quarnster | 332 |
-| 390 |  [zim-desktop-wiki](https://github.com/zim-desktop-wiki/zim-desktop-wiki) | Main repository of the zim desktop wiki project | zim-desktop-wiki | 1277 |
+| 390 |  [zim-desktop-wiki](https://github.com/zim-desktop-wiki/zim-desktop-wiki) | Main repository of the zim desktop wiki project | zim-desktop-wiki | 1278 |
 | 391 |  [scons](https://github.com/SCons/scons) | SCons - a software construction tool | SCons | 1194 |
 | 392 |  [vim-vimlint](https://github.com/syngan/vim-vimlint) | lint for vim script | syngan | 94 |
 | 393 |  [neomake-platformio](https://github.com/coddingtonbear/neomake-platformio) | Simple tool allowing Neomake to properly lint when you&#39;re using PlatformIO. | coddingtonbear | 27 |
 | 394 |  [gis-weather](https://github.com/RingOV/gis-weather) | Customizable weather widget | RingOV | 51 |
 | 395 |  [py3status](https://github.com/ultrabug/py3status) | py3status is an extensible i3status wrapper written in python | ultrabug | 814 |
-| 396 |  [meson](https://github.com/mesonbuild/meson) | The Meson Build System | mesonbuild | 3408 |
+| 396 |  [meson](https://github.com/mesonbuild/meson) | The Meson Build System | mesonbuild | 3409 |
 | 397 |  [cheroot](https://github.com/cherrypy/cheroot) | Cheroot is the high-performance, pure-Python HTTP server used by CherryPy. Docs --&amp;gt; | cherrypy | 132 |
-| 398 |  [cherrypy](https://github.com/cherrypy/cherrypy) | CherryPy is a pythonic, object-oriented HTTP framework.      https://cherrypy.rtfd.io | cherrypy | 1424 |
+| 398 |  [cherrypy](https://github.com/cherrypy/cherrypy) | CherryPy is a pythonic, object-oriented HTTP framework.      https://cherrypy.rtfd.io | cherrypy | 1425 |
 | 399 |  [Hasklig](https://github.com/i-tu/Hasklig) | Hasklig - a code font with monospaced ligatures | i-tu | 5038 |
 | 400 |  [emonoda](https://github.com/mdevaev/emonoda) | A set of tools to organize and manage your torrents | mdevaev | 83 |
-| 401 |  [pynvim](https://github.com/neovim/pynvim) | Python client and plugin host for Nvim | neovim | 903 |
-| 402 |  [jedi](https://github.com/davidhalter/jedi) | Awesome autocompletion, static analysis and refactoring library for python | davidhalter | 4926 |
-| 403 |  [core](https://github.com/home-assistant/core) | :house_with_garden: Open source home automation that puts local control and privacy first | home-assistant | 44615 |
-| 404 |  [virtualenv](https://github.com/pypa/virtualenv) | Virtual Python Environment builder | pypa | 3918 |
+| 401 |  [pynvim](https://github.com/neovim/pynvim) | Python client and plugin host for Nvim | neovim | 904 |
+| 402 |  [jedi](https://github.com/davidhalter/jedi) | Awesome autocompletion, static analysis and refactoring library for python | davidhalter | 4925 |
+| 403 |  [core](https://github.com/home-assistant/core) | :house_with_garden: Open source home automation that puts local control and privacy first | home-assistant | 44617 |
+| 404 |  [virtualenv](https://github.com/pypa/virtualenv) | Virtual Python Environment builder | pypa | 3917 |
 | 405 |  [geany-themes](https://github.com/geany/geany-themes) | A collection of color schemes for Geany | geany | 244 |
 | 406 |  [python2-trepan](https://github.com/rocky/python2-trepan) | A gdb-like Python 2.x Debugger in the Trepan family | rocky | 90 |
 | 407 |  [python3-trepan](https://github.com/rocky/python3-trepan) | A gdb-like Python3 Debugger in the Trepan family | rocky | 105 |
@@ -4920,7 +4920,7 @@
 | 411 |  [Rofication](https://github.com/DaveDavenport/Rofication) | My notification system | DaveDavenport | 125 |
 | 412 |  [awesome-appmenu](https://github.com/montagdude/awesome-appmenu) | Tool to create a menu of installed applications for the awesome window manager | montagdude | 13 |
 | 413 |  [Mlterm-Color-Schames](https://github.com/Ahed91/Mlterm-Color-Schames) |  | Ahed91 | 8 |
-| 414 |  [jinja](https://github.com/pallets/jinja) | A very fast and expressive template engine. | pallets | 7891 |
+| 414 |  [jinja](https://github.com/pallets/jinja) | A very fast and expressive template engine. | pallets | 7892 |
 | 415 |  [VimCalc3](https://github.com/fedorenchik/VimCalc3) | A Vim plugin that provides a convenient interactive calculator inside a buffer. | fedorenchik | 13 |
 | 416 |  [vim-ipython](https://github.com/ivanov/vim-ipython) | A two-way integration between Vim and IPython 0.11+ | ivanov | 995 |
 | 417 |  [denite.nvim](https://github.com/Shougo/denite.nvim) | :dragon: Dark powered asynchronous unite all interfaces for Neovim/Vim8 | Shougo | 1979 |
@@ -4935,17 +4935,17 @@
 | 426 |  [tern_for_vim](https://github.com/ternjs/tern_for_vim) | Tern plugin for Vim | ternjs | 1842 |
 | 427 |  [tern_for_sublime](https://github.com/ternjs/tern_for_sublime) | Sublime Text package adding Tern support | ternjs | 816 |
 | 428 |  [git-cola](https://github.com/git-cola/git-cola) | git-cola: The highly caffeinated Git GUI | git-cola | 1715 |
-| 429 |  [pywinauto](https://github.com/pywinauto/pywinauto) | Windows GUI Automation with Python (based on text properties) | pywinauto | 2880 |
+| 429 |  [pywinauto](https://github.com/pywinauto/pywinauto) | Windows GUI Automation with Python (based on text properties) | pywinauto | 2881 |
 | 430 |  [box-python-sdk](https://github.com/box/box-python-sdk) | Box SDK for Python | box | 308 |
 | 431 |  [markdown2ctags](https://github.com/jszakmeister/markdown2ctags) | Generate ctags-compatible tags files for Markdown documents. | jszakmeister | 111 |
 | 432 |  [sublime_debugger](https://github.com/shuky19/sublime_debugger) | Interactive debugger for sublime | shuky19 | 429 |
 | 433 |  [cuda_intext_complete](https://github.com/kvichans/cuda_intext_complete) | CudaText plugin. Allows to complete expression (word, calling, ...) by variants found in the whole text. | kvichans | 1 |
-| 434 |  [platformio-core](https://github.com/platformio/platformio-core) | PlatformIO is a professional collaborative platform for embedded development :alien: A place where Developers and Teams have true Freedom! No more vendor lock-in! | platformio | 5249 |
+| 434 |  [platformio-core](https://github.com/platformio/platformio-core) | PlatformIO is a professional collaborative platform for embedded development :alien: A place where Developers and Teams have true Freedom! No more vendor lock-in! | platformio | 5251 |
 | 435 |  [Deviot](https://github.com/gepd/Deviot) | Sublime Text plugin for IoT development based in PlatformIO ecosystem (Arduino IDE) | gepd | 283 |
 | 436 |  [Stino](https://github.com/gepd/Stino) | A Sublime Text Plugin for Arduino | gepd | 34 |
 | 437 |  [hererocks](https://github.com/mpeterv/hererocks) | Python script for installing Lua/LuaJIT and LuaRocks into a local directory | mpeterv | 145 |
 | 438 |  [SublimeAutoHotkey](https://github.com/ahkscript/SublimeAutoHotkey) | AutoHotkey AHK language package for SublimeText including syntax highlighting, comments toggling, auto-completions, build system definitions, commands for ahkrun, ahkcompile, ahkrunpiped. | ahkscript | 195 |
-| 439 |  [tornado](https://github.com/tornadoweb/tornado) | Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed. | tornadoweb | 20108 |
+| 439 |  [tornado](https://github.com/tornadoweb/tornado) | Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed. | tornadoweb | 20107 |
 | 440 |  [sslstrip](https://github.com/moxie0/sslstrip) | A tool for exploiting Moxie Marlinspike&#39;s SSL &#34;stripping&#34; attack. | moxie0 | 1636 |
 | 441 |  [toytls](https://github.com/bjornedstrom/toytls) | Fun with the TLS handshake | bjornedstrom | 29 |
 | 442 |  [manual-tls](https://github.com/alexbers/manual-tls) | A simple example of manual TLS 1.3 connection with Elliptic Curve Diffie–Hellman key exchange and AES128 encryption | alexbers | 28 |
@@ -4958,16 +4958,16 @@
 | 449 |  [sublime-devdocs](https://github.com/vitorbritto/sublime-devdocs) | Sublime Text 2 plugin allowing you to easily search the DevDocs documentation. | vitorbritto | 30 |
 | 450 |  [ghp-import](https://github.com/c-w/ghp-import) | Easily import docs to your gh-pages branch. | c-w | 493 |
 | 451 |  [anim_encoder](https://github.com/sublimehq/anim_encoder) |  | sublimehq | 1426 |
-| 452 |  [ranger](https://github.com/ranger/ranger) | A VIM-inspired filemanager for the console | ranger | 10001 |
+| 452 |  [ranger](https://github.com/ranger/ranger) | A VIM-inspired filemanager for the console | ranger | 9999 |
 | 453 |  [src](https://github.com/idapython/src) | IDAPython project for Hex-Ray&#39;s IDA Pro | idapython | 981 |
-| 454 |  [ultisnips](https://github.com/SirVer/ultisnips) | UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips! | SirVer | 6208 |
+| 454 |  [ultisnips](https://github.com/SirVer/ultisnips) | UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips! | SirVer | 6209 |
 | 455 |  [viper](https://github.com/viper-framework/viper) | Binary analysis and management framework | viper-framework | 1421 |
 | 456 |  [Phoenix](https://github.com/wxWidgets/Phoenix) | wxPython&#39;s Project Phoenix.  A new implementation of wxPython, better, stronger, faster than he was before. | wxWidgets | 1632 |
-| 457 |  [pyinstaller](https://github.com/pyinstaller/pyinstaller) | Freeze (package) Python programs into stand-alone executables | pyinstaller | 8271 |
+| 457 |  [pyinstaller](https://github.com/pyinstaller/pyinstaller) | Freeze (package) Python programs into stand-alone executables | pyinstaller | 8275 |
 | 458 |  [bakefile](https://github.com/vslavik/bakefile) | Bakefile makefiles generator | vslavik | 114 |
 | 459 |  [GitExtensionsDoc](https://github.com/gitextensions/GitExtensionsDoc) | The new Git Extensions Manual repository | gitextensions | 21 |
 | 460 |  [rails_tutorial_sublime_text](https://github.com/mhartl/rails_tutorial_sublime_text) | Sublime Text 2 setup used in the Ruby on Rails Tutorial | mhartl | 732 |
-| 461 |  [redo](https://github.com/apenwarr/redo) | Smaller, easier, more powerful, and more reliable than make.  An implementation of djb&#39;s redo. | apenwarr | 1548 |
+| 461 |  [redo](https://github.com/apenwarr/redo) | Smaller, easier, more powerful, and more reliable than make.  An implementation of djb&#39;s redo. | apenwarr | 1549 |
 | 462 |  [MyElectronicProjects](https://github.com/ponty/MyElectronicProjects) | Hobby electronic projects built by me | ponty | 3 |
 | 463 |  [SciTE-ru-jx3](https://github.com/haimanman/SciTE-ru-jx3) | 为剑网3插件开发而定制的 SciTE-ru 3.2.5 绿色版 | haimanman | 19 |
 | 464 |  [HaoGist](https://github.com/xjsender/HaoGist) | Sublime Gist Plugin | xjsender | 23 |
@@ -5025,23 +5025,23 @@
 | 516 |  [LuaProjectHelper](https://github.com/ken48/LuaProjectHelper) | Lua Project Helper sublime plugin | ken48 | 7 |
 | 517 |  [SublimeAStyleFormatter](https://github.com/timonwong/SublimeAStyleFormatter) | SublimeAStyleFormatter is a code formatter/beautifier for Sublime Text 2 &amp; 3. It provides ability to format C/C++/C#/Java files. | timonwong | 273 |
 | 518 |  [package_control](https://github.com/wbond/package_control) | The Sublime Text package manager | wbond | 4600 |
-| 519 |  [package_control_channel](https://github.com/wbond/package_control_channel) | Default channel file for Package Control. Follow the directions at: | wbond | 1211 |
+| 519 |  [package_control_channel](https://github.com/wbond/package_control_channel) | Default channel file for Package Control. Follow the directions at: | wbond | 1210 |
 | 520 |  [Stino](https://github.com/Robot-Will/Stino) | A Sublime Text Plugin for Arduino | Robot-Will | 1600 |
 | 521 |  [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements) | Enhancements to Sublime Text sidebar. Files and folders. | titoBouzout | 2091 |
 | 522 |  [GitStatusBar](https://github.com/randy3k/GitStatusBar) | A more compact Git StatusBar | randy3k | 13 |
 | 523 |  [sublime-text-git](https://github.com/kemayo/sublime-text-git) | Plugin for some git integration into sublime text | kemayo | 2830 |
 | 524 |  [LuaSublime](https://github.com/rorydriscoll/LuaSublime) | Various support files for making developing Lua using Sublime Text 2 more pleasant. | rorydriscoll | 109 |
-| 525 |  [hyde](https://github.com/hyde/hyde) | A Python Static Website Generator | hyde | 1583 |
+| 525 |  [hyde](https://github.com/hyde/hyde) | A Python Static Website Generator | hyde | 1584 |
 | 526 |  [dotfiles](https://github.com/Valloric/dotfiles) | Some of my dotfiles | Valloric | 207 |
 | 527 |  [ycmd](https://github.com/ycm-core/ycmd) | A code-completion &amp; code-comprehension server | ycm-core | 1562 |
-| 528 |  [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) | A code-completion engine for Vim | ycm-core | 23093 |
-| 529 |  [vimdoc](https://github.com/google/vimdoc) | Helpfile generation for vim | google | 237 |
+| 528 |  [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) | A code-completion engine for Vim | ycm-core | 23097 |
+| 529 |  [vimdoc](https://github.com/google/vimdoc) | Helpfile generation for vim | google | 238 |
 | 530 |  [goimport](https://github.com/mkrautz/goimport) | GoImport is a Sublime Text 2 plugin that handles importing and dropping packages from Go source code | mkrautz | 16 |
 | 531 |  [VimCalc](https://github.com/gregsexton/VimCalc) | A Vim plugin that provides a convenient interactive calculator inside a buffer. | gregsexton | 52 |
 | 532 |  [SASM](https://github.com/Dman95/SASM) | SASM - simple crossplatform IDE for NASM, MASM, GAS and FASM assembly languages | Dman95 | 5495 |
 | 533 |  [pyHiew](https://github.com/matrosov/pyHiew) | Python scripts for automate binary analysis in Hiew editor | matrosov | 9 |
 | 534 |  [python-markdown2](https://github.com/trentm/python-markdown2) | markdown2: A fast and complete implementation of Markdown in Python | trentm | 2190 |
-| 535 |  [powerline](https://github.com/powerline/powerline) | Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile. | powerline | 12702 |
+| 535 |  [powerline](https://github.com/powerline/powerline) | Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile. | powerline | 12703 |
 | 536 |  [better-header](https://github.com/xiaket/better-header) | Better header management for vim | xiaket | 11 |
 | 537 |  [gdblib](https://github.com/skibyte/gdblib) | A module to interact with GDB debugger | skibyte | 15 |
 
@@ -5079,12 +5079,12 @@
 | 4 |  [guides](https://github.com/thoughtbot/guides) | A guide for programming in style. | thoughtbot | 8867 |
 | 5 |  [ruby_language_server](https://github.com/kwerle/ruby_language_server) | Language Server implementation in Ruby for Ruby.  Development happens on the develop branch.  Production is master. | kwerle | 38 |
 | 6 |  [emoji-cli](https://github.com/wfxr/emoji-cli) |  | wfxr | 11 |
-| 7 |  [linguist](https://github.com/github/linguist) | Language Savant. If your repository&#39;s language is being reported incorrectly, send us a pull request! | github | 8958 |
+| 7 |  [linguist](https://github.com/github/linguist) | Language Savant. If your repository&#39;s language is being reported incorrectly, send us a pull request! | github | 8959 |
 | 8 |  [comic-mono-font](https://github.com/dtinth/comic-mono-font) | A legible monospace font... the very typeface you’ve been trained to recognize since childhood | dtinth | 1159 |
 | 9 |  [dotfiles-manager](https://github.com/mcmire/dotfiles-manager) | Manage your dotfiles with this one simple tool | mcmire | 1 |
 | 10 |  [super_diff](https://github.com/mcmire/super_diff) | A more helpful way to view differences between complex data structures in RSpec. | mcmire | 572 |
 | 11 |  [dotfiles](https://github.com/felipec/dotfiles) | My config files | felipec | 10 |
-| 12 |  [homebrew-emacs-plus](https://github.com/d12frosted/homebrew-emacs-plus) | Emacs Plus formulae for the Homebrew package manager | d12frosted | 1091 |
+| 12 |  [homebrew-emacs-plus](https://github.com/d12frosted/homebrew-emacs-plus) | Emacs Plus formulae for the Homebrew package manager | d12frosted | 1090 |
 | 13 |  [GmailNotifier-New](https://github.com/mjohanning99/GmailNotifier-New) |  | mjohanning99 | 1 |
 | 14 |  [GmailNotifier](https://github.com/mjohanning99/GmailNotifier) | Just a gmail notifier for an Arduino | mjohanning99 | 1 |
 | 15 |  [pages-gem](https://github.com/github/pages-gem) | A simple Ruby Gem to bootstrap dependencies for setting up and maintaining a local Jekyll environment in sync with GitHub Pages | github | 1636 |
@@ -5105,7 +5105,7 @@
 | 30 |  [sorbet](https://github.com/sorbet/sorbet) | A fast, powerful type checker designed for Ruby | sorbet | 2624 |
 | 31 |  [language_server-ruby](https://github.com/mtsmfm/language_server-ruby) | A Ruby Language Server implementation | mtsmfm | 253 |
 | 32 |  [obs-tools](https://github.com/openSUSE/obs-tools) | Set of tools used to help us on OBS development | openSUSE | 8 |
-| 33 |  [open-build-service](https://github.com/openSUSE/open-build-service) | Build and distribute Linux packages from sources in an automatic, consistent and reproducible way #obs | openSUSE | 633 |
+| 33 |  [open-build-service](https://github.com/openSUSE/open-build-service) | Build and distribute Linux packages from sources in an automatic, consistent and reproducible way #obs | openSUSE | 635 |
 | 34 |  [retort](https://github.com/marcelmorgan/retort) | An rTorrent xmlrpc wrapper written in ruby | marcelmorgan | 18 |
 | 35 |  [xmlrpc](https://github.com/ruby/xmlrpc) | The Ruby standard library package &#39;xmlrpc&#39; | ruby | 29 |
 | 36 |  [bundler](https://github.com/rubygems/bundler) | Manage your Ruby application&#39;s gem dependencies | rubygems | 4844 |
@@ -5132,7 +5132,7 @@
 | 57 |  [pry-theme](https://github.com/kyrylo/pry-theme) | An easy way to customize Pry colors via theme files | kyrylo | 166 |
 | 58 |  [pry-theme-collection](https://github.com/kyrylo/pry-theme-collection) | A collection of themes for Pry Theme plugin for Pry | kyrylo | 25 |
 | 59 |  [pry-byebug](https://github.com/deivid-rodriguez/pry-byebug) | Step-by-step debugging and stack navigation in Pry | deivid-rodriguez | 1796 |
-| 60 |  [tmuxinator](https://github.com/tmuxinator/tmuxinator) | Manage complex tmux sessions easily | tmuxinator | 10827 |
+| 60 |  [tmuxinator](https://github.com/tmuxinator/tmuxinator) | Manage complex tmux sessions easily | tmuxinator | 10830 |
 | 61 |  [xmpp4r](https://github.com/xmpp4r/xmpp4r) | XMPP/Jabber Library for Ruby | xmpp4r | 126 |
 | 62 |  [markdownlint](https://github.com/markdownlint/markdownlint) | Markdown lint tool | markdownlint | 1118 |
 | 63 |  [github_cli](https://github.com/piotrmurach/github_cli) | GitHub on your command line. Use your terminal, not the browser. | piotrmurach | 265 |
@@ -5151,16 +5151,16 @@
 | 76 |  [debugger2](https://github.com/ko1/debugger2) | port of debugger that works on MRI 2.0.0 | ko1 | 93 |
 | 77 |  [ruby-git](https://github.com/ruby-git/ruby-git) | Ruby/Git is a Ruby library that can be used to create, read and manipulate Git repositories by wrapping system calls to the git binary. | ruby-git | 1589 |
 | 78 |  [coloration](https://github.com/sickill/coloration) | Textmate to Vim, JEdit and Kate/KWrite color scheme converter | sickill | 246 |
-| 79 |  [devdocs](https://github.com/freeCodeCamp/devdocs) | API Documentation Browser | freeCodeCamp | 26194 |
+| 79 |  [devdocs](https://github.com/freeCodeCamp/devdocs) | API Documentation Browser | freeCodeCamp | 26198 |
 | 80 |  [execjs](https://github.com/sstephenson/execjs) | Run JavaScript code from Ruby | sstephenson | 1173 |
 | 81 |  [vim-flavor](https://github.com/kana/vim-flavor) | Taste the difference. | kana | 108 |
 | 82 |  [jekyll-emoji](https://github.com/chriskempson/jekyll-emoji) | A jekyll plug-in that provides a Liquid filter for emojifying text with https://github.com/github/gemoji. See http://www.emoji-cheat-sheet.com for a full listing of emoji codes. | chriskempson | 22 |
 | 83 |  [rubyinstaller](https://github.com/oneclick/rubyinstaller) | RubyInstaller for Windows - Build recipes | oneclick | 1194 |
 | 84 |  [rake-compiler](https://github.com/rake-compiler/rake-compiler) | Provide a standard and simplified way to build and package Ruby C and Java extensions using Rake as glue. | rake-compiler | 520 |
 | 85 |  [pik](https://github.com/vertiginous/pik) | Ruby version manager for Windows | vertiginous | 831 |
-| 86 |  [ruby](https://github.com/ruby/ruby) | The Ruby Programming Language [mirror] | ruby | 18295 |
+| 86 |  [ruby](https://github.com/ruby/ruby) | The Ruby Programming Language [mirror] | ruby | 18294 |
 | 87 |  [progit](https://github.com/progit/progit) | Pro Git Book Content, 1st Edition - This content is deprecated. See 2nd edition at [progit2](https://github.com/progit/progit2) | progit | 5967 |
-| 88 |  [jekyll](https://github.com/jekyll/jekyll) | :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby | jekyll | 43079 |
+| 88 |  [jekyll](https://github.com/jekyll/jekyll) | :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby | jekyll | 43081 |
 | 89 |  [github-services](https://github.com/github/github-services) | Legacy GitHub Services Integration | github | 1916 |
 | 90 |  [bencoder](https://github.com/kholbekj/bencoder) | Bittorrent encoding in ruby | kholbekj | 13 |
 
@@ -5173,34 +5173,34 @@
 | 2 |  [baru](https://github.com/doums/baru) | A system monitor written in Rust and C | doums | 93 |
 | 3 |  [tnh-wm](https://github.com/TheNerdyHamster/tnh-wm) | Personal WM written in rust with Penrose | TheNerdyHamster | 1 |
 | 4 |  [some-editor](https://github.com/jenterkin/some-editor) | toying with making a text editor | jenterkin | 1 |
-| 5 |  [mdBook](https://github.com/rust-lang/mdBook) | Create book from markdown files. Like Gitbook but implemented in Rust | rust-lang | 6963 |
-| 6 |  [zellij](https://github.com/zellij-org/zellij) | A terminal workspace with batteries included | zellij-org | 3480 |
+| 5 |  [mdBook](https://github.com/rust-lang/mdBook) | Create book from markdown files. Like Gitbook but implemented in Rust | rust-lang | 6970 |
+| 6 |  [zellij](https://github.com/zellij-org/zellij) | A terminal workspace with batteries included | zellij-org | 3483 |
 | 7 |  [clearscreen](https://github.com/watchexec/clearscreen) | Cross-platform terminal screen clearing library | watchexec | 9 |
-| 8 |  [watchexec](https://github.com/watchexec/watchexec) | Executes commands in response to file modifications | watchexec | 2437 |
+| 8 |  [watchexec](https://github.com/watchexec/watchexec) | Executes commands in response to file modifications | watchexec | 2439 |
 | 9 |  [kak-lsp](https://github.com/kak-lsp/kak-lsp) | Kakoune Language Server Protocol Client | kak-lsp | 394 |
 | 10 |  [foreman](https://github.com/Roblox/foreman) | Toolchain manager for Roblox projects | Roblox | 50 |
 | 11 |  [full-moon](https://github.com/Kampfkarren/full-moon) | A lossless Lua 5.1 parser | Kampfkarren | 144 |
-| 12 |  [rust-clippy](https://github.com/rust-lang/rust-clippy) | A bunch of lints to catch common mistakes and improve your Rust code | rust-lang | 6087 |
-| 13 |  [rustfmt](https://github.com/rust-lang/rustfmt) | Format Rust code | rust-lang | 3747 |
+| 12 |  [rust-clippy](https://github.com/rust-lang/rust-clippy) | A bunch of lints to catch common mistakes and improve your Rust code | rust-lang | 6088 |
+| 13 |  [rustfmt](https://github.com/rust-lang/rustfmt) | Format Rust code | rust-lang | 3746 |
 | 14 |  [selene](https://github.com/Kampfkarren/selene) | A blazing-fast modern Lua linter written in Rust | Kampfkarren | 158 |
-| 15 |  [libreddit](https://github.com/spikecodes/libreddit) | Private front-end for Reddit written in Rust | spikecodes | 813 |
+| 15 |  [libreddit](https://github.com/spikecodes/libreddit) | Private front-end for Reddit written in Rust | spikecodes | 815 |
 | 16 |  [kernel](https://github.com/Wafelack/kernel) |  | Wafelack | 6 |
 | 17 |  [vinal](https://github.com/Wafelack/vinal) | Vinal Is Not A Lisp - Scripting language compiling to VimL. | Wafelack | 28 |
 | 18 |  [leftwm-theme](https://github.com/leftwm/leftwm-theme) | A tool to help manage themes for LeftWM | leftwm | 20 |
-| 19 |  [nwin](https://github.com/glacambre/nwin) | N vim win! Neovim UI designed for Sway/i3. | glacambre | 44 |
+| 19 |  [nwin](https://github.com/glacambre/nwin) | N vim win! Neovim UI designed for Sway/i3. | glacambre | 45 |
 | 20 |  [swayipc-rs](https://github.com/glacambre/swayipc-rs) | swayipc-rs with changes to accomodate some experiments. Upstream: https://github.com/JayceFayne/swayipc-rs | glacambre | 1 |
 | 21 |  [neovim-lib](https://github.com/glacambre/neovim-lib) | neovim-lib with changes to accomodate for experiments. Upstream: https://github.com/daa84/neovim-lib | glacambre | 2 |
 | 22 |  [kak-dap](https://github.com/jdugan6240/kak-dap) | A debug adapter protocol client for Kakoune. | jdugan6240 | 6 |
 | 23 |  [lua-analyzer](https://github.com/oberblastmeister/lua-analyzer) | A language server for lua written in rust | oberblastmeister | 53 |
 | 24 |  [gothite-wm](https://github.com/andersevenrud/gothite-wm) | A simple Rust Window Manager (WIP) | andersevenrud | 2 |
 | 25 |  [so_stupid_search](https://github.com/Lisprez/so_stupid_search) | It&#39;s my honor to drive you fucking fire faster, to have more time with your Family and Sunshine.This tool is for those who often want to search for a string Deeply into a directory in Recursive mode, but not with the great tools: grep, ack, ripgrep .........every thing should be Small, Thin, Fast, Lazy....without Think and Remember too much ...一个工具最大的价值不是它有多少功能，而是它能够让你以多快的速度达成所愿...... | Lisprez | 102 |
-| 26 |  [xplr](https://github.com/sayanarijit/xplr) | A hackable, minimal, fast TUI file explorer | sayanarijit | 1274 |
-| 27 |  [zola](https://github.com/getzola/zola) | A fast static site generator in a single binary with everything built-in. https://www.getzola.org | getzola | 7139 |
+| 26 |  [xplr](https://github.com/sayanarijit/xplr) | A hackable, minimal, fast TUI file explorer | sayanarijit | 1276 |
+| 27 |  [zola](https://github.com/getzola/zola) | A fast static site generator in a single binary with everything built-in. https://www.getzola.org | getzola | 7142 |
 | 28 |  [penrose](https://github.com/FredeEB/penrose) | my penrose configuration | FredeEB | 2 |
-| 29 |  [leftwm](https://github.com/leftwm/leftwm) | LeftWM - A tiling window manager for Adventurers | leftwm | 973 |
-| 30 |  [broot](https://github.com/Canop/broot) | A new way to see and navigate directory trees : https://dystroy.org/broot | Canop | 5637 |
+| 29 |  [leftwm](https://github.com/leftwm/leftwm) | LeftWM - A tiling window manager for Adventurers | leftwm | 976 |
+| 30 |  [broot](https://github.com/Canop/broot) | A new way to see and navigate directory trees : https://dystroy.org/broot | Canop | 5684 |
 | 31 |  [sapling](https://github.com/kneasle/sapling) | A highly experimental vi-inspired editor where you edit code, not text. | kneasle | 316 |
-| 32 |  [StyLua](https://github.com/JohnnyMorganz/StyLua) | An opinionated Lua code formatter | JohnnyMorganz | 157 |
+| 32 |  [StyLua](https://github.com/JohnnyMorganz/StyLua) | An opinionated Lua code formatter | JohnnyMorganz | 161 |
 | 33 |  [git-absorb](https://github.com/tummychow/git-absorb) | git commit --fixup, but automatic | tummychow | 989 |
 | 34 |  [tab-rs](https://github.com/austinjones/tab-rs) | The intuitive, config-driven terminal multiplexer designed for software &amp; systems engineers | austinjones | 503 |
 | 35 |  [my-penrose-config](https://github.com/sminez/my-penrose-config) | My personal penrose config | sminez | 11 |
@@ -5210,59 +5210,59 @@
 | 39 |  [illumination](https://github.com/oknozor/illumination) | A mardown renderer for nvim written with gtkrs and neovim-lib | oknozor | 40 |
 | 40 |  [iced](https://github.com/hecrj/iced) | A cross-platform GUI library for Rust, inspired by Elm | hecrj | 9925 |
 | 41 |  [onagre](https://github.com/oknozor/onagre) | A general purpose application launcher for X and wayland inspired by rofi/wofi and alfred | oknozor | 32 |
-| 42 |  [hunter](https://github.com/rabite0/hunter) | The fastest file manager in the galaxy! | rabite0 | 1150 |
+| 42 |  [hunter](https://github.com/rabite0/hunter) | The fastest file manager in the galaxy! | rabite0 | 1151 |
 | 43 |  [vimwiki-rs](https://github.com/chipsenkbeil/vimwiki-rs) | Rust library and tooling to parse, render, and modify vimwiki text and files. | chipsenkbeil | 13 |
-| 44 |  [pueue](https://github.com/Nukesor/pueue) | :stars: Manage your shell commands. | Nukesor | 2022 |
-| 45 |  [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer) | A Rust compiler front-end for IDEs | rust-analyzer | 6883 |
+| 44 |  [pueue](https://github.com/Nukesor/pueue) | :stars: Manage your shell commands. | Nukesor | 2024 |
+| 45 |  [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer) | A Rust compiler front-end for IDEs | rust-analyzer | 6888 |
 | 46 |  [rls](https://github.com/rust-lang/rls) | Repository for the Rust Language Server (aka RLS) | rust-lang | 3327 |
-| 47 |  [neovide](https://github.com/neovide/neovide) | No Nonsense Neovim Client in Rust | neovide | 4551 |
-| 48 |  [wezterm](https://github.com/wez/wezterm) | A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust | wez | 2052 |
+| 47 |  [neovide](https://github.com/neovide/neovide) | No Nonsense Neovim Client in Rust | neovide | 4552 |
+| 48 |  [wezterm](https://github.com/wez/wezterm) | A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust | wez | 2054 |
 | 49 |  [ksway](https://github.com/norcalli/ksway) | This library provides a convenient interface for quickly making scripts for i3 and sway (since they share an IPC interface API). It will mainly be focused on sway if that compatibility changes. | norcalli | 9 |
 | 50 |  [typeracer.nvim](https://github.com/norcalli/typeracer.nvim) |  | norcalli | 26 |
 | 51 |  [topgrade](https://github.com/r-darwish/topgrade) | Upgrade everything | r-darwish | 1848 |
-| 52 |  [zoxide](https://github.com/ajeetdsouza/zoxide) | A smarter cd command. Supports all major shells. | ajeetdsouza | 3168 |
-| 53 |  [sad](https://github.com/ms-jpq/sad) | CLI search and replace \| Space Age seD | ms-jpq | 493 |
+| 52 |  [zoxide](https://github.com/ajeetdsouza/zoxide) | A smarter cd command. Supports all major shells. | ajeetdsouza | 3193 |
+| 53 |  [sad](https://github.com/ms-jpq/sad) | CLI search and replace \| Space Age seD | ms-jpq | 494 |
 | 54 |  [oha](https://github.com/hatoo/oha) | Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation. | hatoo | 759 |
 | 55 |  [sniprun](https://github.com/michaelb/sniprun) | A neovim plugin to run lines/blocs of code (independently of the rest of the file), supporting multiples languages | michaelb | 270 |
 | 56 |  [colornamer-rs](https://github.com/altdesktop/colornamer-rs) | Give me a color and I will name it | altdesktop | 10 |
 | 57 |  [i3-style](https://github.com/altdesktop/i3-style) | 🎨 Make your i3 config a little more stylish. | altdesktop | 601 |
 | 58 |  [ytop](https://github.com/cjbassi/ytop) | A TUI system monitor written in Rust | cjbassi | 2036 |
-| 59 |  [gitui](https://github.com/extrawurst/gitui) | Blazing 💥 fast terminal-ui for git written in rust 🦀 | extrawurst | 5244 |
-| 60 |  [pastel](https://github.com/sharkdp/pastel) | A command-line tool to generate, analyze, convert and manipulate colors | sharkdp | 3576 |
-| 61 |  [skim](https://github.com/lotabout/skim) | Fuzzy Finder in rust! | lotabout | 2729 |
+| 59 |  [gitui](https://github.com/extrawurst/gitui) | Blazing 💥 fast terminal-ui for git written in rust 🦀 | extrawurst | 5249 |
+| 60 |  [pastel](https://github.com/sharkdp/pastel) | A command-line tool to generate, analyze, convert and manipulate colors | sharkdp | 3578 |
+| 61 |  [skim](https://github.com/lotabout/skim) | Fuzzy Finder in rust! | lotabout | 2730 |
 | 62 |  [emacs-module-rs](https://github.com/ubolonton/emacs-module-rs) | Rust binding and tools for Emacs&#39;s dynamic modules | ubolonton | 224 |
 | 63 |  [xi-term](https://github.com/xi-frontend/xi-term) | A terminal frontend for Xi | xi-frontend | 457 |
 | 64 |  [vixi](https://github.com/Peltoche/vixi) | A vim like client for the xi backend | Peltoche | 341 |
 | 65 |  [rkd](https://github.com/vv9k/rkd) | Rusty keybinding daemon | vv9k | 1 |
 | 66 |  [rustop](https://github.com/vv9k/rustop) | Rust based Linux system monitoring application | vv9k | 13 |
 | 67 |  [xi-editor](https://github.com/xi-editor/xi-editor) | A modern editor with a backend written in Rust. | xi-editor | 18739 |
-| 68 |  [delta](https://github.com/dandavison/delta) | A viewer for git and diff output | dandavison | 10034 |
+| 68 |  [delta](https://github.com/dandavison/delta) | A viewer for git and diff output | dandavison | 10041 |
 | 69 |  [vim-markdown-composer](https://github.com/euclio/vim-markdown-composer) | An asynchronous markdown preview plugin for Vim and Neovim. | euclio | 520 |
-| 70 |  [kmon](https://github.com/orhun/kmon) | Linux Kernel Manager and Activity Monitor 🐧💻 | orhun | 1250 |
+| 70 |  [kmon](https://github.com/orhun/kmon) | Linux Kernel Manager and Activity Monitor 🐧💻 | orhun | 1251 |
 | 71 |  [as-tree](https://github.com/jez/as-tree) | Print a list of paths as a tree of paths 🌳 | jez | 255 |
 | 72 |  [shotgun](https://github.com/neXromancers/shotgun) | Minimal X screenshot utility | neXromancers | 206 |
 | 73 |  [hexdino](https://github.com/Luz/hexdino) | A hex editor with vim like keybindings written in Rust. | Luz | 19 |
 | 74 |  [rustorrent](https://github.com/sebastiencs/rustorrent) | A BitTorrent library implemented in Rust | sebastiencs | 31 |
-| 75 |  [tree-sitter](https://github.com/tree-sitter/tree-sitter) | An incremental parsing system for programming tools | tree-sitter | 5895 |
+| 75 |  [tree-sitter](https://github.com/tree-sitter/tree-sitter) | An incremental parsing system for programming tools | tree-sitter | 5900 |
 | 76 |  [i3-vim-focus](https://github.com/jwilm/i3-vim-focus) | Vim plugin for seamless navigation between i3 and vim | jwilm | 48 |
 | 77 |  [colortty](https://github.com/shuhei/colortty) | 🎨 A utility to generate color schemes for alacritty | shuhei | 38 |
 | 78 |  [itree](https://github.com/sashaweiss/itree) | Interactively navigable version of `tree`, built in Rust | sashaweiss | 12 |
-| 79 |  [starship](https://github.com/starship/starship) | ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! | starship | 17894 |
+| 79 |  [starship](https://github.com/starship/starship) | ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! | starship | 17899 |
 | 80 |  [kak-tree](https://github.com/ul/kak-tree) | Structural selections for Kakoune | ul | 67 |
 | 81 |  [lua-patterns](https://github.com/stevedonovan/lua-patterns) | Exposing Lua string patterns to Rust | stevedonovan | 13 |
 | 82 |  [lapp](https://github.com/stevedonovan/lapp) | a Rust port of the Lua Lapp framework: a straightforward GNU-style command-line parser which uses usage text to define arguments | stevedonovan | 16 |
-| 83 |  [lsd](https://github.com/Peltoche/lsd) | The next gen ls command | Peltoche | 6051 |
+| 83 |  [lsd](https://github.com/Peltoche/lsd) | The next gen ls command | Peltoche | 6052 |
 | 84 |  [neovim-lib](https://github.com/daa84/neovim-lib) | Rust library for Neovim clients | daa84 | 163 |
 | 85 |  [dotplugs](https://github.com/yutkat/dotplugs) |  | yutkat | 2 |
-| 86 |  [alacritty](https://github.com/alacritty/alacritty) | A cross-platform, OpenGL terminal emulator. | alacritty | 33790 |
+| 86 |  [alacritty](https://github.com/alacritty/alacritty) | A cross-platform, OpenGL terminal emulator. | alacritty | 33802 |
 | 87 |  [gnvim](https://github.com/vhakulinen/gnvim) | GUI for neovim, without any web bloat | vhakulinen | 1368 |
 | 88 |  [lapce](https://github.com/lapce/lapce) | Lightweight and Powerful Code Editor | lapce | 9 |
 | 89 |  [ripgrep-all](https://github.com/phiresky/ripgrep-all) | rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. | phiresky | 3998 |
-| 90 |  [ripgrep](https://github.com/BurntSushi/ripgrep) | ripgrep recursively searches directories for a regex pattern while respecting your gitignore | BurntSushi | 26518 |
+| 90 |  [ripgrep](https://github.com/BurntSushi/ripgrep) | ripgrep recursively searches directories for a regex pattern while respecting your gitignore | BurntSushi | 26530 |
 | 91 |  [i3status-rust](https://github.com/greshake/i3status-rust) | Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust | greshake | 1799 |
-| 92 |  [bat](https://github.com/sharkdp/bat) | A cat(1) clone with wings. | sharkdp | 28521 |
-| 93 |  [exa](https://github.com/ogham/exa) | A modern replacement for ‘ls’. | ogham | 14059 |
-| 94 |  [fd](https://github.com/sharkdp/fd) | A simple, fast and user-friendly alternative to &#39;find&#39; | sharkdp | 18105 |
+| 92 |  [bat](https://github.com/sharkdp/bat) | A cat(1) clone with wings. | sharkdp | 28528 |
+| 93 |  [exa](https://github.com/ogham/exa) | A modern replacement for ‘ls’. | ogham | 14062 |
+| 94 |  [fd](https://github.com/sharkdp/fd) | A simple, fast and user-friendly alternative to &#39;find&#39; | sharkdp | 18112 |
 | 95 |  [rust_book_2ed](https://github.com/rust-lang-ru/rust_book_2ed) | The Rust Programming Language (на русском) | rust-lang-ru | 115 |
 | 96 |  [pack](https://github.com/maralla/pack) | 📦 The missing vim8 package manager. | maralla | 246 |
 | 97 |  [LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim) | Language Server Protocol (LSP) support for vim and neovim. | autozimu | 3290 |
@@ -5275,10 +5275,10 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [uyuni-docs](https://github.com/uyuni-project/uyuni-docs) | Uyuni documentation sources. Uyuni docs are written in Asciidoc (Asciidoctor flavor). | uyuni-project | 8 |
-| 2 |  [yaru](https://github.com/ubuntu/yaru) | Ubuntu community theme &#34;yaru&#34;. Better than a 🌯. | ubuntu | 975 |
+| 2 |  [yaru](https://github.com/ubuntu/yaru) | Ubuntu community theme &#34;yaru&#34;. Better than a 🌯. | ubuntu | 974 |
 | 3 |  [vscode-one-monokai](https://github.com/azemoh/vscode-one-monokai) | 🎨 Vscode One Monokai theme. | azemoh | 230 |
 | 4 |  [vimways.org](https://github.com/vim-advent-calendar/vimways.org) | vimways.org | vim-advent-calendar | 212 |
-| 5 |  [gruvbox-contrib](https://github.com/morhetz/gruvbox-contrib) | Ports of the gruvbox colorscheme | morhetz | 1268 |
+| 5 |  [gruvbox-contrib](https://github.com/morhetz/gruvbox-contrib) | Ports of the gruvbox colorscheme | morhetz | 1267 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -5304,7 +5304,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [babelfish.nvim](https://github.com/mjlbach/babelfish.nvim) | The answer to the ultimate question is :help 42 | mjlbach | 38 |
-| 2 |  [nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) |  | nvim-treesitter | 317 |
+| 2 |  [nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) |  | nvim-treesitter | 318 |
 | 3 |  [dotfiles](https://github.com/addy-dclxvi/dotfiles) | My personal backup of my dotfiles on ThinkPad-X230-Debian-Openbox and Aspire-A514-Debian-Fluxbox | addy-dclxvi | 167 |
 | 4 |  [kakoune-rainbow](https://github.com/listentolist/kakoune-rainbow) | rainbow brackets plugin for the Kakoune text editor | listentolist | 4 |
 | 5 |  [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) | Nvim Treesitter configurations and abstraction layer | nvim-treesitter | 2033 |
@@ -5317,7 +5317,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [dothome](https://github.com/s1n7ax/dothome) |  | s1n7ax | 1 |
-| 2 |  [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) | 📖 A collection of pure bash alternatives to external processes. | dylanaraps | 27421 |
+| 2 |  [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) | 📖 A collection of pure bash alternatives to external processes. | dylanaraps | 27424 |
 | 3 |  [dotfiles](https://github.com/katawful/dotfiles) | My dotfiles for non-personal stuff | katawful | 3 |
 | 4 |  [dotfiles](https://github.com/disrupted/dotfiles) | 👨🏻‍💻 My personal Neovim config entirely written in Lua (requires nightly), ZSH with zinit plugin manager &amp; powerlevel10k prompt, and other dotfiles I am adding over time | disrupted | 70 |
 | 5 |  [dotfiles](https://github.com/manojkarthick/dotfiles) | Scripts for setting up my macOS machine, configuration dotfiles | manojkarthick | 1 |
@@ -5337,8 +5337,8 @@
 | 19 |  [git-tools](https://github.com/alexherbo2/git-tools) | A collection of scripts for Git | alexherbo2 | 2 |
 | 20 |  [batch.kak](https://github.com/alexherbo2/batch.kak) | Batch integration for Kakoune | alexherbo2 | 2 |
 | 21 |  [sway-tools](https://github.com/alexherbo2/sway-tools) | A collection of scripts for Sway | alexherbo2 | 6 |
-| 22 |  [pure](https://github.com/pure-fish/pure) | Pretty, minimal, and fast prompt for Fish from Zsh.fish theme prompt fish-theme fish-prompt | pure-fish | 787 |
-| 23 |  [tide](https://github.com/IlanCosman/tide) | 🌊 The ultimate Fish prompt. | IlanCosman | 625 |
+| 22 |  [pure](https://github.com/pure-fish/pure) | Pretty, minimal, and fast prompt for Fish from Zsh.fish theme prompt fish-theme fish-prompt | pure-fish | 786 |
+| 23 |  [tide](https://github.com/IlanCosman/tide) | 🌊 The ultimate Fish prompt. | IlanCosman | 626 |
 | 24 |  [fzf](https://github.com/jethrokuan/fzf) | Ef-🐟-ient fish keybindings for fzf | jethrokuan | 644 |
 | 25 |  [scripts](https://github.com/Gavinok/scripts) | a collection of scripts I use | Gavinok | 21 |
 | 26 |  [my-scripts](https://github.com/jfcherng/my-scripts) | Just for my personal scripts. | jfcherng | 15 |
@@ -5358,16 +5358,16 @@
 | 40 |  [dotfiles](https://github.com/nihilistkitten/dotfiles) |  | nihilistkitten | 3 |
 | 41 |  [polybar-pulseeffects-presets](https://github.com/marioortizmanero/polybar-pulseeffects-presets) | A Polybar module to control PulseEffects with presets | marioortizmanero | 5 |
 | 42 |  [AltSIM](https://github.com/g6ai/AltSIM) | Send message from gammu-smsd to Telegram bot | g6ai | 16 |
-| 43 |  [zplug](https://github.com/zplug/zplug) | :hibiscus: A next-generation plugin manager for zsh | zplug | 4678 |
+| 43 |  [zplug](https://github.com/zplug/zplug) | :hibiscus: A next-generation plugin manager for zsh | zplug | 4676 |
 | 44 |  [dotfiles](https://github.com/lenguyenthanh/dotfiles) | My dotfiles | lenguyenthanh | 2 |
 | 45 |  [polybar-aesthetic](https://github.com/voidsampaiaovoid/polybar-aesthetic) |  | voidsampaiaovoid | 15 |
 | 46 |  [dotfiles](https://github.com/tanvirtin/dotfiles) | My development configurations | tanvirtin | 2 |
 | 47 |  [bash-seafly-prompt](https://github.com/bluz71/bash-seafly-prompt) | An informative Bash prompt | bluz71 | 38 |
-| 48 |  [zsh-histdb](https://github.com/larkery/zsh-histdb) | A slightly better history for zsh | larkery | 831 |
+| 48 |  [zsh-histdb](https://github.com/larkery/zsh-histdb) | A slightly better history for zsh | larkery | 832 |
 | 49 |  [fz](https://github.com/changyuheng/fz) | Cli shell plugin, the missing fuzzy tab completion feature for the z jump around command. | changyuheng | 370 |
 | 50 |  [dotfiles](https://github.com/sonph/dotfiles) | My .files | sonph | 20 |
 | 51 |  [compe-zsh](https://github.com/tamago324/compe-zsh) | zsh completion source for nvim-compe | tamago324 | 19 |
-| 52 |  [z](https://github.com/rupa/z) | z - jump around | rupa | 13307 |
+| 52 |  [z](https://github.com/rupa/z) | z - jump around | rupa | 13308 |
 | 53 |  [dotfiles](https://github.com/wfxr/dotfiles) | :house_with_garden: My dotfiles | wfxr | 59 |
 | 54 |  [dotfiles](https://github.com/keymon/dotfiles) | My home dotfiles | keymon | 10 |
 | 55 |  [nscript](https://github.com/drewbrokke/nscript) | Quickly create and manage shell scripts | drewbrokke | 2 |
@@ -5393,7 +5393,7 @@
 | 75 |  [zfm](https://github.com/pabloariasal/zfm) | Zsh Fuzzy Marks | pabloariasal | 30 |
 | 76 |  [vi3](https://github.com/michaelmrose/vi3) | vim like keybindings for i3wm | michaelmrose | 14 |
 | 77 |  [lcurses](https://github.com/lcurses/lcurses) | Lua bindings for Curses | lcurses | 47 |
-| 78 |  [acme.sh](https://github.com/acmesh-official/acme.sh) | A pure Unix shell script implementing ACME client protocol | acmesh-official | 22957 |
+| 78 |  [acme.sh](https://github.com/acmesh-official/acme.sh) | A pure Unix shell script implementing ACME client protocol | acmesh-official | 22962 |
 | 79 |  [docker-nginx-certbot](https://github.com/staticfloat/docker-nginx-certbot) | Create and renew website certificates using the Letsencrypt free certificate authority. | staticfloat | 452 |
 | 80 |  [acme-companion](https://github.com/nginx-proxy/acme-companion) | Automated ACME SSL certificate generation for nginx-proxy | nginx-proxy | 6161 |
 | 81 |  [grub-btrfs](https://github.com/Antynea/grub-btrfs) | Include btrfs snapshots at boot options. (Grub menu) | Antynea | 190 |
@@ -5411,7 +5411,7 @@
 | 93 |  [lua_version_manager](https://github.com/mathieujobin/lua_version_manager) | Lua Version Manager | mathieujobin | 7 |
 | 94 |  [polybar-windows](https://github.com/aroma1994/polybar-windows) | A polybar script that shows opened windows on your current display. Click on window titles to switch between windows. | aroma1994 | 18 |
 | 95 |  [polywins](https://github.com/tam-carre/polywins) | A featureful and customizable taskbar for polybar. | tam-carre | 159 |
-| 96 |  [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) | 💥 A curated list of Terminal frameworks, plugins &amp; resources for CLI lovers. | k4m4 | 10023 |
+| 96 |  [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) | 💥 A curated list of Terminal frameworks, plugins &amp; resources for CLI lovers. | k4m4 | 10024 |
 | 97 |  [dot-config](https://github.com/pmeiyu/dot-config) | My ~/.config files | pmeiyu | 8 |
 | 98 |  [_nixrice](https://github.com/anntnzrb/_nixrice) | personal .files for *nix environments (mirror) | anntnzrb | 2 |
 | 99 |  [dotfiles](https://github.com/mrossinek/dotfiles) | My dotfiles | mrossinek | 2 |
@@ -5438,7 +5438,7 @@
 | 120 |  [gnome-terminal-colors](https://github.com/metalelf0/gnome-terminal-colors) | Solarized Gnome Terminal colors, based on http://ethanschoonover.com/solarized | metalelf0 | 123 |
 | 121 |  [zsh-completions](https://github.com/sainnhe/zsh-completions) | Personal collection of zsh completion definitions. | sainnhe | 3 |
 | 122 |  [git-completion](https://github.com/felipec/git-completion) | Git completion stuff | felipec | 19 |
-| 123 |  [alis](https://github.com/picodotdev/alis) | Arch Linux Install Script (or alis) installs unattended, automated and customized Arch Linux system. | picodotdev | 481 |
+| 123 |  [alis](https://github.com/picodotdev/alis) | Arch Linux Install Script (or alis) installs unattended, automated and customized Arch Linux system. | picodotdev | 483 |
 | 124 |  [tmux-plugin-sysstat](https://github.com/sainnhe/tmux-plugin-sysstat) | Prints CPU usage, memory &amp; swap, load average, net I/O metrics in Tmux status bar | sainnhe | 1 |
 | 125 |  [tmux-translator](https://github.com/sainnhe/tmux-translator) | Tmux translation plugin powered by popup window. | sainnhe | 11 |
 | 126 |  [tmux-fzf](https://github.com/sainnhe/tmux-fzf) | Use fzf to manage your tmux work environment! | sainnhe | 329 |
@@ -5455,13 +5455,13 @@
 | 137 |  [dotfiles](https://github.com/anishathalye/dotfiles) | ~anish • powered by https://github.com/anishathalye/dotbot 💾 | anishathalye | 464 |
 | 138 |  [connect.kak](https://github.com/kakounedotcom/connect.kak) | Connect a program to Kakoune clients | kakounedotcom | 71 |
 | 139 |  [zsh-nvm](https://github.com/lukechilds/zsh-nvm) | Zsh plugin for installing, updating and loading nvm | lukechilds | 1553 |
-| 140 |  [JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) | JetBrains Mono – the free and open-source typeface for developers | JetBrains | 5648 |
+| 140 |  [JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) | JetBrains Mono – the free and open-source typeface for developers | JetBrains | 5651 |
 | 141 |  [wsl-setup](https://github.com/Gskartwii/wsl-setup) | Scripts for setting up a WSL development environment with oh-my-zsh, Kakoune, Rust, etc. | Gskartwii | 1 |
 | 142 |  [dotfiles](https://github.com/hoop33/dotfiles) | My configuration files | hoop33 | 9 |
 | 143 |  [wezterm](https://github.com/YumaFuu/wezterm) |  | YumaFuu | 1 |
 | 144 |  [theta](https://github.com/eendroroy/theta) | A fast and verbose zsh prompt | eendroroy | 9 |
 | 145 |  [tmux-simple-git-status](https://github.com/kristijanhusak/tmux-simple-git-status) | Add simple git status to your tmux statusline. | kristijanhusak | 18 |
-| 146 |  [docker-gitlab](https://github.com/sameersbn/docker-gitlab) | Dockerized GitLab | sameersbn | 6891 |
+| 146 |  [docker-gitlab](https://github.com/sameersbn/docker-gitlab) | Dockerized GitLab | sameersbn | 6890 |
 | 147 |  [.newsboat](https://github.com/gpakosz/.newsboat) | My newsboat configuration | gpakosz | 47 |
 | 148 |  [alien-minimal](https://github.com/eendroroy/alien-minimal) | An asynchronous minimal zsh prompt | eendroroy | 125 |
 | 149 |  [alien](https://github.com/eendroroy/alien) | An asynchronous zsh prompt | eendroroy | 229 |
@@ -5469,7 +5469,7 @@
 | 151 |  [Linux-etc](https://github.com/LinuxGogley/Linux-etc) | Shell themes and useful scripts | LinuxGogley | 2 |
 | 152 |  [zotfiles](https://github.com/dersam/zotfiles) | Custom dotfiles for zsh with autoinstall/autoupdate | dersam | 2 |
 | 153 |  [agnosterzak-ohmyzsh-theme](https://github.com/zakaziko99/agnosterzak-ohmyzsh-theme) | An oh-my-zsh theme based on Powerline Vim &amp; Agnoster theme | zakaziko99 | 337 |
-| 154 |  [bats-core](https://github.com/bats-core/bats-core) | Bash Automated Testing System | bats-core | 2514 |
+| 154 |  [bats-core](https://github.com/bats-core/bats-core) | Bash Automated Testing System | bats-core | 2517 |
 | 155 |  [luaver](https://github.com/umireon/luaver) | Lua Version Manager - Managing and switching between different versions of Lua, LuaJIT and Luarocks made easy | umireon | 1 |
 | 156 |  [lua-travis](https://github.com/siffiejoe/lua-travis) | Helper files for using Travis-CI with Lua projects. | siffiejoe | 1 |
 | 157 |  [i3blocks-contrib](https://github.com/vivien/i3blocks-contrib) | Official repository for community contributed blocklets | vivien | 961 |
@@ -5479,7 +5479,7 @@
 | 161 |  [kubemenu](https://github.com/iocanel/kubemenu) | Kubernetes tasks via dmenu | iocanel | 1 |
 | 162 |  [zsh-git-sync](https://github.com/caarlos0-graveyard/zsh-git-sync) | A zsh plugin to sync git repositories and clean them up. | caarlos0-graveyard | 41 |
 | 163 |  [dotfiles](https://github.com/nanotee/dotfiles) |  | nanotee | 10 |
-| 164 |  [backup-utils](https://github.com/github/backup-utils) | GitHub Enterprise Backup Utilities | github | 742 |
+| 164 |  [backup-utils](https://github.com/github/backup-utils) | GitHub Enterprise Backup Utilities | github | 743 |
 | 165 |  [dotfiles](https://github.com/grznych/dotfiles) |  | grznych | 6 |
 | 166 |  [qbittorrent-nox-static](https://github.com/userdocs/qbittorrent-nox-static) | A build script for qBittorent nox static. | userdocs | 152 |
 | 167 |  [slackbuilds](https://github.com/SlackBuildsOrg/slackbuilds) | Mirror of SlackBuilds.org Repository. | SlackBuildsOrg | 36 |
@@ -5491,7 +5491,7 @@
 | 173 |  [dots](https://github.com/turquoise-hexagon/dots) | another dotfiles repo | turquoise-hexagon | 40 |
 | 174 |  [rofi-systemd](https://github.com/IvanMalison/rofi-systemd) |  | IvanMalison | 10 |
 | 175 |  [fontpreview](https://github.com/sdushantha/fontpreview) | Highly customizable and minimal font previewer written in bash | sdushantha | 682 |
-| 176 |  [polybar-pulseaudio-control](https://github.com/marioortizmanero/polybar-pulseaudio-control) | A feature-full Polybar module to control PulseAudio | marioortizmanero | 200 |
+| 176 |  [polybar-pulseaudio-control](https://github.com/marioortizmanero/polybar-pulseaudio-control) | A feature-full Polybar module to control PulseAudio | marioortizmanero | 202 |
 | 177 |  [polybar-kdeconnect](https://github.com/haideralipunjabi/polybar-kdeconnect) | KDEConnect module for Polybar | haideralipunjabi | 102 |
 | 178 |  [i3](https://github.com/tonyaldon/i3) | My i3 configuration | tonyaldon | 3 |
 | 179 |  [BigBagKbdTrixXKB](https://github.com/DreymaR/BigBagKbdTrixXKB) | &#34;DreymaR&#39;s Big Bag of Keyboard Tricks&#34; for *nix with XKB | DreymaR | 113 |
@@ -5499,9 +5499,9 @@
 | 181 |  [dotfiles](https://github.com/kovetskiy/dotfiles) | Effective environment (for me) configuration with i3, vim, zsh and Arch Linux | kovetskiy | 24 |
 | 182 |  [dotfiles](https://github.com/rajshekhar26/dotfiles) | My dotfiles | rajshekhar26 | 135 |
 | 183 |  [vicyos-build-folder](https://github.com/felipendc/vicyos-build-folder) |  | felipendc | 8 |
-| 184 |  [dotfiles](https://github.com/mathiasbynens/dotfiles) | :wrench: .files, including ~/.macos — sensible hacker defaults for macOS | mathiasbynens | 26666 |
+| 184 |  [dotfiles](https://github.com/mathiasbynens/dotfiles) | :wrench: .files, including ~/.macos — sensible hacker defaults for macOS | mathiasbynens | 26667 |
 | 185 |  [profile_manager](https://github.com/klaxalk/profile_manager) | profile switching in any config files using vim-commentary | klaxalk | 3 |
-| 186 |  [i3-layout-manager](https://github.com/klaxalk/i3-layout-manager) | Saving, loading and managing layouts for i3wm. | klaxalk | 283 |
+| 186 |  [i3-layout-manager](https://github.com/klaxalk/i3-layout-manager) | Saving, loading and managing layouts for i3wm. | klaxalk | 284 |
 | 187 |  [dotfiles](https://github.com/dennisleexyz/dotfiles) | moved to https://github.com/dennisleexyz/cfg | dennisleexyz | 1 |
 | 188 |  [scripts](https://github.com/dennisleexyz/scripts) | My shell scripts for system automation. | dennisleexyz | 1 |
 | 189 |  [dmenufm](https://github.com/BrodieRobertson/dmenufm) | A simple file manager using dmenu | BrodieRobertson | 2 |
@@ -5522,15 +5522,15 @@
 | 204 |  [dotfiles](https://github.com/xero/dotfiles) | ▒ rice ░░  custom linux config files | xero | 1461 |
 | 205 |  [bin](https://github.com/resloved/bin) | 🗑️ — Misc. Scripts | resloved | 1 |
 | 206 |  [WiFi-autopwner](https://github.com/Mi-Al/WiFi-autopwner) | WiFi-autopwner: script to automate searching and auditing Wi-Fi networks with weak security | Mi-Al | 171 |
-| 207 |  [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) | Fish-like autosuggestions for zsh | zsh-users | 17991 |
+| 207 |  [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) | Fish-like autosuggestions for zsh | zsh-users | 17997 |
 | 208 |  [dist-git](https://github.com/release-engineering/dist-git) | DistGit provides home for linux distribution packages. | release-engineering | 89 |
 | 209 |  [dotfiles](https://github.com/A1337Xyz/dotfiles) |  | A1337Xyz | 2 |
-| 210 |  [bash-completion](https://github.com/scop/bash-completion) | Programmable completion functions for bash | scop | 1763 |
+| 210 |  [bash-completion](https://github.com/scop/bash-completion) | Programmable completion functions for bash | scop | 1764 |
 | 211 |  [bash-it](https://github.com/Bash-it/bash-it) | A community Bash framework. | Bash-it | 12403 |
 | 212 |  [tmux-bash-completion](https://github.com/imomaliev/tmux-bash-completion) | Tmux bash completion | imomaliev | 166 |
 | 213 |  [zeta-zsh-theme](https://github.com/skylerlee/zeta-zsh-theme) | Another :star: theme for oh-my-zsh | skylerlee | 189 |
-| 214 |  [spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) | :rocket::star: A Zsh prompt for Astronauts | spaceship-prompt | 14882 |
-| 215 |  [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) | A collection of ZSH frameworks, plugins, themes and tutorials. | unixorn | 9514 |
+| 214 |  [spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) | :rocket::star: A Zsh prompt for Astronauts | spaceship-prompt | 14887 |
+| 215 |  [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) | A collection of ZSH frameworks, plugins, themes and tutorials. | unixorn | 9516 |
 | 216 |  [WhiteSur-icon-theme](https://github.com/vinceliuice/WhiteSur-icon-theme) | MacOS Big Sur style icon theme for linux desktops | vinceliuice | 308 |
 | 217 |  [dotfiles](https://github.com/harshbaliyan126/dotfiles) | My ArchLinux dotfiles | harshbaliyan126 | 12 |
 | 218 |  [bolt](https://github.com/salman-abedin/bolt) | Launcher wrapper for a lightning fast Unix workflow | salman-abedin | 36 |
@@ -5585,13 +5585,13 @@
 | 267 |  [dotfiles](https://github.com/ubolonton/dotfiles) | My personal configs | ubolonton | 2 |
 | 268 |  [dotfiles](https://github.com/jackcogdill/dotfiles) | My personal config files / preferences | jackcogdill | 1 |
 | 269 |  [lapdots](https://github.com/xZecora/lapdots) | laptop dotfiles | xZecora | 3 |
-| 270 |  [polybar-themes](https://github.com/adi1090x/polybar-themes) | A huge collection of polybar themes with different styles, colors and variants. | adi1090x | 3235 |
+| 270 |  [polybar-themes](https://github.com/adi1090x/polybar-themes) | A huge collection of polybar themes with different styles, colors and variants. | adi1090x | 3237 |
 | 271 |  [dotfiles](https://github.com/cvignal/dotfiles) | Dotfiles for my ArchLinux i3 config | cvignal | 16 |
 | 272 |  [rofi-color-picker](https://github.com/windwp/rofi-color-picker) |  | windwp | 10 |
 | 273 |  [rofi-zeal](https://github.com/Zeioth/rofi-zeal) | Use rofi to search documentation on Zeal and Man | Zeioth | 32 |
 | 274 |  [dotfiles](https://github.com/nymann/dotfiles) | My dotfiles | nymann | 6 |
 | 275 |  [gitell](https://github.com/deadc0de6/gitell) | Quickly get the status of all your local git repositories | deadc0de6 | 15 |
-| 276 |  [dotdrop](https://github.com/deadc0de6/dotdrop) | Save your dotfiles once, deploy them everywhere | deadc0de6 | 898 |
+| 276 |  [dotdrop](https://github.com/deadc0de6/dotdrop) | Save your dotfiles once, deploy them everywhere | deadc0de6 | 899 |
 | 277 |  [dotfiles](https://github.com/wbthomason/dotfiles) | My dotfiles | wbthomason | 70 |
 | 278 |  [dotfiles](https://github.com/dandavison/dotfiles) | My dotfiles | dandavison | 3 |
 | 279 |  [shell-config](https://github.com/dandavison/shell-config) | Bash configuration | dandavison | 6 |
@@ -5607,8 +5607,8 @@
 | 289 |  [tmux-colortag](https://github.com/Determinant/tmux-colortag) | A plug-and-play, minimal tmux plugin/theme that automatically colors the window tags. | Determinant | 55 |
 | 290 |  [omega](https://github.com/skiselev/omega) | Omega Home Computer | skiselev | 198 |
 | 291 |  [radare2-pm](https://github.com/radareorg/radare2-pm) | Package Manager for Radare2 | radareorg | 102 |
-| 292 |  [pi-hole](https://github.com/pi-hole/pi-hole) | A black hole for Internet advertisements | pi-hole | 31920 |
-| 293 |  [Machfiles](https://github.com/ChristianChiarulli/Machfiles) | The dotfiles you see in all my videos | ChristianChiarulli | 146 |
+| 292 |  [pi-hole](https://github.com/pi-hole/pi-hole) | A black hole for Internet advertisements | pi-hole | 31922 |
+| 293 |  [Machfiles](https://github.com/ChristianChiarulli/Machfiles) | The dotfiles you see in all my videos | ChristianChiarulli | 147 |
 | 294 |  [haikuports](https://github.com/haikuports/haikuports) | Software ports for the Haiku operating system. | haikuports | 248 |
 | 295 |  [zsh-z](https://github.com/agkozak/zsh-z) | Jump quickly to directories that you have visited &#34;frecently.&#34; A native ZSH port of z.sh. | agkozak | 662 |
 | 296 |  [Tela-icon-theme](https://github.com/vinceliuice/Tela-icon-theme) | A flat colorful Design icon theme | vinceliuice | 768 |
@@ -5629,9 +5629,9 @@
 | 311 |  [archive](https://github.com/romkatv/archive) | Command line tools to create, list, and extract archives | romkatv | 8 |
 | 312 |  [dotfiles-public](https://github.com/romkatv/dotfiles-public) | Public part of my dotfiles | romkatv | 177 |
 | 313 |  [zsh-defer](https://github.com/romkatv/zsh-defer) | Deferred execution of Zsh commands | romkatv | 94 |
-| 314 |  [powerlevel10k](https://github.com/romkatv/powerlevel10k) | A Zsh theme | romkatv | 19348 |
+| 314 |  [powerlevel10k](https://github.com/romkatv/powerlevel10k) | A Zsh theme | romkatv | 19370 |
 | 315 |  [dotfiles](https://github.com/hydeik/dotfiles) | My dotfiles | hydeik | 7 |
-| 316 |  [dotfiles](https://github.com/dikiaap/dotfiles) | Get ready for dotfiles. Contains i3, i3blocks, rofi, dunst, picom, vim, tmux, and zsh. | dikiaap | 1048 |
+| 316 |  [dotfiles](https://github.com/dikiaap/dotfiles) | Get ready for dotfiles. Contains i3, i3blocks, rofi, dunst, picom, vim, tmux, and zsh. | dikiaap | 1049 |
 | 317 |  [dotfiles](https://github.com/theHamsta/dotfiles) |  | theHamsta | 8 |
 | 318 |  [yadem](https://github.com/evanthegrayt/yadem) | 🕴 Yet Another Dotfile and Environment Manager | evanthegrayt | 3 |
 | 319 |  [oh-my-env](https://github.com/damon-kwok/oh-my-env) | 🍄Oh My Env - A DevReady programming environment. | damon-kwok | 3 |
@@ -5641,7 +5641,7 @@
 | 323 |  [kiss](https://github.com/kisslinux/kiss) | KISS Linux - Package Manager | kisslinux | 345 |
 | 324 |  [community](https://github.com/dylanaraps/community) | KISS - Community Repository (temporarily closed for maintenance) | dylanaraps | 108 |
 | 325 |  [pash](https://github.com/dylanaraps/pash) | 🔒 A simple password manager using GPG written in POSIX sh. | dylanaraps | 284 |
-| 326 |  [neofetch](https://github.com/dylanaraps/neofetch) | 🖼️  A command-line system information tool written in bash 3.2+ | dylanaraps | 12401 |
+| 326 |  [neofetch](https://github.com/dylanaraps/neofetch) | 🖼️  A command-line system information tool written in bash 3.2+ | dylanaraps | 12406 |
 | 327 |  [pfetch](https://github.com/dylanaraps/pfetch) | 🐧 A pretty system information tool written in POSIX sh. | dylanaraps | 984 |
 | 328 |  [bin](https://github.com/dylanaraps/bin) | 🗑️ scripts | dylanaraps | 122 |
 | 329 |  [fff](https://github.com/dylanaraps/fff) | 📁 A simple file manager written in bash. | dylanaraps | 3276 |
@@ -5660,7 +5660,7 @@
 | 342 |  [dotfiles](https://github.com/MikaelElkiaer/dotfiles) |  | MikaelElkiaer | 4 |
 | 343 |  [linux-live](https://github.com/Tomas-M/linux-live) | Linux Live Kit | Tomas-M | 596 |
 | 344 |  [vifmimg](https://github.com/cirala/vifmimg) | Image previews using Überzug for Vifm (vi file manager) | cirala | 149 |
-| 345 |  [nvm](https://github.com/nvm-sh/nvm) | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions | nvm-sh | 50242 |
+| 345 |  [nvm](https://github.com/nvm-sh/nvm) | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions | nvm-sh | 50283 |
 | 346 |  [git_fastfix](https://github.com/dm1try/git_fastfix) | fast git fixups using neovim UI | dm1try | 13 |
 | 347 |  [rofi](https://github.com/adi1090x/rofi) | A large collection of Rofi based custom Menu, Applets, Launchers &amp; Powermenus. | adi1090x | 2256 |
 | 348 |  [dotfiles](https://github.com/georg3tom/dotfiles) | Config files (bspwm,i3-gaps,polybar,nvim) | georg3tom | 13 |
@@ -5678,12 +5678,12 @@
 | 360 |  [dotfiles](https://github.com/Seirdy/dotfiles) | Seirdy&#39;s dotfiles | Seirdy | 19 |
 | 361 |  [config](https://github.com/mattbailey/config) |  | mattbailey | 8 |
 | 362 |  [dotfiles-mini](https://github.com/yutkat/dotfiles-mini) |  | yutkat | 8 |
-| 363 |  [dotfiles](https://github.com/yutkat/dotfiles) | The best and strongest dotfiles. Editor: Neovim(coc.nvim); Shell: zsh(zinit, powerlevel10k); Terminal: tmux, alacritty; Desktop: i3-gaps/sway, rofi, dunst; OS: ArchLinux, (Ubuntu/Fedora/CentOS) | yutkat | 137 |
+| 363 |  [dotfiles](https://github.com/yutkat/dotfiles) | The best and strongest dotfiles. Editor: Neovim(coc.nvim); Shell: zsh(zinit, powerlevel10k); Terminal: tmux, alacritty; Desktop: i3-gaps/sway, rofi, dunst; OS: ArchLinux, (Ubuntu/Fedora/CentOS) | yutkat | 138 |
 | 364 |  [vim-editerm](https://github.com/kyoh86/vim-editerm) |  | kyoh86 | 15 |
 | 365 |  [backpack](https://github.com/austinthresher/backpack) | user-space package manager | austinthresher | 1 |
 | 366 |  [dotfiles](https://github.com/austinthresher/dotfiles) | Personal dotfiles and configs | austinthresher | 1 |
 | 367 |  [gnome-terminal](https://github.com/challenger-deep-theme/gnome-terminal) | Challenger Deep Theme for GNOME Terminal | challenger-deep-theme | 6 |
-| 368 |  [nginx-le](https://github.com/nginx-le/nginx-le) | Nginx with automatic let&#39;s encrypt (docker image) | nginx-le | 498 |
+| 368 |  [nginx-le](https://github.com/nginx-le/nginx-le) | Nginx with automatic let&#39;s encrypt (docker image) | nginx-le | 499 |
 | 369 |  [Configurations](https://github.com/Username77177/Configurations) | My configurations for tmux, vim, alacritty | Username77177 | 20 |
 | 370 |  [sorbet.run](https://github.com/sorbet/sorbet.run) | The online Sorbet playground | sorbet | 6 |
 | 371 |  [dotfiles](https://github.com/h-michael/dotfiles) | my dotfiles | h-michael | 16 |
@@ -5694,11 +5694,11 @@
 | 376 |  [nord-gedit](https://github.com/arcticicestudio/nord-gedit) | An arctic, north-bluish clean and elegant gedit syntax theme. | arcticicestudio | 50 |
 | 377 |  [nord-tmux](https://github.com/arcticicestudio/nord-tmux) | An arctic, north-bluish clean and elegant tmux color theme. | arcticicestudio | 622 |
 | 378 |  [nord-xfce-terminal](https://github.com/arcticicestudio/nord-xfce-terminal) | An arctic, north-bluish clean and elegant Xfce Terminal color theme. | arcticicestudio | 150 |
-| 379 |  [nord-gnome-terminal](https://github.com/arcticicestudio/nord-gnome-terminal) | An arctic, north-bluish clean and elegant GNOME Terminal color theme. | arcticicestudio | 300 |
+| 379 |  [nord-gnome-terminal](https://github.com/arcticicestudio/nord-gnome-terminal) | An arctic, north-bluish clean and elegant GNOME Terminal color theme. | arcticicestudio | 301 |
 | 380 |  [dotfiles](https://github.com/thoughtbot/dotfiles) | A set of vim, zsh, git, and tmux configuration files. | thoughtbot | 6674 |
 | 381 |  [scripts](https://github.com/norcalli/scripts) | Some scripts. That&#39;s it. | norcalli | 6 |
-| 382 |  [voidrice](https://github.com/LukeSmithxyz/voidrice) | My dotfiles (deployed by LARBS) | LukeSmithxyz | 3226 |
-| 383 |  [mutt-wizard](https://github.com/LukeSmithxyz/mutt-wizard) | A system for automatically configuring mutt and isync with a simple interface and safe passwords | LukeSmithxyz | 1695 |
+| 382 |  [voidrice](https://github.com/LukeSmithxyz/voidrice) | My dotfiles (deployed by LARBS) | LukeSmithxyz | 3227 |
+| 383 |  [mutt-wizard](https://github.com/LukeSmithxyz/mutt-wizard) | A system for automatically configuring mutt and isync with a simple interface and safe passwords | LukeSmithxyz | 1696 |
 | 384 |  [dotfiles](https://github.com/nirum/dotfiles) | customization files | nirum | 1 |
 | 385 |  [rtinst](https://github.com/arakasi72/rtinst) | seedbox installation script for Ubuntu and Debian systems | arakasi72 | 1069 |
 | 386 |  [gitmagic-ru](https://github.com/mifistor/gitmagic-ru) | Translated to Russian language book &#34;Git magic&#34; by Ben Lynn | mifistor | 53 |
@@ -5707,12 +5707,12 @@
 | 389 |  [dots](https://github.com/pnivlek/dots) | My dotfiles for Arch Linux and bspwm. | pnivlek | 2 |
 | 390 |  [dotfiles](https://github.com/pwntester/dotfiles) |  | pwntester | 24 |
 | 391 |  [dotfiles](https://github.com/redVi/dotfiles) | config files for xmonad, dwm, conky, vim and other | redVi | 13 |
-| 392 |  [winetricks](https://github.com/Winetricks/winetricks) | Winetricks is an easy way to work around problems in Wine | Winetricks | 1647 |
+| 392 |  [winetricks](https://github.com/Winetricks/winetricks) | Winetricks is an easy way to work around problems in Wine | Winetricks | 1646 |
 | 393 |  [myWorkFlow](https://github.com/Skrip42/myWorkFlow) | my wonderful workflow | Skrip42 | 3 |
 | 394 |  [fish-gruvbox](https://github.com/gruvbox-community/fish-gruvbox) | gruvbox theme for fish | gruvbox-community | 8 |
 | 395 |  [mcabber-common-configs](https://github.com/reactorcoremeltdown/mcabber-common-configs) | Common subconfigs for mcabberrc | reactorcoremeltdown | 1 |
 | 396 |  [fish-rbenv](https://github.com/rbenv/fish-rbenv) | Rbenv support plugin for fish-shell | rbenv | 13 |
-| 397 |  [ruby-build](https://github.com/rbenv/ruby-build) | Compile and install Ruby | rbenv | 3483 |
+| 397 |  [ruby-build](https://github.com/rbenv/ruby-build) | Compile and install Ruby | rbenv | 3484 |
 | 398 |  [themelios](https://github.com/a-schaefers/themelios) | Bootstrap a zfs-on-root NixOS configuration in one command. Themelios automates the entire installation process using any NixOS livedisk with an internet connection and your git repo. Themelios is flexible with many configuration options and allows for unique, per-machine customization. | a-schaefers | 51 |
 | 399 |  [dotfiles](https://github.com/iory/dotfiles) | dotfiles setting | iory | 3 |
 | 400 |  [chezmoi](https://github.com/dmazhukov/chezmoi) |  | dmazhukov | 2 |
@@ -5721,7 +5721,7 @@
 | 403 |  [arch2018](https://github.com/ordanax/arch2018) | This script install ArchLinux XFCE + XFCE config. | ordanax | 29 |
 | 404 |  [LuaGuide](https://github.com/davisdude/LuaGuide) | A guide to help people learn Lua | davisdude | 17 |
 | 405 |  [tmux-plugin-sysstat](https://github.com/samoshkin/tmux-plugin-sysstat) | Prints CPU usage, memory &amp; swap, load average, net I/O metrics in Tmux status bar | samoshkin | 122 |
-| 406 |  [tmux-config](https://github.com/samoshkin/tmux-config) | Tmux configuration, that supercharges your tmux to build cozy and cool terminal environment | samoshkin | 1323 |
+| 406 |  [tmux-config](https://github.com/samoshkin/tmux-config) | Tmux configuration, that supercharges your tmux to build cozy and cool terminal environment | samoshkin | 1324 |
 | 407 |  [fish-ghq](https://github.com/decors/fish-ghq) | ghq completion and keybinding for fish shell | decors | 75 |
 | 408 |  [live-fat-stick](https://github.com/cyberorg/live-fat-stick) | Create multiboot live usb stick, boots openSUSE, Fedora and Ubuntu clones iso images | cyberorg | 60 |
 | 409 |  [rutorrent-bonobox](https://github.com/exrat/rutorrent-bonobox) | Auto install script for rTorrent with ruTorrent | exrat | 161 |
@@ -5735,37 +5735,37 @@
 | 417 |  [autorunner](https://github.com/cytopia/autorunner) | Configurable and notification aware autostart helper for minimalistic window managers like i3, openbox and others | cytopia | 21 |
 | 418 |  [i3blocks-modules](https://github.com/cytopia/i3blocks-modules) | Custom modules for i3blocks status bar | cytopia | 32 |
 | 419 |  [my_slackbuilds](https://github.com/duganchen/my_slackbuilds) | My SlackBuilds. | duganchen | 3 |
-| 420 |  [tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) | Persists tmux environment across system restarts. | tmux-plugins | 8203 |
+| 420 |  [tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) | Persists tmux environment across system restarts. | tmux-plugins | 8204 |
 | 421 |  [i3-lastpass](https://github.com/alexzorin/i3-lastpass) | Read-only, compact LastPass interface for Linux+i3wm environments | alexzorin | 8 |
 | 422 |  [rofi-lpass](https://github.com/Mange/rofi-lpass) | Lastpass integration with Rofi | Mange | 20 |
 | 423 |  [awesome-console-services](https://github.com/chubin/awesome-console-services) | A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols) | chubin | 2549 |
 | 424 |  [srcery-tmux](https://github.com/srcery-colors/srcery-tmux) | tmux theme for srcery | srcery-colors | 25 |
-| 425 |  [polybar-scripts](https://github.com/polybar/polybar-scripts) | This is a community project. We write and collect scripts for polybar! | polybar | 1386 |
+| 425 |  [polybar-scripts](https://github.com/polybar/polybar-scripts) | This is a community project. We write and collect scripts for polybar! | polybar | 1387 |
 | 426 |  [dmenu-lpass](https://github.com/va7sdf/dmenu-lpass) | dmenu interface to Lastpass CLI | va7sdf | 10 |
 | 427 |  [portacle](https://github.com/portacle/portacle) | A portable common lisp development environment | portacle | 525 |
 | 428 |  [git-gone](https://github.com/eed3si9n/git-gone) |  | eed3si9n | 39 |
 | 429 |  [buku_run](https://github.com/carnager/buku_run) | rofi frontend for buku bookmarks manager | carnager | 125 |
 | 430 |  [rofi-scripts](https://github.com/miroslavvidovic/rofi-scripts) | Small scripts for rofi | miroslavvidovic | 42 |
 | 431 |  [rofi-scripts](https://github.com/davatorium/rofi-scripts) | Small scripts for use with rofi | davatorium | 357 |
-| 432 |  [asdf](https://github.com/asdf-vm/asdf) | Extendable version manager with support for Ruby, Node.js, Elixir, Erlang &amp; more | asdf-vm | 11403 |
+| 432 |  [asdf](https://github.com/asdf-vm/asdf) | Extendable version manager with support for Ruby, Node.js, Elixir, Erlang &amp; more | asdf-vm | 11408 |
 | 433 |  [depfinder](https://github.com/gapan/depfinder) | A tool that finds dependencies of slackware packages | gapan | 10 |
 | 434 |  [slkbuild](https://github.com/gapan/slkbuild) | An Arch-like wrapper script for easy Slackware packaging | gapan | 10 |
 | 435 |  [dotfiles](https://github.com/gmarik/dotfiles) | my `.dotfiles` nonstop WIP | gmarik | 68 |
-| 436 |  [zsh-history-substring-search](https://github.com/zsh-users/zsh-history-substring-search) | 🐠 ZSH port of Fish history search (up arrow) | zsh-users | 1608 |
+| 436 |  [zsh-history-substring-search](https://github.com/zsh-users/zsh-history-substring-search) | 🐠 ZSH port of Fish history search (up arrow) | zsh-users | 1607 |
 | 437 |  [slackware-container](https://github.com/vbatts/slackware-container) | Minimal rootfs creation for slackware linux (ideal for container images) | vbatts | 67 |
 | 438 |  [fundle](https://github.com/danhper/fundle) | A minimalist package manager for fish shell | danhper | 287 |
-| 439 |  [fisher](https://github.com/jorgebucaran/fisher) | A plugin manager for Fish. | jorgebucaran | 5049 |
+| 439 |  [fisher](https://github.com/jorgebucaran/fisher) | A plugin manager for Fish. | jorgebucaran | 5050 |
 | 440 |  [dotfiles](https://github.com/h3xx/dotfiles) | configuration files (Slackware-centric) | h3xx | 19 |
 | 441 |  [slackbuilds](https://github.com/nonstop/slackbuilds) | SlackBuild scripts for creating Slackware packages | nonstop | 4 |
 | 442 |  [.home](https://github.com/klen/.home) | My dot files. For personal use only. | klen | 3 |
 | 443 |  [i3](https://github.com/moon-musick/i3) | i3 window manager configuration | moon-musick | 1 |
 | 444 |  [srcery-terminal](https://github.com/srcery-colors/srcery-terminal) | Srcery theme terminal configurations | srcery-colors | 155 |
 | 445 |  [.config](https://github.com/rafi/.config) | Rafi&#39;s workstations (Archlinux, osx) ~/.config. | rafi | 64 |
-| 446 |  [Hack](https://github.com/source-foundry/Hack) | A typeface designed for source code | source-foundry | 14317 |
+| 446 |  [Hack](https://github.com/source-foundry/Hack) | A typeface designed for source code | source-foundry | 14316 |
 | 447 |  [dotfiles](https://github.com/JDevlieghere/dotfiles) | ⚙ Dotfiles for Linux &amp;macOS | JDevlieghere | 277 |
 | 448 |  [dotfiles](https://github.com/mhinz/dotfiles) | :smiling_imp: Vim, git, zsh, tmux, and other goodies. | mhinz | 256 |
 | 449 |  [zsh-prompt-lambda17](https://github.com/seletskiy/zsh-prompt-lambda17) | Highly extensible prompt for zsh | seletskiy | 2 |
-| 450 |  [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) | Fish shell like syntax highlighting for Zsh. | zsh-users | 12295 |
+| 450 |  [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) | Fish shell like syntax highlighting for Zsh. | zsh-users | 12299 |
 | 451 |  [dotfiles](https://github.com/tatou-tatou/dotfiles) |  | tatou-tatou | 9 |
 | 452 |  [dotfiles](https://github.com/jeremija/dotfiles) | My collection of dotfiles | jeremija | 2 |
 | 453 |  [dotfiles](https://github.com/windelicato/dotfiles) | arch linux configuration files | windelicato | 1131 |
@@ -5774,19 +5774,19 @@
 | 456 |  [modified-slackbuilds](https://github.com/saahriktu/modified-slackbuilds) | slackbuilds modified by me | saahriktu | 2 |
 | 457 |  [siji](https://github.com/stark/siji) | An iconic bitmap font based on Stlarch with additional glyphs. | stark | 667 |
 | 458 |  [dotfiles](https://github.com/seagle0128/dotfiles) | Centaur Dotfiles - Full and clean configurations for development environment on GNU Linux, macOS and Cygwin | seagle0128 | 74 |
-| 459 |  [base16-shell](https://github.com/chriskempson/base16-shell) | Base16 for Shells | chriskempson | 1461 |
+| 459 |  [base16-shell](https://github.com/chriskempson/base16-shell) | Base16 for Shells | chriskempson | 1462 |
 | 460 |  [rtorrent-ps-ch_setup](https://github.com/chros73/rtorrent-ps-ch_setup) | Advanced rTorrent-PS-CH setup | chros73 | 35 |
 | 461 |  [dotfiles](https://github.com/huntie/dotfiles) | Personal OS and Unix tool configuration | huntie | 22 |
 | 462 |  [i3-wm-gruvbox-theme](https://github.com/a-schaefers/i3-wm-gruvbox-theme) | An i3-wm gruvbox theme implementation | a-schaefers | 201 |
 | 463 |  [gotham-contrib](https://github.com/whatyouhide/gotham-contrib) | Ports of the Gotham colorscheme for common editors and terminal emulators 🌃 | whatyouhide | 226 |
 | 464 |  [.config](https://github.com/yardnsm/.config) | :zap: Welcome to my world. Managed by https://github.com/yardnsm/.setup | yardnsm | 34 |
-| 465 |  [ultimate-torrent-setup](https://github.com/xombiemp/ultimate-torrent-setup) | All the files needed for the Ultimate Torrent Setup, featuring Ubuntu, rtorrent, ruTorrent, Sonarr, Radarr. | xombiemp | 200 |
+| 465 |  [ultimate-torrent-setup](https://github.com/xombiemp/ultimate-torrent-setup) | All the files needed for the Ultimate Torrent Setup, featuring Ubuntu, rtorrent, ruTorrent, Sonarr, Radarr. | xombiemp | 201 |
 | 466 |  [rockz](https://github.com/aperezdc/rockz) | Virtualfish-alike Lua+LuaRocks “Rockenv” wrapper for Zsh | aperezdc | 9 |
 | 467 |  [Ultimate-Blocklist](https://github.com/walshie4/Ultimate-Blocklist) | A super blocklist made from the most popular ones on the web! | walshie4 | 296 |
-| 468 |  [fish-shell](https://github.com/fish-shell/fish-shell) | The user-friendly command line shell. | fish-shell | 17134 |
+| 468 |  [fish-shell](https://github.com/fish-shell/fish-shell) | The user-friendly command line shell. | fish-shell | 17135 |
 | 469 |  [luaver](https://github.com/DhavalKapil/luaver) | Lua Version Manager - Managing and switching between different versions of Lua, LuaJIT and Luarocks made easy | DhavalKapil | 185 |
-| 470 |  [zsh-completions](https://github.com/zsh-users/zsh-completions) | Additional completion definitions for Zsh. | zsh-users | 4527 |
-| 471 |  [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics | sindresorhus | 166337 |
+| 470 |  [zsh-completions](https://github.com/zsh-users/zsh-completions) | Additional completion definitions for Zsh. | zsh-users | 4526 |
+| 471 |  [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics | sindresorhus | 166361 |
 | 472 |  [dotfiles](https://github.com/aperezdc/dotfiles) | Personal configuration files I often use in my - may contain useful snippets for you as well, YMMV. | aperezdc | 13 |
 | 473 |  [deer](https://github.com/vifon/deer) | ranger-like file navigation for zsh | vifon | 279 |
 | 474 |  [dotfiles](https://github.com/jimeh/dotfiles) | My personals dotfiles with any quirks, oddities, bugs, and man-eating errors I live with on a daily basis. | jimeh | 36 |
@@ -5795,33 +5795,33 @@
 | 477 |  [dotfiles](https://github.com/aziz/dotfiles) | My Unix environment | aziz | 152 |
 | 478 |  [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) | The Fish Shell Framework | oh-my-fish | 7517 |
 | 479 |  [kicad-i18n](https://github.com/KiCad/kicad-i18n) | Translations for KiCad source code [moved to https://gitlab.com/kicad] | KiCad | 55 |
-| 480 |  [prezto](https://github.com/sorin-ionescu/prezto) | The configuration framework for Zsh | sorin-ionescu | 12217 |
+| 480 |  [prezto](https://github.com/sorin-ionescu/prezto) | The configuration framework for Zsh | sorin-ionescu | 12218 |
 | 481 |  [awmtt](https://github.com/serialoverflow/awmtt) | awesomewm testing tool | serialoverflow | 96 |
-| 482 |  [clipmenu](https://github.com/cdown/clipmenu) | Clipboard management using dmenu | cdown | 683 |
+| 482 |  [clipmenu](https://github.com/cdown/clipmenu) | Clipboard management using dmenu | cdown | 682 |
 | 483 |  [zshdb](https://github.com/rocky/zshdb) | gdb-like &#34;trepan&#34; debugger for zsh | rocky | 221 |
 | 484 |  [i3-extras](https://github.com/ashinkarov/i3-extras) | Repository to keep patches and extras for i3 window manager. | ashinkarov | 648 |
 | 485 |  [slackbuilds](https://github.com/Ponce/slackbuilds) | fork of master branch from git://git.slackbuilds.org/slackbuilds.git (read more on wiki). If you want to fork do it only with master (the other branches are temporary and are always rebased on master). alternative interface http://cgit.ponce.cc/slackbuilds/ | Ponce | 115 |
 | 486 |  [rice-scripts](https://github.com/codeinclined/rice-scripts) | A set of scripts I have made while ricing my Linux systems to make things more convenient or beautiful. | codeinclined | 8 |
 | 487 |  [teiler](https://github.com/carnager/teiler) | Little script for screenshots and screencasts utilizing rofi, maim, ffmpeg | carnager | 351 |
-| 488 |  [iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) | Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft&#39;s Windows Terminal, Visual Studio, Alacritty | mbadolato | 20048 |
+| 488 |  [iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) | Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft&#39;s Windows Terminal, Visual Studio, Alacritty | mbadolato | 20049 |
 | 489 |  [SlackHacks](https://github.com/willysr/SlackHacks) | List of my Hacks on Slackware-Current | willysr | 78 |
 | 490 |  [uAssets](https://github.com/uBlockOrigin/uAssets) | Resources for uBlock Origin, uMatrix: static filter lists, ready-to-use rulesets, etc. | uBlockOrigin | 1617 |
 | 491 |  [i3ipc-lua](https://github.com/acrisci/i3ipc-lua) | An improved Lua library to control i3wm | acrisci | 9 |
 | 492 |  [sbopkg](https://github.com/sbopkg/sbopkg) | Slackbuilds.org Package Browser | sbopkg | 88 |
 | 493 |  [rvm](https://github.com/rvm/rvm) | Ruby enVironment Manager (RVM) | rvm | 4622 |
 | 494 |  [conky_themes](https://github.com/zagortenay333/conky_themes) |  | zagortenay333 | 557 |
-| 495 |  [chruby](https://github.com/postmodern/chruby) | Changes the current Ruby | postmodern | 2461 |
+| 495 |  [chruby](https://github.com/postmodern/chruby) | Changes the current Ruby | postmodern | 2460 |
 | 496 |  [nanorc](https://github.com/scopatz/nanorc) | Improved Nano Syntax Highlighting Files | scopatz | 2197 |
 | 497 |  [mingw-builds](https://github.com/niXman/mingw-builds) | Scripts for building the dual-target(32 &amp; 64 bit) MinGW-W64 compilers for 32 and 64 bit Windows | niXman | 151 |
 | 498 |  [aria2-static-builds](https://github.com/q3aql/aria2-static-builds) | aria2 static builds for GNU/Linux &amp; Windows (with OpenSSL). | q3aql | 568 |
-| 499 |  [MSYS2-packages](https://github.com/msys2/MSYS2-packages) | Package scripts for MSYS2. | msys2 | 1005 |
+| 499 |  [MSYS2-packages](https://github.com/msys2/MSYS2-packages) | Package scripts for MSYS2. | msys2 | 1004 |
 | 500 |  [rbenv](https://github.com/rbenv/rbenv) | Groom your app’s Ruby environment | rbenv | 13507 |
-| 501 |  [gitflow](https://github.com/nvie/gitflow) | Git extensions to provide high-level repository operations for Vincent Driessen&#39;s branching model. | nvie | 25157 |
-| 502 |  [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) | 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. | ohmyzsh | 130996 |
+| 501 |  [gitflow](https://github.com/nvie/gitflow) | Git extensions to provide high-level repository operations for Vincent Driessen&#39;s branching model. | nvie | 25160 |
+| 502 |  [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) | 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. | ohmyzsh | 131016 |
 | 503 |  [toolchain-avr](https://github.com/arduino/toolchain-avr) | The AVR toolchain used by the Arduino IDE | arduino | 123 |
 | 504 |  [git-diffall](https://github.com/thenigan/git-diffall) | Script to perform directory diffs using an external diff tool in Git | thenigan | 172 |
 | 505 |  [learnvimscriptthehardway](https://github.com/sjl/learnvimscriptthehardway) |  | sjl | 1278 |
-| 506 |  [fonts](https://github.com/powerline/fonts) | Patched fonts for Powerline users. | powerline | 21972 |
+| 506 |  [fonts](https://github.com/powerline/fonts) | Patched fonts for Powerline users. | powerline | 21971 |
 | 507 |  [avr-gcc](https://github.com/epi/avr-gcc) | Collection of patches and scripts for building GNU toolchain for AVR uCs. | epi | 5 |
 | 508 |  [lua-cookbook](https://github.com/lua-cookbook/lua-cookbook) | The Lua Cookbook | lua-cookbook | 83 |
 
@@ -5861,8 +5861,8 @@
 | 2 |  [clqr](https://github.com/trebb/clqr) | Common Lisp Quick Reference | trebb | 73 |
 | 3 |  [markdown-mode-guide](https://github.com/jrblevin/markdown-mode-guide) | Guide to Markdown Mode for Emacs | jrblevin | 36 |
 | 4 |  [pandoc-starter](https://github.com/jez/pandoc-starter) | 📄 My pandoc markdown templates and makefiles | jez | 453 |
-| 5 |  [vimtex](https://github.com/lervag/vimtex) | VimTeX: A modern Vim and neovim filetype plugin for LaTeX files. | lervag | 3363 |
-| 6 |  [os01](https://github.com/tuhdo/os01) | Bootstrap yourself to write an OS from scratch. A book for self-learner. | tuhdo | 9333 |
+| 5 |  [vimtex](https://github.com/lervag/vimtex) | VimTeX: A modern Vim and neovim filetype plugin for LaTeX files. | lervag | 3364 |
+| 6 |  [os01](https://github.com/tuhdo/os01) | Bootstrap yourself to write an OS from scratch. A book for self-learner. | tuhdo | 9335 |
 | 7 |  [avr-tutorials](https://github.com/abcminiuser/avr-tutorials) | LaTeX typeset versions of my popular AVR Tutorials. | abcminiuser | 111 |
 | 8 |  [pcl-ru](https://github.com/pcl-ru/pcl-ru) |  | pcl-ru | 70 |
 | 9 |  [gobook](https://github.com/miekg/gobook) | A complete introduction into Go, superseded by https://github.com/miekg/learninggo | miekg | 878 |
@@ -5873,11 +5873,11 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [vscode-project-templates](https://github.com/cantonios/vscode-project-templates) | Project Templates extension for VSCode | cantonios | 30 |
-| 2 |  [typescript-action](https://github.com/actions/typescript-action) | Create a TypeScript Action with tests, linting, workflow, publishing, and versioning | actions | 778 |
+| 2 |  [typescript-action](https://github.com/actions/typescript-action) | Create a TypeScript Action with tests, linting, workflow, publishing, and versioning | actions | 780 |
 | 3 |  [stylua-action](https://github.com/JohnnyMorganz/stylua-action) | GitHub action for StyLua | JohnnyMorganz | 6 |
 | 4 |  [dps-coding-now.nvim](https://github.com/yutkat/dps-coding-now.nvim) | Synchronize the filetype you are coding with the GitHub messages | yutkat | 12 |
 | 5 |  [toolkit](https://github.com/actions/toolkit) | The GitHub ToolKit for developing GitHub Actions. | actions | 2617 |
-| 6 |  [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) | The repository for high quality TypeScript type definitions. | DefinitelyTyped | 34998 |
+| 6 |  [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) | The repository for high quality TypeScript type definitions. | DefinitelyTyped | 35009 |
 | 7 |  [typescript-language-server](https://github.com/theia-ide/typescript-language-server) | TypeScript &amp; JavaScript Language Server | theia-ide | 581 |
 | 8 |  [firenvim](https://github.com/glacambre/firenvim) | Embed Neovim in your browser. | glacambre | 2101 |
 | 9 |  [atom-title-bar-replacer](https://github.com/sindrets/atom-title-bar-replacer) | Adds an alternative, theme-aware title bar and application menu that is more inline with Atom&#39;s UI design. | sindrets | 81 |
@@ -5889,7 +5889,7 @@
 | 15 |  [vscode-c-snippets](https://github.com/Harry-Ross/vscode-c-snippets) | A simple extension for Visual Studio Code snippets for the C programming language. | Harry-Ross | 6 |
 | 16 |  [prettierd](https://github.com/fsouza/prettierd) | prettier, as a daemon, for ludicrous formatting speed. | fsouza | 69 |
 | 17 |  [vim-with-me](https://github.com/ThePrimeagen/vim-with-me) |  | ThePrimeagen | 29 |
-| 18 |  [vscode-eslint](https://github.com/microsoft/vscode-eslint) | VSCode extension to integrate eslint into VSCode | microsoft | 1132 |
+| 18 |  [vscode-eslint](https://github.com/microsoft/vscode-eslint) | VSCode extension to integrate eslint into VSCode | microsoft | 1133 |
 | 19 |  [luabundle](https://github.com/Benjamin-Dobell/luabundle) | A library for bundling several Lua files into a single file. | Benjamin-Dobell | 10 |
 | 20 |  [luabundler](https://github.com/Benjamin-Dobell/luabundler) | CLI tool for bundling several Lua files into a single file. | Benjamin-Dobell | 5 |
 | 21 |  [jack-cli](https://github.com/drewbrokke/jack-cli) | &#34;git log&#34; with actions! | drewbrokke | 35 |
@@ -5913,19 +5913,19 @@
 | 39 |  [vscode-org-mode](https://github.com/vscode-org-mode/vscode-org-mode) | Emacs Org Mode for Visual Studio Code | vscode-org-mode | 1149 |
 | 40 |  [tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense) | Intelligent Tailwind CSS tooling for Visual Studio Code | tailwindlabs | 1318 |
 | 41 |  [bash-language-server](https://github.com/bash-lsp/bash-language-server) | A language server for Bash | bash-lsp | 1051 |
-| 42 |  [vscode-ruby](https://github.com/rubyide/vscode-ruby) | Provides Ruby language and debugging support for Visual Studio Code | rubyide | 1079 |
+| 42 |  [vscode-ruby](https://github.com/rubyide/vscode-ruby) | Provides Ruby language and debugging support for Visual Studio Code | rubyide | 1080 |
 | 43 |  [DeZog](https://github.com/maziac/DeZog) | Visual Studio Code Debugger for Z80/ZX Spectrum. | maziac | 84 |
 | 44 |  [vscode-go](https://github.com/golang/vscode-go) | Go extension for VS Code | golang | 1890 |
 | 45 |  [TypeScriptToLua](https://github.com/TypeScriptToLua/TypeScriptToLua) | Typescript to lua transpiler. https://typescripttolua.github.io/ | TypeScriptToLua | 959 |
 | 46 |  [local-lua-debugger-vscode](https://github.com/tomblind/local-lua-debugger-vscode) | Local Lua Debugger for VSCode | tomblind | 40 |
 | 47 |  [teal-playground](https://github.com/teal-language/teal-playground) | teal-language/tl playground | teal-language | 13 |
-| 48 |  [diagnostic-languageserver](https://github.com/iamcco/diagnostic-languageserver) | diagnostic language server integrate with linters | iamcco | 236 |
-| 49 |  [angular](https://github.com/angular/angular) | The modern web developer’s platform | angular | 75083 |
+| 48 |  [diagnostic-languageserver](https://github.com/iamcco/diagnostic-languageserver) | diagnostic language server integrate with linters | iamcco | 237 |
+| 49 |  [angular](https://github.com/angular/angular) | The modern web developer’s platform | angular | 75160 |
 | 50 |  [red_tetris](https://github.com/kyazdani42/red_tetris) | school project - online tetris multiplayer game | kyazdani42 | 3 |
 | 51 |  [vscode-vimspired](https://github.com/bmalehorn/vscode-vimspired) | Vimspired - personal VSCode keybindings | bmalehorn | 18 |
-| 52 |  [pyright](https://github.com/microsoft/pyright) | Static type checker for Python | microsoft | 6979 |
-| 53 |  [core.js](https://github.com/octokit/core.js) | Extendable client for GitHub&#39;s REST &amp; GraphQL APIs | octokit | 523 |
-| 54 |  [darkreader](https://github.com/darkreader/darkreader) | Dark Reader Chrome and Firefox extension | darkreader | 10628 |
+| 52 |  [pyright](https://github.com/microsoft/pyright) | Static type checker for Python | microsoft | 6982 |
+| 53 |  [core.js](https://github.com/octokit/core.js) | Extendable client for GitHub&#39;s REST &amp; GraphQL APIs | octokit | 524 |
+| 54 |  [darkreader](https://github.com/darkreader/darkreader) | Dark Reader Chrome and Firefox extension | darkreader | 10631 |
 | 55 |  [Midnight-Lizard](https://github.com/Midnight-Lizard/Midnight-Lizard) | Сustom color schemes for all websites | Midnight-Lizard | 441 |
 | 56 |  [setup-emacs](https://github.com/purcell/setup-emacs) | Github action which installs a given Emacs version | purcell | 76 |
 | 57 |  [CodeAceJumper](https://github.com/lucax88x/CodeAceJumper) | Ace Jump extension for Visual Studio Code | lucax88x | 64 |
@@ -5933,15 +5933,15 @@
 | 59 |  [gruvbox-material-vscode](https://github.com/sainnhe/gruvbox-material-vscode) | Gruvbox Material for Visual Studio Code | sainnhe | 110 |
 | 60 |  [coc-post](https://github.com/iamcco/coc-post) | post extension for coc.nvim | iamcco | 55 |
 | 61 |  [coc-leetcode](https://github.com/iamcco/coc-leetcode) | leetcode 扩展 | iamcco | 24 |
-| 62 |  [coc-angular](https://github.com/iamcco/coc-angular) | Angular Language Service coc extension for (neo)vim | iamcco | 103 |
+| 62 |  [coc-angular](https://github.com/iamcco/coc-angular) | Angular Language Service coc extension for (neo)vim | iamcco | 104 |
 | 63 |  [coc-actions](https://github.com/iamcco/coc-actions) | Actions menu for Neovim | iamcco | 100 |
-| 64 |  [uivonim](https://github.com/smolck/uivonim) | Fork of the Veonim Neovim GUI | smolck | 299 |
+| 64 |  [uivonim](https://github.com/smolck/uivonim) | Fork of the Veonim Neovim GUI | smolck | 300 |
 | 65 |  [vscode-allautocomplete](https://github.com/atishay/vscode-allautocomplete) | Autocomplete from open files for VSCode | atishay | 81 |
 | 66 |  [vscode-arduino](https://github.com/microsoft/vscode-arduino) | Visual Studio Code extension for Arduino | microsoft | 864 |
 | 67 |  [vscode-lrdb](https://github.com/kapecp/vscode-lrdb) | Lua debugger for vscode | kapecp | 1 |
 | 68 |  [zulip-desktop](https://github.com/zulip/zulip-desktop) | Zulip Desktop Client | zulip | 594 |
 | 69 |  [git-kanban-enhanced-extension](https://github.com/funktechno/git-kanban-enhanced-extension) | chrome extension to add additional kanban project planning to git hosting: github.com, gitlab.com, gitea.io, bitbucket.org | funktechno | 32 |
-| 70 |  [tridactyl](https://github.com/tridactyl/tridactyl) | A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl. | tridactyl | 3281 |
+| 70 |  [tridactyl](https://github.com/tridactyl/tridactyl) | A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl. | tridactyl | 3282 |
 | 71 |  [p2p-media-loader](https://github.com/Novage/p2p-media-loader) | An open-source engine for P2P streaming of live and on demand video directly in a web browser HTML page | Novage | 905 |
 | 72 |  [wt-tracker](https://github.com/Novage/wt-tracker) | High-performance WebTorrent tracker | Novage | 168 |
 | 73 |  [qbittorrent](https://github.com/scttcper/qbittorrent) | qBittorrent api wrapper | scttcper | 11 |
@@ -5949,28 +5949,28 @@
 | 75 |  [ctrlb.nvim](https://github.com/notomo/ctrlb.nvim) | Control web browsers with neovim | notomo | 28 |
 | 76 |  [vscode-teal](https://github.com/teal-language/vscode-teal) | Teal language support for Visual Studio Code | teal-language | 34 |
 | 77 |  [vscode-lua-format](https://github.com/Koihik/vscode-lua-format) | Reformats your Lua source code | Koihik | 33 |
-| 78 |  [fzf-preview.vim](https://github.com/yuki-yano/fzf-preview.vim) | The plugin that powerfully integrates fzf and (Neo)vim. It is also possible to integrate with coc.nvim. | yuki-yano | 641 |
+| 78 |  [fzf-preview.vim](https://github.com/yuki-yano/fzf-preview.vim) | The plugin that powerfully integrates fzf and (Neo)vim. It is also possible to integrate with coc.nvim. | yuki-yano | 642 |
 | 79 |  [qbit-matUI](https://github.com/bill-ahmed/qbit-matUI) | A material WebUI for qBittorrent, written in Angular. | bill-ahmed | 108 |
-| 80 |  [hyper](https://github.com/vercel/hyper) | A terminal built on web technologies | vercel | 36321 |
-| 81 |  [vscode-neovim](https://github.com/asvetliakov/vscode-neovim) | VSCode Neovim Integration | asvetliakov | 2080 |
+| 80 |  [hyper](https://github.com/vercel/hyper) | A terminal built on web technologies | vercel | 36333 |
+| 81 |  [vscode-neovim](https://github.com/asvetliakov/vscode-neovim) | VSCode Neovim Integration | asvetliakov | 2081 |
 | 82 |  [amVim-for-VSCode](https://github.com/aioutecism/amVim-for-VSCode) | The Vim mode for Visual Studio Code(vscode) that works as expected. | aioutecism | 406 |
 | 83 |  [vscode-bazel](https://github.com/bazelbuild/vscode-bazel) | Bazel support for Visual Studio Code | bazelbuild | 146 |
 | 84 |  [ayu](https://github.com/dempfi/ayu) | 🎨🖌 Modern Sublime Text theme | dempfi | 3846 |
-| 85 |  [vscode-gitlens](https://github.com/eamodio/vscode-gitlens) | Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more | eamodio | 6066 |
+| 85 |  [vscode-gitlens](https://github.com/eamodio/vscode-gitlens) | Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more | eamodio | 6068 |
 | 86 |  [actionmenu.nvim](https://github.com/kizza/actionmenu.nvim) | A nice context menu for vim | kizza | 97 |
 | 87 |  [vim-node-rpc](https://github.com/neoclide/vim-node-rpc) | Make vim behavior like neovim rpc server by use node server in the middle. | neoclide | 52 |
 | 88 |  [node-client](https://github.com/neovim/node-client) | Nvim Node.js client and plugin host | neovim | 266 |
-| 89 |  [coc-flutter](https://github.com/iamcco/coc-flutter) | flutter support for (Neo)vim | iamcco | 310 |
+| 89 |  [coc-flutter](https://github.com/iamcco/coc-flutter) | flutter support for (Neo)vim | iamcco | 311 |
 | 90 |  [vscode-fossil](https://github.com/koog1000/vscode-fossil) | Integrated Fossil source control for Visual Studio Code | koog1000 | 26 |
-| 91 |  [berry](https://github.com/yarnpkg/berry) | 📦🐈 Active development trunk for Yarn ⚒ | yarnpkg | 3660 |
+| 91 |  [berry](https://github.com/yarnpkg/berry) | 📦🐈 Active development trunk for Yarn ⚒ | yarnpkg | 3662 |
 | 92 |  [vscode-json-languageservice](https://github.com/microsoft/vscode-json-languageservice) | JSON language service extracted from VSCode to be reused, e.g in the Monaco editor. | microsoft | 135 |
 | 93 |  [coc-json](https://github.com/neoclide/coc-json) | Json language extension for coc.nvim | neoclide | 144 |
 | 94 |  [coc-git](https://github.com/neoclide/coc-git) | Git integration of coc.nvim | neoclide | 305 |
 | 95 |  [coc-lists](https://github.com/neoclide/coc-lists) | Common lists for coc.nvim | neoclide | 196 |
 | 96 |  [coc-vimlsp](https://github.com/iamcco/coc-vimlsp) | viml language server | iamcco | 141 |
 | 97 |  [code-intel-extensions](https://github.com/sourcegraph/code-intel-extensions) | Provides precise code intelligence via LSIF and Language Servers, and fuzzy code intelligence using ctags and text search | sourcegraph | 19 |
-| 98 |  [Vim](https://github.com/VSCodeVim/Vim) | :star: Vim for Visual Studio Code | VSCodeVim | 9259 |
-| 99 |  [vscode-go](https://github.com/microsoft/vscode-go) | An extension for VS Code which provides support for the Go language. We have moved to https://github.com/golang/vscode-go | microsoft | 5983 |
+| 98 |  [Vim](https://github.com/VSCodeVim/Vim) | :star: Vim for Visual Studio Code | VSCodeVim | 9260 |
+| 99 |  [vscode-go](https://github.com/microsoft/vscode-go) | An extension for VS Code which provides support for the Go language. We have moved to https://github.com/golang/vscode-go | microsoft | 5982 |
 | 100 |  [LuaIde](https://github.com/k0204/LuaIde) |  | k0204 | 281 |
 | 101 |  [vscode-mock-debug](https://github.com/microsoft/vscode-mock-debug) | Starter sample for developing debug adapters for VSCode. | microsoft | 175 |
 | 102 |  [lualint_for_vscode](https://github.com/satoren/lualint_for_vscode) | lua linter for Visual Studio Code | satoren | 7 |
@@ -5979,15 +5979,15 @@
 | 105 |  [BracketPair](https://github.com/CoenraadS/BracketPair) | Bracket Colorizer Extension for VSCode | CoenraadS | 386 |
 | 106 |  [vscode-lrdb](https://github.com/satoren/vscode-lrdb) | Lua debugger for vscode | satoren | 30 |
 | 107 |  [vscode-solargraph](https://github.com/castwide/vscode-solargraph) | A Visual Studio Code extension for Solargraph. | castwide | 312 |
-| 108 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 119263 |
+| 108 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 119283 |
 | 109 |  [vscode-luacheck](https://github.com/kingsoftgames/vscode-luacheck) | Luacheck for Visual Studio Code | kingsoftgames | 5 |
 | 110 |  [vscode-icons](https://github.com/vscode-icons/vscode-icons) | Icons for Visual Studio Code | vscode-icons | 2968 |
 | 111 |  [vsc-material-theme](https://github.com/material-theme/vsc-material-theme) | Material Theme, the most epic theme for Visual Studio Code | material-theme | 1570 |
 | 112 |  [vscode-lua](https://github.com/trixnz/vscode-lua) | Intellisense and Linting for Lua in VSCode | trixnz | 98 |
-| 113 |  [etcher](https://github.com/balena-io/etcher) | Flash OS images to SD cards &amp; USB drives, safely and easily. | balena-io | 20947 |
+| 113 |  [etcher](https://github.com/balena-io/etcher) | Flash OS images to SD cards &amp; USB drives, safely and easily. | balena-io | 20951 |
 | 114 |  [TypeScriptLua](https://github.com/ASDAlexander77/TypeScriptLua) | The TypeScriptLUA repo contains the complete source code implementation for TypeScript compiler for LUA bytecode | ASDAlexander77 | 53 |
-| 115 |  [coc.nvim](https://github.com/neoclide/coc.nvim) | Nodejs extension host for vim &amp; neovim, load extensions like VSCode and host language servers. | neoclide | 16841 |
-| 116 |  [oni](https://github.com/onivim/oni) | Oni: Modern Modal Editing - powered by Neovim | onivim | 11456 |
+| 115 |  [coc.nvim](https://github.com/neoclide/coc.nvim) | Nodejs extension host for vim &amp; neovim, load extensions like VSCode and host language servers. | neoclide | 16846 |
+| 116 |  [oni](https://github.com/onivim/oni) | Oni: Modern Modal Editing - powered by Neovim | onivim | 11455 |
 | 117 |  [brackets-git](https://github.com/brackets-userland/brackets-git) | brackets-git — git extension for adobe/brackets | brackets-userland | 648 |
 
 **[⬆ Back to Index](#-contents)**
@@ -6009,14 +6009,14 @@
 ## Vala
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [peek](https://github.com/phw/peek) | Simple animated GIF screen recorder with an easy to use interface | phw | 7899 |
+| 1 |  [peek](https://github.com/phw/peek) | Simple animated GIF screen recorder with an easy to use interface | phw | 7901 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## Vim Snippet
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [vim-snippets](https://github.com/honza/vim-snippets) | vim-snipmate default snippets (Previously snipmate-snippets) | honza | 3959 |
+| 1 |  [vim-snippets](https://github.com/honza/vim-snippets) | vim-snipmate default snippets (Previously snipmate-snippets) | honza | 3958 |
 | 2 |  [latex-snippets](https://github.com/gillescastel/latex-snippets) | Vim + LaTeX snippets setup | gillescastel | 504 |
 | 3 |  [settings_linux](https://github.com/tamarinvs19/settings_linux) | There are my settings for linux programs. | tamarinvs19 | 5 |
 | 4 |  [dotfiles](https://github.com/ljalil/dotfiles) | My dotfiles for vim, bash and others | ljalil | 1 |
@@ -6054,14 +6054,14 @@
 | 26 |  [github.vim](https://github.com/albertorestifo/github.vim) | A GitHub colors scheme for neovim/gvim/vim | albertorestifo | 38 |
 | 27 |  [vim-github-dashboard](https://github.com/junegunn/vim-github-dashboard) | :octocat: Browse GitHub events in Vim | junegunn | 451 |
 | 28 |  [vim-emoji](https://github.com/junegunn/vim-emoji) | :smiley: Emoji in Vim | junegunn | 563 |
-| 29 |  [solarized](https://github.com/altercation/solarized) | precision color scheme for multiple applications (terminal, vim, etc.) with both dark/light modes | altercation | 14881 |
+| 29 |  [solarized](https://github.com/altercation/solarized) | precision color scheme for multiple applications (terminal, vim, etc.) with both dark/light modes | altercation | 14882 |
 | 30 |  [lists.vim](https://github.com/lervag/lists.vim) | A Vim plugin to handle lists | lervag | 28 |
 | 31 |  [local_vimrc](https://github.com/LucHermitte/local_vimrc) | Per project/tree configuration plugins | LucHermitte | 118 |
 | 32 |  [exrc.vim](https://github.com/ii14/exrc.vim) | Local vimrc files | ii14 | 8 |
 | 33 |  [vim-quickname](https://github.com/weilbith/vim-quickname) | Vim plugin to name your quickfix lists and make them easily recoverable | weilbith | 3 |
 | 34 |  [vim-qfloc-moves](https://github.com/weilbith/vim-qfloc-moves) | Vim plugin to move around quickfix and location windows | weilbith | 3 |
 | 35 |  [truedark-vim](https://github.com/bratpeki/truedark-vim) | A true dark theme. For Vim. Duh. | bratpeki | 8 |
-| 36 |  [vim](https://github.com/David-Kunz/vim) |  | David-Kunz | 42 |
+| 36 |  [vim](https://github.com/David-Kunz/vim) |  | David-Kunz | 43 |
 | 37 |  [exec.vim](https://github.com/euclidianAce/exec.vim) | Short util to run an executable file from within vim | euclidianAce | 1 |
 | 38 |  [github-colors](https://github.com/lourenci/github-colors) | Yet another GitHub colorscheme | lourenci | 18 |
 | 39 |  [glyph-palette.vim](https://github.com/lambdalisue/glyph-palette.vim) | 🎨 An universal palette for Nerd Fonts | lambdalisue | 66 |
@@ -6074,7 +6074,7 @@
 | 46 |  [vim-hexokinase](https://github.com/RRethy/vim-hexokinase) | hexokinase.vim - (Neo)Vim plugin for asynchronously displaying the colours in the file (#rrggbb, #rgb, rgb(a)? functions, hsl(a)? functions, web colours, custom patterns) | RRethy | 745 |
 | 47 |  [vim-illuminate](https://github.com/RRethy/vim-illuminate) | illuminate.vim - Vim plugin for automatically highlighting other uses of the word under the cursor. Integrates with Neovim&#39;s LSP client for intelligent highlighting. | RRethy | 846 |
 | 48 |  [noffice](https://github.com/ekiim/noffice) |  | ekiim | 4 |
-| 49 |  [bogster](https://github.com/vv9k/bogster) | A theme for Vim and NeoVim | vv9k | 62 |
+| 49 |  [bogster](https://github.com/vv9k/bogster) | A theme for Vim and NeoVim | vv9k | 63 |
 | 50 |  [popup-menu.nvim](https://github.com/kamykn/popup-menu.nvim) | Popup-menu for Neovim! | kamykn | 16 |
 | 51 |  [Breve](https://github.com/AlessandroYorba/Breve) | Vim Colorscheme | AlessandroYorba | 22 |
 | 52 |  [Arcadia](https://github.com/AlessandroYorba/Arcadia) | Vim Colorscheme | AlessandroYorba | 36 |
@@ -6152,7 +6152,7 @@
 | 124 |  [vim-saturnite](https://github.com/habamax/vim-saturnite) | Dark vim colorscheme for the Saturday nights and other *day nights. | habamax | 11 |
 | 125 |  [vim-freyeday](https://github.com/habamax/vim-freyeday) | Light vim colorscheme for the Friday and other *days. | habamax | 6 |
 | 126 |  [dotfile-lua](https://github.com/dinhmai74/dotfile-lua) |  | dinhmai74 | 1 |
-| 127 |  [minimap.vim](https://github.com/wfxr/minimap.vim) | 📡 Blazing fast minimap / scrollbar for vim, powered by code-minimap written in Rust. | wfxr | 511 |
+| 127 |  [minimap.vim](https://github.com/wfxr/minimap.vim) | 📡 Blazing fast minimap / scrollbar for vim, powered by code-minimap written in Rust. | wfxr | 512 |
 | 128 |  [star_wars.vim](https://github.com/enthudave/star_wars.vim) | vim colorscheme inspired by  &#39;An Old Hope&#39;  for Atom | enthudave | 3 |
 | 129 |  [vim](https://github.com/kurkale6ka/vim) |  | kurkale6ka | 3 |
 | 130 |  [vim-swap](https://github.com/kurkale6ka/vim-swap) | Easy swapping of text in Vim | kurkale6ka | 18 |
@@ -6161,7 +6161,7 @@
 | 133 |  [delimitMate](https://github.com/Raimondi/delimitMate) | Vim plugin, provides insert mode auto-completion for quotes, parens, brackets, etc. | Raimondi | 1833 |
 | 134 |  [vim-closer](https://github.com/rstacruz/vim-closer) | Closes brackets | rstacruz | 224 |
 | 135 |  [auto-pairs](https://github.com/jiangmiao/auto-pairs) | Vim plugin, insert or delete brackets, parens, quotes in pair | jiangmiao | 3286 |
-| 136 |  [lexima.vim](https://github.com/cohama/lexima.vim) | Auto close parentheses and repeat by dot dot dot... | cohama | 706 |
+| 136 |  [lexima.vim](https://github.com/cohama/lexima.vim) | Auto close parentheses and repeat by dot dot dot... | cohama | 707 |
 | 137 |  [zig.vim](https://github.com/ziglang/zig.vim) | Vim configuration for Zig | ziglang | 133 |
 | 138 |  [todo.txt-vim](https://github.com/freitass/todo.txt-vim) | Vim plugin for Todo.txt | freitass | 399 |
 | 139 |  [vim-rust](https://github.com/sharksforarms/vim-rust) | Sample vim configurations for Rust development | sharksforarms | 105 |
@@ -6178,7 +6178,7 @@
 | 150 |  [html5.vim](https://github.com/othree/html5.vim) | HTML5 omnicomplete and syntax | othree | 904 |
 | 151 |  [yajs.vim](https://github.com/othree/yajs.vim) | YAJS.vim: Yet Another JavaScript Syntax for Vim | othree | 691 |
 | 152 |  [vim-terminator](https://github.com/erietz/vim-terminator) | :dagger: Run your code in an output buffer or a vim terminal conveniently | erietz | 84 |
-| 153 |  [spaceduck](https://github.com/pineapplegiant/spaceduck) | 🚀 🦆 An intergalactic space theme for Vim, Terminal, and more! | pineapplegiant | 439 |
+| 153 |  [spaceduck](https://github.com/pineapplegiant/spaceduck) | 🚀 🦆 An intergalactic space theme for Vim, Terminal, and more! | pineapplegiant | 440 |
 | 154 |  [config_files](https://github.com/dominikduda/config_files) | Personal configuration files | dominikduda | 2 |
 | 155 |  [fuzzymenu.vim](https://github.com/laher/fuzzymenu.vim) | menu system for vim/neovim, using fzf for fuzzy selection | laher | 51 |
 | 156 |  [Dotfiles](https://github.com/beauwilliams/Dotfiles) | Well documented awesome dotfiles 😍 Many neovim lua configs, handy zsh/bash functions, fzf functions + more | beauwilliams | 29 |
@@ -6280,7 +6280,7 @@
 | 252 |  [BetterLua.vim](https://github.com/euclidianAce/BetterLua.vim) | Better Lua syntax highlighting in Vim/NeoVim | euclidianAce | 24 |
 | 253 |  [dots](https://github.com/vhakulinen/dots) | dots | vhakulinen | 3 |
 | 254 |  [previm](https://github.com/previm/previm) | Realtime preview by Vim. (Markdown, reStructuredText, textile) | previm | 687 |
-| 255 |  [vim-code-dark](https://github.com/tomasiser/vim-code-dark) | Dark color scheme for Vim and vim-airline, inspired by Dark+ in Visual Studio Code | tomasiser | 584 |
+| 255 |  [vim-code-dark](https://github.com/tomasiser/vim-code-dark) | Dark color scheme for Vim and vim-airline, inspired by Dark+ in Visual Studio Code | tomasiser | 586 |
 | 256 |  [vim-vscode-theme](https://github.com/dunstontc/vim-vscode-theme) | Visual Studio Code&#39;s &#34;Dark+&#34; theme | dunstontc | 34 |
 | 257 |  [nvim](https://github.com/patstockwell/nvim) | neovim config | patstockwell | 1 |
 | 258 |  [dotfiles](https://github.com/kitofr/dotfiles) | My dot files | kitofr | 2 |
@@ -6345,7 +6345,7 @@
 | 317 |  [vim-cinnabar](https://github.com/vimoxide/vim-cinnabar) | Clean vim colorscheme with black background | vimoxide | 11 |
 | 318 |  [minimalarch](https://github.com/asustavov/minimalarch) | Dotfiles for my minimalistic Linux setup | asustavov | 2 |
 | 319 |  [nerdtree-dash](https://github.com/liuchengxu/nerdtree-dash) | Extra syntax highlight for nerdtree and vim-devicons | liuchengxu | 15 |
-| 320 |  [tender.vim](https://github.com/jacoborus/tender.vim) | A 24bit colorscheme for Vim, Airline and Lightline | jacoborus | 852 |
+| 320 |  [tender.vim](https://github.com/jacoborus/tender.vim) | A 24bit colorscheme for Vim, Airline and Lightline | jacoborus | 851 |
 | 321 |  [vim-crates](https://github.com/mhinz/vim-crates) | Handle Cargo dependencies like a Rustavimean. | mhinz | 65 |
 | 322 |  [vim-grepper](https://github.com/mhinz/vim-grepper) | :space_invader: Helps you win at grep. | mhinz | 1066 |
 | 323 |  [pop-punk.vim](https://github.com/bignimbus/pop-punk.vim) | 🎸 Dark, high-contrast color scheme for vim | bignimbus | 55 |
@@ -6380,13 +6380,13 @@
 | 352 |  [.vim](https://github.com/vuciv/.vim) | My Vim Repository | vuciv | 4 |
 | 353 |  [vim-bujo](https://github.com/vuciv/vim-bujo) | A minimalist task manager for vim. | vuciv | 162 |
 | 354 |  [vim-winlayout](https://github.com/habamax/vim-winlayout) | Save and restore history of vim window layouts | habamax | 2 |
-| 355 |  [vim-godot](https://github.com/habamax/vim-godot) | Use vim and godot engine to make games | habamax | 156 |
+| 355 |  [vim-godot](https://github.com/habamax/vim-godot) | Use vim and godot engine to make games | habamax | 157 |
 | 356 |  [vim-asciidoctor](https://github.com/habamax/vim-asciidoctor) | Asciidoctor plugin for Vim | habamax | 102 |
 | 357 |  [kakoune.vim](https://github.com/alexherbo2/kakoune.vim) | Kakoune integration for Vim and Neovim | alexherbo2 | 15 |
-| 358 |  [editorconfig-vim](https://github.com/editorconfig/editorconfig-vim) | EditorConfig plugin for Vim | editorconfig | 2645 |
+| 358 |  [editorconfig-vim](https://github.com/editorconfig/editorconfig-vim) | EditorConfig plugin for Vim | editorconfig | 2644 |
 | 359 |  [dashboard-nvim](https://github.com/glepnir/dashboard-nvim) | vim dashboard | glepnir | 482 |
 | 360 |  [beacon.nvim](https://github.com/DanilaMihailov/beacon.nvim) | Whenever cursor jumps some distance or moves between windows, it will flash so you can see where it is | DanilaMihailov | 113 |
-| 361 |  [vim-iced](https://github.com/liquidz/vim-iced) | Clojure Interactive Development Environment for Vim8/Neovim | liquidz | 371 |
+| 361 |  [vim-iced](https://github.com/liquidz/vim-iced) | Clojure Interactive Development Environment for Vim8/Neovim | liquidz | 372 |
 | 362 |  [dotfiles](https://github.com/fatih/dotfiles) | My personal dotfiles | fatih | 629 |
 | 363 |  [taglist](https://github.com/yegappan/taglist) | Source code browser plugin for Vim | yegappan | 37 |
 | 364 |  [wiki.vim](https://github.com/lervag/wiki.vim) | A wiki plugin for Vim | lervag | 302 |
@@ -6438,7 +6438,7 @@
 | 410 |  [gruvbox-material](https://github.com/sainnhe/gruvbox-material) | Gruvbox with Material Palette | sainnhe | 555 |
 | 411 |  [vim-nightfly-guicolors](https://github.com/bluz71/vim-nightfly-guicolors) | Another dark color scheme for Vim | bluz71 | 280 |
 | 412 |  [friffle-vim](https://github.com/ChausseBenjamin/friffle-vim) | Vim colorscheme which matches my dotfiles. | ChausseBenjamin | 3 |
-| 413 |  [vim-instant-markdown](https://github.com/instant-markdown/vim-instant-markdown) | Instant Markdown previews from Vim | instant-markdown | 2476 |
+| 413 |  [vim-instant-markdown](https://github.com/instant-markdown/vim-instant-markdown) | Instant Markdown previews from Vim | instant-markdown | 2475 |
 | 414 |  [vim-livedown](https://github.com/shime/vim-livedown) | Vim plugin for Livedown. | shime | 439 |
 | 415 |  [configs](https://github.com/paroxayte/configs) | my config files (.dotfiles) | paroxayte | 3 |
 | 416 |  [vim-gnupg](https://github.com/jamessan/vim-gnupg) | This script implements transparent editing of gpg encrypted files. | jamessan | 581 |
@@ -6458,7 +6458,7 @@
 | 430 |  [eva-theme](https://github.com/kjakapat/eva-theme) | Eva themes built from https://github.com/kjakapat/base16-eva-scheme | kjakapat | 53 |
 | 431 |  [vim-cmake](https://github.com/cdelledonne/vim-cmake) | Vim/Neovim plugin for working with CMake projects | cdelledonne | 99 |
 | 432 |  [vim-blueplanet](https://github.com/weilbith/vim-blueplanet) | My very personal and awesome Vim scripts and configuration. | weilbith | 6 |
-| 433 |  [limelight.vim](https://github.com/junegunn/limelight.vim) | :flashlight: All the world&#39;s indeed a stage and we are merely players | junegunn | 1988 |
+| 433 |  [limelight.vim](https://github.com/junegunn/limelight.vim) | :flashlight: All the world&#39;s indeed a stage and we are merely players | junegunn | 1989 |
 | 434 |  [dotfiles](https://github.com/darthfork/dotfiles) | Dotfiles | darthfork | 3 |
 | 435 |  [dotfiles](https://github.com/vuhuucuong/dotfiles) | 🌟My modern .vimrc and all relevant dot files💥 | vuhuucuong | 44 |
 | 436 |  [dotfiles](https://github.com/NerdyPepper/dotfiles) | files that define my GNU/Linux box. | NerdyPepper | 350 |
@@ -6510,7 +6510,7 @@
 | 482 |  [vim-win](https://github.com/dstein64/vim-win) | 🖼️ A Vim plugin for managing windows. | dstein64 | 44 |
 | 483 |  [vim-studio-dark](https://github.com/mg979/vim-studio-dark) | visual studio-like color schemes | mg979 | 4 |
 | 484 |  [vim-yanktools](https://github.com/mg979/vim-yanktools) | Clipboard tools for vim | mg979 | 23 |
-| 485 |  [vim-xtabline](https://github.com/mg979/vim-xtabline) | Tabline customization with buffer filtering | mg979 | 129 |
+| 485 |  [vim-xtabline](https://github.com/mg979/vim-xtabline) | Tabline customization with buffer filtering | mg979 | 130 |
 | 486 |  [vim-visual-multi](https://github.com/mg979/vim-visual-multi) | Multiple cursors plugin for vim/neovim | mg979 | 1470 |
 | 487 |  [notational-fzf-vim](https://github.com/alok/notational-fzf-vim) | Notational velocity for vim. | alok | 1009 |
 | 488 |  [root.vim](https://github.com/dylanaraps/root.vim) | 🌴 Automatically set directory to your project&#39;s root based on a known dir/file. | dylanaraps | 20 |
@@ -6547,7 +6547,7 @@
 | 519 |  [crystalline-settings.vim](https://github.com/phongnh/crystalline-settings.vim) |  | phongnh | 1 |
 | 520 |  [vim-statusline](https://github.com/phongnh/vim-statusline) | My simple statusline | phongnh | 2 |
 | 521 |  [vim-vsnip-integ](https://github.com/hrsh7th/vim-vsnip-integ) | vim-vsnip integrations to other plugins. | hrsh7th | 66 |
-| 522 |  [vim-vsnip](https://github.com/hrsh7th/vim-vsnip) | Snippet plugin for vim/nvim that supports LSP/VSCode&#39;s snippet format. | hrsh7th | 372 |
+| 522 |  [vim-vsnip](https://github.com/hrsh7th/vim-vsnip) | Snippet plugin for vim/nvim that supports LSP/VSCode&#39;s snippet format. | hrsh7th | 373 |
 | 523 |  [quickpick-oldfiles.vim](https://github.com/0keke/quickpick-oldfiles.vim) | v:oldfiles picker for quickpick.vim | 0keke | 1 |
 | 524 |  [quickpick-launcher.vim](https://github.com/0keke/quickpick-launcher.vim) | launcher for quickpick.vim | 0keke | 1 |
 | 525 |  [quickpick-npm.vim](https://github.com/prabirshrestha/quickpick-npm.vim) |  | prabirshrestha | 3 |
@@ -6585,7 +6585,7 @@
 | 557 |  [iceberg.vim](https://github.com/cocopon/iceberg.vim) | :antarctica: Bluish color scheme for Vim and Neovim | cocopon | 1515 |
 | 558 |  [vim-cookbook](https://github.com/lacygoill/vim-cookbook) |  | lacygoill | 3 |
 | 559 |  [config](https://github.com/lacygoill/config) |  | lacygoill | 17 |
-| 560 |  [vim-test](https://github.com/vim-test/vim-test) | Run your tests at the speed of thought | vim-test | 2128 |
+| 560 |  [vim-test](https://github.com/vim-test/vim-test) | Run your tests at the speed of thought | vim-test | 2129 |
 | 561 |  [vim-healthcheck](https://github.com/rhysd/vim-healthcheck) | Polyfill of Neovim&#39;s health-check for Vim | rhysd | 27 |
 | 562 |  [dotfiles](https://github.com/kyoh86/dotfiles) |  | kyoh86 | 8 |
 | 563 |  [dotfiles](https://github.com/kg8m/dotfiles) | My dotfiles | kg8m | 3 |
@@ -6606,10 +6606,10 @@
 | 578 |  [dotfiles](https://github.com/drewtempelmeyer/dotfiles) | A place to store config files so I can revert when my entire system crashes from entering the wrong character | drewtempelmeyer | 24 |
 | 579 |  [vim-smoothie](https://github.com/psliwka/vim-smoothie) | Smooth scrolling for Vim done right🥤 | psliwka | 674 |
 | 580 |  [context.vim](https://github.com/wellle/context.vim) | Vim plugin that shows the context of the currently visible buffer contents | wellle | 775 |
-| 581 |  [vim-commentary](https://github.com/tpope/vim-commentary) | commentary.vim: comment stuff out | tpope | 4029 |
+| 581 |  [vim-commentary](https://github.com/tpope/vim-commentary) | commentary.vim: comment stuff out | tpope | 4031 |
 | 582 |  [vim-openscad](https://github.com/Lattay/vim-openscad) | Vim syntax highlighting for the OpenSCAD language | Lattay | 3 |
 | 583 |  [vim-openscad](https://github.com/sirtaj/vim-openscad) | Vim syntax highlighting for the OpenSCAD language | sirtaj | 77 |
-| 584 |  [vim-buffet](https://github.com/bagrat/vim-buffet) | IDE-like Vim tabline | bagrat | 344 |
+| 584 |  [vim-buffet](https://github.com/bagrat/vim-buffet) | IDE-like Vim tabline | bagrat | 345 |
 | 585 |  [.dotfiles](https://github.com/widgetii/.dotfiles) | My dotfiles for Linux/macOS (Kitty, NeoVim, Zsh) | widgetii | 6 |
 | 586 |  [lightline-ale](https://github.com/maximbaz/lightline-ale) | ALE indicator for the lightline vim plugin | maximbaz | 229 |
 | 587 |  [vim-jest](https://github.com/jamestthompson3/vim-jest) | Neovim plugin for the jest testing library | jamestthompson3 | 6 |
@@ -6622,7 +6622,7 @@
 | 594 |  [is.vim](https://github.com/haya14busa/is.vim) | incremental search improved - successor of incsearch.vim | haya14busa | 216 |
 | 595 |  [codi.vim](https://github.com/metakirby5/codi.vim) | :notebook_with_decorative_cover: The interactive scratchpad for hackers. | metakirby5 | 2388 |
 | 596 |  [vim-sneak](https://github.com/justinmk/vim-sneak) | The missing motion for Vim :athletic_shoe: | justinmk | 2321 |
-| 597 |  [vimrc](https://github.com/amix/vimrc) | The ultimate Vim configuration (vimrc) | amix | 24946 |
+| 597 |  [vimrc](https://github.com/amix/vimrc) | The ultimate Vim configuration (vimrc) | amix | 24950 |
 | 598 |  [gitline.vim](https://github.com/APZelos/gitline.vim) | A collection of functions that provide git related information for displaying on your favorite line | APZelos | 9 |
 | 599 |  [blamer.nvim](https://github.com/APZelos/blamer.nvim) | A git blame plugin for neovim inspired by VS Code&#39;s GitLens plugin | APZelos | 363 |
 | 600 |  [nvim](https://github.com/kikito/nvim) | nvim custom config | kikito | 5 |
@@ -6631,22 +6631,22 @@
 | 603 |  [gnvim-lsp](https://github.com/vhakulinen/gnvim-lsp) |  | vhakulinen | 9 |
 | 604 |  [vim-radical](https://github.com/glts/vim-radical) | radical.vim ✊ Convert decimal, hex, octal, binary number representations | glts | 48 |
 | 605 |  [vim-better-whitespace](https://github.com/ntpeters/vim-better-whitespace) | Better whitespace highlighting for Vim | ntpeters | 1097 |
-| 606 |  [asyncrun.vim](https://github.com/skywind3000/asyncrun.vim) | :rocket: Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !! | skywind3000 | 1412 |
-| 607 |  [vim-init](https://github.com/skywind3000/vim-init) | 轻量级 Vim 配置框架，全中文注释 | skywind3000 | 598 |
+| 606 |  [asyncrun.vim](https://github.com/skywind3000/asyncrun.vim) | :rocket: Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !! | skywind3000 | 1411 |
+| 607 |  [vim-init](https://github.com/skywind3000/vim-init) | 轻量级 Vim 配置框架，全中文注释 | skywind3000 | 597 |
 | 608 |  [vim](https://github.com/skywind3000/vim) | Personal Vim Profile | skywind3000 | 569 |
-| 609 |  [vim-quickui](https://github.com/skywind3000/vim-quickui) | The missing UI extensions for Vim 8.2 (and NeoVim 0.4) !! :sunglasses: | skywind3000 | 761 |
+| 609 |  [vim-quickui](https://github.com/skywind3000/vim-quickui) | The missing UI extensions for Vim 8.2 (and NeoVim 0.4) !! :sunglasses: | skywind3000 | 762 |
 | 610 |  [vim9](https://github.com/brammool/vim9) | An experimental fork of Vim, exploring ways to make Vim script faster and better. | brammool | 454 |
-| 611 |  [nord-vim](https://github.com/arcticicestudio/nord-vim) | An arctic, north-bluish clean and elegant Vim theme. | arcticicestudio | 1776 |
+| 611 |  [nord-vim](https://github.com/arcticicestudio/nord-vim) | An arctic, north-bluish clean and elegant Vim theme. | arcticicestudio | 1780 |
 | 612 |  [dotfiles](https://github.com/benawad/dotfiles) |  | benawad | 80 |
 | 613 |  [loupe](https://github.com/wincent/loupe) | 🔍 Enhanced in-file search for Vim | wincent | 117 |
-| 614 |  [vim-eunuch](https://github.com/tpope/vim-eunuch) | eunuch.vim: Helpers for UNIX | tpope | 1413 |
-| 615 |  [vim-vinegar](https://github.com/tpope/vim-vinegar) | vinegar.vim: Combine with netrw to create a delicious salad dressing | tpope | 1806 |
+| 614 |  [vim-eunuch](https://github.com/tpope/vim-eunuch) | eunuch.vim: Helpers for UNIX | tpope | 1414 |
+| 615 |  [vim-vinegar](https://github.com/tpope/vim-vinegar) | vinegar.vim: Combine with netrw to create a delicious salad dressing | tpope | 1807 |
 | 616 |  [vim-dirvish](https://github.com/justinmk/vim-dirvish) | Directory viewer for Vim :zap: | justinmk | 967 |
 | 617 |  [vim-docvim](https://github.com/wincent/vim-docvim) | Syntax highlighting for Docvim comments | wincent | 9 |
 | 618 |  [wincent](https://github.com/wincent/wincent) | 💾 Dot-files | wincent | 920 |
 | 619 |  [vim-vimlparser](https://github.com/vim-jp/vim-vimlparser) | Vim script parser | vim-jp | 145 |
 | 620 |  [open-browser.vim](https://github.com/tyru/open-browser.vim) | Open URI with your favorite browser from your most favorite editor | tyru | 386 |
-| 621 |  [vim-repeat](https://github.com/tpope/vim-repeat) | repeat.vim: enable repeating supported plugin maps with &#34;.&#34; | tpope | 1916 |
+| 621 |  [vim-repeat](https://github.com/tpope/vim-repeat) | repeat.vim: enable repeating supported plugin maps with &#34;.&#34; | tpope | 1917 |
 | 622 |  [vim_current_word](https://github.com/dominikduda/vim_current_word) | Plugin highlighting word under cursor and all of its occurences | dominikduda | 105 |
 | 623 |  [palenight.vim](https://github.com/drewtempelmeyer/palenight.vim) | Soothing color scheme for your favorite [best] text editor | drewtempelmeyer | 544 |
 | 624 |  [killersheep](https://github.com/vim/killersheep) | Silly game for Vim 8.2 | vim | 455 |
@@ -6676,7 +6676,7 @@
 | 648 |  [vim-fish](https://github.com/georgewitteman/vim-fish) | Vim support for editing fish scripts | georgewitteman | 7 |
 | 649 |  [neovim-gui-shim](https://github.com/equalsraf/neovim-gui-shim) | Neovim GUI shim, a helper plugin for GUI commands and functions | equalsraf | 36 |
 | 650 |  [dotfiles](https://github.com/voldikss/dotfiles) | My configuration files | voldikss | 29 |
-| 651 |  [vim-floaterm](https://github.com/voldikss/vim-floaterm) | :star2: Terminal manager for (neo)vim | voldikss | 1263 |
+| 651 |  [vim-floaterm](https://github.com/voldikss/vim-floaterm) | :star2: Terminal manager for (neo)vim | voldikss | 1264 |
 | 652 |  [git-messenger.vim](https://github.com/rhysd/git-messenger.vim) | Vim and Neovim plugin to reveal the commit messages under the cursor | rhysd | 1006 |
 | 653 |  [vim-clap](https://github.com/liuchengxu/vim-clap) | :clap: Modern performant generic finder and dispatcher for Vim and NeoVim | liuchengxu | 1701 |
 | 654 |  [neomake-multiprocess](https://github.com/tracyone/neomake-multiprocess) | A vim plugin for running multiple process asynchronously base on neomake. | tracyone | 37 |
@@ -6697,7 +6697,7 @@
 | 669 |  [dotfiles](https://github.com/mattikus/dotfiles) | My dotfiles | mattikus | 4 |
 | 670 |  [viconf](https://github.com/farisachugthai/viconf) | My (n)Vim config files | farisachugthai | 15 |
 | 671 |  [space-vim-theme](https://github.com/liuchengxu/space-vim-theme) | :blossom: A dark and light colorscheme for space-vim that supports GUI &amp; terminal | liuchengxu | 125 |
-| 672 |  [gruvbox](https://github.com/gruvbox-community/gruvbox) | Retro groove color scheme for Vim - community maintained edition | gruvbox-community | 436 |
+| 672 |  [gruvbox](https://github.com/gruvbox-community/gruvbox) | Retro groove color scheme for Vim - community maintained edition | gruvbox-community | 437 |
 | 673 |  [vimux](https://github.com/preservim/vimux) | easily interact with tmux from vim | preservim | 1934 |
 | 674 |  [vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) | Seamless navigation between tmux panes and vim splits | christoomey | 3453 |
 | 675 |  [neovim-config](https://github.com/Skeggox/neovim-config) | My neovim configuration files | Skeggox | 1 |
@@ -6711,7 +6711,7 @@
 | 683 |  [rainbow](https://github.com/luochen1990/rainbow) | Rainbow Parentheses Improved, shorter code, no level limit, smooth and fast, powerful configuration. | luochen1990 | 1411 |
 | 684 |  [vimrc](https://github.com/Yamagi/vimrc) | My Vim configuration | Yamagi | 1 |
 | 685 |  [NeoSolarized](https://github.com/overcache/NeoSolarized) | NeoSolarized: A fixed solarized colorscheme for better truecolor support. | overcache | 352 |
-| 686 |  [oceanic-next](https://github.com/mhartington/oceanic-next) | Oceanic Next theme for neovim | mhartington | 893 |
+| 686 |  [oceanic-next](https://github.com/mhartington/oceanic-next) | Oceanic Next theme for neovim | mhartington | 892 |
 | 687 |  [vim](https://github.com/challenger-deep-theme/vim) | FlatColor vim colorscheme | challenger-deep-theme | 475 |
 | 688 |  [float-preview.nvim](https://github.com/ncm2/float-preview.nvim) | Less annoying completion preview window based on neovim&#39;s floating window | ncm2 | 217 |
 | 689 |  [unicode.vim](https://github.com/chrisbra/unicode.vim) | A Vim plugin that provides a completion function for Unicode glyphs | chrisbra | 331 |
@@ -6719,12 +6719,12 @@
 | 691 |  [dotfiles](https://github.com/ghprince/dotfiles) |  | ghprince | 2 |
 | 692 |  [vim](https://github.com/rainglow/vim) | 320+ color themes for VIM. | rainglow | 315 |
 | 693 |  [matilde](https://github.com/noprompt/matilde) | These are my dotfiles. Many of them have dots; some do not. | noprompt | 8 |
-| 694 |  [vim-fugitive](https://github.com/tpope/vim-fugitive) | fugitive.vim: A Git wrapper so awesome, it should be illegal | tpope | 14574 |
+| 694 |  [vim-fugitive](https://github.com/tpope/vim-fugitive) | fugitive.vim: A Git wrapper so awesome, it should be illegal | tpope | 14577 |
 | 695 |  [vim-fz](https://github.com/mattn/vim-fz) | Ultra Fast Fuzzy Finder for Vim8 | mattn | 64 |
 | 696 |  [vista.vim](https://github.com/liuchengxu/vista.vim) | :cactus: Viewer &amp; Finder for LSP symbols and tags | liuchengxu | 1328 |
 | 697 |  [vim-plugin-fit-key-with-space-vim](https://github.com/samwhelp/vim-plugin-fit-key-with-space-vim) | vim-plugin-fit-key-with-space-vim | samwhelp | 1 |
 | 698 |  [neoterm](https://github.com/kassio/neoterm) | Wrapper of some vim/neovim&#39;s :terminal functions. | kassio | 1061 |
-| 699 |  [vim-obsession](https://github.com/tpope/vim-obsession) | obsession.vim: continuously updated session files | tpope | 1271 |
+| 699 |  [vim-obsession](https://github.com/tpope/vim-obsession) | obsession.vim: continuously updated session files | tpope | 1272 |
 | 700 |  [nerdtree_choosewin-plugin](https://github.com/weilbith/nerdtree_choosewin-plugin) | NERDTree extension which let you choose the window to open the new file. | weilbith | 12 |
 | 701 |  [vim-syntax-lighttpd](https://github.com/glensc/vim-syntax-lighttpd) | vim lighttpd syntax | glensc | 4 |
 | 702 |  [nginx.vim](https://github.com/chr4/nginx.vim) | Improved nginx vim plugin (incl. syntax highlighting) | chr4 | 394 |
@@ -6733,7 +6733,7 @@
 | 705 |  [vim-indexer](https://github.com/alvan/vim-indexer) | Vim async tags generation with project management. | alvan | 10 |
 | 706 |  [vim-clipbored](https://github.com/poxar/vim-clipbored) | clipboard mappings the way I like them | poxar | 2 |
 | 707 |  [vim-NotableFt](https://github.com/svermeulen/vim-NotableFt) |  | svermeulen | 28 |
-| 708 |  [vim-cutlass](https://github.com/svermeulen/vim-cutlass) | Plugin that adds a &#39;cut&#39; operation separate from &#39;delete&#39; | svermeulen | 97 |
+| 708 |  [vim-cutlass](https://github.com/svermeulen/vim-cutlass) | Plugin that adds a &#39;cut&#39; operation separate from &#39;delete&#39; | svermeulen | 101 |
 | 709 |  [vim-yoink](https://github.com/svermeulen/vim-yoink) | Vim plugin that maintains a yank history to cycle between when pasting | svermeulen | 263 |
 | 710 |  [vim-subversive](https://github.com/svermeulen/vim-subversive) | Vim plugin providing operator motions to quickly replace text | svermeulen | 186 |
 | 711 |  [vim-easyclip](https://github.com/svermeulen/vim-easyclip) | Simplified clipboard functionality for Vim | svermeulen | 622 |
@@ -6743,7 +6743,7 @@
 | 715 |  [vital.vim](https://github.com/vim-jp/vital.vim) | A comprehensive Vim utility functions for Vim plugins | vim-jp | 522 |
 | 716 |  [dotfiles](https://github.com/captbaritone/dotfiles) | My configuration files | captbaritone | 90 |
 | 717 |  [dotfiles](https://github.com/nelstrom/dotfiles) | My dotfiles. Mainly customisations for Vim and Bash. | nelstrom | 437 |
-| 718 |  [vim-startify](https://github.com/mhinz/vim-startify) | :link: The fancy start screen for Vim. | mhinz | 4236 |
+| 718 |  [vim-startify](https://github.com/mhinz/vim-startify) | :link: The fancy start screen for Vim. | mhinz | 4238 |
 | 719 |  [quickpick-files.vim](https://github.com/clozed2u/quickpick-files.vim) | File picker for quickpick.vim | clozed2u | 1 |
 | 720 |  [quickpick-filetypes.vim](https://github.com/prabirshrestha/quickpick-filetypes.vim) | filetype picker for quickpick.vim | prabirshrestha | 1 |
 | 721 |  [quickpick.vim](https://github.com/prabirshrestha/quickpick.vim) | experimental quick picker for vim | prabirshrestha | 72 |
@@ -6786,31 +6786,31 @@
 | 758 |  [vim-i3-config-syntax](https://github.com/moon-musick/vim-i3-config-syntax) | Syntax file and and ftdetect for i3 Window Manager config file | moon-musick | 1 |
 | 759 |  [vim-atomified](https://github.com/Siphalor/vim-atomified) | A special dark vim colorscheme. | Siphalor | 8 |
 | 760 |  [srcery-vim](https://github.com/srcery-colors/srcery-vim) | Dark colorscheme for gvim and vim | srcery-colors | 575 |
-| 761 |  [vim-monokai](https://github.com/sickill/vim-monokai) | Monokai color scheme for Vim converted from Textmate theme | sickill | 1241 |
+| 761 |  [vim-monokai](https://github.com/sickill/vim-monokai) | Monokai color scheme for Vim converted from Textmate theme | sickill | 1243 |
 | 762 |  [vim-sublime-monokai](https://github.com/ErichDonGubler/vim-sublime-monokai) | Vim Monokai color scheme that tries to be as faithful as possible to Sublime&#39;s Monokai syntax highlighting | ErichDonGubler | 122 |
-| 763 |  [vim-monokai-tasty](https://github.com/patstockwell/vim-monokai-tasty) | VIM Colour scheme | patstockwell | 291 |
+| 763 |  [vim-monokai-tasty](https://github.com/patstockwell/vim-monokai-tasty) | VIM Colour scheme | patstockwell | 292 |
 | 764 |  [vim-rfc](https://github.com/mhinz/vim-rfc) | :notebook: Query RFC database and download RFCs from within Vim. | mhinz | 96 |
 | 765 |  [vim-janah](https://github.com/mhinz/vim-janah) | Vim colorscheme. | mhinz | 178 |
 | 766 |  [vim-sidemenu](https://github.com/mmai/vim-sidemenu) | A small side-menu useful for terminal users. Based-on junegunn/vim-peekaboo | mmai | 1 |
-| 767 |  [vim-peekaboo](https://github.com/junegunn/vim-peekaboo) | :eyes: &#34; / @ / CTRL-R | junegunn | 926 |
+| 767 |  [vim-peekaboo](https://github.com/junegunn/vim-peekaboo) | :eyes: &#34; / @ / CTRL-R | junegunn | 928 |
 | 768 |  [vim-sidemenu](https://github.com/rafi/vim-sidemenu) | A small side-menu useful for terminal users. Based-on junegunn/vim-peekaboo | rafi | 10 |
 | 769 |  [vim-badge](https://github.com/rafi/vim-badge) | Bite-size badges for Neo/vim tab &amp; status lines. | rafi | 7 |
-| 770 |  [awesome-vim-colorschemes](https://github.com/rafi/awesome-vim-colorschemes) | Collection of awesome color schemes for Neo/vim, merged for quick use. | rafi | 1771 |
+| 770 |  [awesome-vim-colorschemes](https://github.com/rafi/awesome-vim-colorschemes) | Collection of awesome color schemes for Neo/vim, merged for quick use. | rafi | 1770 |
 | 771 |  [neoformat](https://github.com/sbdchd/neoformat) | :sparkles: A (Neo)vim plugin for formatting code. | sbdchd | 1094 |
 | 772 |  [GitHub.vim](https://github.com/wsdjeg/GitHub.vim) | Another github v3 api implemented in vim script | wsdjeg | 190 |
 | 773 |  [vimConfig](https://github.com/idanarye/vimConfig) | My vim configurations | idanarye | 8 |
 | 774 |  [vim-vebugger](https://github.com/idanarye/vim-vebugger) | Yes, we do need another debugger plugin | idanarye | 436 |
 | 775 |  [vimrc](https://github.com/jeanCarloMachado/vimrc) | A carefully crafted vimrc | jeanCarloMachado | 9 |
-| 776 |  [vim-galore](https://github.com/mhinz/vim-galore) | :mortar_board: All things Vim! | mhinz | 12090 |
+| 776 |  [vim-galore](https://github.com/mhinz/vim-galore) | :mortar_board: All things Vim! | mhinz | 12092 |
 | 777 |  [vim-better-default](https://github.com/liuchengxu/vim-better-default) | :art: Simplify your .vimrc and make the default vim better | liuchengxu | 141 |
 | 778 |  [space-vim-dark](https://github.com/liuchengxu/space-vim-dark) | :purple_heart: A dark colorscheme for space-vim, see space-vim-theme for light background support! | liuchengxu | 467 |
 | 779 |  [neco-syntax](https://github.com/Shougo/neco-syntax) | Syntax source for neocomplete/deoplete/ncm | Shougo | 64 |
 | 780 |  [asyncomplete-necosyntax.vim](https://github.com/prabirshrestha/asyncomplete-necosyntax.vim) | provides syntax autocomplete for asyncomplete.vim via necosyntax | prabirshrestha | 6 |
 | 781 |  [asyncomplete-necovim.vim](https://github.com/prabirshrestha/asyncomplete-necovim.vim) | provides syntax autocomplete for asyncomplete.vim via neco-vim | prabirshrestha | 9 |
-| 782 |  [neomake](https://github.com/neomake/neomake) | Asynchronous linting and make framework for Neovim/Vim | neomake | 2472 |
+| 782 |  [neomake](https://github.com/neomake/neomake) | Asynchronous linting and make framework for Neovim/Vim | neomake | 2471 |
 | 783 |  [graphviz.vim](https://github.com/liuchengxu/graphviz.vim) | :christmas_tree: A Vim graphviz plugin | liuchengxu | 37 |
 | 784 |  [vim-leader-guide](https://github.com/hecal3/vim-leader-guide) |  | hecal3 | 289 |
-| 785 |  [vim-which-key](https://github.com/liuchengxu/vim-which-key) | :tulip: Vim plugin that shows keybindings in popup | liuchengxu | 1452 |
+| 785 |  [vim-which-key](https://github.com/liuchengxu/vim-which-key) | :tulip: Vim plugin that shows keybindings in popup | liuchengxu | 1453 |
 | 786 |  [space-vim](https://github.com/liuchengxu/space-vim) | :four_leaf_clover: Lean &amp; mean spacemacs-ish Vim distribution | liuchengxu | 2740 |
 | 787 |  [SimpleAutoComplPop](https://github.com/roxma/SimpleAutoComplPop) | Please use https://github.com/ncm2/ncm2 instead | roxma | 21 |
 | 788 |  [vim](https://github.com/camfowler/vim) | My vim configuration | camfowler | 5 |
@@ -6824,7 +6824,7 @@
 | 796 |  [vimproc.vim](https://github.com/Shougo/vimproc.vim) | Interactive command execution in Vim. | Shougo | 1045 |
 | 797 |  [neco-vim](https://github.com/Shougo/neco-vim) | The vim source for neocomplete/deoplete | Shougo | 92 |
 | 798 |  [vim-rhubarb](https://github.com/tpope/vim-rhubarb) | rhubarb.vim: GitHub extension for fugitive.vim | tpope | 598 |
-| 799 |  [gv.vim](https://github.com/junegunn/gv.vim) | A git commit browser in Vim | junegunn | 1010 |
+| 799 |  [gv.vim](https://github.com/junegunn/gv.vim) | A git commit browser in Vim | junegunn | 1011 |
 | 800 |  [vim-UT](https://github.com/LucHermitte/vim-UT) | Unit Testing plugin for Vim | LucHermitte | 19 |
 | 801 |  [lh-vim-lib](https://github.com/LucHermitte/lh-vim-lib) | Library of Vim functions | LucHermitte | 171 |
 | 802 |  [vim-ide](https://github.com/DamZiobro/vim-ide) | VIM configured as powerful IDE (Integrated Development Environment) | DamZiobro | 446 |
@@ -6843,8 +6843,8 @@
 | 815 |  [vim-deus](https://github.com/ajmwagar/vim-deus) | 🌙 A better color scheme for the late night coder | ajmwagar | 522 |
 | 816 |  [falcon](https://github.com/fenetikm/falcon) | A colour scheme for terminals, Vim and friends. | fenetikm | 526 |
 | 817 |  [vim-one](https://github.com/rakr/vim-one) | Adaptation of one-light and one-dark colorschemes for Vim | rakr | 1707 |
-| 818 |  [onedark.vim](https://github.com/joshdick/onedark.vim) | A dark Vim/Neovim color scheme inspired by Atom&#39;s One Dark syntax theme. | joshdick | 2896 |
-| 819 |  [vim-polyglot](https://github.com/sheerun/vim-polyglot) | A solid language pack for Vim. | sheerun | 4467 |
+| 818 |  [onedark.vim](https://github.com/joshdick/onedark.vim) | A dark Vim/Neovim color scheme inspired by Atom&#39;s One Dark syntax theme. | joshdick | 2897 |
+| 819 |  [vim-polyglot](https://github.com/sheerun/vim-polyglot) | A solid language pack for Vim. | sheerun | 4466 |
 | 820 |  [neodark.vim](https://github.com/KeitaNakamura/neodark.vim) | A dark color scheme for vim | KeitaNakamura | 362 |
 | 821 |  [landscape.vim](https://github.com/itchyny/landscape.vim) | A colorscheme for Vim | itchyny | 132 |
 | 822 |  [vim-noctu](https://github.com/noahfrederick/vim-noctu) | A Vim color scheme for 16-color terminals | noahfrederick | 178 |
@@ -6855,7 +6855,7 @@
 | 827 |  [vim-stealth](https://github.com/segeljakt/vim-stealth) | Toggle the visibility of comments | segeljakt | 11 |
 | 828 |  [vim-exeline](https://github.com/romgrk/vim-exeline) | Execute a command on save | romgrk | 12 |
 | 829 |  [vim-mundo](https://github.com/simnalamburt/vim-mundo) | :christmas_tree: Vim undo tree visualizer | simnalamburt | 569 |
-| 830 |  [indentLine](https://github.com/Yggdroot/indentLine) | A vim plugin to display the indention levels with thin vertical lines | Yggdroot | 3517 |
+| 830 |  [indentLine](https://github.com/Yggdroot/indentLine) | A vim plugin to display the indention levels with thin vertical lines | Yggdroot | 3516 |
 | 831 |  [prot16-vim](https://github.com/protesilaos/prot16-vim) | Vim ports of the Prot16 collection of colour schemes. | protesilaos | 6 |
 | 832 |  [dotfiles](https://github.com/garybernhardt/dotfiles) | ~grb. Things in here are often interdependent. A lot of stuff relies on scripts in bin/. | garybernhardt | 1821 |
 | 833 |  [dotfiles](https://github.com/jesseleite/dotfiles) | 💾  My dotfiles | jesseleite | 52 |
@@ -6866,7 +6866,7 @@
 | 838 |  [fisa-vim-config](https://github.com/fisadev/fisa-vim-config) | my vim configuration (lot of python, autocompletition, fuzzy finder, debugger, ...) | fisadev | 1393 |
 | 839 |  [tmuxline.vim](https://github.com/edkolev/tmuxline.vim) | Simple tmux statusline generator with support for powerline symbols and statusline / airline / lightline integration | edkolev | 1481 |
 | 840 |  [vim-config](https://github.com/rafi/vim-config) | Lean mean (Neo)Vim machine, carefully crafted with :heart:  Use with latest Neovim or Vim 8 | rafi | 1308 |
-| 841 |  [SpaceVim](https://github.com/SpaceVim/SpaceVim) | A community-driven modular vim distribution - The ultimate vim configuration | SpaceVim | 16970 |
+| 841 |  [SpaceVim](https://github.com/SpaceVim/SpaceVim) | A community-driven modular vim distribution - The ultimate vim configuration | SpaceVim | 16976 |
 | 842 |  [nvim](https://github.com/kassio/nvim) | My neovim setup | kassio | 17 |
 | 843 |  [vim-rtags](https://github.com/lyuts/vim-rtags) | Vim bindings for rtags, llvm/clang based c++ code indexer. | lyuts | 276 |
 | 844 |  [vaffle.vim](https://github.com/cocopon/vaffle.vim) | :file_folder: Lightweight, window-based file manager for Vim | cocopon | 278 |
@@ -6875,11 +6875,11 @@
 | 847 |  [vim-filebeagle](https://github.com/jeetsukumaran/vim-filebeagle) | A VINE-spired (Vim Is Not Emacs) file system explorer. | jeetsukumaran | 152 |
 | 848 |  [taboo.vim](https://github.com/gcmt/taboo.vim) | Few utilities for pretty tabs | gcmt | 217 |
 | 849 |  [i3-vim-syntax](https://github.com/PotatoesMaster/i3-vim-syntax) | Vim syntax for i3 window manager config | PotatoesMaster | 185 |
-| 850 |  [lightline.vim](https://github.com/itchyny/lightline.vim) | A light and configurable statusline/tabline plugin for Vim | itchyny | 5603 |
-| 851 |  [ale](https://github.com/dense-analysis/ale) | Check syntax in Vim asynchronously and fix files, with Language Server Protocol (LSP) support | dense-analysis | 11041 |
+| 850 |  [lightline.vim](https://github.com/itchyny/lightline.vim) | A light and configurable statusline/tabline plugin for Vim | itchyny | 5604 |
+| 851 |  [ale](https://github.com/dense-analysis/ale) | Check syntax in Vim asynchronously and fix files, with Language Server Protocol (LSP) support | dense-analysis | 11040 |
 | 852 |  [vim-hybrid-material](https://github.com/kristijanhusak/vim-hybrid-material) | Material color scheme for Vim based on w0ng/vim-hybrid color scheme | kristijanhusak | 515 |
 | 853 |  [vim-lion](https://github.com/tommcdo/vim-lion) | A simple alignment operator for Vim text editor | tommcdo | 435 |
-| 854 |  [vim](https://github.com/vim/vim) | The official Vim repository | vim | 24348 |
+| 854 |  [vim](https://github.com/vim/vim) | The official Vim repository | vim | 24349 |
 | 855 |  [vifm.vim](https://github.com/vifm/vifm.vim) | Vim plugin that allows use of vifm as a file picker | vifm | 211 |
 | 856 |  [spotdiff.vim](https://github.com/rickhowe/spotdiff.vim) | A range and area selectable diffthis to compare partially | rickhowe | 16 |
 | 857 |  [diffchar.vim](https://github.com/rickhowe/diffchar.vim) | Highlight the exact differences, based on characters and words | rickhowe | 144 |
@@ -6896,7 +6896,7 @@
 | 868 |  [vim-over](https://github.com/osyo-manga/vim-over) | :substitute preview | osyo-manga | 576 |
 | 869 |  [vim-monokai](https://github.com/crusoexia/vim-monokai) | Refined Monokai color scheme for vim, inspired by Sublime Text | crusoexia | 418 |
 | 870 |  [conflict-marker.vim](https://github.com/rhysd/conflict-marker.vim) | Weapon to fight against conflicts in Vim. | rhysd | 238 |
-| 871 |  [dein.vim](https://github.com/Shougo/dein.vim) | :zap: Dark powered Vim/Neovim plugin manager | Shougo | 3011 |
+| 871 |  [dein.vim](https://github.com/Shougo/dein.vim) | :zap: Dark powered Vim/Neovim plugin manager | Shougo | 3010 |
 | 872 |  [vim-textobj-user](https://github.com/kana/vim-textobj-user) | Vim plugin: Create your own text objects | kana | 1204 |
 | 873 |  [vim-precious](https://github.com/osyo-manga/vim-precious) | Vim context filetype | osyo-manga | 114 |
 | 874 |  [echodoc.vim](https://github.com/Shougo/echodoc.vim) | Print documents in echo area. | Shougo | 533 |
@@ -6908,9 +6908,9 @@
 | 880 |  [vim-qf](https://github.com/romainl/vim-qf) | Tame the quickfix window | romainl | 478 |
 | 881 |  [vim-xkbswitch](https://github.com/lyokha/vim-xkbswitch) | vim plugin for automatic keyboard layout switching in insert mode | lyokha | 329 |
 | 882 |  [flatland](https://github.com/thinkpixellab/flatland) | Flatland is a simple theme and accompanying color scheme for Sublime Text 2. | thinkpixellab | 2724 |
-| 883 |  [nerdtree](https://github.com/preservim/nerdtree) | A tree explorer plugin for vim. | preservim | 15650 |
-| 884 |  [vim-airline-themes](https://github.com/vim-airline/vim-airline-themes) | A collection of themes for vim-airline | vim-airline | 1618 |
-| 885 |  [gruvbox](https://github.com/morhetz/gruvbox) | Retro groove color scheme for Vim | morhetz | 9454 |
+| 883 |  [nerdtree](https://github.com/preservim/nerdtree) | A tree explorer plugin for vim. | preservim | 15651 |
+| 884 |  [vim-airline-themes](https://github.com/vim-airline/vim-airline-themes) | A collection of themes for vim-airline | vim-airline | 1619 |
+| 885 |  [gruvbox](https://github.com/morhetz/gruvbox) | Retro groove color scheme for Vim | morhetz | 9457 |
 | 886 |  [vim-gista](https://github.com/lambdalisue/vim-gista) | An alternative gist.vim, vim plugin which manipulate gists in Vim. | lambdalisue | 156 |
 | 887 |  [vim-gutentags](https://github.com/ludovicchabant/vim-gutentags) | A Vim plugin that manages your tag files | ludovicchabant | 1895 |
 | 888 |  [vim-css-color](https://github.com/ap/vim-css-color) | Preview colours in source code while editing | ap | 1354 |
@@ -6931,18 +6931,18 @@
 | 903 |  [vim-quickrun](https://github.com/thinca/vim-quickrun) | Run commands quickly. | thinca | 688 |
 | 904 |  [vim-textmanip](https://github.com/t9md/vim-textmanip) | easy text manupilation for vim | t9md | 137 |
 | 905 |  [vim-choosewin](https://github.com/t9md/vim-choosewin) | Land on window you chose like tmux&#39;s &#39;display-pane&#39; | t9md | 485 |
-| 906 |  [neovim](https://github.com/neovim/neovim) | Vim-fork focused on extensibility and usability | neovim | 45765 |
+| 906 |  [neovim](https://github.com/neovim/neovim) | Vim-fork focused on extensibility and usability | neovim | 45777 |
 | 907 |  [vim-slime](https://github.com/jpalardy/vim-slime) | A vim plugin to give you some slime. (Emacs) | jpalardy | 1322 |
 | 908 |  [.dotfiles](https://github.com/A/.dotfiles) | configs and utils | A | 64 |
 | 909 |  [targets.vim](https://github.com/wellle/targets.vim) | Vim plugin that provides additional text objects | wellle | 1985 |
-| 910 |  [tabular](https://github.com/godlygeek/tabular) | Vim script for text filtering and alignment | godlygeek | 2242 |
-| 911 |  [vim-table-mode](https://github.com/dhruvasagar/vim-table-mode) | VIM Table Mode for instant table creation. | dhruvasagar | 1427 |
+| 910 |  [tabular](https://github.com/godlygeek/tabular) | Vim script for text filtering and alignment | godlygeek | 2241 |
+| 911 |  [vim-table-mode](https://github.com/dhruvasagar/vim-table-mode) | VIM Table Mode for instant table creation. | dhruvasagar | 1429 |
 | 912 |  [vim-themis](https://github.com/thinca/vim-themis) | A testing framework for Vim script. | thinca | 199 |
 | 913 |  [vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors) | True Sublime Text style multiple selections for Vim | terryma | 7645 |
 | 914 |  [vim-plug](https://github.com/starcraftman/vim-plug) | Minimalist Vim Plugin Manager | starcraftman | 2 |
 | 915 |  [vim-ctrlp-switcher](https://github.com/ivan-cukic/vim-ctrlp-switcher) | Switching between similar files for Vim+CtrlP | ivan-cukic | 19 |
 | 916 |  [git-time-lapse](https://github.com/junkblocker/git-time-lapse) | Fork of git-time-lapse: Perforce-style for vim | junkblocker | 22 |
-| 917 |  [vimwiki](https://github.com/vimwiki/vimwiki) | Personal Wiki for Vim | vimwiki | 6600 |
+| 917 |  [vimwiki](https://github.com/vimwiki/vimwiki) | Personal Wiki for Vim | vimwiki | 6604 |
 | 918 |  [vim-colors-github](https://github.com/acarapetis/vim-colors-github) | Github color scheme for vim (light) | acarapetis | 49 |
 | 919 |  [vim-indent-guides](https://github.com/nathanaelkane/vim-indent-guides) | A Vim plugin for visually displaying indent levels in code | nathanaelkane | 2433 |
 | 920 |  [ListToggle](https://github.com/Valloric/ListToggle) | A vim plugin for toggling the display of the quickfix list and the location-list. | Valloric | 129 |
@@ -6969,7 +6969,7 @@
 | 941 |  [vim-merginal](https://github.com/idanarye/vim-merginal) | Fugitive extension to manage and merge Git branches | idanarye | 247 |
 | 942 |  [vim-plugins](https://github.com/WolfgangMehner/vim-plugins) | Vim plug-ins which offer support for various programming languages. | WolfgangMehner | 386 |
 | 943 |  [lua-support](https://github.com/WolfgangMehner/lua-support) | Edit Lua scripts in Vim/gVim/Neovim. Insert code snippets, run, compile, and check the code and look up help. | WolfgangMehner | 21 |
-| 944 |  [vim-plug](https://github.com/junegunn/vim-plug) | :hibiscus: Minimalist Vim Plugin Manager | junegunn | 24077 |
+| 944 |  [vim-plug](https://github.com/junegunn/vim-plug) | :hibiscus: Minimalist Vim Plugin Manager | junegunn | 24079 |
 | 945 |  [changesPlugin](https://github.com/chrisbra/changesPlugin) | A Vim Plugin for indicating changes as colored bars using signs. | chrisbra | 84 |
 | 946 |  [vimpanel](https://github.com/mihaifm/vimpanel) | A modern side panel for Vim | mihaifm | 102 |
 | 947 |  [mru](https://github.com/yegappan/mru) | Most Recently Used (MRU) Vim Plugin | yegappan | 179 |
@@ -6981,12 +6981,12 @@
 | 953 |  [neocomplete.vim](https://github.com/Shougo/neocomplete.vim) | Next generation completion framework after neocomplcache | Shougo | 2720 |
 | 954 |  [neosnippet.vim](https://github.com/Shougo/neosnippet.vim) | neo-snippet plugin | Shougo | 1049 |
 | 955 |  [vim-scriptease](https://github.com/tpope/vim-scriptease) | scriptease.vim: A Vim plugin for Vim plugins | tpope | 543 |
-| 956 |  [vim-rooter](https://github.com/airblade/vim-rooter) | Changes Vim working directory to project root. | airblade | 904 |
-| 957 |  [vim-gitgutter](https://github.com/airblade/vim-gitgutter) | A Vim plugin which shows git diff markers in the sign column and stages/previews/undoes hunks and partial hunks. | airblade | 7142 |
+| 956 |  [vim-rooter](https://github.com/airblade/vim-rooter) | Changes Vim working directory to project root. | airblade | 905 |
+| 957 |  [vim-gitgutter](https://github.com/airblade/vim-gitgutter) | A Vim plugin which shows git diff markers in the sign column and stages/previews/undoes hunks and partial hunks. | airblade | 7143 |
 | 958 |  [VOoM_extras](https://github.com/vim-voom/VOoM_extras) | Supplementary materials for VOoM | vim-voom | 12 |
 | 959 |  [CoVim](https://github.com/FredKSchott/CoVim) | Collaborative Editing for Vim | FredKSchott | 2945 |
 | 960 |  [vader.vim](https://github.com/junegunn/vader.vim) | A simple Vimscript test framework | junegunn | 531 |
-| 961 |  [vim-signify](https://github.com/mhinz/vim-signify) | :heavy_plus_sign: Show a diff using Vim its sign column. | mhinz | 2294 |
+| 961 |  [vim-signify](https://github.com/mhinz/vim-signify) | :heavy_plus_sign: Show a diff using Vim its sign column. | mhinz | 2295 |
 | 962 |  [neobundle.vim](https://github.com/Shougo/neobundle.vim) | Next generation Vim package manager | Shougo | 2270 |
 | 963 |  [jellybeans.vim](https://github.com/nanotech/jellybeans.vim) | A colorful, dark color scheme for Vim. | nanotech | 1557 |
 | 964 |  [bufexplorer](https://github.com/jlanzarotta/bufexplorer) | BufExplorer Plugin for Vim | jlanzarotta | 398 |
@@ -7002,11 +7002,11 @@
 | 974 |  [Trinity](https://github.com/wenlongche/Trinity) | A (G)Vim plugin which build the trinity of Source Explorer, TagList and NERD tree to be an IDE for software development. | wenlongche | 64 |
 | 975 |  [color-scheme-holokai-for-vim](https://github.com/changyuheng/color-scheme-holokai-for-vim) |  | changyuheng | 27 |
 | 976 |  [SingleCompile](https://github.com/xuhdev/SingleCompile) | A Vim plugin making it more convenient to compile or run a single source file. | xuhdev | 125 |
-| 977 |  [vim-autoformat](https://github.com/vim-autoformat/vim-autoformat) | Provide easy code formatting in Vim by integrating existing code formatters. | vim-autoformat | 1936 |
-| 978 |  [undotree](https://github.com/mbbill/undotree) | The undo history visualizer for VIM | mbbill | 1831 |
+| 977 |  [vim-autoformat](https://github.com/vim-autoformat/vim-autoformat) | Provide easy code formatting in Vim by integrating existing code formatters. | vim-autoformat | 1935 |
+| 978 |  [undotree](https://github.com/mbbill/undotree) | The undo history visualizer for VIM | mbbill | 1832 |
 | 979 |  [harlequin](https://github.com/nielsmadan/harlequin) | Dark, high contrast gvim colorscheme inspired by molokai and bad wolf. | nielsmadan | 41 |
-| 980 |  [ack.vim](https://github.com/mileszs/ack.vim) | Vim plugin for the Perl module / CLI script &#39;ack&#39; | mileszs | 2878 |
-| 981 |  [vim-pathogen](https://github.com/tpope/vim-pathogen) | pathogen.vim: manage your runtimepath | tpope | 11650 |
+| 980 |  [ack.vim](https://github.com/mileszs/ack.vim) | Vim plugin for the Perl module / CLI script &#39;ack&#39; | mileszs | 2879 |
+| 981 |  [vim-pathogen](https://github.com/tpope/vim-pathogen) | pathogen.vim: manage your runtimepath | tpope | 11651 |
 | 982 |  [vim-indent-object](https://github.com/michaeljsmith/vim-indent-object) | Vim plugin that defines a new text object representing lines of code at the same indent level. Useful for python/vim scripts, etc. | michaeljsmith | 545 |
 | 983 |  [Recover.vim](https://github.com/chrisbra/Recover.vim) | A Plugin to show a diff, whenever recovering a buffer | chrisbra | 206 |
 | 984 |  [supertab](https://github.com/ervandew/supertab) | Perform all your vim insert mode completions with Tab | ervandew | 2954 |
@@ -7014,7 +7014,7 @@
 | 986 |  [gundo.vim](https://github.com/sjl/gundo.vim) | A git mirror of gundo.vim | sjl | 1410 |
 | 987 |  [Vundle.vim](https://github.com/VundleVim/Vundle.vim) | Vundle, the plug-in manager for Vim | VundleVim | 22453 |
 | 988 |  [etc](https://github.com/majutsushi/etc) | Collection of configuration files | majutsushi | 80 |
-| 989 |  [tagbar](https://github.com/preservim/tagbar) | Vim plugin that displays tags in a window, ordered by scope | preservim | 5136 |
+| 989 |  [tagbar](https://github.com/preservim/tagbar) | Vim plugin that displays tags in a window, ordered by scope | preservim | 5135 |
 | 990 |  [vim-buffergator](https://github.com/jeetsukumaran/vim-buffergator) | Vim plugin to list, select and switch between buffers. | jeetsukumaran | 462 |
 
 **[⬆ Back to Index](#-contents)**
@@ -7036,16 +7036,16 @@
 | 12 |  [vim-is-hard-lessons](https://github.com/melekes/vim-is-hard-lessons) | Курс лекций &#34;Vim - Это сложно&#34; | melekes | 43 |
 | 13 |  [vim-clevertab](https://github.com/neitanod/vim-clevertab) | Tiny replacement for Supertab that DOES do what I need. | neitanod | 33 |
 | 14 |  [vombatidae-vim](https://github.com/octol/vombatidae-vim) | Vim colorscheme. | octol | 10 |
-| 15 |  [vim-session](https://github.com/xolox/vim-session) | Extended session management for Vim (:mksession on steroids) | xolox | 921 |
+| 15 |  [vim-session](https://github.com/xolox/vim-session) | Extended session management for Vim (:mksession on steroids) | xolox | 920 |
 | 16 |  [vim-scilabcomplete](https://github.com/machakann/vim-scilabcomplete) | The omni completion function of scilab for vim. | machakann | 1 |
 | 17 |  [vim-patternjump](https://github.com/machakann/vim-patternjump) | Move cursor as you like. | machakann | 13 |
 | 18 |  [vim-textobj-equation](https://github.com/machakann/vim-textobj-equation) | The vim textobject plugin to selet a equation like text block. | machakann | 3 |
 | 19 |  [vim-operator-jerk](https://github.com/machakann/vim-operator-jerk) | Indent inside lines. | machakann | 4 |
 | 20 |  [vim-event-DotCommandPre](https://github.com/machakann/vim-event-DotCommandPre) | Add an autocmd event &#39;DotCommandPre&#39; | machakann | 1 |
 | 21 |  [indent-detector.vim](https://github.com/luochen1990/indent-detector.vim) | Keep indent consistent without any effort | luochen1990 | 35 |
-| 22 |  [rainbow_parentheses.vim](https://github.com/kien/rainbow_parentheses.vim) | Better Rainbow Parentheses | kien | 899 |
+| 22 |  [rainbow_parentheses.vim](https://github.com/kien/rainbow_parentheses.vim) | Better Rainbow Parentheses | kien | 900 |
 | 23 |  [utl.vim](https://github.com/vim-scripts/utl.vim) | Univeral Text Linking - Execute URLs, footnotes, open emails, organize ideas | vim-scripts | 77 |
-| 24 |  [rainbow_parentheses.vim](https://github.com/junegunn/rainbow_parentheses.vim) | :rainbow: Simpler Rainbow Parentheses | junegunn | 324 |
+| 24 |  [rainbow_parentheses.vim](https://github.com/junegunn/rainbow_parentheses.vim) | :rainbow: Simpler Rainbow Parentheses | junegunn | 325 |
 | 25 |  [vim-cursormode](https://github.com/vheon/vim-cursormode) | guicursor for terminal user | vheon | 12 |
 | 26 |  [rename.vim](https://github.com/danro/rename.vim) | Rename the current file in the vim buffer + retain relative path. | danro | 99 |
 | 27 |  [utl.vim](https://github.com/jean/utl.vim) | Univeral Text Linking - Execute URLs, footnotes, open emails, organize ideas | jean | 1 |
@@ -7068,7 +7068,7 @@
 | 44 |  [vim-cheat](https://github.com/mattn/vim-cheat) |  | mattn | 6 |
 | 45 |  [vim-bufferline](https://github.com/bling/vim-bufferline) | super simple vim plugin to show the list of buffers in the command bar | bling | 458 |
 | 46 |  [vimfiles](https://github.com/krisleech/vimfiles) | Ruby/Rails centric vimfiles with support for Git, RVM and more. | krisleech | 186 |
-| 47 |  [plaintasks.vim](https://github.com/elentok/plaintasks.vim) | An implementation of Sublime&#39;s PlainTasks plugin for Vim | elentok | 45 |
+| 47 |  [plaintasks.vim](https://github.com/elentok/plaintasks.vim) | An implementation of Sublime&#39;s PlainTasks plugin for Vim | elentok | 46 |
 | 48 |  [vim-ruby-minitest](https://github.com/sunaku/vim-ruby-minitest) | Vim highlighting &amp; completion for MiniTest | sunaku | 100 |
 | 49 |  [unite-highlight](https://github.com/osyo-manga/unite-highlight) |  | osyo-manga | 4 |
 | 50 |  [vim-markdown-preview](https://github.com/swaroopch/vim-markdown-preview) | Select Markdown text, render to HTML and preview in browser | swaroopch | 17 |
@@ -7123,7 +7123,7 @@
 | 99 |  [ctrlp.vim](https://github.com/kien/ctrlp.vim) | Fuzzy file, buffer, mru, tag, etc finder. | kien | 7006 |
 | 100 |  [vimunit](https://github.com/dsummersl/vimunit) | A vimscript unit testing library | dsummersl | 13 |
 | 101 |  [vim-neatstatus](https://github.com/maciakl/vim-neatstatus) | Neat Status Line Plugin for Vim | maciakl | 73 |
-| 102 |  [spf13-vim](https://github.com/spf13/spf13-vim) | The ultimate vim distribution | spf13 | 15125 |
+| 102 |  [spf13-vim](https://github.com/spf13/spf13-vim) | The ultimate vim distribution | spf13 | 15127 |
 | 103 |  [ag.vim](https://github.com/rking/ag.vim) | Vim plugin for the_silver_searcher, &#39;ag&#39;, a replacement for the Perl module / CLI script &#39;ack&#39; | rking | 1724 |
 | 104 |  [svnim](https://github.com/4lb0/svnim) | SVN IMproved plugin for vim | 4lb0 | 1 |
 | 105 |  [vim-ultimate-colorscheme-utility](https://github.com/biskark/vim-ultimate-colorscheme-utility) | Vim plugin that enables colorscheme browsing, choosing favorites, and automatic/manual scheme switching. | biskark | 22 |
@@ -7157,7 +7157,7 @@
 ## Vue
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [victor-mono](https://github.com/rubjo/victor-mono) | A free programming font with cursive italics and ligatures. Donations welcome ❤️ | rubjo | 1616 |
+| 1 |  [victor-mono](https://github.com/rubjo/victor-mono) | A free programming font with cursive italics and ligatures. Donations welcome ❤️ | rubjo | 1618 |
 | 2 |  [VueTorrent](https://github.com/WDaan/VueTorrent) | The sleekest looking WEBUI for qBittorrent made with Vuejs! | WDaan | 479 |
 | 3 |  [qb-web](https://github.com/CzBiX/qb-web) | A qBittorrent Web UI, write in TypeScript+Vue. | CzBiX | 659 |
 | 4 |  [shortkeys](https://github.com/mikecrittenden/shortkeys) | A browser extension for custom keyboard shortcuts | mikecrittenden | 567 |
@@ -7198,8 +7198,8 @@
 | 1 |  [octahack-zig](https://github.com/Vurich/octahack-zig) | VCV/Max-style modular plug-anything-to-anything system, designed to be embedded free-standing in an Octatrack-style physical instrument | Vurich | 2 |
 | 2 |  [zls](https://github.com/zigtools/zls) | Zig LSP implementation + Zig Language Server | zigtools | 530 |
 | 3 |  [sublime-zig-language](https://github.com/ziglang/sublime-zig-language) | Zig language support for Sublime Text | ziglang | 32 |
-| 4 |  [zig](https://github.com/ziglang/zig) | General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. | ziglang | 9834 |
-| 5 |  [river](https://github.com/ifreund/river) | A dynamic tiling Wayland compositor | ifreund | 752 |
+| 4 |  [zig](https://github.com/ziglang/zig) | General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. | ziglang | 9841 |
+| 5 |  [river](https://github.com/ifreund/river) | A dynamic tiling Wayland compositor | ifreund | 753 |
 
 **[⬆ Back to Index](#-contents)**
 
